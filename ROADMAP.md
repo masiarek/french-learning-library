@@ -4,7 +4,7 @@ What exists, and what is deliberately not written yet. A topic listed here has *
 
 ## Written
 
-**[01_Sounds](01_Sounds/README.md)** — what does the French in the dictionary sound like? One lesson, [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md).
+**[01_Sounds](01_Sounds/README.md)** — what does the French in the dictionary sound like? Two lessons, [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md) and [four inventories](01_Sounds/four_inventories/README.md), which adds German and Polish.
 
 ## The rules
 

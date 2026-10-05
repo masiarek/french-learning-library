@@ -23,6 +23,7 @@ The examples are **stdlib-only, on purpose**. If you have `python3`, you can run
 | Lesson | What it teaches |
 |---|---|
 | [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md) | One alphabet, two inventories: 21 shared symbols, 15 French-only (nasal vowels, /y ø œ/, /ʁ/), 25 English-only (/θ ð h/, lax vowels, length, diphthongs), and the marks that identify the language before a vowel is read |
+| [Four inventories](01_Sounds/four_inventories/README.md) | English, French, German and Polish side by side: 14 symbols in all four, all consonants; French has 8 new sounds for a German speaker, 11 for a Polish one, 15 for an English one |
 
 ## Other ways in
 
