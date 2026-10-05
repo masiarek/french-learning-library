@@ -1,0 +1,35 @@
+1. The inventories as sets
+English (RP) phonemes        46: aɪ aʊ b d dʒ e eə eɪ f h i iː j k l m n p r s t tʃ u uː v w z æ ð ŋ ɑː ɒ ɔɪ ɔː ə əʊ ɜː ɡ ɪ ɪə ʃ ʊ ʊə ʌ ʒ θ
+French phonemes              36: a b d e f i j k l m n o p s t u v w y z ø œ œ̃ ɑ ɑ̃ ɔ ɔ̃ ə ɛ ɛ̃ ɡ ɥ ɲ ʁ ʃ ʒ
+in both                      21: b d e f i j k l m n p s t u v w z ə ɡ ʃ ʒ
+English only                 25: aɪ aʊ dʒ eə eɪ h iː r tʃ uː æ ð ŋ ɑː ɒ ɔɪ ɔː əʊ ɜː ɪ ɪə ʊ ʊə ʌ θ
+French only                  15: a o y ø œ œ̃ ɑ ɑ̃ ɔ ɔ̃ ɛ ɛ̃ ɥ ɲ ʁ
+
+2. The marks that give the language away
+   English  stress marks 2  length marks 0  nasal tildes 0
+   French   stress marks 0  length marks 0  nasal tildes 2
+
+3. Each sentence, symbol by symbol
+   English: The quick brown fox jumps over the lazy dog.
+   /ðə kwɪk braʊn fɒks dʒʌmps ˈəʊvə ðə ˈleɪzi dɒɡ/
+   31 symbols, 24 distinct
+     shared with the other   15: b d f i k l m n p s v w z ə ɡ
+     English only             9: aʊ dʒ eɪ r ð ɒ əʊ ɪ ʌ
+     not in the inventory       0: -
+
+   French: Le petit chien brun saute par-dessus la vieille clôture.
+   /lə pəti ʃjɛ̃ bʁœ̃ sot paʁdəsy la vjɛj klotyʁ/
+   34 symbols, 19 distinct
+     shared with the other   12: b d i j k l p s t v ə ʃ
+     French only              7: a o y œ̃ ɛ ɛ̃ ʁ
+     not in the inventory       0: -
+
+4. Checks
+   every English symbol is an English phoneme: True
+   every French symbol is a French phoneme:    True
+   the English line has a stress mark:         True
+   the French line has no stress mark:         True
+   the French line has a nasal vowel:          True
+   the English line has no nasal vowel:        True
+   the English line has a diphthong:           True
+   the French line has none:                   True
