@@ -1,0 +1,43 @@
+1. Sizes
+   English  46 phonemes: 24 consonants, 22 vowels
+   French   36 phonemes: 20 consonants, 16 vowels
+   German   44 phonemes: 24 consonants, 20 vowels
+   Polish   36 phonemes: 28 consonants,  8 vowels
+
+2. Shared symbols, pair by pair
+             English   French   German   Polish
+   English        46       21       26       18
+   French         21       36       22       23
+   German         26       22       44       19
+   Polish         18       23       19       36
+
+3. In all four (14): b d f j k l m n p s t v z ɡ
+
+4. What each language has that none of the other three has
+   English  15: dʒ eə eɪ æ ð ɑː ɒ ɔɪ ɔː əʊ ɜː ɪə ʊə ʌ θ
+   French    7: o y ø œ̃ ɑ ɑ̃ ɥ
+   German   11: aː eː oː pf yː ç øː ɐ ɔʏ ɛː ʏ
+   Polish   10: dz dʐ dʑ tɕ tʂ ɕ ɨ ʂ ʐ ʑ
+
+5. What French asks of each speaker (French minus their inventory)
+   from English  15 new: a o y ø œ œ̃ ɑ ɑ̃ ɔ ɔ̃ ɛ ɛ̃ ɥ ɲ ʁ
+   from German   14 new: e i o u w y ø œ̃ ɑ ɑ̃ ɔ̃ ɛ̃ ɥ ɲ
+   from Polish   13 new: e o y ø œ œ̃ ɑ ɑ̃ ə ɥ ʁ ʃ ʒ
+   from German, length marks ignored:  8 new: w œ̃ ɑ ɑ̃ ɔ̃ ɛ̃ ɥ ɲ
+   from Polish, with ʂ ʐ standing in for ʃ ʒ: 11 new: e o y ø œ œ̃ ɑ ɑ̃ ə ɥ ʁ
+
+6. The marks in a dictionary transcription
+              stress   length    tilde
+   English       yes      yes       no
+   French         no       no      yes
+   German        yes      yes       no
+   Polish         no       no      yes
+
+7. Checks
+   tilde appears in the inventory exactly where the table says:   True
+   length mark appears exactly where the table says:             True
+   Polish and French share both nasal vowels ɛ̃ ɔ̃:                True
+   German and French share the front rounded vowels ø œ y:        True
+   German and French share the uvular r ʁ:                        True
+   Polish and French share ɲ and w:                               True
+   English alone has θ ð:                                         True

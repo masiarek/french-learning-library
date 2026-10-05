@@ -82,6 +82,7 @@ NAV_ORDER: dict[str, list[str]] = {
     "01_Sounds": [
         "README.md",
         "ipa_english_vs_french",
+        "four_inventories",
     ],
 }
 
