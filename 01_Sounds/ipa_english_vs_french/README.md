@@ -106,6 +106,29 @@ Three things to read off the output:
 2. **French has 15 symbols of its own and English 25**, so French has the smaller inventory, yet the French sentence uses a French-only symbol in nearly every word. The two sets are different in kind, not just in size.
 3. **The marks alone identify the language.** Two stress marks and no tilde: English. Two tildes and no stress mark: French. A reader can tell which dictionary a line came from without reading a single vowel.
 
+## A dialogue from Assimil, read in IPA
+
+The owner's course book, Assimil's *French with Ease*, marks liaison with ‿ in its early dialogues. Here is one, *Au magasin*, transcribed line by line. The transcription follows Le Robert's key from memory and is not checked against a dictionary.
+
+| French | IPA |
+|---|---|
+| S'il vous plaît, madame, est-ce qu'il est cher, ce chapeau ? | /sil vu plɛ madam, ɛs kil ɛ ʃɛʁ, sə ʃapo/ |
+| Non, il n'est pas cher. Le prix est très raisonnable. | /nɔ̃, il nɛ pa ʃɛʁ. lə pʁi ɛ tʁɛ ʁɛzɔnabl/ |
+| Bon. Et... Où sont les gants ? | /bɔ̃. e... u sɔ̃ le ɡɑ̃/ |
+| Les gants sont là-bas. Vous voyez ? | /le ɡɑ̃ sɔ̃ laba. vu vwaje/ |
+| Ah, merci... Mais, est-ce qu'ils sont‿en laine ? | /a, mɛʁsi... mɛ, ɛs kil sɔ̃t‿ɑ̃ lɛn/ |
+| Non, ils ne sont pas‿en laine, ils sont‿en acrylique. | /nɔ̃, il nə sɔ̃ paz‿ɑ̃ lɛn, il sɔ̃t‿ɑ̃n‿akʁilik/ |
+| Bon. Euh... est-ce qu'il est cinq heures ? | /bɔ̃. ø... ɛs kil ɛ sɛ̃k‿œʁ/ |
+| Comment ? Ah, je comprends, vous‿attendez votre mari ! | /kɔmɑ̃? a, ʒə kɔ̃pʁɑ̃, vuz‿atɑ̃de vɔtʁ maʁi/ |
+
+What the dialogue adds to the two sentences above:
+
+- **Liaison.** The ‿ marks a consonant that exists only before a vowel: *sont‿en* gives /t/, *pas‿en* and *vous‿attendez* give /z/ (a written *s* becomes /z/ in liaison), *cinq‿heures* gives /k/. The book leaves *en acrylique* unmarked, but *en* before a vowel always liaises, /ɑ̃n‿akʁilik/. Liaison has its own rules, compulsory, optional and forbidden, and is a lesson of its own on the [roadmap](../../ROADMAP.md).
+- **All four nasal vowels in a dozen lines:** /ɛ̃/ *magasin, cinq*; /ɔ̃/ *non, bon, sont, comprends*; /ɑ̃/ *gants, en, comment, attendez*; and /œ̃/ nowhere, which is typical of how rare it is.
+- **Silent final letters:** *plaît, prix, est, gants, pas, bas, comprends, mari*, and the *-ez* of *attendez*, which is /e/. The *t* of *sont* and the *s* of *vous* come back only in liaison.
+- **The e muet** in *ce, le, je, ne* is written /ə/ and often dropped in speech: *je comprends* is heard as /ʃkɔ̃pʁɑ̃/, the /ʒ/ devoicing against the /k/.
+- **/ø/ in *euh*** is the hesitation vowel, the same as in *peu*. Its English counterpart *er* is /ɜː/, a sound French does not have.
+
 ## How to practise
 
 1. **Read the IPA before the spelling** when you meet a new French word. French spelling hides the sound (*eau, au, o, ô* are all /o/); the transcription shows it.
