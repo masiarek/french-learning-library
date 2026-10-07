@@ -8,7 +8,7 @@ The owner's French teacher, Yosser, gives a worksheet per lesson: a reading text
 |---|---|---|
 | 1 | [Lesson 1: La maison — français, anglais, IPA](lesson_01_la_maison/README.md) | The rooms and furniture of a house, a reading text about Adam's house, comprehension questions, *vrai ou faux*, fill-ins, *il y a*, the prepositions of place, and the Corrigé |
 
-How the tables are read is set out in the first lesson and holds for every lesson after it: Le Robert's key from memory, ‿ for a compulsory liaison, (t)‿ for the optional one after *est*, and the Corrigé's answer in square brackets where the worksheet leaves a blank.
+How to read a lesson's table: French as printed, bold rows for the sections, `________` for a blank; English as a translation; IPA after Le Robert's key, from memory, with ‿ for a compulsory liaison, (t)‿ for the optional one after *est*, and the Corrigé's answer in square brackets where the worksheet leaves a blank. A program under each table reads it back from the page and checks it.
 
 ## Po polsku, w skrócie
 

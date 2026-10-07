@@ -10,6 +10,8 @@ The owner's Polish textbook of French, by Szypowska, teaches in numbered lessons
 | 4 | [Lesson 4: Chez les Lefèvre](lecon_04_chez_les_lefevre/README.md) | A visit to the Lefèvres' flat, rue du Bac; the word list; the letter *c*; elision; *du, de la, de l', des*; the exercises with a translation into French |
 | 5 | [Lesson 5: Dialogue](lecon_05_dialogue/README.md) | *J'ai un stylo*: having and not having, with *ne … pas de*; the first page of the lesson only, so far |
 
+How to read a lesson's table: French as printed, bold rows for the sections, `________` for a blank; English with the Polish below it, the book's Polish in the word lists and the grammar examples and mine elsewhere; IPA after Le Robert's key, from memory, with ‿ for a compulsory liaison. The answers to the exercises are mine, not the book's: an answer follows the sentence after →, or sits in square brackets inside the IPA where the sentence has a blank. A program under each table reads it back from the page and holds the book's own brackets to it with the key below.
+
 ## The book's notation, and Le Robert's
 
 The book writes its transcriptions in square brackets with a notation made for Polish readers, not in the IPA. It is a one-to-one relettering of the IPA except in two points: the book marks vowel length with a colon, which Le Robert does not mark, and it writes the final *o* of *photo* as the open [ɔ], where Le Robert has /o/. The key, which every lesson's program applies to the book's brackets and checks against the page's IPA:
