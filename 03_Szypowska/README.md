@@ -22,7 +22,7 @@ Two sets, each one file with a subdeck per lesson:
 | Szypowska (FR-PL) | [`anki/szypowska_fr_pl.txt`](anki/szypowska_fr_pl.txt) | the French, with the IPA under it | the book's Polish and the English; also the exercises, with their answers |
 | Szypowska (PL-FR) | [`anki/szypowska_pl_fr.txt`](anki/szypowska_pl_fr.txt) | the book's Polish | the French and the IPA, then the English; also the challenges written by hand, under their own subdeck |
 
-Each lesson folder holds its own decks under `anki/`: the two generated from the lesson's table by `tools/anki_from_tables.py`, and the challenges. Cards carry the tags `fr-pl`, `pl-fr`, `exercise` and `challenge`.
+Each lesson folder holds its own decks under `anki/`: the two generated from the lesson's table by `tools/anki_from_tables.py`, the challenges, and two import files, `<lesson>_import_szypowska_fr_pl.txt` and `<lesson>_import_szypowska_pl_fr.txt`, which hold that lesson alone (the challenges under the second) for importing a new lesson without touching the rest. Cards carry the tags `fr-pl`, `pl-fr`, `exercise` and `challenge`.
 
 ## The book's notation, and Le Robert's
 
