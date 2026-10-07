@@ -25,6 +25,20 @@ The examples are **stdlib-only, on purpose**. If you have `python3`, you can run
 | [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md) | One alphabet, two inventories: 21 shared symbols, 15 French-only (nasal vowels, /y ø œ/, /ʁ/), 25 English-only (/θ ð h/, lax vowels, length, diphthongs), and the marks that identify the language before a vowel is read |
 | [Four inventories](01_Sounds/four_inventories/README.md) | English, French, German and Polish side by side: 14 symbols in all four, all consonants; French has 8 new sounds for a German speaker, 11 for a Polish one, 15 for an English one |
 
+[**02_Yosser_teacher/**](02_Yosser_teacher/README.md) — *The teacher's worksheets, one lesson at a time*
+
+| Lesson | What it teaches |
+|---|---|
+| [Lesson 1: La maison](02_Yosser_teacher/lesson_01_la_maison/README.md) | The whole worksheet as one table of French, English and IPA, 161 rows; a program reads it back: every symbol a French phoneme, all four nasal vowels, liaisons that add z, n, t and ʁ, and *il y a* in a third of the lines |
+
+[**03_Szypowska/**](03_Szypowska/README.md) — *A Polish textbook of French, one page per lesson*
+
+| Lesson | What it teaches |
+|---|---|
+| [Lesson 3: Regardons des photos](03_Szypowska/lecon_03_regardons_des_photos/README.md) | The reading, the word list, the grammar (imperative, definite article, *de*, *à*) and the exercises as one table; the book's own phonetic brackets relettered by a key and held to Le Robert's IPA, with two words where they part |
+| [Lesson 4: Chez les Lefèvre](03_Szypowska/lecon_04_chez_les_lefevre/README.md) | A flat on the rue du Bac, the letter *c*, elision, *du, de la, de l', des*; 46 brackets of the book, all relettered exactly |
+| [Lesson 5: Dialogue](03_Szypowska/lecon_05_dialogue/README.md) | Having and not having: *est-ce que*, inversion, *ne … pas de*; the first page of the lesson |
+
 ## Other ways in
 
 - [Topic map](TOPICS.md): every page by subject.

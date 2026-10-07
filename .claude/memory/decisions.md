@@ -2,6 +2,9 @@
 
 Dated log of decisions and preferences, with the reason. Newest first.
 
+- 2026-10-07 — **The teacher's worksheets and Szypowska's textbook are chapters of their own**, `02_Yosser_teacher` and `03_Szypowska`, each lesson a page with one table and a program that reads the table back from the page. The owner decided this after being told the teacher's material would be public on the site. Chapter labels that a folder name cannot carry ("Yosser (teacher)") come from `CHAPTER_LABELS` in `mkdocs_hooks.py`.
+- 2026-10-07 — **The book's notation is converted, not transcribed twice.** Each Szypowska program types in the book's brackets and holds the key-converted result to the page's Le Robert IPA, so the page is checked against the book. Where the two part (*photo* with a final [ɔ], *Eiffel* with [e]) the page keeps Le Robert's and says so.
+- 2026-10-07 — **A transcription table is a lesson here** when its program can check it: the inventory check, the liaison count and the key-conversion are the argument. The earlier inbox rule, transcribe Assimil dialogues in chat, still holds for Assimil, whose course is on the roadmap as sentences for the Sounds chapter.
 - 2026-10-05 — **German follows Duden, Polish follows Jassem's IPA illustration**, with Polish *sz, ż* as /ʂ ʐ/ and the nasal vowels of *ą, ę* counted as phonemes. The page says so and corrects the set difference for both choices, because a raw difference would call German /yː/ and Polish /ʂ/ new sounds for French.
 
 - 2026-10-05 — **The library exists.** The owner asked for a French learning library during a conversation about IPA in the math library's session, and for that explanation to be its first page. It copies the sibling libraries' tooling (`tools/run_examples.py`, the MkDocs hook, the two workflows) so that a session used to one works in all.

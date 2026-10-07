@@ -53,6 +53,14 @@ LINK = re.compile(r"\]\(([^)#\s]+\.md)(?:#[^)]*)?\)")
 
 log = logging.getLogger("mkdocs.hooks.topic_map")
 
+# Chapters whose sidebar label is not the title-cased folder name: a source
+# chapter is named after the person or book it comes from, with a word of
+# explanation in brackets, which a folder name cannot carry.
+CHAPTER_LABELS = {
+    "02_Yosser_teacher": "Yosser (teacher)",
+    "03_Szypowska": "Szypowska (Polish material)",
+}
+
 # Words the naive title-caser gets wrong.
 FIXUPS = {
     "Vs": "vs",
@@ -84,11 +92,26 @@ NAV_ORDER: dict[str, list[str]] = {
         "ipa_english_vs_french",
         "four_inventories",
     ],
+    # The owner's teacher's worksheets, one lesson each, in the order given.
+    "02_Yosser_teacher": [
+        "README.md",
+        "lesson_01_la_maison",
+    ],
+    # Szypowska's Polish textbook of French, one page per lesson of the book,
+    # in the book's order.
+    "03_Szypowska": [
+        "README.md",
+        "lecon_03_regardons_des_photos",
+        "lecon_04_chez_les_lefevre",
+        "lecon_05_dialogue",
+    ],
 }
 
 
 def _label(name: str) -> str:
     """Folder name on disk -> sidebar label."""
+    if name in CHAPTER_LABELS:
+        return CHAPTER_LABELS[name]
     words = PREFIX.sub("", name).replace("_", " ").replace("-", " ").split()
     out = [FIXUPS.get(w.capitalize(), w.capitalize()) for w in words]
     if out:

@@ -9,3 +9,5 @@ The dictionaries and books behind the library, where each one is, and where it i
 | Duden, *Das Aussprachewörterbuch* | from memory | `four_inventories`: the German inventory |
 | Jassem, "Polish", *JIPA* 33 (2003) | from memory | `four_inventories`: the Polish inventory |
 | Assimil, *French with Ease* | owner's copy; audio on the external drive | sentences to come |
+| Yosser's worksheets | PDFs in the owner's drive folder `French/Yosser`, also sent as photos; a Markdown copy of the first is kept beside the PDF | `02_Yosser_teacher`: lesson 1, *La maison*, transcribed on 2026-10-07 from the PDF |
+| Szypowska, Polish textbook of French | the owner's copy, sent as photos; pages 13 to 21 in hand on 2026-10-07; the title is not on them, and the lessons are numbered | `03_Szypowska`: lessons 3, 4 and the first page of 5; the book's brackets are typed into each lesson's program |
