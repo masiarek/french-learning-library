@@ -260,3 +260,129 @@ He likes his house because he can play, study and watch television with his fami
 1 b) On the first floor. · 2 b) Three. · 3 c) A sofa. · 4 a) Books and notebooks. · 5 b) With his family.	1 b) Au premier étage. · 2 b) Trois. · 3 c) Un canapé. · 4 a) Des livres et des cahiers. · 5 b) Avec sa famille.<br>/o pʁəmjɛʁ‿etaʒ · tʁwa · œ̃ kanape · de livʁ e de kaje · avɛk sa famij/	en-fr
 1 à 6 : Il y a	1 to 6: there is<br>/il j a/	fr-en
 1 to 6: there is	1 à 6 : Il y a<br>/il j a/	en-fr
+le salon : un salon de thé · un salon de coiffure · le Salon du livre	a tea room · a hairdresser's · the book fair<br>/œ̃ salɔ̃ də te · œ̃ salɔ̃ də kwafyʁ · lə salɔ̃ dy livʁ/	fr-en
+a tea room · a hairdresser's · the book fair	le salon : un salon de thé · un salon de coiffure · le Salon du livre<br>/œ̃ salɔ̃ də te · œ̃ salɔ̃ də kwafyʁ · lə salɔ̃ dy livʁ/	en-fr
+la cuisine : faire la cuisine · la cuisine française · un livre de cuisine	to cook · French cooking · a cookbook<br>/fɛʁ la kɥizin · la kɥizin fʁɑ̃sɛz · œ̃ livʁ də kɥizin/	fr-en
+to cook · French cooking · a cookbook	la cuisine : faire la cuisine · la cuisine française · un livre de cuisine<br>/fɛʁ la kɥizin · la kɥizin fʁɑ̃sɛz · œ̃ livʁ də kɥizin/	en-fr
+la chambre : une chambre à coucher · une chambre d’hôtel · une chambre d’amis	a bedroom · a hotel room · a guest room<br>/yn ʃɑ̃bʁ a kuʃe · yn ʃɑ̃bʁ dotɛl · yn ʃɑ̃bʁ dami/	fr-en
+a bedroom · a hotel room · a guest room	la chambre : une chambre à coucher · une chambre d’hôtel · une chambre d’amis<br>/yn ʃɑ̃bʁ a kuʃe · yn ʃɑ̃bʁ dotɛl · yn ʃɑ̃bʁ dami/	en-fr
+la salle de bains : prendre un bain · une salle d’attente · une salle de classe	to take a bath · a waiting room · a classroom<br>/pʁɑ̃dʁ œ̃ bɛ̃ · yn sal datɑ̃t · yn sal də klas/	fr-en
+to take a bath · a waiting room · a classroom	la salle de bains : prendre un bain · une salle d’attente · une salle de classe<br>/pʁɑ̃dʁ œ̃ bɛ̃ · yn sal datɑ̃t · yn sal də klas/	en-fr
+les toilettes : aller aux toilettes · Où sont les toilettes ? · du papier toilette	to go to the toilet · where is the toilet? · toilet paper<br>/ale o twalɛt · u sɔ̃ le twalɛt · dy papje twalɛt/	fr-en
+to go to the toilet · where is the toilet? · toilet paper	les toilettes : aller aux toilettes · Où sont les toilettes ? · du papier toilette<br>/ale o twalɛt · u sɔ̃ le twalɛt · dy papje twalɛt/	en-fr
+la salle à manger : à table ! · manger au restaurant · quelque chose à manger	dinner is served! · to eat out · something to eat<br>/a tabl · mɑ̃ʒe o ʁɛstoʁɑ̃ · kɛlkə ʃoz a mɑ̃ʒe/	fr-en
+dinner is served! · to eat out · something to eat	la salle à manger : à table ! · manger au restaurant · quelque chose à manger<br>/a tabl · mɑ̃ʒe o ʁɛstoʁɑ̃ · kɛlkə ʃoz a mɑ̃ʒe/	en-fr
+le jardin : un jardin public · le jardin du Luxembourg · faire du jardinage	a public garden, a park · the Luxembourg Garden · to do some gardening<br>/œ̃ ʒaʁdɛ̃ pyblik · lə ʒaʁdɛ̃ dy lyksɑ̃buʁ · fɛʁ dy ʒaʁdinaʒ/	fr-en
+a public garden, a park · the Luxembourg Garden · to do some gardening	le jardin : un jardin public · le jardin du Luxembourg · faire du jardinage<br>/œ̃ ʒaʁdɛ̃ pyblik · lə ʒaʁdɛ̃ dy lyksɑ̃buʁ · fɛʁ dy ʒaʁdinaʒ/	en-fr
+le garage : la voiture est au garage · un garagiste · garer la voiture	the car is at the garage · a mechanic · to park the car<br>/la vwatyʁ ɛ(t)‿o ɡaʁaʒ · œ̃ ɡaʁaʒist · ɡaʁe la vwatyʁ/	fr-en
+the car is at the garage · a mechanic · to park the car	le garage : la voiture est au garage · un garagiste · garer la voiture<br>/la vwatyʁ ɛ(t)‿o ɡaʁaʒ · œ̃ ɡaʁaʒist · ɡaʁe la vwatyʁ/	en-fr
+un canapé : un canapé-lit · s’asseoir sur le canapé · un canapé en cuir	a sofa bed · to sit on the sofa · a leather sofa<br>/œ̃ kanape li · saswaʁ syʁ lə kanape · œ̃ kanape ɑ̃ kɥiʁ/	fr-en
+a sofa bed · to sit on the sofa · a leather sofa	un canapé : un canapé-lit · s’asseoir sur le canapé · un canapé en cuir<br>/œ̃ kanape li · saswaʁ syʁ lə kanape · œ̃ kanape ɑ̃ kɥiʁ/	en-fr
+une table : mettre la table · à table ! · une table ronde	to set the table · dinner is served! · a round table<br>/mɛtʁ la tabl · a tabl · yn tabl ʁɔ̃d/	fr-en
+to set the table · dinner is served! · a round table	une table : mettre la table · à table ! · une table ronde<br>/mɛtʁ la tabl · a tabl · yn tabl ʁɔ̃d/	en-fr
+une chaise : une chaise longue · prendre une chaise · une chaise roulante	a deckchair · to take a chair · a wheelchair<br>/yn ʃɛz lɔ̃ɡ · pʁɑ̃dʁ yn ʃɛz · yn ʃɛz ʁulɑ̃t/	fr-en
+a deckchair · to take a chair · a wheelchair	une chaise : une chaise longue · prendre une chaise · une chaise roulante<br>/yn ʃɛz lɔ̃ɡ · pʁɑ̃dʁ yn ʃɛz · yn ʃɛz ʁulɑ̃t/	en-fr
+un lit : aller au lit · faire le lit · un grand lit	to go to bed · to make the bed · a double bed<br>/ale o li · fɛʁ lə li · œ̃ ɡʁɑ̃ li/	fr-en
+to go to bed · to make the bed · a double bed	un lit : aller au lit · faire le lit · un grand lit<br>/ale o li · fɛʁ lə li · œ̃ ɡʁɑ̃ li/	en-fr
+un bureau : un bureau de poste · au bureau · un bureau de tabac	a post office · at the office · a tobacconist's<br>/œ̃ byʁo də pɔst · o byʁo · œ̃ byʁo də taba/	fr-en
+a post office · at the office · a tobacconist's	un bureau : un bureau de poste · au bureau · un bureau de tabac<br>/œ̃ byʁo də pɔst · o byʁo · œ̃ byʁo də taba/	en-fr
+une armoire : une armoire à pharmacie · ranger dans l’armoire · une armoire à glace	a medicine cabinet · to put away in the wardrobe · a mirrored wardrobe, also a hulk of a man<br>/yn aʁmwaʁ a faʁmasi · ʁɑ̃ʒe dɑ̃ laʁmwaʁ · yn aʁmwaʁ a ɡlas/	fr-en
+a medicine cabinet · to put away in the wardrobe · a mirrored wardrobe, also a hulk of a man	une armoire : une armoire à pharmacie · ranger dans l’armoire · une armoire à glace<br>/yn aʁmwaʁ a faʁmasi · ʁɑ̃ʒe dɑ̃ laʁmwaʁ · yn aʁmwaʁ a ɡlas/	en-fr
+une télévision : regarder la télé · à la télévision · une chaîne de télévision	to watch TV · on television · a TV channel<br>/ʁəɡaʁde la tele · a la televizjɔ̃ · yn ʃɛn də televizjɔ̃/	fr-en
+to watch TV · on television · a TV channel	une télévision : regarder la télé · à la télévision · une chaîne de télévision<br>/ʁəɡaʁde la tele · a la televizjɔ̃ · yn ʃɛn də televizjɔ̃/	en-fr
+une lampe : allumer la lampe · éteindre la lampe · une lampe de poche	to switch the lamp on · to switch it off · a torch<br>/alyme la lɑ̃p · etɛ̃dʁ la lɑ̃p · yn lɑ̃p də pɔʃ/	fr-en
+to switch the lamp on · to switch it off · a torch	une lampe : allumer la lampe · éteindre la lampe · une lampe de poche<br>/alyme la lɑ̃p · etɛ̃dʁ la lɑ̃p · yn lɑ̃p də pɔʃ/	en-fr
+un tapis : un tapis de bain · un tapis roulant · le tapis rouge	a bath mat · a conveyor belt, a treadmill · the red carpet<br>/œ̃ tapi də bɛ̃ · œ̃ tapi ʁulɑ̃ · lə tapi ʁuʒ/	fr-en
+a bath mat · a conveyor belt, a treadmill · the red carpet	un tapis : un tapis de bain · un tapis roulant · le tapis rouge<br>/œ̃ tapi də bɛ̃ · œ̃ tapi ʁulɑ̃ · lə tapi ʁuʒ/	en-fr
+une fenêtre : ouvrir la fenêtre · fermer la fenêtre · regarder par la fenêtre	to open the window · to close the window · to look out of the window<br>/uvʁiʁ la fənɛtʁ · fɛʁme la fənɛtʁ · ʁəɡaʁde paʁ la fənɛtʁ/	fr-en
+to open the window · to close the window · to look out of the window	une fenêtre : ouvrir la fenêtre · fermer la fenêtre · regarder par la fenêtre<br>/uvʁiʁ la fənɛtʁ · fɛʁme la fənɛtʁ · ʁəɡaʁde paʁ la fənɛtʁ/	en-fr
+une porte : la porte d’entrée · frapper à la porte · fermer la porte à clé	the front door · to knock at the door · to lock the door<br>/la pɔʁt dɑ̃tʁe · fʁape a la pɔʁt · fɛʁme la pɔʁt a kle/	fr-en
+the front door · to knock at the door · to lock the door	une porte : la porte d’entrée · frapper à la porte · fermer la porte à clé<br>/la pɔʁt dɑ̃tʁe · fʁape a la pɔʁt · fɛʁme la pɔʁt a kle/	en-fr
+dans : dans la rue · dans une heure · dans ma poche	in the street · in an hour · in my pocket<br>/dɑ̃ la ʁy · dɑ̃z‿yn‿œʁ · dɑ̃ ma pɔʃ/	fr-en
+in the street · in an hour · in my pocket	dans : dans la rue · dans une heure · dans ma poche<br>/dɑ̃ la ʁy · dɑ̃z‿yn‿œʁ · dɑ̃ ma pɔʃ/	en-fr
+sur : sur la table · sur Internet · un livre sur Paris	on the table · on the internet · a book about Paris<br>/syʁ la tabl · syʁ ɛ̃tɛʁnɛt · œ̃ livʁ syʁ paʁi/	fr-en
+on the table · on the internet · a book about Paris	sur : sur la table · sur Internet · un livre sur Paris<br>/syʁ la tabl · syʁ ɛ̃tɛʁnɛt · œ̃ livʁ syʁ paʁi/	en-fr
+sous : sous la table · sous la pluie · sous la main	under the table · in the rain · to hand<br>/su la tabl · su la plɥi · su la mɛ̃/	fr-en
+under the table · in the rain · to hand	sous : sous la table · sous la pluie · sous la main<br>/su la tabl · su la plɥi · su la mɛ̃/	en-fr
+devant : devant la maison · passer devant · devant tout le monde	in front of the house · to go past · in front of everyone<br>/dəvɑ̃ la mɛzɔ̃ · pase dəvɑ̃ · dəvɑ̃ tu lə mɔ̃d/	fr-en
+in front of the house · to go past · in front of everyone	devant : devant la maison · passer devant · devant tout le monde<br>/dəvɑ̃ la mɛzɔ̃ · pase dəvɑ̃ · dəvɑ̃ tu lə mɔ̃d/	en-fr
+derrière : derrière la porte · regarder derrière soi · la porte de derrière	behind the door · to look behind one · the back door<br>/dɛʁjɛʁ la pɔʁt · ʁəɡaʁde dɛʁjɛʁ swa · la pɔʁt də dɛʁjɛʁ/	fr-en
+behind the door · to look behind one · the back door	derrière : derrière la porte · regarder derrière soi · la porte de derrière<br>/dɛʁjɛʁ la pɔʁt · ʁəɡaʁde dɛʁjɛʁ swa · la pɔʁt də dɛʁjɛʁ/	en-fr
+à côté de : à côté de moi · juste à côté · la maison d’à côté	next to me · right next door · the house next door<br>/a kote də mwa · ʒyst a kote · la mɛzɔ̃ da kote/	fr-en
+next to me · right next door · the house next door	à côté de : à côté de moi · juste à côté · la maison d’à côté<br>/a kote də mwa · ʒyst a kote · la mɛzɔ̃ da kote/	en-fr
+habiter : habiter à Paris · habiter en France · habiter au premier étage	to live in Paris · to live in France · to live on the first floor<br>/abite a paʁi · abite ɑ̃ fʁɑ̃s · abite o pʁəmjɛʁ‿etaʒ/	fr-en
+to live in Paris · to live in France · to live on the first floor	habiter : habiter à Paris · habiter en France · habiter au premier étage<br>/abite a paʁi · abite ɑ̃ fʁɑ̃s · abite o pʁəmjɛʁ‿etaʒ/	en-fr
+jouer : jouer au football · jouer du piano · jouer dans le jardin	to play football · to play the piano · to play in the garden<br>/ʒwe o futbol · ʒwe dy pjano · ʒwe dɑ̃ lə ʒaʁdɛ̃/	fr-en
+to play football · to play the piano · to play in the garden	jouer : jouer au football · jouer du piano · jouer dans le jardin<br>/ʒwe o futbol · ʒwe dy pjano · ʒwe dɑ̃ lə ʒaʁdɛ̃/	en-fr
+étudier : étudier le français · étudier à l’université · étudier le soir	to study French · to study at university · to study in the evening<br>/etydje lə fʁɑ̃sɛ · etydje a lynivɛʁsite · etydje lə swaʁ/	fr-en
+to study French · to study at university · to study in the evening	étudier : étudier le français · étudier à l’université · étudier le soir<br>/etydje lə fʁɑ̃sɛ · etydje a lynivɛʁsite · etydje lə swaʁ/	en-fr
+regarder : regarder la télévision · regarder par la fenêtre · regarder l’heure	to watch TV · to look out of the window · to check the time<br>/ʁəɡaʁde la televizjɔ̃ · ʁəɡaʁde paʁ la fənɛtʁ · ʁəɡaʁde lœʁ/	fr-en
+to watch TV · to look out of the window · to check the time	regarder : regarder la télévision · regarder par la fenêtre · regarder l’heure<br>/ʁəɡaʁde la televizjɔ̃ · ʁəɡaʁde paʁ la fənɛtʁ · ʁəɡaʁde lœʁ/	en-fr
+Dans la cuisine, il y a une table et quatre chaises.	In the kitchen there is a table and four chairs.<br>W kuchni jest stół i cztery krzesła.<br>/dɑ̃ la kɥizin, il j a yn tabl e katʁ ʃɛz/	fr-en
+In the kitchen there is a table and four chairs.<br>W kuchni jest stół i cztery krzesła.	Dans la cuisine, il y a une table et quatre chaises.<br>/dɑ̃ la kɥizin, il j a yn tabl e katʁ ʃɛz/	en-fr
+Il n’y a pas de garage, mais il y a un jardin.	There is no garage, but there is a garden.<br>Nie ma garażu, ale jest ogród.<br>/il nja pa də ɡaʁaʒ, mɛ il j a œ̃ ʒaʁdɛ̃/	fr-en
+There is no garage, but there is a garden.<br>Nie ma garażu, ale jest ogród.	Il n’y a pas de garage, mais il y a un jardin.<br>/il nja pa də ɡaʁaʒ, mɛ il j a œ̃ ʒaʁdɛ̃/	en-fr
+Y a-t-il une lampe sur le bureau ?	Is there a lamp on the desk?<br>Czy na biurku jest lampa?<br>/jatil yn lɑ̃p syʁ lə byʁo/	fr-en
+Is there a lamp on the desk?<br>Czy na biurku jest lampa?	Y a-t-il une lampe sur le bureau ?<br>/jatil yn lɑ̃p syʁ lə byʁo/	en-fr
+Oui, il y en a une.	Yes, there is one.<br>Tak, jest jedna.<br>/wi, il j ɑ̃n‿a yn/	fr-en
+Yes, there is one.<br>Tak, jest jedna.	Oui, il y en a une.<br>/wi, il j ɑ̃n‿a yn/	en-fr
+Ma chambre est au deuxième étage, à côté de la salle de bains.	My bedroom is on the second floor, next to the bathroom.<br>Mój pokój jest na drugim piętrze, obok łazienki.<br>/ma ʃɑ̃bʁ ɛ o døzjɛm etaʒ, a kote də la sal də bɛ̃/	fr-en
+My bedroom is on the second floor, next to the bathroom.<br>Mój pokój jest na drugim piętrze, obok łazienki.	Ma chambre est au deuxième étage, à côté de la salle de bains.<br>/ma ʃɑ̃bʁ ɛ o døzjɛm etaʒ, a kote də la sal də bɛ̃/	en-fr
+Le chat dort sous le lit.	The cat is sleeping under the bed.<br>Kot śpi pod łóżkiem.<br>/lə ʃa dɔʁ su lə li/	fr-en
+The cat is sleeping under the bed.<br>Kot śpi pod łóżkiem.	Le chat dort sous le lit.<br>/lə ʃa dɔʁ su lə li/	en-fr
+Les toilettes sont au rez-de-chaussée, derrière la cuisine.	The toilet is on the ground floor, behind the kitchen.<br>Toaleta jest na parterze, za kuchnią.<br>/le twalɛt sɔ̃ o ʁedʃose, dɛʁjɛʁ la kɥizin/	fr-en
+The toilet is on the ground floor, behind the kitchen.<br>Toaleta jest na parterze, za kuchnią.	Les toilettes sont au rez-de-chaussée, derrière la cuisine.<br>/le twalɛt sɔ̃ o ʁedʃose, dɛʁjɛʁ la kɥizin/	en-fr
+Il y a une fenêtre dans chaque chambre.	There is a window in every bedroom.<br>W każdym pokoju jest okno.<br>/il j a yn fənɛtʁ dɑ̃ ʃak ʃɑ̃bʁ/	fr-en
+There is a window in every bedroom.<br>W każdym pokoju jest okno.	Il y a une fenêtre dans chaque chambre.<br>/il j a yn fənɛtʁ dɑ̃ ʃak ʃɑ̃bʁ/	en-fr
+La porte du garage est ouverte.	The garage door is open.<br>Drzwi garażu są otwarte.<br>/la pɔʁt dy ɡaʁaʒ ɛ(t)‿uvɛʁt/	fr-en
+The garage door is open.<br>Drzwi garażu są otwarte.	La porte du garage est ouverte.<br>/la pɔʁt dy ɡaʁaʒ ɛ(t)‿uvɛʁt/	en-fr
+Nous regardons la télévision dans le salon, sur le canapé.	We watch television in the living room, on the sofa.<br>Oglądamy telewizję w salonie, na kanapie.<br>/nu ʁəɡaʁdɔ̃ la televizjɔ̃ dɑ̃ lə salɔ̃, syʁ lə kanape/	fr-en
+We watch television in the living room, on the sofa.<br>Oglądamy telewizję w salonie, na kanapie.	Nous regardons la télévision dans le salon, sur le canapé.<br>/nu ʁəɡaʁdɔ̃ la televizjɔ̃ dɑ̃ lə salɔ̃, syʁ lə kanape/	en-fr
+Mon père travaille dans son bureau.	My father works in his office.<br>Mój ojciec pracuje w swoim gabinecie.<br>/mɔ̃ pɛʁ tʁavaj dɑ̃ sɔ̃ byʁo/	fr-en
+My father works in his office.<br>Mój ojciec pracuje w swoim gabinecie.	Mon père travaille dans son bureau.<br>/mɔ̃ pɛʁ tʁavaj dɑ̃ sɔ̃ byʁo/	en-fr
+Il y a un tapis rouge devant la porte.	There is a red rug in front of the door.<br>Przed drzwiami jest czerwony dywanik.<br>/il j a œ̃ tapi ʁuʒ dəvɑ̃ la pɔʁt/	fr-en
+There is a red rug in front of the door.<br>Przed drzwiami jest czerwony dywanik.	Il y a un tapis rouge devant la porte.<br>/il j a œ̃ tapi ʁuʒ dəvɑ̃ la pɔʁt/	en-fr
+Où est la lampe ? Elle est sur la table, à côté du lit.	Where is the lamp? It is on the table, next to the bed.<br>Gdzie jest lampa? Jest na stole, obok łóżka.<br>/u ɛ la lɑ̃p ? ɛl ɛ syʁ la tabl, a kote dy li/	fr-en
+Where is the lamp? It is on the table, next to the bed.<br>Gdzie jest lampa? Jest na stole, obok łóżka.	Où est la lampe ? Elle est sur la table, à côté du lit.<br>/u ɛ la lɑ̃p ? ɛl ɛ syʁ la tabl, a kote dy li/	en-fr
+la pièce	the room (any room)<br>pomieszczenie, pokój<br>/la pjɛs/	fr-en
+the room (any room)<br>pomieszczenie, pokój	la pièce<br>/la pjɛs/	en-fr
+le rez-de-chaussée	the ground floor<br>parter<br>/lə ʁedʃose/	fr-en
+the ground floor<br>parter	le rez-de-chaussée<br>/lə ʁedʃose/	en-fr
+l’escalier	the staircase<br>schody<br>/lɛskalje/	fr-en
+the staircase<br>schody	l’escalier<br>/lɛskalje/	en-fr
+le mur	the wall<br>ściana<br>/lə myʁ/	fr-en
+the wall<br>ściana	le mur<br>/lə myʁ/	en-fr
+le plafond	the ceiling<br>sufit<br>/lə plafɔ̃/	fr-en
+the ceiling<br>sufit	le plafond<br>/lə plafɔ̃/	en-fr
+le sol	the floor, what you walk on<br>podłoga<br>/lə sɔl/	fr-en
+the floor, what you walk on<br>podłoga	le sol<br>/lə sɔl/	en-fr
+l’étagère	the shelf<br>półka<br>/letaʒɛʁ/	fr-en
+the shelf<br>półka	l’étagère<br>/letaʒɛʁ/	en-fr
+le fauteuil	the armchair<br>fotel<br>/lə fotœj/	fr-en
+the armchair<br>fotel	le fauteuil<br>/lə fotœj/	en-fr
+le réfrigérateur, le frigo	the fridge<br>lodówka<br>/lə ʁefʁiʒeʁatœʁ, lə fʁiɡo/	fr-en
+the fridge<br>lodówka	le réfrigérateur, le frigo<br>/lə ʁefʁiʒeʁatœʁ, lə fʁiɡo/	en-fr
+le chat	the cat<br>kot<br>/lə ʃa/	fr-en
+the cat<br>kot	le chat<br>/lə ʃa/	en-fr
+chaque	each, every<br>każdy<br>/ʃak/	fr-en
+each, every<br>każdy	chaque<br>/ʃak/	en-fr
+ouvert, ouverte	open<br>otwarty, otwarta<br>/uvɛʁ, uvɛʁt/	fr-en
+open<br>otwarty, otwarta	ouvert, ouverte<br>/uvɛʁ, uvɛʁt/	en-fr
+fermé, fermée	closed<br>zamknięty, zamknięta<br>/fɛʁme/	fr-en
+closed<br>zamknięty, zamknięta	fermé, fermée<br>/fɛʁme/	en-fr
+rouge	red<br>czerwony<br>/ʁuʒ/	fr-en
+red<br>czerwony	rouge<br>/ʁuʒ/	en-fr
+Combien de pièces y a-t-il chez toi ?	How many rooms are there at your place?<br>Ile pokoi jest u ciebie?<br>/kɔ̃bjɛ̃ də pjɛs jatil ʃe twa/	fr-en
+How many rooms are there at your place?<br>Ile pokoi jest u ciebie?	Combien de pièces y a-t-il chez toi ?<br>/kɔ̃bjɛ̃ də pjɛs jatil ʃe twa/	en-fr
+Combien de pièces y a-t-il chez toi ? → AI exercise: answer about your own home	Chez moi, il y a quatre pièces.<br>/ʃe mwa, il j a katʁ pjɛs/<br>At my place there are four rooms.<br>U mnie są cztery pokoje.	exercise
+Qu’est-ce qu’il y a sur ta table ?	What is there on your table?<br>Co jest na twoim stole?<br>/kɛs kil j a syʁ ta tabl/	fr-en
+What is there on your table?<br>Co jest na twoim stole?	Qu’est-ce qu’il y a sur ta table ?<br>/kɛs kil j a syʁ ta tabl/	en-fr
+Qu’est-ce qu’il y a sur ta table ? → AI exercise: answer about your own home	Sur ma table, il y a une lampe et des livres.<br>/syʁ ma tabl, il j a yn lɑ̃p e de livʁ/<br>On my table there is a lamp and some books.<br>Na moim stole jest lampa i książki.	exercise
+Où est ton lit ?	Where is your bed?<br>Gdzie jest twoje łóżko?<br>/u ɛ tɔ̃ li/	fr-en
+Where is your bed?<br>Gdzie jest twoje łóżko?	Où est ton lit ?<br>/u ɛ tɔ̃ li/	en-fr
+Où est ton lit ? → AI exercise: answer about your own home	Mon lit est à côté de la fenêtre.<br>/mɔ̃ li ɛ(t)‿a kote də la fənɛtʁ/<br>My bed is next to the window.<br>Moje łóżko jest obok okna.	exercise
+Le tapis est ________ le lit.<br>(AI exercise: dans, sur, sous, devant, derrière or à côté de)	/lə tapi ɛ [dəvɑ̃] lə li/<br>The rug is in front of the bed.<br>Dywan jest przed łóżkiem.	exercise
+Les livres sont ________ l’étagère.<br>(AI exercise: dans, sur, sous, devant, derrière or à côté de)	/le livʁ sɔ̃ [syʁ] letaʒɛʁ/<br>The books are on the shelf.<br>Książki są na półce.	exercise
+Le garage est ________ la maison.<br>(AI exercise: dans, sur, sous, devant, derrière or à côté de)	/lə ɡaʁaʒ ɛ [dɛʁjɛʁ] la mɛzɔ̃/<br>The garage is behind the house.<br>Garaż jest za domem.	exercise
+Le chat est ________ la table.<br>(AI exercise: dans, sur, sous, devant, derrière or à côté de)	/lə ʃa ɛ [su] la tabl/<br>The cat is under the table.<br>Kot jest pod stołem.	exercise
+Le fauteuil est ________ la fenêtre.<br>(AI exercise: dans, sur, sous, devant, derrière or à côté de)	/lə fotœj ɛ [a kote də] la fənɛtʁ/<br>The armchair is next to the window.<br>Fotel jest obok okna.	exercise

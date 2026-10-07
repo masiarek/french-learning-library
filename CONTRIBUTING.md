@@ -34,14 +34,13 @@ Any reader with `python3` must be able to run any page. No `pip install`, ever. 
 
 How a sound is made, what a dictionary gives, whether a form is current: name the source (which dictionary, which book, which page) and say how sure the claim is. A verdict written from memory says so.
 
-## Every page ends the same way
+## The source chapters have no programs
 
-In this order, before **See also**:
+`02_Yosser_teacher` and `03_Szypowska` are the owner's own courses, kept as tables. A lesson there is a page with the lesson's rules in a few bullets, one table, and an AI section at the end (notes on words and expressions, each word of the lesson in set phrases, the lesson's words in new sentences, new words, new exercises with answers, in the same table format), plus two Anki decks; no program, no output block. `tools/check_ipa.py` checks every transcription in those tables against Le Robert's inventory in CI.
 
-- `## Po polsku, w skrócie`: a brief explanation of the idea in Polish, in your own words and not a translation;
-- `## Auf Deutsch: Stichwörter`: one German sentence with the claim and a line of German keywords for the page's terms.
+## No summary sections
 
-A chapter `README.md` gets a paragraph of each.
+The sibling libraries end every page with a Polish summary and German keywords. This library does not: the owner had both removed from every page on 2026-10-07. A lesson page ends with its program's output and **See also**. Polish appears only where it is content, below the English in a lesson table.
 
 ## Links and navigation
 

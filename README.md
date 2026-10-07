@@ -4,7 +4,7 @@
 
 A learning library for French, built the same way as its siblings [math-learning-library ↗](https://github.com/masiarek/math-learning-library), [learning-to-learn-library ↗](https://github.com/masiarek/learning-to-learn-library) and [rust-learning-library ↗](https://github.com/masiarek/rust-learning-library): **one idea per page, and every claim that a program can check, checked by a program that actually runs.**
 
-No page here hand-types what a program prints. Each lesson links a real `.py` file; a tool runs it, checks the output against a recorded answer key, and pastes that verified output into the page. CI fails if any of the three drift apart. So when a page says *"English and French share 21 IPA symbols, and 17 of them are consonants"*, that is not an impression; it is the output of a set difference.
+No page here hand-types what a program prints. A lesson of the Sounds chapter links a real `.py` file; a tool runs it, checks the output against a recorded answer key, and pastes that verified output into the page. CI fails if any of the three drift apart. The two source chapters, the teacher's worksheets and the Polish textbook, are tables for the owner's own learning and carry no program; CI checks every transcription in them against Le Robert's inventory instead. So when a page says *"English and French share 21 IPA symbols, and 17 of them are consonants"*, that is not an impression; it is the output of a set difference.
 
 Much of a language cannot be checked by a program: how a vowel sounds, whether a phrase is idiomatic. Those claims name their source, a dictionary or a grammar, and say how sure they are.
 
@@ -29,15 +29,15 @@ The examples are **stdlib-only, on purpose**. If you have `python3`, you can run
 
 | Lesson | What it teaches |
 |---|---|
-| [Lesson 1: La maison](02_Yosser_teacher/lesson_01_la_maison/README.md) | The whole worksheet as one table of French, English and IPA, 161 rows; a program reads it back: every symbol a French phoneme, all four nasal vowels, liaisons that add z, n, t and ʁ, and *il y a* in a third of the lines |
+| [Lesson 1: La maison](02_Yosser_teacher/lesson_01_la_maison/README.md) | The whole worksheet as one table of French, English and IPA, 161 rows: the rooms and furniture, Adam's house, *il y a*, the prepositions of place, the Corrigé |
 
 [**03_Szypowska/**](03_Szypowska/README.md) — *A Polish textbook of French, one page per lesson*
 
 | Lesson | What it teaches |
 |---|---|
-| [Lesson 3: Regardons des photos](03_Szypowska/lecon_03_regardons_des_photos/README.md) | The reading, the word list, the grammar (imperative, definite article, *de*, *à*) and the exercises as one table; the book's own phonetic brackets relettered by a key and held to Le Robert's IPA, with two words where they part |
-| [Lesson 4: Chez les Lefèvre](03_Szypowska/lecon_04_chez_les_lefevre/README.md) | A flat on the rue du Bac, the letter *c*, elision, *du, de la, de l', des*; 46 brackets of the book, all relettered exactly |
-| [Lesson 5: Dialogue](03_Szypowska/lecon_05_dialogue/README.md) | *Avoir* in the present and in the negative, *ne … pas de*, *est-ce que* against inversion; 68 brackets of the book, 66 relettered exactly |
+| [Lesson 3: Regardons des photos](03_Szypowska/lecon_03_regardons_des_photos/README.md) | The reading, the word list, the grammar (imperative, definite article, *de*, *à*) and the exercises as one table of French, English with Polish, and IPA |
+| [Lesson 4: Chez les Lefèvre](03_Szypowska/lecon_04_chez_les_lefevre/README.md) | A flat on the rue du Bac, the letter *c*, elision, *du, de la, de l', des*, the exercises with a translation into French |
+| [Lesson 5: Dialogue](03_Szypowska/lecon_05_dialogue/README.md) | *Avoir* in the present and in the negative, *ne … pas de*, *est-ce que* against inversion, school things |
 
 ## Other ways in
 

@@ -12,7 +12,7 @@ It is about French: first its sounds as the dictionaries write them, later its g
 
 [**01_Sounds/**](../01_Sounds/README.md) — *What does the French in the dictionary sound like?* The International Phonetic Alphabet, which every French dictionary and course book uses, read through what an English reader already knows of it: 21 shared symbols, the 15 that are French alone, and the three marks that tell a French line from an English one.
 
-Then the two chapters that follow the owner's own courses, lesson by lesson: [**Yosser (teacher)**](../02_Yosser_teacher/README.md), the teacher's worksheets, and [**Szypowska (Polish material)**](../03_Szypowska/README.md), the Polish textbook. Each lesson is one table, French, English with Polish below, IPA, and a program that reads the table back from the page and checks it.
+Then the two chapters that follow the owner's own courses, lesson by lesson: [**Yosser (teacher)**](../02_Yosser_teacher/README.md), the teacher's worksheets, and [**Szypowska (Polish material)**](../03_Szypowska/README.md), the Polish textbook. Each lesson is one table: French, English with Polish below, IPA.
 
 ## Other ways in
 
@@ -20,13 +20,3 @@ Then the two chapters that follow the owner's own courses, lesson by lesson: [**
 - [Glossary](../GLOSSARY.md): the terms, each with the page that explains it.
 - [Resources](../RESOURCES.md): the dictionaries and books.
 - [Roadmap](../ROADMAP.md): what is written and what is deliberately not written yet.
-
-## Po polsku, w skrócie
-
-Biblioteka do nauki francuskiego, zbudowana jak jej siostrzane biblioteki: jedna myśl na stronę, a każde twierdzenie, które da się sprawdzić programem, sprawdza program, którego wynik jest na stronie. Zaczyna się od dźwięków, czyli od alfabetu fonetycznego, którym posługuje się każdy słownik.
-
-## Auf Deutsch: Stichwörter
-
-Eine Französisch-Bibliothek nach dem Muster ihrer Schwestern: eine Idee pro Seite, jede prüfbare Behauptung durch ein Programm geprüft, beginnend mit den Lauten.
-
-Lautschrift · Aussprache · Wortschatz · Grammatik · Lernbibliothek

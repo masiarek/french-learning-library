@@ -36,8 +36,8 @@ House rules for writing pages are in [CONTRIBUTING.md](CONTRIBUTING.md):
 - a claim no program can check names its source and says how sure it is;
 - a link to a folder points at its `README.md`;
 - sidebar reading order lives in `NAV_ORDER` in `mkdocs_hooks.py`;
-- **every new lesson ends with `## Po polsku, w skrócie`**, a brief explanation of the idea in Polish, in your own words and not a translation, before **See also**; a new chapter `README.md` gets a paragraph of the same;
-- **and then `## Auf Deutsch: Stichwörter`**: one German sentence with the claim and a line of German keywords for the page's terms.
+- **no Polish or German summary sections** here, unlike the sibling libraries: the owner had them removed from every page on 2026-10-07. Polish appears only where it is content, below the English in a lesson table;
+- **no program on a source-chapter page** (`02_Yosser_teacher`, `03_Szypowska`): the owner asked for none on 2026-10-07. Their tables are checked by `tools/check_ipa.py` in CI instead, and a new lesson there is a page with the lesson's rules, its table, an **AI section** (notes on particular words, each word of the lesson in two or three set phrases, the lesson's words in new sentences, a few new words, new exercises with answers, all in the same table format) and two Anki decks.
 
 ## Navigation: the owner's preference
 
@@ -49,10 +49,11 @@ House rules for writing pages are in [CONTRIBUTING.md](CONTRIBUTING.md):
 ```bash
 python3 tools/run_examples.py --check
 uv run --group docs mkdocs build --strict
+python3 tools/check_ipa.py
 python3 tools/anki_from_tables.py 02_Yosser_teacher --check
 python3 tools/combine_anki.py 02_Yosser_teacher --check
 python3 tools/anki_from_tables.py 03_Szypowska --check
 python3 tools/combine_anki.py 03_Szypowska --check
 ```
 
-All six are what CI runs. After changing a lesson table in `02_Yosser_teacher` or `03_Szypowska`, regenerate its deck and the chapter's combined deck with `python3 tools/anki_from_tables.py <chapter> && python3 tools/combine_anki.py <chapter>`; the challenge decks, `<lesson>/anki/<lesson>_challenges.txt`, are written by hand. The two chapters' decks stay separate: the owner asked for that.
+All seven are what CI runs. After changing a lesson table in `02_Yosser_teacher` or `03_Szypowska`, regenerate its deck and the chapter's combined deck with `python3 tools/anki_from_tables.py <chapter> && python3 tools/combine_anki.py <chapter>`; the challenge decks, `<lesson>/anki/<lesson>_challenges.txt`, are written by hand. The two chapters' decks stay separate: the owner asked for that.
