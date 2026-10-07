@@ -6,6 +6,10 @@ What exists, and what is deliberately not written yet. A topic listed here has *
 
 **[01_Sounds](01_Sounds/README.md)** — what does the French in the dictionary sound like? Two lessons, [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md) and [four inventories](01_Sounds/four_inventories/README.md), which adds German and Polish.
 
+**[02_Yosser_teacher](02_Yosser_teacher/README.md)** — the owner's teacher's worksheets, one lesson each, kept whole as a table of French, English and IPA with a program that reads the table back. One lesson so far, [La maison](02_Yosser_teacher/lesson_01_la_maison/README.md).
+
+**[03_Szypowska](03_Szypowska/README.md)** — the owner's Polish textbook of French, one page per lesson of the book, French with English and Polish and IPA, and a program that holds the book's own phonetic notation to Le Robert's through a key. Lessons [3](03_Szypowska/lecon_03_regardons_des_photos/README.md), [4](03_Szypowska/lecon_04_chez_les_lefevre/README.md) and the first page of [5](03_Szypowska/lecon_05_dialogue/README.md) so far; the chapter grows as the owner sends pages.
+
 ## The rules
 
 A **lesson** needs an argument and a program that demonstrates it. In a language library the program is usually a check on text: a transcription read symbol by symbol, a spelling rule applied to a word list and its exceptions counted, a conjugation table generated and compared with the dictionary's. A claim no program can check, such as how a vowel sounds, names its source and says how sure it is. A topic that fits neither stays here.
