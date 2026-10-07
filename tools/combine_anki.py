@@ -49,8 +49,10 @@ def build(chapter: Path) -> dict[Path, str]:
     # and then, not finding it by name, makes a new deck with a "+" for every
     # later card that names the parent: one card per deck, "Lesson 3+",
     # "Lesson 3++", and so on. Sorting the challenges last avoids that.
+    # The per-lesson import files this tool writes live beside the sources
+    # and must not be read back as one.
     sources = sorted(
-        (p for p in chapter.glob("*/anki/*.txt")),
+        (p for p in chapter.glob("*/anki/*.txt") if "_import_" not in p.name),
         key=lambda p: (p.parent, p.name.endswith("_challenges.txt"), p.name),
     )
     if not sources:
