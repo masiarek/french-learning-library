@@ -17,6 +17,7 @@
         - [Lesson 3: Regardons des photos](03_Szypowska/lecon_03_regardons_des_photos/README.md) — photos, Paris and Warsaw, the imperative, the definite article, de as the genitive, à with a city, the book's notation held to Le Robert's
         - [Lesson 4: Chez les Lefèvre](03_Szypowska/lecon_04_chez_les_lefevre/README.md) — the rooms of a flat, the letter c, elision, du, de la, de l', des, a translation into French
         - [Lesson 5: Dialogue](03_Szypowska/lecon_05_dialogue/README.md) — avoir in the present, negative and interrogative, ne … pas de, est-ce que against inversion, liaison between pronoun and verb, mute h, school things
+        - [Lesson 6: En visite](03_Szypowska/lecon_06_en_visite/README.md) — a Sunday visit, the numbers six to twelve, the dative with au, à la, à l', aux, adjective agreement, plurals in -eaux, messieurs and mesdames, the article for a kind, inversion after direct speech, flowers
     - ↪ [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md) — the inventory the tables' IPA is checked against
 
 ## Threads

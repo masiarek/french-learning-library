@@ -8,7 +8,7 @@ What exists, and what is deliberately not written yet. A topic listed here has *
 
 **[02_Yosser_teacher](02_Yosser_teacher/README.md)** — the owner's teacher's worksheets, one lesson each, kept whole as a table of French, English and IPA, with an Anki deck of its own. No program on these pages, at the owner's request; CI checks the tables' IPA instead. One lesson so far, [La maison](02_Yosser_teacher/lesson_01_la_maison/README.md).
 
-**[03_Szypowska](03_Szypowska/README.md)** — the owner's Polish textbook of French, one page per lesson of the book, French with English and Polish and IPA, and a key from the book's own phonetic notation to Le Robert's on the chapter page. No program on these pages, at the owner's request; CI checks the tables' IPA instead. Lessons [3](03_Szypowska/lecon_03_regardons_des_photos/README.md), [4](03_Szypowska/lecon_04_chez_les_lefevre/README.md) and [5](03_Szypowska/lecon_05_dialogue/README.md) so far, each with an Anki deck generated from its table and a deck of challenges; the chapter grows as the owner sends pages.
+**[03_Szypowska](03_Szypowska/README.md)** — the owner's Polish textbook of French, one page per lesson of the book, French with English and Polish and IPA, and a key from the book's own phonetic notation to Le Robert's on the chapter page. No program on these pages, at the owner's request; CI checks the tables' IPA instead. Lessons [3](03_Szypowska/lecon_03_regardons_des_photos/README.md), [4](03_Szypowska/lecon_04_chez_les_lefevre/README.md), [5](03_Szypowska/lecon_05_dialogue/README.md) and [6](03_Szypowska/lecon_06_en_visite/README.md) so far, each with Anki decks generated from its table and a deck of challenges; the chapter grows as the owner sends pages.
 
 ## The rules
 

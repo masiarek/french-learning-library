@@ -1,0 +1,210 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Szypowska (PL-FR)::Lesson 6: En visite
+#tags:french szypowska lecon06 pl-fr
+#columns:Front	Back	Tags
+#tags column:3
+ui to /ɥi/	huit, puis<br>/ɥit, pɥi/<br>ui is /ɥi/	pl-fr
+au, eau, eaux to /o/	aussi, gâteau, oiseaux<br>/osi, ɡɑto, wazo/<br>au, eau, eaux are /o/	pl-fr
+ien to /jɛ̃/	bien, chien<br>/bjɛ̃, ʃjɛ̃/<br>ien is /jɛ̃/	pl-fr
+z oraz x lub s w łączeniu to /z/	douze, deux enfants, aux enfants, visite<br>/duz, døz‿ɑ̃fɑ̃, oz‿ɑ̃fɑ̃, vizit/<br>z, and x or s in liaison, are /z/	pl-fr
+Państwo Bertin mieszkają w Chaville pod Paryżem.	Monsieur et Madame Bertin habitent à Chaville dans les environs de Paris.<br>/məsjø e madam bɛʁtɛ̃ abit a ʃavil dɑ̃ lez‿ɑ̃viʁɔ̃ də paʁi/<br>Mr and Mrs Bertin live in Chaville, near Paris.	pl-fr
+Mają mały dom z małym ogrodem.	Ils ont une petite maison avec un petit jardin.<br>/ilz‿ɔ̃ yn pətit mɛzɔ̃ avɛk œ̃ pəti ʒaʁdɛ̃/<br>They have a small house with a small garden.	pl-fr
+I mają dwoje dzieci: chłopca i dziewczynkę.	Et ils ont deux enfants : un garçon et une fille.<br>/e ilz‿ɔ̃ døz‿ɑ̃fɑ̃ : œ̃ ɡaʁsɔ̃ e yn fij/<br>And they have two children: a boy and a girl.	pl-fr
+Pewnej niedzieli ich przyjaciele, państwo Lefèvre, przyjeżdżają autobusem.	Un dimanche, leurs amis M. et Mme Lefèvre arrivent en autobus.<br>/œ̃ dimɑ̃ʃ, lœʁz‿ami məsjø e madam ləfɛvʁ aʁiv ɑ̃n‿otobys/<br>One Sunday their friends Mr and Mrs Lefèvre arrive by bus.	pl-fr
+Toutou, duży czarny pies, pilnuje furtki ogrodu.	Toutou, un gros chien noir, garde la porte du jardin.<br>/tutu, œ̃ ɡʁo ʃjɛ̃ nwaʁ, ɡaʁd la pɔʁt dy ʒaʁdɛ̃/<br>Toutou, a big black dog, guards the garden gate.	pl-fr
+Pan Bertin mówi do Toutou: „Siedź spokojnie!”	M. Bertin dit à Toutou : « Reste tranquille ! »<br>/məsjø bɛʁtɛ̃ di a tutu : ʁɛst tʁɑ̃kil/<br>Mr Bertin says to Toutou: “Stay still!”	pl-fr
+Otwiera furtkę.	Il ouvre la porte.<br>/il uvʁ la pɔʁt/<br>He opens the gate.	pl-fr
+Wita się z panią Lefèvre i z panem Lefèvre.	Il dit bonjour à Mme Lefèvre et à M. Lefèvre.<br>/il di bɔ̃ʒuʁ a madam ləfɛvʁ e a məsjø ləfɛvʁ/<br>He says hello to Mrs Lefèvre and to Mr Lefèvre.	pl-fr
+— Wejdźcie, drodzy przyjaciele! — mówi.	— Entrez, chers amis ! — dit-il.<br>/ɑ̃tʁe, ʃɛʁz‿ami ! ditil/<br>“Come in, dear friends!” he says.	pl-fr
+— Zostańmy w ogrodzie — mówi pani Lefèvre.	— Restons dans le jardin — dit Mme Lefèvre.<br>/ʁɛstɔ̃ dɑ̃ lə ʒaʁdɛ̃, di madam ləfɛvʁ/<br>“Let's stay in the garden,” says Mrs Lefèvre.	pl-fr
+— Lubię drzewa i kwiaty.	— J’aime les arbres et les fleurs.<br>/ʒɛm lez‿aʁbʁ e le flœʁ/<br>“I love trees and flowers.”	pl-fr
+W Paryżu nie mamy ogrodu.	À Paris nous n’avons pas de jardin.<br>/a paʁi nu navɔ̃ pa də ʒaʁdɛ̃/<br>In Paris we have no garden.	pl-fr
+Daje książkę chłopcu i cukierki dziewczynce.	Elle donne un livre au garçon et des bonbons à la fille.<br>/ɛl dɔn œ̃ livʁ o ɡaʁsɔ̃ e de bɔ̃bɔ̃ a la fij/<br>She gives a book to the boy and sweets to the girl.	pl-fr
+Patrzy na dwoje dzieci.	Elle regarde les deux enfants.<br>/ɛl ʁəɡaʁd le døz‿ɑ̃fɑ̃/<br>She looks at the two children.	pl-fr
+— Ile masz lat? — pyta chłopca.	— Quel âge as-tu ? — demande-t-elle au garçon.<br>/kɛl ɑʒ a ty ? dəmɑ̃dtɛl o ɡaʁsɔ̃/<br>“How old are you?” she asks the boy.	pl-fr
+— Mam dziesięć lat, proszę pani. A moja młodsza siostra ma sześć lat.	— J’ai dix ans, madame. Et ma petite sœur a six ans.<br>/ʒe diz‿ɑ̃, madam. e ma pətit sœʁ a siz‿ɑ̃/<br>“I am ten, madam. And my little sister is six.”	pl-fr
+Potem dzieci bawią się z psem.	Puis les enfants jouent avec le chien.<br>/pɥi lez‿ɑ̃fɑ̃ ʒu avɛk lə ʃjɛ̃/<br>Then the children play with the dog.	pl-fr
+Dorośli rozmawiają.	Les grandes personnes parlent.<br>/le ɡʁɑ̃d pɛʁsɔn paʁl/<br>The grown-ups talk.	pl-fr
+Pani Bertin przynosi podwieczorek.	Mme Bertin apporte le goûter.<br>/madam bɛʁtɛ̃ apɔʁt lə ɡute/<br>Mrs Bertin brings the afternoon snack.	pl-fr
+Częstuje gości i dzieci owocami i ciastkami.	Elle offre des fruits et des gâteaux aux visiteurs et aux enfants.<br>/ɛl ɔfʁ de fʁɥi e de ɡɑto o vizitœʁ e oz‿ɑ̃fɑ̃/<br>She offers fruit and cakes to the visitors and to the children.	pl-fr
+Dziewczynka daje też ciastko psu.	La petite fille donne aussi un gâteau au chien.<br>/la pətit fij dɔn osi œ̃ ɡɑto o ʃjɛ̃/<br>The little girl also gives a cake to the dog.	pl-fr
+Po podwieczorku panowie palą papierosy, a panie oglądają zdjęcia.	Après le goûter les messieurs fument des cigarettes et les dames regardent des photos.<br>/apʁɛ lə ɡute le mesjø fym de siɡaʁɛt e le dam ʁəɡaʁd de fɔto/<br>After the snack the gentlemen smoke cigarettes and the ladies look at photos.	pl-fr
+Ptaki śpiewają na drzewach.	Les oiseaux chantent dans les arbres.<br>/lez‿wazo ʃɑ̃t dɑ̃ lez‿aʁbʁ/<br>The birds sing in the trees.	pl-fr
+Przyjaciele dobrze spędzają dzień.	Les amis passent bien la journée.<br>/lez‿ami pas bjɛ̃ la ʒuʁne/<br>The friends have a good day.	pl-fr
+Daje ciastko psu	Elle donne un gâteau au chien<br>/ɛl dɔn œ̃ ɡɑto o ʃjɛ̃/<br>She gives a cake to the dog (the caption of the drawing)	pl-fr
+sześć	six<br>/sis/<br>6, six	pl-fr
+siedem	sept<br>/sɛt/<br>7, seven	pl-fr
+osiem	huit<br>/ɥit/<br>8, eight	pl-fr
+dziewięć	neuf<br>/nœf/<br>9, nine	pl-fr
+dziesięć	dix<br>/dis/<br>10, ten	pl-fr
+jedenaście	onze<br>/ɔ̃z/<br>11, eleven	pl-fr
+dwanaście	douze<br>/duz/<br>12, twelve	pl-fr
+szósty, -a	sixième<br>/sizjɛm/<br>sixth	pl-fr
+wizyta	une visite<br>/yn vizit/<br>a visit	pl-fr
+okolica (po polsku l. poj.)	les environs<br>/lez‿ɑ̃viʁɔ̃/<br>the surroundings, the area	pl-fr
+dom	une maison<br>/yn mɛzɔ̃/<br>a house	pl-fr
+ogród	un jardin<br>/œ̃ ʒaʁdɛ̃/<br>a garden	pl-fr
+dziecko	un enfant<br>/œ̃n‿ɑ̃fɑ̃/<br>a child	pl-fr
+dwoje (dwójka) dzieci	deux enfants<br>/døz‿ɑ̃fɑ̃/<br>two children	pl-fr
+mały, -a	petit, petite<br>/pəti, pətit/<br>small	pl-fr
+niedziela	dimanche (m)<br>/dimɑ̃ʃ/<br>Sunday	pl-fr
+przyjaciel	un ami<br>/œ̃n‿ami/<br>a friend	pl-fr
+przybywać, przyjeżdżać	arriver<br>/aʁive/<br>to arrive	pl-fr
+przybywają, przyjeżdżają	arrivent<br>/aʁiv/<br>(they) arrive	pl-fr
+autobus	un autobus<br>/œ̃n‿otobys/<br>a bus	pl-fr
+pies	un chien<br>/œ̃ ʃjɛ̃/<br>a dog	pl-fr
+gruby, duży	gros<br>/ɡʁo/<br>big, fat	pl-fr
+czarny	noir<br>/nwaʁ/<br>black	pl-fr
+pilnować	garder<br>/ɡaʁde/<br>to guard, to keep	pl-fr
+pilnuje	garde<br>/ɡaʁd/<br>(he, she, it) guards	pl-fr
+drzwi, furtka	la porte<br>/la pɔʁt/<br>the door, the gate	pl-fr
+zostać, pozostać	rester<br>/ʁɛste/<br>to stay	pl-fr
+(on) otwiera	il ouvre<br>/il uvʁ/<br>he opens	pl-fr
+dzień (jako przeciwstawienie nocy)	le jour<br>/lə ʒuʁ/<br>the day, as against the night	pl-fr
+dzień dobry (dosł.: dobry dzień)	bonjour<br>/bɔ̃ʒuʁ/<br>hello, good morning (literally, good day)	pl-fr
+drogi	cher<br>/ʃɛʁ/<br>dear	pl-fr
+drzewo	l’arbre (m)<br>/laʁbʁ/<br>the tree	pl-fr
+drzewa	les arbres<br>/lez‿aʁbʁ/<br>the trees	pl-fr
+kwiaty	les fleurs<br>/le flœʁ/<br>the flowers	pl-fr
+dać, dawać	donner<br>/dɔne/<br>to give	pl-fr
+(ona) daje	elle donne<br>/ɛl dɔn/<br>she gives	pl-fr
+cukierek	un bonbon<br>/œ̃ bɔ̃bɔ̃/<br>a sweet	pl-fr
+cukierki	des bonbons<br>/de bɔ̃bɔ̃/<br>sweets	pl-fr
+wiek	l’âge (m)<br>/lɑʒ/<br>the age	pl-fr
+siostra	la sœur<br>/la sœʁ/<br>the sister	pl-fr
+potem	puis<br>/pɥi/<br>then	pl-fr
+bawić się, grać	jouer<br>/ʒwe/<br>to play	pl-fr
+(oni, one) bawią się	(ils, elles) jouent<br>/ʒu/<br>they play	pl-fr
+pies (2)	le chien<br>/lə ʃjɛ̃/<br>the dog	pl-fr
+duży, -a	grand, grande<br>/ɡʁɑ̃, ɡʁɑ̃d/<br>big, tall	pl-fr
+osoba	la personne<br>/la pɛʁsɔn/<br>the person	pl-fr
+podwieczorek	le goûter<br>/lə ɡute/<br>the afternoon snack	pl-fr
+tu: podać	offrir<br>/ɔfʁiʁ/<br>to offer, here: to serve	pl-fr
+(ona) podaje, częstuje	elle offre<br>/ɛl ɔfʁ/<br>she offers, she serves	pl-fr
+owoc	un fruit<br>/œ̃ fʁɥi/<br>a fruit	pl-fr
+ciastko	un gâteau<br>/œ̃ ɡɑto/<br>a cake	pl-fr
+gość, zwiedzający	le visiteur<br>/lə vizitœʁ/<br>the visitor	pl-fr
+także	aussi<br>/osi/<br>also	pl-fr
+po	après<br>/apʁɛ/<br>after	pl-fr
+panowie	les messieurs<br>/le mesjø/<br>the gentlemen	pl-fr
+panie	les dames<br>/le dam/<br>the ladies	pl-fr
+ptak	l’oiseau (m)<br>/lwazo/<br>the bird	pl-fr
+śpiewać	chanter<br>/ʃɑ̃te/<br>to sing	pl-fr
+śpiewają	chantent<br>/ʃɑ̃t/<br>(they) sing	pl-fr
+spędzać	passer<br>/pase/<br>to spend (time)	pl-fr
+dobrze	bien<br>/bjɛ̃/<br>well	pl-fr
+dzień	la journée<br>/la ʒuʁne/<br>the day, its length	pl-fr
+z wizytą	en visite<br>/ɑ̃ vizit/<br>on a visit	pl-fr
+w Chaville (miejscowość pod Paryżem)	à Chaville<br>/a ʃavil/<br>in Chaville, a town near Paris	pl-fr
+pewnej niedzieli, w pewną niedzielę	un dimanche<br>/œ̃ dimɑ̃ʃ/<br>one Sunday	pl-fr
+ich przyjaciele	leurs amis<br>/lœʁz‿ami/<br>their friends	pl-fr
+autobusem	en autobus<br>/ɑ̃n‿otobys/<br>by bus	pl-fr
+(on) mówi do …	(il) dit à …<br>/il di a/<br>he says to …	pl-fr
+siedź spokojnie! (dosł.: zostań spokojny)	reste tranquille<br>/ʁɛst tʁɑ̃kil/<br>stay still, keep quiet (literally, stay calm)	pl-fr
+dzień dobry panu, pani	bonjour monsieur, bonjour madame<br>/bɔ̃ʒuʁ məsjø, bɔ̃ʒuʁ madam/<br>good morning, sir; good morning, madam	pl-fr
+drodzy przyjaciele	chers amis<br>/ʃɛʁz‿ami/<br>dear friends	pl-fr
+ile masz lat?	quel âge as-tu ?<br>/kɛl ɑʒ a ty/<br>how old are you?	pl-fr
+moja siostra	ma sœur<br>/ma sœʁ/<br>my sister	pl-fr
+z psem	avec le chien<br>/avɛk lə ʃjɛ̃/<br>with the dog	pl-fr
+dorośli	les grandes personnes<br>/le ɡʁɑ̃d pɛʁsɔn/<br>the grown-ups	pl-fr
+(oni) dobrze spędzają	(ils) passent bien<br>/il pas bjɛ̃/<br>they spend (the day) well	pl-fr
+bez	le lilas<br>/lə lila/<br>the lilac	pl-fr
+konwalia	le muguet<br>/lə myɡɛ/<br>the lily of the valley	pl-fr
+goździk	l’œillet (m)<br>/lœjɛ/<br>the carnation	pl-fr
+à przed imieniem własnym	à Toutou, à Mme Lefèvre, à M. Lefèvre<br>/a tutu, a madam ləfɛvʁ, a məsjø ləfɛvʁ/<br>à before a proper name	pl-fr
+au (ściągnięte à + le) przed rzeczownikiem rodzaju męskiego na spółgłoskę	au garçon<br>/o ɡaʁsɔ̃/<br>au, from à + le, before a masculine noun beginning with a consonant	pl-fr
+à la przed rzeczownikiem rodzaju żeńskiego na spółgłoskę	à la fille<br>/a la fij/<br>à la before a feminine noun beginning with a consonant	pl-fr
+à l' przed każdym rzeczownikiem na samogłoskę lub h nieme	à l’enfant<br>/a lɑ̃fɑ̃/<br>à l' before any noun beginning with a vowel or a mute h	pl-fr
+aux (ściągnięte à + les) przed rzeczownikiem w liczbie mnogiej	aux enfants<br>/oz‿ɑ̃fɑ̃/<br>aux, from à + les, before a plural noun	pl-fr
+mały ogród — mały dom: rodzaj żeński przez -e	un petit jardin — une petite maison<br>/œ̃ pəti ʒaʁdɛ̃ — yn pətit mɛzɔ̃/<br>a small garden — a small house: the feminine adds -e	pl-fr
+dorosły — dorośli: liczba mnoga przez -s	la grande personne — les grandes personnes<br>/la ɡʁɑ̃d pɛʁsɔn — le ɡʁɑ̃d pɛʁsɔn/<br>the grown-up — the grown-ups: the plural adds -s	pl-fr
+ciastko — ciastka: -eau w liczbie mnogiej -x	un gâteau — des gâteaux<br>/œ̃ ɡɑto — de ɡɑto/<br>a cake — cakes: -eau takes -x	pl-fr
+ptak — ptaki	un oiseau — des oiseaux<br>/œ̃n‿wazo — dez‿wazo/<br>a bird — birds	pl-fr
+ciastko — ciastka	le gâteau — les gâteaux<br>/lə ɡɑto — le ɡɑto/<br>the cake — the cakes	pl-fr
+ptak — ptaki (2)	l’oiseau — les oiseaux<br>/lwazo — lez‿wazo/<br>the bird — the birds	pl-fr
+pan — panowie (mój pan — moi panowie)	monsieur — messieurs<br>/məsjø — mesjø/<br>sir, Mr — gentlemen: mon sieur, mes sieurs	pl-fr
+pani — panie (moja pani — moje panie)	madame — mesdames<br>/madam — medam/<br>madam, Mrs — ladies: ma dame, mes dames	pl-fr
+dwoje dzieci (o których była mowa)	Les deux enfants …<br>/le døz‿ɑ̃fɑ̃/<br>the two children (already known: the definite article)	pl-fr
+Drodzy przyjaciele! (w wołaczu bez rodzajnika)	Chers amis !<br>/ʃɛʁz‿ami/<br>Dear friends! (the vocative: no article)	pl-fr
+mówi · mówi pani Lefèvre · pyta: inwersja po mowie niezależnej	dit-il · dit Mme Lefèvre · demande-t-elle<br>/ditil · di madam ləfɛvʁ · dəmɑ̃dtɛl/<br>he says · says Mrs Lefèvre · she asks: inversion after direct speech	pl-fr
+Czy państwo Bertin mieszkają pod Warszawą?	Est-ce que M. et Mme Bertin habitent dans les environs de Varsovie ?<br>/ɛs kə məsjø e madam bɛʁtɛ̃ abit dɑ̃ lez‿ɑ̃viʁɔ̃ də vaʁsɔvi/<br>Do Mr and Mrs Bertin live near Warsaw?	pl-fr
+Czy mają dwoje dzieci?	Ont-ils deux enfants ?<br>/ɔ̃til døz‿ɑ̃fɑ̃/<br>Do they have two children?	pl-fr
+Czy lubicie drzewa i kwiaty?	Aimez-vous les arbres et les fleurs ?<br>/ɛme vu lez‿aʁbʁ e le flœʁ/<br>Do you like trees and flowers?	pl-fr
+Ile lat ma dziewczynka?	Quel âge a la petite fille ?<br>/kɛl ɑʒ a la pətit fij/<br>How old is the little girl?	pl-fr
+Dajesz ciastko chłopcu.	Tu donnes un gâteau au garçon.<br>/ty dɔn œ̃ ɡɑto o ɡaʁsɔ̃/<br>You give a cake to the boy.	pl-fr
+Ptak śpiewa na drzewie.	L’oiseau chante dans l’arbre.<br>/lwazo ʃɑ̃t dɑ̃ laʁbʁ/<br>The bird sings in the tree.	pl-fr
+Przyjeżdżam samochodem.	J’arrive en auto.<br>/ʒaʁiv ɑ̃n‿oto/<br>I arrive by car.	pl-fr
+Mam owoc.	J’ai un fruit.<br>/ʒe œ̃ fʁɥi/<br>I have a fruit.	pl-fr
+Pani ogląda zdjęcie.	La dame regarde une photo.<br>/la dam ʁəɡaʁd yn fɔto/<br>The lady looks at a photo.	pl-fr
+Goście przyjeżdżają autobusem.	Les visiteurs arrivent en autobus.<br>/le vizitœʁ aʁiv ɑ̃n‿otobys/<br>The visitors arrive by bus.	pl-fr
+Pies pilnuje ogrodu.	Le chien garde le jardin.<br>/lə ʃjɛ̃ ɡaʁd lə ʒaʁdɛ̃/<br>The dog guards the garden.	pl-fr
+Jan mówi do psa: „Siedź spokojnie!”	Jean dit au chien : « Reste tranquille ! »<br>/ʒɑ̃ di o ʃjɛ̃ : ʁɛst tʁɑ̃kil/<br>Jean says to the dog: “Stay still!”	pl-fr
+Daję wieczne pióro chłopcu.	Je donne un stylo au garçon.<br>/ʒə dɔn œ̃ stilo o ɡaʁsɔ̃/<br>I give a fountain pen to the boy.	pl-fr
+Dajemy cukierki dziewczynce.	Nous donnons des bonbons à la fille.<br>/nu dɔnɔ̃ de bɔ̃bɔ̃ a la fij/<br>We give sweets to the girl.	pl-fr
+Daj owoce dzieciom!	Donne des fruits aux enfants !<br>/dɔn de fʁɥi oz‿ɑ̃fɑ̃/<br>Give fruit to the children!	pl-fr
+Przynieś papierosy gościom!	Apporte des cigarettes aux visiteurs !<br>/apɔʁt de siɡaʁɛt o vizitœʁ/<br>Bring cigarettes to the visitors!	pl-fr
+nieme s, x lub n wymawiane przed samogłoską	les environs · ils ont · deux enfants · leurs amis · en autobus · chers amis · les arbres · les deux enfants · dix ans · six ans · les enfants · aux enfants · les oiseaux · les amis<br>/lez‿ɑ̃viʁɔ̃ · ilz‿ɔ̃ · døz‿ɑ̃fɑ̃ · lœʁz‿ami · ɑ̃n‿otobys · ʃɛʁz‿ami · lez‿aʁbʁ · le døz‿ɑ̃fɑ̃ · diz‿ɑ̃ · siz‿ɑ̃ · lez‿ɑ̃fɑ̃ · oz‿ɑ̃fɑ̃ · lez‿wazo · lez‿ami/<br>a silent s, x or n sounded before a vowel	pl-fr
+sześć lat · sześć książek · o szóstej	six : six ans · six livres · à six heures<br>/siz‿ɑ̃ · si livʁ · a siz‿œʁ/<br>six years · six books · at six o'clock	pl-fr
+siedem dni · tydzień, osiem dni · osiemnaście	sept, huit : sept jours · huit jours · dix-huit<br>/sɛt ʒuʁ · ɥi ʒuʁ · dizɥit/<br>seven days · a week, eight days · eighteen	pl-fr
+dziewiąta · dziesięć lat · dziewiętnaście	neuf, dix : neuf heures · dix ans · dix-neuf<br>/nœv‿œʁ · diz‿ɑ̃ · diznœf/<br>nine o'clock · ten years · nineteen	pl-fr
+jedenasty listopada · dwanaście miesięcy · w południe	onze, douze : le onze novembre · douze mois · à midi<br>/lə ɔ̃z nɔvɑ̃bʁ · duz mwa · a midi/<br>the eleventh of November · twelve months · at noon, twelve o'clock	pl-fr
+odwiedzić kogoś · zwiedzanie z przewodnikiem · wizytówka	une visite : rendre visite à · une visite guidée · une carte de visite<br>/ʁɑ̃dʁ vizit a · yn vizit ɡide · yn kaʁt də vizit/<br>to visit someone · a guided tour · a business card	pl-fr
+w okolicach Paryża · około dziesiątej	les environs : dans les environs de Paris · aux environs de dix heures<br>/dɑ̃ lez‿ɑ̃viʁɔ̃ də paʁi · oz‿ɑ̃viʁɔ̃ də diz‿œʁ/<br>around Paris · at about ten o'clock	pl-fr
+w domu · dom na wsi · wydawnictwo	une maison : à la maison · une maison de campagne · une maison d’édition<br>/a la mɛzɔ̃ · yn mɛzɔ̃ də kɑ̃paɲ · yn mɛzɔ̃ dedisjɔ̃/<br>at home · a country house · a publishing house	pl-fr
+sześcioletnie dziecko · dzieci Marii · dziecinnie proste	un enfant : un enfant de six ans · les enfants de Marie · un jeu d’enfant<br>/œ̃n‿ɑ̃fɑ̃ də siz‿ɑ̃ · lez‿ɑ̃fɑ̃ də maʁi · œ̃ ʒø dɑ̃fɑ̃/<br>a six-year-old · Marie's children · child's play	pl-fr
+mały chłopiec · śniadanie · po trochu	petit : un petit garçon · le petit déjeuner · petit à petit<br>/œ̃ pəti ɡaʁsɔ̃ · lə pəti deʒœne · pətit‿a pəti/<br>a little boy · breakfast · little by little	pl-fr
+w niedziele · w przyszłą niedzielę · pewnej majowej niedzieli	dimanche : le dimanche · dimanche prochain · un dimanche de mai<br>/lə dimɑ̃ʃ · dimɑ̃ʃ pʁɔʃɛ̃ · œ̃ dimɑ̃ʃ də mɛ/<br>on Sundays · next Sunday · a Sunday in May	pl-fr
+stary przyjaciel · przyjaciółka z dzieciństwa · w gronie przyjaciół	un ami : un vieil ami · une amie d’enfance · entre amis<br>/œ̃ vjɛj ami · yn ami dɑ̃fɑ̃s · ɑ̃tʁ ami/<br>an old friend · a childhood friend (a woman) · among friends	pl-fr
+przyjechać do Paryża · spóźnić się · już idę!	arriver : arriver à Paris · arriver en retard · j’arrive !<br>/aʁive a paʁi · aʁive ɑ̃ ʁətaʁ · ʒaʁiv/<br>to arrive in Paris · to arrive late · coming!	pl-fr
+jechać autobusem · przystanek autobusowy · autobusem	un autobus : prendre l’autobus · un arrêt d’autobus · en bus<br>/pʁɑ̃dʁ lotobys · œ̃n‿aʁɛ dotobys · ɑ̃ bys/<br>to take the bus · a bus stop · by bus	pl-fr
+pies obronny · uwaga, zły pies · pod psem (pogoda)	un chien : un chien de garde · attention, chien méchant · un temps de chien<br>/œ̃ ʃjɛ̃ də ɡaʁd · atɑ̃sjɔ̃, ʃjɛ̃ meʃɑ̃ · œ̃ tɑ̃ də ʃjɛ̃/<br>a guard dog · beware of the dog · foul weather	pl-fr
+gruba książka · duży samochód · czarna kawa · jest ciemno	gros, noir : un gros livre · une grosse voiture · du café noir · il fait noir<br>/œ̃ ɡʁo livʁ · yn ɡʁos vwatyʁ · dy kafe nwaʁ · il fɛ nwaʁ/<br>a big book · a big car · black coffee · it is dark	pl-fr
+pilnować dzieci · leżeć w łóżku · dochować tajemnicy	garder : garder les enfants · garder le lit · garder un secret<br>/ɡaʁde lez‿ɑ̃fɑ̃ · ɡaʁde lə li · ɡaʁde œ̃ səkʁɛ/<br>to look after the children · to stay in bed · to keep a secret	pl-fr
+furtka ogrodu · przy drzwiach · drzwi wejściowe	la porte : la porte du jardin · à la porte · la porte d’entrée<br>/la pɔʁt dy ʒaʁdɛ̃ · a la pɔʁt · la pɔʁt dɑ̃tʁe/<br>the garden gate · at the door · the front door	pl-fr
+zostać w domu · zachować spokój · zostało trochę chleba	rester : rester à la maison · rester calme · il reste du pain<br>/ʁɛste a la mɛzɔ̃ · ʁɛste kalm · il ʁɛst dy pɛ̃/<br>to stay at home · to stay calm · there is some bread left	pl-fr
+otworzyć drzwi · otworzyć książkę · otwarte w niedziele	ouvrir : ouvrir la porte · ouvrir un livre · ouvert le dimanche<br>/uvʁiʁ la pɔʁt · uvʁiʁ œ̃ livʁ · uvɛʁ lə dimɑ̃ʃ/<br>to open the door · to open a book · open on Sundays	pl-fr
+codziennie · miłego dnia! · cały dzień	le jour, la journée : tous les jours · bonne journée ! · toute la journée<br>/tu le ʒuʁ · bɔn ʒuʁne · tut la ʒuʁne/<br>every day · have a good day! · all day long	pl-fr
+dzień dobry pani · przywitać się · dobry wieczór	bonjour : bonjour madame · dire bonjour · bonsoir<br>/bɔ̃ʒuʁ madam · diʁ bɔ̃ʒuʁ · bɔ̃swaʁ/<br>good morning, madam · to say hello · good evening	pl-fr
+drodzy przyjaciele · drogi Janie · to jest drogie	cher : chers amis · cher Jean · c’est cher<br>/ʃɛʁz‿ami · ʃɛʁ ʒɑ̃ · sɛ ʃɛʁ/<br>dear friends · dear Jean (in a letter) · it is expensive	pl-fr
+drzewo owocowe · bukiet kwiatów · w kwiatach	l’arbre, la fleur : un arbre fruitier · un bouquet de fleurs · en fleurs<br>/œ̃n‿aʁbʁ fʁɥitje · œ̃ bukɛ də flœʁ · ɑ̃ flœʁ/<br>a fruit tree · a bunch of flowers · in bloom	pl-fr
+dać Piotrowi książkę · wychodzić na ogród · daj mi	donner : donner un livre à Pierre · donner sur le jardin · donne-moi<br>/dɔne œ̃ livʁ a pjɛʁ · dɔne syʁ lə ʒaʁdɛ̃ · dɔn mwa/<br>to give Pierre a book · to look out onto the garden · give me	pl-fr
+pudełko cukierków · miętówka	un bonbon : une boîte de bonbons · un bonbon à la menthe<br>/yn bwat də bɔ̃bɔ̃ · œ̃ bɔ̃bɔ̃ a la mɑ̃t/<br>a box of sweets · a mint	pl-fr
+ile masz lat? · w wieku dziesięciu lat · średniowiecze	l’âge : quel âge as-tu ? · à l’âge de dix ans · le Moyen Âge<br>/kɛl ɑʒ a ty · a lɑʒ də diz‿ɑ̃ · lə mwajɛn‿ɑʒ/<br>how old are you? · at the age of ten · the Middle Ages	pl-fr
+moja młodsza siostra · moja starsza siostra · brat i siostra	la sœur : ma petite sœur · ma grande sœur · le frère et la sœur<br>/ma pətit sœʁ · ma ɡʁɑ̃d sœʁ · lə fʁɛʁ e la sœʁ/<br>my little sister · my big sister · the brother and the sister	pl-fr
+a potem · potem, następnie	puis : et puis · puis, ensuite<br>/e pɥi · pɥi, ɑ̃sɥit/<br>and then · then, next	pl-fr
+bawić się z psem · grać w karty · grać na pianinie	jouer : jouer avec le chien · jouer aux cartes · jouer du piano<br>/ʒwe avɛk lə ʃjɛ̃ · ʒwe o kaʁt · ʒwe dy pjano/<br>to play with the dog · to play cards · to play the piano	pl-fr
+duży dom · dorośli · wielki przyjaciel	grand : une grande maison · les grandes personnes · un grand ami<br>/yn ɡʁɑ̃d mɛzɔ̃ · le ɡʁɑ̃d pɛʁsɔn · œ̃ ɡʁɑ̃t‿ami/<br>a big house · the grown-ups · a great friend	pl-fr
+dorosły · nikt! · osobiście	la personne : une grande personne · personne ! · en personne<br>/yn ɡʁɑ̃d pɛʁsɔn · pɛʁsɔn · ɑ̃ pɛʁsɔn/<br>a grown-up · nobody! · in person	pl-fr
+jeść podwieczorek · dać prezent · podarować Marii kwiaty	le goûter, offrir : prendre le goûter · offrir un cadeau · offrir des fleurs à Marie<br>/pʁɑ̃dʁ lə ɡute · ɔfʁiʁ œ̃ kado · ɔfʁiʁ de flœʁ a maʁi/<br>to have the afternoon snack · to give a present · to give Marie flowers	pl-fr
+świeże owoce · sok owocowy · ciasto czekoladowe · tort urodzinowy	un fruit, un gâteau : des fruits frais · un jus de fruit · un gâteau au chocolat · un gâteau d’anniversaire<br>/de fʁɥi fʁɛ · œ̃ ʒy də fʁɥi · œ̃ ɡɑto o ʃɔkɔla · œ̃ ɡɑto danivɛʁsɛʁ/<br>fresh fruit · a fruit juice · a chocolate cake · a birthday cake	pl-fr
+zwiedzający muzeum · wieczorny gość	le visiteur : les visiteurs du musée · un visiteur du soir<br>/le vizitœʁ dy myze · œ̃ vizitœʁ dy swaʁ/<br>the museum's visitors · an evening visitor	pl-fr
+po podwieczorku · popołudnie · proszę przodem!	après : après le goûter · l’après-midi · après vous !<br>/apʁɛ lə ɡute · lapʁɛmidi · apʁɛ vu/<br>after the snack · the afternoon · after you!	pl-fr
+panie i panowie · dzień dobry państwu · starsza pani	messieurs, dames : Mesdames et Messieurs · bonjour messieurs-dames · une dame âgée<br>/medam e mesjø · bɔ̃ʒuʁ mesjødam · yn dam ɑʒe/<br>ladies and gentlemen · hello, everyone (in a shop) · an elderly lady	pl-fr
+ptak śpiewa · w linii prostej · śpiewać piosenkę	l’oiseau, chanter : un oiseau chante · à vol d’oiseau · chanter une chanson<br>/œ̃n‿wazo ʃɑ̃t · a vɔl dwazo · ʃɑ̃te yn ʃɑ̃sɔ̃/<br>a bird sings · as the crow flies · to sing a song	pl-fr
+spędzić dzień · przejść obok domu · podaj mi sól	passer : passer la journée · passer devant la maison · passe-moi le sel<br>/pase la ʒuʁne · pase dəvɑ̃ la mɛzɔ̃ · pas mwa lə sɛl/<br>to spend the day · to go past the house · pass me the salt	pl-fr
+bardzo dobrze · oczywiście · dobrze się mam	bien : très bien · bien sûr · ça va bien<br>/tʁɛ bjɛ̃ · bjɛ̃ syʁ · sa va bjɛ̃/<br>very well · of course · it's going well	pl-fr
+siedź spokojnie! · spokojny kąt · zostaw mnie w spokoju	tranquille : reste tranquille ! · un coin tranquille · laisse-moi tranquille<br>/ʁɛst tʁɑ̃kil · œ̃ kwɛ̃ tʁɑ̃kil · lɛs mwa tʁɑ̃kil/<br>stay still! · a quiet spot · leave me alone	pl-fr
+Mieszkamy w okolicach Warszawy.	Nous habitons dans les environs de Varsovie.<br>/nuz‿abitɔ̃ dɑ̃ lez‿ɑ̃viʁɔ̃ də vaʁsɔvi/<br>We live in the Warsaw area.	pl-fr
+W niedzielę przyjeżdżamy do Bertinów autobusem.	Dimanche, nous arrivons chez les Bertin en autobus.<br>/dimɑ̃ʃ, nuz‿aʁivɔ̃ ʃe le bɛʁtɛ̃ ɑ̃n‿otobys/<br>On Sunday we arrive at the Bertins' by bus.	pl-fr
+Duży czarny pies pilnuje domu.	Le gros chien noir garde la maison.<br>/lə ɡʁo ʃjɛ̃ nwaʁ ɡaʁd la mɛzɔ̃/<br>The big black dog guards the house.	pl-fr
+Otwórz drzwi i przywitaj się z gośćmi!	Ouvre la porte et dis bonjour aux visiteurs !<br>/uvʁ la pɔʁt e di bɔ̃ʒuʁ o vizitœʁ/<br>Open the door and say hello to the visitors!	pl-fr
+Daję kwiaty mojej siostrze.	Je donne des fleurs à ma sœur.<br>/ʒə dɔn de flœʁ a ma sœʁ/<br>I give flowers to my sister.	pl-fr
+Ile lat ma twój brat? Ma dwanaście lat.	Quel âge a ton frère ? Il a douze ans.<br>/kɛl ɑʒ a tɔ̃ fʁɛʁ ? il a duz ɑ̃/<br>How old is your brother? He is twelve.	pl-fr
+Dzieci bawią się w ogrodzie, potem jedzą podwieczorek.	Les enfants jouent dans le jardin, puis ils prennent le goûter.<br>/lez‿ɑ̃fɑ̃ ʒu dɑ̃ lə ʒaʁdɛ̃, pɥi il pʁɛn lə ɡute/<br>The children play in the garden, then they have their snack.	pl-fr
+Pani Bertin częstuje panie kawą.	Madame Bertin offre du café aux dames.<br>/madam bɛʁtɛ̃ ɔfʁ dy kafe o dam/<br>Mrs Bertin offers the ladies coffee.	pl-fr
+Po podwieczorku panowie zostają w ogrodzie.	Après le goûter, les messieurs restent dans le jardin.<br>/apʁɛ lə ɡute, le mesjø ʁɛst dɑ̃ lə ʒaʁdɛ̃/<br>After the snack the gentlemen stay in the garden.	pl-fr
+Ptaki ładnie śpiewają w niedzielne poranki.	Les oiseaux chantent bien le dimanche matin.<br>/lez‿wazo ʃɑ̃t bjɛ̃ lə dimɑ̃ʃ matɛ̃/<br>The birds sing well on Sunday mornings.	pl-fr
+brat	le frère<br>/lə fʁɛʁ/<br>the brother	pl-fr
+rano, poranek	le matin<br>/lə matɛ̃/<br>the morning	pl-fr
+wieczór	le soir<br>/lə swaʁ/<br>the evening	pl-fr
+tydzień	la semaine<br>/la səmɛn/<br>the week	pl-fr
+prezent, prezenty	le cadeau, les cadeaux<br>/lə kado, le kado/<br>the present, the presents: another -eau	pl-fr
+kot	le chat<br>/lə ʃa/<br>the cat	pl-fr
+dorosły	l’adulte<br>/ladylt/<br>the adult	pl-fr
+autobus (potocznie)	le bus<br>/lə bys/<br>the bus, the everyday word	pl-fr
+czarny ptak	un oiseau noir<br>/œ̃n‿wazo nwaʁ/<br>a black bird	pl-fr
+ciasto czekoladowe	le gâteau au chocolat<br>/lə ɡɑto o ʃɔkɔla/<br>the chocolate cake	pl-fr
+pani	madame<br>/madam/<br>madam	pl-fr
+dorosły (2)	une grande personne<br>/yn ɡʁɑ̃d pɛʁsɔn/<br>a grown-up	pl-fr

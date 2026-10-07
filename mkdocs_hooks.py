@@ -104,6 +104,7 @@ NAV_ORDER: dict[str, list[str]] = {
         "lecon_03_regardons_des_photos",
         "lecon_04_chez_les_lefevre",
         "lecon_05_dialogue",
+        "lecon_06_en_visite",
     ],
 }
 

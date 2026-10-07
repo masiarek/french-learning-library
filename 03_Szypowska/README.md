@@ -9,6 +9,7 @@ The owner's Polish textbook of French, by Szypowska, teaches in numbered lessons
 | 3 | [Lesson 3: Regardons des photos](lecon_03_regardons_des_photos/README.md) | Photos of Suzanne and Pierre, Paris and Warsaw; the word list; the imperative, the definite article, *de* as the genitive, *à* with a city; the exercises with a translation into French |
 | 4 | [Lesson 4: Chez les Lefèvre](lecon_04_chez_les_lefevre/README.md) | A visit to the Lefèvres' flat, rue du Bac; the word list; the letter *c*; elision; *du, de la, de l', des*; the exercises with a translation into French |
 | 5 | [Lesson 5: Dialogue](lecon_05_dialogue/README.md) | *J'ai un stylo*: *avoir* in the present, affirmative, negative and interrogative; *ne … pas de*; *est-ce que* against inversion; the word list; the exercises with a translation into French |
+| 6 | [Lesson 6: En visite](lecon_06_en_visite/README.md) | A Sunday visit to the Bertins in Chaville: the numbers six to twelve; *au, à la, à l', aux*, the dative; adjectives agree; plurals in *-eaux*, *messieurs, mesdames*; the article for a kind in general; inversion after direct speech; the exercises with a translation into French |
 
 How to read a lesson's table: French as printed, bold rows for the sections, `________` for a blank; English with the Polish below it, the book's Polish in the word lists and the grammar examples and mine elsewhere; IPA after Le Robert's key, from memory, with ‿ for a compulsory liaison. The answers to the exercises are mine, not the book's: an answer follows the sentence after →, or sits in square brackets inside the IPA where the sentence has a blank. Each lesson ends with an **AI section**, mine and not the book's: notes on particular words and expressions, each word of the lesson in two or three set phrases, the lesson's words in new sentences, a few new words, and new exercises with their answers, in the same table.
 
@@ -35,6 +36,7 @@ The book writes its transcriptions in square brackets with a notation made for P
 | õ | /ɔ̃/ | on [õ] /ɔ̃/ |
 | ɛ̃, œ̃ | /ɛ̃/, /œ̃/, the same | le bain [lə bɛ̃] /lə bɛ̃/, un [œ̃] /œ̃/ |
 | ü | /y/ | Suzanne [süzan] /syzan/ |
+| ö | /œ/ | neuf [nöf] /nœf/, la sœur [lasö:r] /la sœʁ/ |
 | üi | /ɥi/ | la cuisine [la küizin] /la kɥizin/ |
 | ui | /wi/ | oui [ui] /wi/ |
 | ua | /wa/ | trois [trua] /tʁwa/ |
@@ -45,6 +47,6 @@ The book writes its transcriptions in square brackets with a notation made for P
 | g | /ɡ/ | le garçon [lə garsõ] /lə ɡaʁsɔ̃/ |
 | a: ɛ: u: ü: ã: (a colon for length) | no length mark | la tour [la tu:r] /la tuʁ/ |
 | final -o as ɔ | /o/ | la photo [la fɔtɔ] /la fɔto/ |
-| ə ɛ ɔ e i u a ø j | the same | le palais [lə palɛ] /lə palɛ/ |
+| ə ɛ ɔ e i u a ø j | the same | le palais [lə palɛ] /lə palɛ/, les messieurs [lemesjø] /le mesjø/ |
 
 How sure: the key is read off the pages in hand, so it is certain for the symbols they use; a later lesson may bring a symbol not yet listed. The Le Robert side is written from memory, as in the [Sounds](../01_Sounds/README.md) chapter. The brackets of lessons 3 to 5 were relettered with this key and compared with the pages' IPA when the pages were written: they agree except for *photo*, the first vowel of *Eiffel*, the *o* of *interrogative*, and one [że] the book prints for *je* in lesson 5 where its own word list has [żənepa].
