@@ -80,6 +80,10 @@ def cards(rows, polish: bool):
     for french, meaning, ipa, section in rows:
         if not ipa:
             continue
+        # The sound drill at the top of a textbook lesson pairs letters with a
+        # sound, not words with a meaning: no card.
+        if section.lower().startswith("the sounds drilled"):
+            continue
         english, pl = (meaning.split("<br>", 1) + [""])[:2] if "<br>" in meaning else (meaning, "")
         if french.startswith("→"):
             answer = french.lstrip("→ ").strip()

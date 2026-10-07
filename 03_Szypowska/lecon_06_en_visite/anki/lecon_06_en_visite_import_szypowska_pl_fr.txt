@@ -4,10 +4,6 @@
 #columns:Front	Back	Tags	Deck
 #tags column:3
 #deck column:4
-ui to /ɥi/	huit, puis<br>/ɥit, pɥi/<br>ui is /ɥi/	french szypowska lecon06 pl-fr	French::Szypowska (PL-FR)::Lesson 6: En visite
-au, eau, eaux to /o/	aussi, gâteau, oiseaux<br>/osi, ɡɑto, wazo/<br>au, eau, eaux are /o/	french szypowska lecon06 pl-fr	French::Szypowska (PL-FR)::Lesson 6: En visite
-ien to /jɛ̃/	bien, chien<br>/bjɛ̃, ʃjɛ̃/<br>ien is /jɛ̃/	french szypowska lecon06 pl-fr	French::Szypowska (PL-FR)::Lesson 6: En visite
-z oraz x lub s w łączeniu to /z/	douze, deux enfants, aux enfants, visite<br>/duz, døz‿ɑ̃fɑ̃, oz‿ɑ̃fɑ̃, vizit/<br>z, and x or s in liaison, are /z/	french szypowska lecon06 pl-fr	French::Szypowska (PL-FR)::Lesson 6: En visite
 Państwo Bertin mieszkają w Chaville pod Paryżem.	Monsieur et Madame Bertin habitent à Chaville dans les environs de Paris.<br>/məsjø e madam bɛʁtɛ̃ abit a ʃavil dɑ̃ lez‿ɑ̃viʁɔ̃ də paʁi/<br>Mr and Mrs Bertin live in Chaville, near Paris.	french szypowska lecon06 pl-fr	French::Szypowska (PL-FR)::Lesson 6: En visite
 Mają mały dom z małym ogrodem.	Ils ont une petite maison avec un petit jardin.<br>/ilz‿ɔ̃ yn pətit mɛzɔ̃ avɛk œ̃ pəti ʒaʁdɛ̃/<br>They have a small house with a small garden.	french szypowska lecon06 pl-fr	French::Szypowska (PL-FR)::Lesson 6: En visite
 I mają dwoje dzieci: chłopca i dziewczynkę.	Et ils ont deux enfants : un garçon et une fille.<br>/e ilz‿ɔ̃ døz‿ɑ̃fɑ̃ : œ̃ ɡaʁsɔ̃ e yn fij/<br>And they have two children: a boy and a girl.	french szypowska lecon06 pl-fr	French::Szypowska (PL-FR)::Lesson 6: En visite

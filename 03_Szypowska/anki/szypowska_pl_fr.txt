@@ -147,13 +147,6 @@ Fill in: Tu ___ le Palais ___ ___ Culture.	Tu regardes le Palais de la Culture. 
 Translate: Here are three postcards and four photos.	Voici trois cartes et quatre photos. /vwasi tʁwa kaʁt e katʁ fɔto/	french szypowska lecon03 challenge exercise	French::Szypowska (PL-FR)::Lesson 3: Regardons des photos::Challenges
 Where is the liaison in nous aimons, and what sound does it add?	nous‿aimons /nuz‿ɛmɔ̃/: the silent s of nous sounds as /z/ before the vowel.	french szypowska lecon03 challenge sound	French::Szypowska (PL-FR)::Lesson 3: Regardons des photos::Challenges
 Count: 3 in French, with IPA	trois /tʁwa/; troisième /tʁwazjɛm/ is third	french szypowska lecon03 challenge say	French::Szypowska (PL-FR)::Lesson 3: Regardons des photos::Challenges
-litera ç to /s/	leçon, garçon<br>/ləsɔ̃, ɡaʁsɔ̃/<br>the letter ç is /s/	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
--ille to /ij/	fille, famille<br>/fij, famij/<br>-ille is /ij/	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
-an, en, am to /ɑ̃/	divan, parents, chambre, manger, appartement<br>/divɑ̃, paʁɑ̃, ʃɑ̃bʁ, mɑ̃ʒe, apaʁtəmɑ̃/<br>an, en, am are /ɑ̃/	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
-ain to /ɛ̃/	bain<br>/bɛ̃/<br>ain is /ɛ̃/	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
-u to /y/	du, rue<br>/dy, ʁy/<br>u is /y/	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
-c i qu to /k/	Bac, quatre, cabinet<br>/bak, katʁ, kabinɛ/<br>c and qu are /k/	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
-ch to /ʃ/	chambre<br>/ʃɑ̃bʁ/<br>ch is /ʃ/	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
 Państwo Lefèvre mieszkają w mieszkaniu przy ulicy du Bac.	Monsieur et Madame Lefèvre habitent un appartement rue du Bac.<br>/məsjø e madam ləfɛvʁ abit‿œ̃n‿apaʁtəmɑ̃ ʁy dy bak/<br>Mr and Mrs Lefèvre live in a flat on the rue du Bac.	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
 Wchodzimy.	Nous entrons.<br>/nuz‿ɑ̃tʁɔ̃/<br>We go in.	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
 Zwiedzamy mieszkanie rodziny Lefèvre.	Nous visitons l’appartement de la famille Lefèvre.<br>/nu vizitɔ̃ lapaʁtəmɑ̃ də la famij ləfɛvʁ/<br>We visit the Lefèvre family's flat.	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
@@ -291,10 +284,6 @@ Translate: Show the boy’s divan!	Montre le divan du garçon ! /mɔ̃tʁ lə di
 Translate: Here is the flat of Pierre’s parents.	Voici l’appartement des parents de Pierre. /vwasi lapaʁtəmɑ̃ de paʁɑ̃ də pjɛʁ/	french szypowska lecon04 challenge exercise	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre::Challenges
 What does rue du Bac mean, literally?	Ferry Street: it runs towards the Seine, to where a ferry once crossed. /la ʁy dy bak/	french szypowska lecon04 challenge realia	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre::Challenges
 Which letters spell /ɑ̃/ in divan, parents, chambre, manger, appartement?	an, en, am: /divɑ̃, paʁɑ̃, ʃɑ̃bʁ, mɑ̃ʒe, apaʁtəmɑ̃/	french szypowska lecon04 challenge sound	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre::Challenges
-c przed a, o i spółgłoską to /k/	cahier, canif, carnet, crayon<br>/kaje, kanif, kaʁnɛ, kʁɛjɔ̃/<br>c before a, o and a consonant is /k/	french szypowska lecon05 pl-fr	French::Szypowska (PL-FR)::Lesson 5: Dialogue
--ay- to /ɛj/	crayon<br>/kʁɛjɔ̃/<br>-ay- is /ɛj/	french szypowska lecon05 pl-fr	French::Szypowska (PL-FR)::Lesson 5: Dialogue
--ai, -ez, -es tutaj to /e/	j’ai, avez, des<br>/ʒe, ave, de/<br>-ai, -ez, -es here are /e/	french szypowska lecon05 pl-fr	French::Szypowska (PL-FR)::Lesson 5: Dialogue
-e bez akcentu w krótkim wyrazie to /ə/	que, de<br>/kə, də/<br>an unaccented e in a short word is /ə/	french szypowska lecon05 pl-fr	French::Szypowska (PL-FR)::Lesson 5: Dialogue
 Mam pióro wieczne. Czy mam pióro wieczne?	— J’ai un stylo. Est-ce que j’ai un stylo ?<br>/ʒe œ̃ stilo. ɛs kə ʒe œ̃ stilo/<br>I have a fountain pen. Do I have a fountain pen?	french szypowska lecon05 pl-fr	French::Szypowska (PL-FR)::Lesson 5: Dialogue
 Tak, ma pan pióro wieczne.	— Oui, vous avez un stylo.<br>/wi, vuz‿ave œ̃ stilo/<br>Yes, you have a fountain pen.	french szypowska lecon05 pl-fr	French::Szypowska (PL-FR)::Lesson 5: Dialogue
 Czy ma pan notes?	— Avez-vous un carnet ?<br>/ave vu œ̃ kaʁnɛ/<br>Do you have a notebook?	french szypowska lecon05 pl-fr	French::Szypowska (PL-FR)::Lesson 5: Dialogue
@@ -482,10 +471,6 @@ Put the right article: Il a ___ plume. Vous avez ___ photos.	Il a une plume. /il
 Answer yes and no: Avons-nous des cahiers ?	Oui, nous avons des cahiers. /wi, nuz‿avɔ̃ de kaje/ · Non, nous n’avons pas de cahiers. /nɔ̃, nu navɔ̃ pa də kaje/	french szypowska lecon05 challenge exercise	French::Szypowska (PL-FR)::Lesson 5: Dialogue::Challenges
 Put into the first person plural: Je visite un appartement.	Nous visitons des appartements. /nu vizitɔ̃ dez‿apaʁtəmɑ̃/	french szypowska lecon05 challenge exercise	French::Szypowska (PL-FR)::Lesson 5: Dialogue::Challenges
 List the elisions in the dialogue	j’ai, n’ai, qu’Annette, qu’ils, n’avons, n’ont: je, ne, que lose their vowel before a vowel.	french szypowska lecon05 challenge grammar	French::Szypowska (PL-FR)::Lesson 5: Dialogue::Challenges
-ui to /ɥi/	huit, puis<br>/ɥit, pɥi/<br>ui is /ɥi/	french szypowska lecon06 pl-fr	French::Szypowska (PL-FR)::Lesson 6: En visite
-au, eau, eaux to /o/	aussi, gâteau, oiseaux<br>/osi, ɡɑto, wazo/<br>au, eau, eaux are /o/	french szypowska lecon06 pl-fr	French::Szypowska (PL-FR)::Lesson 6: En visite
-ien to /jɛ̃/	bien, chien<br>/bjɛ̃, ʃjɛ̃/<br>ien is /jɛ̃/	french szypowska lecon06 pl-fr	French::Szypowska (PL-FR)::Lesson 6: En visite
-z oraz x lub s w łączeniu to /z/	douze, deux enfants, aux enfants, visite<br>/duz, døz‿ɑ̃fɑ̃, oz‿ɑ̃fɑ̃, vizit/<br>z, and x or s in liaison, are /z/	french szypowska lecon06 pl-fr	French::Szypowska (PL-FR)::Lesson 6: En visite
 Państwo Bertin mieszkają w Chaville pod Paryżem.	Monsieur et Madame Bertin habitent à Chaville dans les environs de Paris.<br>/məsjø e madam bɛʁtɛ̃ abit a ʃavil dɑ̃ lez‿ɑ̃viʁɔ̃ də paʁi/<br>Mr and Mrs Bertin live in Chaville, near Paris.	french szypowska lecon06 pl-fr	French::Szypowska (PL-FR)::Lesson 6: En visite
 Mają mały dom z małym ogrodem.	Ils ont une petite maison avec un petit jardin.<br>/ilz‿ɔ̃ yn pətit mɛzɔ̃ avɛk œ̃ pəti ʒaʁdɛ̃/<br>They have a small house with a small garden.	french szypowska lecon06 pl-fr	French::Szypowska (PL-FR)::Lesson 6: En visite
 I mają dwoje dzieci: chłopca i dziewczynkę.	Et ils ont deux enfants : un garçon et une fille.<br>/e ilz‿ɔ̃ døz‿ɑ̃fɑ̃ : œ̃ ɡaʁsɔ̃ e yn fij/<br>And they have two children: a boy and a girl.	french szypowska lecon06 pl-fr	French::Szypowska (PL-FR)::Lesson 6: En visite
