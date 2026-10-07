@@ -164,16 +164,6 @@ The program reads the table above, checks every symbol against Le Robert's inven
 - The 5 that differ: *photo*, where the book prints a final [ɔ] and Le Robert has /o/, and *Eiffel*, where the book has [e] and Le Robert /ɛ/. Both are heard; the page keeps Le Robert's.
 - Every symbol on the page is a French phoneme.
 
-## Po polsku, w skrócie
-
-Trzecia lekcja Szypowskiej w jednej tabeli: czytanka, słówka, francuskie przykłady z gramatyki i ćwiczenia, z tłumaczeniem na francuski. Program zamienia nawiasy z książki według klucza z rozdziału na zapis Le Roberta: z 29 zgadzają się 24, a różnice to tylko „photo" i „Eiffel".
-
-## Auf Deutsch: Stichwörter
-
-Die dritte Lektion des polnischen Lehrbuchs steht hier als eine Tabelle mit Französisch, Englisch und Polnisch und Lautschrift, und ein Programm überträgt die Umschrift des Buches mit dem Schlüssel des Kapitels und vergleicht sie Zeichen für Zeichen mit der Seite.
-
-Lesetext · Fotos · Wortliste · Imperativ · bestimmter Artikel · Genitiv mit de · Präposition à · Übersetzung ins Französische · Umschrift des Buches · Schlüssel
-
 ## See also
 
 - [Szypowska (Polish material)](../README.md) — the chapter, with the key from the book's notation to Le Robert's

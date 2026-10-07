@@ -234,16 +234,6 @@ The program reads the table above, checks every symbol against Le Robert's inven
 | un taille-crayon | a pencil sharpener<br>temperówka | /œ̃ tajkʁɛjɔ̃/ |
 | un sac | a bag<br>torba | /œ̃ sak/ |
 
-## Po polsku, w skrócie
-
-Cała piąta lekcja w jednej tabeli: ćwiczenie wymowy, dialog o tym, kto ma pióro, notes, scyzoryk i ołówki, słówka, łączenie międzywyrazowe, odmiana „avoir" w formie twierdzącej, przeczącej i pytającej, „de" zamiast „un, une, des" po przeczeniu, dwa sposoby pytania i sześć ćwiczeń z tłumaczeniem. Program porównuje 68 nawiasów z książki ze stroną: 66 zgadza się, a różnice to [że] zamiast [żə] w jednej linijce dialogu i „o" w „interrogative".
-
-## Auf Deutsch: Stichwörter
-
-Die fünfte Lektion steht hier als eine Tabelle, vom Dialog über Haben und Nichthaben bis zur Konjugation von avoir und den Übungen, und das Programm hält alle 68 Umschriften des Buches an die Seite.
-
-Dialog · haben (avoir) · Verneinung ne … pas de · Frage mit est-ce que · Inversion · Bindung · stummes h · Schreibzeug · Übersetzung ins Französische
-
 ## See also
 
 - [Szypowska (Polish material)](../README.md) — the chapter, with the key from the book's notation to Le Robert's

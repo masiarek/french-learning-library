@@ -43,13 +43,3 @@ The book writes its transcriptions in square brackets with a notation made for P
 The order matters when a machine applies it: *wua* and *üi* are read before *ua*, *ui* and *w*, or the *w* that *ua* produces would turn into a *v*. The programs read the brackets left to right, longest match first, and never re-read what they have written.
 
 How sure: the key is read off the pages in hand, so it is certain for the symbols they use; a later lesson may bring a symbol not yet listed. The Le Robert side is written from memory, as in the [Sounds](../01_Sounds/README.md) chapter, and the two places where the book and Le Robert differ, *photo* and the first vowel of *Eiffel*, are both heard in France.
-
-## Po polsku, w skrócie
-
-Ten rozdział zbiera francuski z podręcznika Szypowskiej, lekcja po lekcji, w jednej tabeli na lekcję: tekst po francusku, po angielsku z polskim pod spodem, i wymowa w IPA według klucza Le Roberta. Polskie objaśnienia nie są przepisywane, ale ćwiczenie z tłumaczeniem na francuski dostaje francuskie zdanie z wymową, a pod spodem angielski i polski oryginał. Podręcznik zapisuje wymowę własnym systemem dla polskiego czytelnika (ż za /ʒ/, sz za /ʃ/, ü za /y/, w za /v/, dwukropek dla długości); tabela powyżej przekłada go na IPA, a program przy każdej lekcji stosuje ten klucz do nawiasów z książki i porównuje wynik z transkrypcją na stronie.
-
-## Auf Deutsch: Stichwörter
-
-Jede Lektion des polnischen Lehrbuchs steht hier als eine Tabelle mit Französisch, Englisch und Polnisch und der Lautschrift nach Le Robert, und ein Schlüssel überträgt die eigene Umschrift des Buches Zeichen für Zeichen in das IPA.
-
-Lehrbuch · Umschrift · Lautschrift · Schlüssel · Wortliste · Dialog · Übersetzungsübung · Genitiv mit de

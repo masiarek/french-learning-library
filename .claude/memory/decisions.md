@@ -2,6 +2,7 @@
 
 Dated log of decisions and preferences, with the reason. Newest first.
 
+- 2026-10-07 — **No Polish or German summary sections in this library.** The owner asked for them to be removed from every page ("remove these sections from French"), so `CLAUDE.md` and `CONTRIBUTING.md` no longer require them; the earlier decision to carry both on every page is reversed for this library only.
 - 2026-10-07 — **The teacher's worksheets and Szypowska's textbook are chapters of their own**, `02_Yosser_teacher` and `03_Szypowska`, each lesson a page with one table and a program that reads the table back from the page. The owner decided this after being told the teacher's material would be public on the site. Chapter labels that a folder name cannot carry ("Yosser (teacher)") come from `CHAPTER_LABELS` in `mkdocs_hooks.py`.
 - 2026-10-07 — **The book's notation is converted, not transcribed twice.** Each Szypowska program types in the book's brackets and holds the key-converted result to the page's Le Robert IPA, so the page is checked against the book. Where the two part (*photo* with a final [ɔ], *Eiffel* with [e]) the page keeps Le Robert's and says so.
 - 2026-10-07 — **A transcription table is a lesson here** when its program can check it: the inventory check, the liaison count and the key-conversion are the argument. The earlier inbox rule, transcribe Assimil dialogues in chat, still holds for Assimil, whose course is on the roadmap as sentences for the Sounds chapter.
@@ -10,4 +11,4 @@ Dated log of decisions and preferences, with the reason. Newest first.
 - 2026-10-05 — **The library exists.** The owner asked for a French learning library during a conversation about IPA in the math library's session, and for that explanation to be its first page. It copies the sibling libraries' tooling (`tools/run_examples.py`, the MkDocs hook, the two workflows) so that a session used to one works in all.
 - 2026-10-05 — **Default branch is `master`**, like the math library, because the owner's sessions there restart branches from `origin/master` by habit.
 - 2026-10-05 — **English inventory follows Oxford Learner's, French follows Le Robert.** The owner checks IPA against Oxford, so the English side uses Oxford's symbols (/e/ for *bed*, /əʊ/ in both accents, the weak /i/ and /u/). Le Robert is the standard French key and keeps /œ̃/ and /ɑ/, which the page notes as merging.
-- 2026-10-05 — **Both Polish and German sections on every page**, as in the math library, since the owner reads both and asked for them there.
+- 2026-10-05 — **Both Polish and German sections on every page**, as in the math library, since the owner reads both and asked for them there. Reversed on 2026-10-07, above.

@@ -144,16 +144,6 @@ The program reads the table above, checks every symbol against Le Robert's inven
 - The book writes a liaison as one word, [abitœ̃napartəmã]; the page writes ‿ at the joins, and the comparison ignores the mark.
 - Every symbol on the page is a French phoneme.
 
-## Po polsku, w skrócie
-
-Czwarta lekcja w jednej tabeli: ćwiczenie wymowy, czytanka o mieszkaniu przy rue du Bac, słówka, litera c, elizja, „du, de la, de l', des" i ćwiczenia z tłumaczeniem. Program zamienia 46 nawiasów z książki na zapis Le Roberta i wszystkie 46 zgadzają się ze stroną.
-
-## Auf Deutsch: Stichwörter
-
-Die vierte Lektion steht hier als eine Tabelle, vom Lautdrill über den Lesetext in der Wohnung der Lefèvres und die Wortliste bis zu den Übungen, und das Programm überträgt alle 46 Umschriften des Buches fehlerfrei in Le Roberts Lautschrift.
-
-Wohnung · Zimmer · Esszimmer · Küche · Badezimmer · der Buchstabe c · Elision · Genitiv mit du, de la, de l', des · Bindung · Übersetzung ins Französische
-
 ## See also
 
 - [Szypowska (Polish material)](../README.md) — the chapter, with the key from the book's notation to Le Robert's

@@ -210,16 +210,6 @@ The program reads the table above: every symbol against Le Robert's inventory, t
 - The liaisons add /z/, /n/, /ʁ/ (*premier‿étage*) and, optionally after *est*, /t/.
 - *Il y a* is in 36 of the 142 lines.
 
-## Po polsku, w skrócie
-
-Karta pracy „La maison" jako jedna tabela: francuski, angielski, wymowa według klucza Le Roberta. Program sprawdza, że każdy znak jest francuskim fonemem, liczy samogłoski nosowe i łączenia międzywyrazowe (liaison) i pokazuje, w ilu wierszach jest „il y a".
-
-## Auf Deutsch: Stichwörter
-
-Das erste Arbeitsblatt der Lehrerin steht hier Zeile für Zeile auf Französisch, Englisch und in Lautschrift, und ein Programm prüft jedes Zeichen, zählt die Nasalvokale und die Bindungen und zeigt, wie oft *il y a* vorkommt.
-
-Arbeitsblatt · das Haus · die Zimmer · die Möbel · Lesetext · Verständnisfragen · richtig oder falsch · Lückentext · es gibt (il y a) · Ortspräpositionen · Bindung · Lösungsschlüssel
-
 ## See also
 
 - [Yosser (teacher)](../README.md) — the chapter this lesson opens

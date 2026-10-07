@@ -36,8 +36,7 @@ House rules for writing pages are in [CONTRIBUTING.md](CONTRIBUTING.md):
 - a claim no program can check names its source and says how sure it is;
 - a link to a folder points at its `README.md`;
 - sidebar reading order lives in `NAV_ORDER` in `mkdocs_hooks.py`;
-- **every new lesson ends with `## Po polsku, w skrócie`**, a brief explanation of the idea in Polish, in your own words and not a translation, before **See also**; a new chapter `README.md` gets a paragraph of the same;
-- **and then `## Auf Deutsch: Stichwörter`**: one German sentence with the claim and a line of German keywords for the page's terms.
+- **no Polish or German summary sections** here, unlike the sibling libraries: the owner had them removed from every page on 2026-10-07. Polish appears only where it is content, below the English in a lesson table.
 
 ## Navigation: the owner's preference
 

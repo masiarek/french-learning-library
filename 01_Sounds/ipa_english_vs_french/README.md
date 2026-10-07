@@ -136,20 +136,6 @@ What the dialogue adds to the two sentences above:
 3. **When a word sounds wrong, look for the mark.** A missing nasal, a diphthong where a pure vowel belongs, or a stress on the wrong syllable are the three most common English accents in French, and each one is visible in the transcription.
 4. **Check the key of the dictionary you use.** Oxford writes *bed* as /e/, others as /ɛ/; some French dictionaries no longer list /œ̃/ or /ɑ/. The sounds are the same; the house styles differ.
 
-## Po polsku, w skrócie
-
-Międzynarodowy alfabet fonetyczny (IPA) jest jeden dla wszystkich języków, więc ten sam znak oznacza ten sam dźwięk w słowniku angielskim i francuskim. Różnica polega na tym, których znaków dany język potrzebuje. Z 46 znaków angielskich u Oxforda i 36 francuskich u Le Roberta tylko 21 jest wspólnych, i są to prawie same spółgłoski.
-
-Francuski ma to, czego angielski nie ma: cztery samogłoski nosowe /ɑ̃ ɛ̃ ɔ̃ œ̃/ z tyldą (Polak zna takie dźwięki z „ą" i „ę"), samogłoski /y ø œ/ wymawiane z zaokrąglonymi ustami jak przy „u", ale z językiem jak przy „i" (polskie „u" w słowie „tu" to nie to samo), gardłowe /ʁ/ zamiast polskiego „r" i spółgłoskę /ɲ/, czyli polskie „ń". Angielski ma to, czego francuski nie ma: /θ ð/ jak w *thin, this*, /h/, krótkie luźne samogłoski /æ ʌ ɒ ɪ ʊ/, długie samogłoski z dwukropkiem i dyftongi /eɪ aɪ əʊ aʊ/.
-
-Najszybciej poznać język po znakach, które nie są dźwiękami: angielska transkrypcja ma akcent ˈ przed sylabą akcentowaną i dwukropek długości; francuska nie ma akcentu wcale, bo akcent pada zawsze na ostatnią sylabę frazy, ma za to tyldy. Program trzyma oba zestawy znaków jako zbiory, wypisuje część wspólną i różnice, a potem czyta dwa zdania znak po znaku i sprawdza, że angielskie ma akcenty i dyftongi, a francuskie tyldy i ani jednego akcentu.
-
-## Auf Deutsch: Stichwörter
-
-Das IPA ist ein Alphabet für alle Sprachen; Englisch und Französisch teilen nur 21 Zeichen, fast nur Konsonanten, und eine französische Transkription erkennt man an Nasalvokalen, /y ø œ/, /ʁ/ und am fehlenden Betonungszeichen.
-
-Lautschrift · Phoneminventar · Nasalvokal · gerundeter Vorderzungenvokal · Zäpfchen-R · Betonungszeichen · Längenzeichen · Diphthong · Schwa · Schnittmenge
-
 ## See also
 
 - [Sounds](../README.md) — the chapter this lesson opens

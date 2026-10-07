@@ -120,20 +120,6 @@ What to read off it:
 | The Polish inventory | high for the consonants, medium for the vowels | Jassem's illustration from memory; the two nasal vowels are often analysed as vowel plus glide, and some descriptions add /ɛ̃ ɔ̃/ only before fricatives |
 | Which marks each dictionary uses | high | Oxford, Duden and Le Robert checked in earlier use; Polish dictionaries mark stress only for the exceptions |
 
-## Po polsku, w skrócie
-
-Cztery języki, jeden alfabet fonetyczny, cztery różne zestawy znaków. Program trzyma cztery zbiory i liczy ich części wspólne. Wspólnych wszystkim czterem jest tylko 14 znaków i są to same spółgłoski: /p b t d k ɡ f v s z m n l j/.
-
-Dla Polaka uczącego się francuskiego ważne jest to, co już ma: samogłoski nosowe /ɛ̃ ɔ̃/, czyli „ę" i „ą", spółgłoskę /ɲ/, czyli „ń", i /w/, czyli „ł". Francuskie *vin* i *bon* nie wymagają nowego dźwięku. Nowe są: samogłoski /y ø œ/ (*tu, peu, peur*), wymawiane z ustami jak przy „u", a językiem jak przy „i"; gardłowe /ʁ/ zamiast polskiego „r"; dwa nosówki, których polski nie ma, /ɑ̃/ (*dans*) i /œ̃/ (*brun*); i dwie samogłoski ścisłe /e o/ (*été, eau*), bo polskie „e" i „o" są otwarte, /ɛ ɔ/. Razem jedenaście.
-
-Niemiec ma mniej do nauki, bo /y ø œ/ i /ʁ/ zna z *über, schön, zwölf, rot*; nowe są dla niego prawie wyłącznie nosówki. Anglik ma najwięcej, piętnaście nowych dźwięków. Znaki pomocnicze też dzielą języki na pary: słowniki angielskie i niemieckie zaznaczają akcent i długość, francuskie i polskie nie zaznaczają akcentu (bo jest stały), za to mają tyldę nad nosówkami.
-
-## Auf Deutsch: Stichwörter
-
-Von den vier Lautinventaren teilen alle nur 14 Konsonanten; wer Deutsch spricht, kennt /y ø œ/ und /ʁ/ schon und muss für das Französische vor allem die vier Nasalvokale und die Gleitlaute /ɥ w/ lernen, acht neue Laute statt fünfzehn für einen Englischsprecher.
-
-Lautinventar · Nasalvokal · gerundeter Vorderzungenvokal · Zäpfchen-R · Ich-Laut · Affrikate · Vokallänge · Betonung · Schnittmenge · Differenzmenge
-
 ## See also
 
 - [English and French in the IPA](../ipa_english_vs_french/README.md) — the first lesson: the two-language case, with two sentences read symbol by symbol
