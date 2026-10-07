@@ -16,7 +16,7 @@ Two sets, kept apart from the textbook's, each one file with a subdeck per lesso
 
 | Set | File | On the front | On the back |
 |---|---|---|---|
-| Yosser (FR-EN) | [`anki/yosser_fr_en.txt`](anki/yosser_fr_en.txt) | the French | the English and the IPA; also the exercises, with their answers |
+| Yosser (FR-EN) | [`anki/yosser_fr_en.txt`](anki/yosser_fr_en.txt) | the French, with the IPA under it | the English; also the exercises, with their answers |
 | Yosser (EN-FR) | [`anki/yosser_en_fr.txt`](anki/yosser_en_fr.txt) | the English | the French and the IPA; also the challenges written by hand, under their own subdeck |
 
 Each lesson folder holds its own decks under `anki/`: the two generated from the lesson's table by `tools/anki_from_tables.py`, and the challenges. Cards carry the tags `fr-en`, `en-fr`, `exercise` and `challenge`.

@@ -18,7 +18,7 @@ Two sets, each one file with a subdeck per lesson:
 
 | Set | File | On the front | On the back |
 |---|---|---|---|
-| Szypowska (FR-PL) | [`anki/szypowska_fr_pl.txt`](anki/szypowska_fr_pl.txt) | the French | the book's Polish, the English and the IPA; also the exercises, with their answers |
+| Szypowska (FR-PL) | [`anki/szypowska_fr_pl.txt`](anki/szypowska_fr_pl.txt) | the French, with the IPA under it | the book's Polish and the English; also the exercises, with their answers |
 | Szypowska (PL-FR) | [`anki/szypowska_pl_fr.txt`](anki/szypowska_pl_fr.txt) | the book's Polish | the French and the IPA, then the English; also the challenges written by hand, under their own subdeck |
 
 Each lesson folder holds its own decks under `anki/`: the two generated from the lesson's table by `tools/anki_from_tables.py`, and the challenges. Cards carry the tags `fr-pl`, `pl-fr`, `exercise` and `challenge`.
