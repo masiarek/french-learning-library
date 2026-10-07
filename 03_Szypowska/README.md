@@ -14,7 +14,14 @@ How to read a lesson's table: French as printed, bold rows for the sections, `__
 
 ## Anki
 
-One file imports the whole chapter: [`anki/szypowska_all.txt`](anki/szypowska_all.txt), with a subdeck per lesson. Each lesson folder also has its own two decks under `anki/`: one generated from the lesson's table by `tools/anki_from_tables.py` (every word, question and sentence, French to meaning and meaning to French, and the exercises with their answers), and one of challenges written by hand (say it, make it negative, read the book's bracket, which article). Cards carry the tags `fr-en`, `en-fr`, `exercise` and `challenge`, so one direction can be suspended at a stroke.
+Two sets, each one file with a subdeck per lesson:
+
+| Set | File | On the front | On the back |
+|---|---|---|---|
+| Szypowska (FR-PL) | [`anki/szypowska_fr_pl.txt`](anki/szypowska_fr_pl.txt) | the French | the book's Polish, the English and the IPA; also the exercises, with their answers |
+| Szypowska (PL-FR) | [`anki/szypowska_pl_fr.txt`](anki/szypowska_pl_fr.txt) | the book's Polish | the French and the IPA, then the English; also the challenges written by hand, under their own subdeck |
+
+Each lesson folder holds its own decks under `anki/`: the two generated from the lesson's table by `tools/anki_from_tables.py`, and the challenges. Cards carry the tags `fr-pl`, `pl-fr`, `exercise` and `challenge`.
 
 ## The book's notation, and Le Robert's
 

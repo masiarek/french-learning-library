@@ -1,7 +1,7 @@
 #separator:tab
 #html:true
 #notetype:Basic
-#deck:French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+#deck:French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA::Challenges
 #tags:french yosser lesson01 challenge
 #columns:Front	Back	Tags
 #tags column:3
