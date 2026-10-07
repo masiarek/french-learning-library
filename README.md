@@ -38,6 +38,7 @@ The examples are **stdlib-only, on purpose**. If you have `python3`, you can run
 | [Lesson 3: Regardons des photos](03_Szypowska/lecon_03_regardons_des_photos/README.md) | The reading, the word list, the grammar (imperative, definite article, *de*, *à*) and the exercises as one table of French, English with Polish, and IPA |
 | [Lesson 4: Chez les Lefèvre](03_Szypowska/lecon_04_chez_les_lefevre/README.md) | A flat on the rue du Bac, the letter *c*, elision, *du, de la, de l', des*, the exercises with a translation into French |
 | [Lesson 5: Dialogue](03_Szypowska/lecon_05_dialogue/README.md) | *Avoir* in the present and in the negative, *ne … pas de*, *est-ce que* against inversion, school things |
+| [Lesson 6: En visite](03_Szypowska/lecon_06_en_visite/README.md) | A Sunday visit: the numbers six to twelve, *au, à la, à l', aux*, adjectives that agree, plurals in *-eaux*, *messieurs* and *mesdames*, inversion after direct speech |
 
 ## Other ways in
 

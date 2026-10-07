@@ -1,0 +1,36 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Szypowska (PL-FR)::Lesson 6: En visite::Challenges
+#tags:french szypowska lecon06 challenge
+#columns:Front	Back	Tags
+#tags column:3
+au, à la, à l’ or aux: Elle donne un livre ___ garçon.	au garçon /o ɡaʁsɔ̃/ (au = à + le, masculine, consonant)	grammar
+au, à la, à l’ or aux: Il offre des gâteaux ___ enfants.	aux enfants /oz‿ɑ̃fɑ̃/ (aux = à + les, plural; the x sounds as /z/)	grammar
+au, à la, à l’ or aux: Elle donne des bonbons ___ fille.	à la fille /a la fij/ (feminine, consonant)	grammar
+au, à la, à l’ or aux: Je dis bonjour ___ amie de Pierre.	à l’amie de Pierre /a lami də pjɛʁ/ (any noun beginning with a vowel)	grammar
+Say: Mr Bertin says to the dog: “Stay still!”	M. Bertin dit au chien : « Reste tranquille ! » /məsjø bɛʁtɛ̃ di o ʃjɛ̃ : ʁɛst tʁɑ̃kil/	say
+Say: The birds sing in the trees.	Les oiseaux chantent dans les arbres. /lez‿wazo ʃɑ̃t dɑ̃ lez‿aʁbʁ/	say
+Say: I am ten, and my little sister is six.	J’ai dix ans, et ma petite sœur a six ans. /ʒe diz‿ɑ̃, e ma pətit sœʁ a siz‿ɑ̃/	say
+Say: Their friends arrive by bus one Sunday.	Leurs amis arrivent en autobus un dimanche. /lœʁz‿ami aʁiv ɑ̃n‿otobys œ̃ dimɑ̃ʃ/	say
+Say: Come in, dear friends!	Entrez, chers amis ! /ɑ̃tʁe, ʃɛʁz‿ami/ (no article in the vocative)	say
+Say: In Paris we have no garden.	À Paris nous n’avons pas de jardin. /a paʁi nu navɔ̃ pa də ʒaʁdɛ̃/	say
+Count from six to twelve, with IPA	six /sis/ · sept /sɛt/ · huit /ɥit/ · neuf /nœf/ · dix /dis/ · onze /ɔ̃z/ · douze /duz/	say
+How are six, dix and neuf read before ans and heures?	six ans /siz‿ɑ̃/, dix ans /diz‿ɑ̃/, neuf heures /nœv‿œʁ/: s and x sound as /z/, the f of neuf as /v/ (only before ans and heures)	sound
+How are six, dix and huit read before a consonant?	six livres /si livʁ/, dix jours /di ʒuʁ/, huit jours /ɥi ʒuʁ/: the final consonant is silent	sound
+Plural of un gâteau, un oiseau, un cadeau	des gâteaux /de ɡɑto/, des oiseaux /dez‿wazo/, des cadeaux /de kado/: -eau takes -x	grammar
+Plural of monsieur and madame	messieurs /mesjø/, mesdames /medam/: both halves change (mes sieurs, mes dames)	grammar
+Feminine of petit, grand, gros, noir	petite /pətit/, grande /ɡʁɑ̃d/, grosse /ɡʁos/, noire /nwaʁ/: add -e, and the final consonant sounds (gros doubles the s)	grammar
+Why les in J’aime les arbres et les fleurs?	A kind in general takes the definite article: trees and flowers as such. /ʒɛm lez‿aʁbʁ e le flœʁ/	grammar
+What happens to the verb after direct speech: « Entrez ! » ___ il	Inversion: dit-il /ditil/, dit Mme Lefèvre /di madam ləfɛvʁ/, demande-t-elle /dəmɑ̃dtɛl/	grammar
+Read the book’s brackets: [nöf], [leflö:r], [lasö:r]	neuf /nœf/, les fleurs /le flœʁ/, la sœur /la sœʁ/: the book’s ö is /œ/	notation
+Read the book’s brackets: [luazo], [dozãfã], [ãnɔtɔbüs]	l’oiseau /lwazo/, deux enfants /døz‿ɑ̃fɑ̃/, en autobus /ɑ̃n‿otobys/	notation
+Read the book’s bracket: [kɛla:ż atü]	quel âge as-tu ? /kɛl ɑʒ a ty/	notation
+The liaisons in the first two sentences of the reading	les‿environs /lez‿ɑ̃viʁɔ̃/, ils‿ont /ilz‿ɔ̃/, deux‿enfants /døz‿ɑ̃fɑ̃/	sound
+What is le goûter, and when?	The children’s afternoon snack, around four o’clock. /lə ɡute/ The verb goûter is to taste.	words
+Who are les grandes personnes?	The grown-ups, in children’s words. /le ɡʁɑ̃d pɛʁsɔn/ The neutral word is les adultes /lez‿adylt/.	words
+Translate: Give fruit to the children!	Donne des fruits aux enfants ! /dɔn de fʁɥi oz‿ɑ̃fɑ̃/	exercise
+Translate: We give sweets to the girl.	Nous donnons des bonbons à la fille. /nu dɔnɔ̃ de bɔ̃bɔ̃ a la fij/	exercise
+Make plural: L’oiseau chante dans l’arbre.	Les oiseaux chantent dans les arbres. /lez‿wazo ʃɑ̃t dɑ̃ lez‿aʁbʁ/	exercise
+Answer: Quel âge a la petite fille ?	Elle a six ans. /ɛl a siz‿ɑ̃/	exercise
+Three flowers of the lesson, with IPA	le lilas /lə lila/ (lilac) · le muguet /lə myɡɛ/ (lily of the valley) · l’œillet /lœjɛ/ (carnation)	words
