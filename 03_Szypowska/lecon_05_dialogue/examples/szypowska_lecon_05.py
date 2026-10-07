@@ -1,12 +1,14 @@
-"""Lesson 5 of Szypowska's textbook, first page, read back by a program.
+"""Lesson 5 of Szypowska's textbook, read back by a program.
 
-The page holds the dialogue of the lesson as one table: French, English with
+The page holds the French of the lesson as one table: French, English with
 Polish below, IPA after Le Robert. The book gives its own transcription in
-square brackets under every line. This program types those brackets in,
+square brackets under every line of the dialogue and beside every word of
+the list and the grammar tables. This program types those brackets in,
 reletters them with the key on the chapter page, and holds the result to the
-page's IPA, line by line; it also checks that every symbol on the page is a
-French phoneme. One line parts from the page: the book prints [że] for the
-je of je n'ai, where /ʒə/ is expected.
+page's IPA, item by item; it also checks that every symbol on the page is a
+French phoneme. Two brackets part from the page: the dialogue prints [że]
+for the je of je n'ai pas, where /ʒə/ is expected and where the word list
+itself has [żənepa]; and interrogative has [o] where Le Robert has /ɔ/.
 
 The French inventory is the one of the Sounds chapter's first lesson
 (01_Sounds/ipa_english_vs_french), and the key is the chapter page's table;
@@ -67,11 +69,68 @@ BOOK = [
     ('Est-ce que Pierre a une plume ?', 'ɛskə pjɛ:r a ün plüm'),
     ('A-t-il une plume ?', 'atil ün plüm'),
     ('Oui, il a une plume.', 'ui il a ün plüm'),
+    ('Est-ce qu’Annette a un cahier ?', 'ɛskanɛt a œ̃ kaje'),
+    ('A-t-elle un cahier ?', 'atɛl œ̃ kaje'),
+    ('Oui, elle a un cahier.', 'ui ɛl a œ̃ kaje'),
+    ('Est-ce que Pierre et Annette ont des crayons ?', 'ɛskə pjɛ:r e anɛt õ de krɛjõ'),
+    ('Ont-ils des crayons ?', 'õtil de krɛjõ'),
+    ('Oui, ils ont des crayons.', 'ui ilzõ de krɛjõ'),
+    ('Est-ce qu’ils ont des cahiers ?', 'ɛskilzõ de kaje'),
+    ('Non, ils n’ont pas de cahiers.', 'nõ il nõ pa də kaje'),
+    ('cinq', 'sɛ̃k'),
+    ('cinquième', 'sɛ̃kjɛm'),
+    ('j’ai', 'że'),
+    ('un stylo', 'œ̃ stilo'),
+    ('vous avez', 'wuzawe'),
+    ('avez-vous ?', 'awewu'),
+    ('un carnet', 'œ̃ karnɛ'),
+    ('as-tu ?', 'atü'),
+    ('un canif', 'œ̃ kanif'),
+    ('je n’ai pas', 'żənepa'),
+    ('Annette', 'anɛt'),
+    ('un crayon', 'œ̃ krɛjõ'),
+    ('nous avons', 'nuzawõ'),
+    ('mais', 'mɛ'),
+    ('nous n’avons pas', 'nunawõpa'),
+    ('il a', 'il a'),
+    ('une plume', 'ünplüm'),
+    ('un cahier', 'œ̃ kaje'),
+    ('(ils, elles) ont', 'ilzõ ɛlzõ'),
+    ('je n’ai pas de canif', 'żə ne pa dəkanif'),
+    ('nous n’avons pas de cahiers', 'nu nawõ pa də kaje'),
+    ('l’encre (ż)', 'lãkr'),
+    ('un encrier', 'œ̃nãkrije'),
+    ('une gomme', 'ün gɔm'),
+    ('un papier buvard', 'œ̃ papje büwa:r'),
+    ('une règle', 'ün rɛgl'),
+    ('un stylo à bille', 'œ̃ stilo a bij'),
+    ('ont-ils', 'õtil'),
+    ('cahier', 'kaje'),
+    ('avoir', 'awua:r'),
+    ('Forme affirmative', 'fɔrm afirmati:w'),
+    ('tu as', 'tü a'),
+    ('elle a', 'ɛl a'),
+    ('on a', 'õ na'),
+    ('ils ont', 'ilzõ'),
+    ('elles ont', 'ɛlzõ'),
+    ('Forme négative', 'fɔrm negati:w'),
+    ('tu n’as pas', 'tünapa'),
+    ('il n’a pas', 'ilnapa'),
+    ('elle n’a pas', 'ɛlnapa'),
+    ('on n’a pas', 'õnapa'),
+    ('vous n’avez pas', 'wunawepa'),
+    ('ils n’ont pas', 'ilnõpa'),
+    ('elles n’ont pas', 'ɛlnõpa'),
+    ('Forme interrogative', 'fɔrmɛ̃terogati:w'),
+    ('est-ce que j’ai ?', 'ɛskəże'),
+    ('a-t-il ?', 'atil'),
+    ('a-t-elle ?', 'atɛl'),
+    ('a-t-on ?', 'atõ'),
 ]
 
 # Where the book and Le Robert are expected to part: (book, Le Robert).
-EXPECTED = {("e", "ə")}
-EXPECTED_LABEL = "the e the book prints for je in one line"
+EXPECTED = {("e", "ə"), ("o", "ɔ")}
+EXPECTED_LABEL = "the e the book prints for je in one line, and the o of interrogative"
 
 
 def table_rows(text: str) -> list[list[str]]:

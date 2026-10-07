@@ -8,7 +8,13 @@ The owner's Polish textbook of French, by Szypowska, teaches in numbered lessons
 |---|---|---|
 | 3 | [Lesson 3: Regardons des photos](lecon_03_regardons_des_photos/README.md) | Photos of Suzanne and Pierre, Paris and Warsaw; the word list; the imperative, the definite article, *de* as the genitive, *à* with a city; the exercises with a translation into French |
 | 4 | [Lesson 4: Chez les Lefèvre](lecon_04_chez_les_lefevre/README.md) | A visit to the Lefèvres' flat, rue du Bac; the word list; the letter *c*; elision; *du, de la, de l', des*; the exercises with a translation into French |
-| 5 | [Lesson 5: Dialogue](lecon_05_dialogue/README.md) | *J'ai un stylo*: having and not having, with *ne … pas de*; the first page of the lesson only, so far |
+| 5 | [Lesson 5: Dialogue](lecon_05_dialogue/README.md) | *J'ai un stylo*: *avoir* in the present, affirmative, negative and interrogative; *ne … pas de*; *est-ce que* against inversion; the word list; the exercises with a translation into French |
+
+How to read a lesson's table: French as printed, bold rows for the sections, `________` for a blank; English with the Polish below it, the book's Polish in the word lists and the grammar examples and mine elsewhere; IPA after Le Robert's key, from memory, with ‿ for a compulsory liaison. The answers to the exercises are mine, not the book's: an answer follows the sentence after →, or sits in square brackets inside the IPA where the sentence has a blank. A program under each table reads it back from the page and holds the book's own brackets to it with the key below.
+
+## Anki
+
+One file imports the whole chapter: [`anki/szypowska_all.txt`](anki/szypowska_all.txt), with a subdeck per lesson. Each lesson folder also has its own two decks under `anki/`: one generated from the lesson's table by `tools/anki_from_tables.py` (every word, question and sentence, French to meaning and meaning to French, and the exercises with their answers), and one of challenges written by hand (say it, make it negative, read the book's bracket, which article). Cards carry the tags `fr-en`, `en-fr`, `exercise` and `challenge`, so one direction can be suspended at a stroke.
 
 ## The book's notation, and Le Robert's
 

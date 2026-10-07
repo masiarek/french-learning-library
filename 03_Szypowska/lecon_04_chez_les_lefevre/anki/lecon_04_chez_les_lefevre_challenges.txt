@@ -1,0 +1,29 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Szypowska::Lesson 4: Chez les Lefèvre::Challenges
+#tags:french szypowska lecon04 challenge
+#columns:Front	Back	Tags
+#tags column:3
+du, de la, de l’ or des: le lit ___ garçon	le lit du garçon /lə li dy ɡaʁsɔ̃/ (du = de + le, before a masculine noun with a consonant)	grammar
+du, de la, de l’ or des: la chambre ___ parents	la chambre des parents /la ʃɑ̃bʁ de paʁɑ̃/ (des = de + les)	grammar
+du, de la, de l’ or des: l’appartement ___ famille	l’appartement de la famille /lapaʁtəmɑ̃ də la famij/ (feminine, consonant: no contraction)	grammar
+du, de la, de l’ or des: la photo ___ amie	la photo de l’amie /la fɔto də lami/ (any noun beginning with a vowel or mute h)	grammar
+de alone, with no article: when?	Before a proper name: de Jean, de Marie, de Monsieur Lefèvre /də məsjø ləfɛvʁ/	grammar
+How is c read in cuisine, ici, avec?	cuisine /kɥizin/: /k/ before a, u · ici /isi/: /s/ before i · avec /avɛk/: /k/ at the end of a short word after a vowel	sound
+Why l’appartement and not le appartement?	Elision: le loses its vowel before a vowel. /lapaʁtəmɑ̃/	grammar
+Say: Mr Lefèvre’s study	le cabinet de travail de Monsieur Lefèvre /lə kabinɛ də tʁavaj də məsjø ləfɛvʁ/	say
+Say: the dining room, the bathroom, the kitchen, the bedroom	la salle à manger /la sal a mɑ̃ʒe/ · la salle de bain /la sal də bɛ̃/ · la cuisine /la kɥizin/ · la chambre /la ʃɑ̃bʁ/	say
+Say: We go in. Then we go out.	Nous entrons. /nuz‿ɑ̃tʁɔ̃/ Ensuite nous sortons. /ɑ̃sɥit nu sɔʁtɔ̃/	say
+Say: Mr and Mrs Lefèvre live in a flat on the rue du Bac.	Monsieur et Madame Lefèvre habitent un appartement rue du Bac. /məsjø e madam ləfɛvʁ abit‿œ̃n‿apaʁtəmɑ̃ ʁy dy bak/	say
+Read the book’s bracket: [abitœ̃napartəmã]	habitent un appartement /abit‿œ̃n‿apaʁtəmɑ̃/: two liaisons, written as one word by the book	notation
+Read the book’s brackets: [küizin], [szã:br]	cuisine /kɥizin/ (üi is /ɥi/) · chambre /ʃɑ̃bʁ/ (sz is /ʃ/; the colon is length, which Le Robert drops)	notation
+Read the book’s bracket: [lə diwã]	le divan /lə divɑ̃/	notation
+The first-conjugation verbs of this lesson, in the infinitive	habiter /abite/ · entrer /ɑ̃tʁe/ · visiter /vizite/ · manger /mɑ̃ʒe/ · montrer /mɔ̃tʁe/	grammar
+Nous + visiter, entrer, sortir	nous visitons /nu vizitɔ̃/ · nous entrons /nuz‿ɑ̃tʁɔ̃/ · nous sortons /nu sɔʁtɔ̃/ (sortir is not first conjugation)	grammar
+Fill in: Voici ___ chambre ___ parents.	Voici la chambre des parents. /vwasi la ʃɑ̃bʁ de paʁɑ̃/	exercise
+Answer yes, with je and with nous: Montres-tu la cuisine ?	Oui, je montre la cuisine. /wi, ʒə mɔ̃tʁ la kɥizin/ · Oui, nous montrons la cuisine. /wi, nu mɔ̃tʁɔ̃ la kɥizin/	exercise
+Translate: Show the boy’s divan!	Montre le divan du garçon ! /mɔ̃tʁ lə divɑ̃ dy ɡaʁsɔ̃/	exercise
+Translate: Here is the flat of Pierre’s parents.	Voici l’appartement des parents de Pierre. /vwasi lapaʁtəmɑ̃ de paʁɑ̃ də pjɛʁ/	exercise
+What does rue du Bac mean, literally?	Ferry Street: it runs towards the Seine, to where a ferry once crossed. /la ʁy dy bak/	realia
+Which letters spell /ɑ̃/ in divan, parents, chambre, manger, appartement?	an, en, am: /divɑ̃, paʁɑ̃, ʃɑ̃bʁ, mɑ̃ʒe, apaʁtəmɑ̃/	sound
