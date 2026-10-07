@@ -1,0 +1,38 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+#tags:french yosser lesson01 challenge
+#columns:Front	Back	Tags
+#tags column:3
+Answer in French: Comment s’appelle le garçon ?	Il s’appelle Adam. /il sapɛl adam/	comprehension
+Answer in French: Quel âge a-t-il ?	Il a treize ans. /il a tʁɛz ɑ̃/	comprehension
+Answer in French: Avec qui habite-t-il ?	Il habite avec sa famille. /il abit avɛk sa famij/	comprehension
+Answer in French: Comment est sa maison ?	Sa maison est grande, belle et confortable. /sa mɛzɔ̃ ɛ ɡʁɑ̃d, bɛl e kɔ̃fɔʁtabl/	comprehension
+Answer in French: Combien de chambres y a-t-il dans la maison ?	Il y a trois chambres. /il j a tʁwa ʃɑ̃bʁ/	comprehension
+Answer in French: Combien de salles de bains y a-t-il ?	Il y a deux salles de bains. /il j a dø sal də bɛ̃/	comprehension
+Answer in French: Est-ce qu’il y a un jardin ?	Oui, il y a un petit jardin. /wi, il j a œ̃ pəti ʒaʁdɛ̃/	comprehension
+Answer in French: Où est la chambre d’Adam ?	Sa chambre est au premier étage. /sa ʃɑ̃bʁ ɛ o pʁəmjɛʁ‿etaʒ/	comprehension
+Answer in French: Qu’est-ce qu’il y a dans sa chambre ?	Il y a un lit, un bureau, une chaise et une armoire. /il j a œ̃ li, œ̃ byʁo, yn ʃɛz e yn aʁmwaʁ/	comprehension
+Answer in French: Qu’est-ce qu’il y a sur son bureau ?	Il y a ses livres et ses cahiers. /il j a se livʁ e se kaje/	comprehension
+Answer in French: Pourquoi aime-t-il sa maison ?	Il aime sa maison parce qu’il peut jouer, étudier et regarder la télévision avec sa famille. /il ɛm sa mɛzɔ̃ paʁs kil pø ʒwe, etydje e ʁəɡaʁde la televizjɔ̃ avɛk sa famij/	comprehension
+Vrai ou faux, and correct it: Adam habite dans un appartement.	Faux. Adam habite dans une maison. /adam abit dɑ̃z‿yn mɛzɔ̃/	vrai-faux
+Vrai ou faux, and correct it: Il y a une salle de bains.	Faux. Il y a deux salles de bains. /il j a dø sal də bɛ̃/	vrai-faux
+Vrai ou faux, and correct it: Adam n’aime pas sa maison.	Faux. Adam aime beaucoup sa maison. /adam ɛm boku sa mɛzɔ̃/	vrai-faux
+The rooms of the house: living room, kitchen, bedroom, bathroom, toilet, dining room, garden, garage	le salon /lə salɔ̃/ · la cuisine /la kɥizin/ · la chambre /la ʃɑ̃bʁ/ · la salle de bains /la sal də bɛ̃/ · les toilettes /le twalɛt/ · la salle à manger /la sal a mɑ̃ʒe/ · le jardin /lə ʒaʁdɛ̃/ · le garage /lə ɡaʁaʒ/	vocabulary
+The furniture: sofa, table, chair, bed, desk, wardrobe, television, lamp, rug, window, door	un canapé /œ̃ kanape/ · une table /yn tabl/ · une chaise /yn ʃɛz/ · un lit /œ̃ li/ · un bureau /œ̃ byʁo/ · une armoire /yn aʁmwaʁ/ · une télévision /yn televizjɔ̃/ · une lampe /yn lɑ̃p/ · un tapis /œ̃ tapi/ · une fenêtre /yn fənɛtʁ/ · une porte /yn pɔʁt/	vocabulary
+Un or une: ___ lit, ___ chaise, ___ bureau, ___ armoire, ___ canapé, ___ lampe	un lit, une chaise, un bureau, une armoire, un canapé, une lampe /œ̃ li, yn ʃɛz, œ̃ byʁo, yn aʁmwaʁ, œ̃ kanape, yn lɑ̃p/	grammar
+What is the structure of il y a, and what does it say?	Il y a + un / une / des + noun: a person or a thing is in a place. Il y a un canapé dans le salon. /il j a œ̃ kanape dɑ̃ lə salɔ̃/	grammar
+Say: There are three bedrooms in the house.	Il y a trois chambres dans la maison. /il j a tʁwa ʃɑ̃bʁ dɑ̃ la mɛzɔ̃/	say
+Say: In the garden there are flowers.	Dans le jardin, il y a des fleurs. /dɑ̃ lə ʒaʁdɛ̃, il j a de flœʁ/	say
+The prepositions of place: inside, on, under, in front of, behind, next to	dans /dɑ̃/ · sur /syʁ/ · sous /su/ · devant /dəvɑ̃/ · derrière /dɛʁjɛʁ/ · à côté de /a kote də/	vocabulary
+Say: The book is on the desk. The bag is under the table.	Le livre est sur le bureau. /lə livʁ ɛ syʁ lə byʁo/ Le sac est sous la table. /lə sak ɛ su la tabl/	say
+Say: The chair is next to the desk. The car is in front of the house.	La chaise est à côté du bureau. /la ʃɛz ɛ(t)‿a kote dy byʁo/ La voiture est devant la maison. /la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃/	say
+Say: The garden is behind the house.	Le jardin est derrière la maison. /lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ la mɛzɔ̃/	say
+Say: My bedroom is on the first floor. It is small but pretty.	Ma chambre est au premier étage. /ma ʃɑ̃bʁ ɛ o pʁəmjɛʁ‿etaʒ/ Elle est petite mais jolie. /ɛl ɛ pətit mɛ ʒɔli/	say
+Say: I like my house a lot because I can play and study.	J’aime beaucoup ma maison parce que je peux jouer et étudier. /ʒɛm boku ma mɛzɔ̃ paʁs kə ʒə pø ʒwe e etydje/	say
+Where is the liaison in dans une grande maison, and what sound does it add?	dans‿une /dɑ̃z‿yn/: the silent s of dans sounds as /z/ before the vowel.	sound
+Why is premier étage read /pʁəmjɛʁ‿etaʒ/ when premier alone is /pʁəmje/?	Liaison: the silent r of premier sounds before the vowel of étage, and the e opens to /ɛ/.	sound
+Un and une: how do they sound apart?	un /œ̃/, a nasal vowel; une /yn/, with the n sounded. un lit /œ̃ li/, une chaise /yn ʃɛz/	sound
+Complete with the word bank: Adam dort dans sa ________. Il y a un petit ________ derrière la maison.	chambre /ʃɑ̃bʁ/ · jardin /ʒaʁdɛ̃/	exercise
+Describe your house in three sentences, using il y a (a model answer)	J’habite dans un appartement. /ʒabit dɑ̃z‿œ̃n‿apaʁtəmɑ̃/ Dans mon appartement, il y a deux chambres et une cuisine. /dɑ̃ mɔ̃n‿apaʁtəmɑ̃, il j a dø ʃɑ̃bʁ e yn kɥizin/ Sur mon bureau, il y a mes livres. /syʁ mɔ̃ byʁo, il j a me livʁ/	say

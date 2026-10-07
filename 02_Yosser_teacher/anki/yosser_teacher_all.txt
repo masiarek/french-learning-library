@@ -1,0 +1,292 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+le salon	the living room<br>/lə salɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+the living room	le salon<br>/lə salɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+la cuisine	the kitchen<br>/la kɥizin/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+the kitchen	la cuisine<br>/la kɥizin/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+la chambre	the bedroom<br>/la ʃɑ̃bʁ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+the bedroom	la chambre<br>/la ʃɑ̃bʁ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+la salle de bains	the bathroom<br>/la sal də bɛ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+the bathroom	la salle de bains<br>/la sal də bɛ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+les toilettes	the toilet<br>/le twalɛt/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+the toilet	les toilettes<br>/le twalɛt/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+la salle à manger	the dining room<br>/la sal a mɑ̃ʒe/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+the dining room	la salle à manger<br>/la sal a mɑ̃ʒe/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+le jardin	the garden<br>/lə ʒaʁdɛ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+the garden	le jardin<br>/lə ʒaʁdɛ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+le garage	the garage<br>/lə ɡaʁaʒ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+the garage	le garage<br>/lə ɡaʁaʒ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+un canapé	a sofa<br>/œ̃ kanape/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a sofa	un canapé<br>/œ̃ kanape/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+une table	a table<br>/yn tabl/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a table	une table<br>/yn tabl/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+une chaise	a chair<br>/yn ʃɛz/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a chair	une chaise<br>/yn ʃɛz/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+un lit	a bed<br>/œ̃ li/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a bed	un lit<br>/œ̃ li/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+un bureau	a desk<br>/œ̃ byʁo/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a desk	un bureau<br>/œ̃ byʁo/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+une armoire	a wardrobe<br>/yn aʁmwaʁ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a wardrobe	une armoire<br>/yn aʁmwaʁ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+une télévision	a television<br>/yn televizjɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a television	une télévision<br>/yn televizjɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+une lampe	a lamp<br>/yn lɑ̃p/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a lamp	une lampe<br>/yn lɑ̃p/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+un tapis	a carpet, a rug<br>/œ̃ tapi/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a carpet, a rug	un tapis<br>/œ̃ tapi/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+une fenêtre	a window<br>/yn fənɛtʁ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a window	une fenêtre<br>/yn fənɛtʁ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+une porte	a door<br>/yn pɔʁt/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a door	une porte<br>/yn pɔʁt/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Je m’appelle Adam.	My name is Adam.<br>/ʒə mapɛl adam/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+My name is Adam.	Je m’appelle Adam.<br>/ʒə mapɛl adam/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+J’ai treize ans.	I am thirteen years old.<br>/ʒe tʁɛz ɑ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+I am thirteen years old.	J’ai treize ans.<br>/ʒe tʁɛz ɑ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+J’habite dans une grande maison avec ma famille.	I live in a big house with my family.<br>/ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+I live in a big house with my family.	J’habite dans une grande maison avec ma famille.<br>/ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Ma maison est belle et confortable.	My house is beautiful and comfortable.<br>/ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+My house is beautiful and comfortable.	Ma maison est belle et confortable.<br>/ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Dans ma maison, il y a un salon, une cuisine, trois chambres et deux salles de bains.	In my house there is a living room, a kitchen, three bedrooms and two bathrooms.<br>/dɑ̃ ma mɛzɔ̃, il j a œ̃ salɔ̃, yn kɥizin, tʁwa ʃɑ̃bʁ e dø sal də bɛ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+In my house there is a living room, a kitchen, three bedrooms and two bathrooms.	Dans ma maison, il y a un salon, une cuisine, trois chambres et deux salles de bains.<br>/dɑ̃ ma mɛzɔ̃, il j a œ̃ salɔ̃, yn kɥizin, tʁwa ʃɑ̃bʁ e dø sal də bɛ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Il y a aussi un petit jardin.	There is also a small garden.<br>/il j a osi œ̃ pəti ʒaʁdɛ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+There is also a small garden.	Il y a aussi un petit jardin.<br>/il j a osi œ̃ pəti ʒaʁdɛ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Dans le salon, il y a un canapé, une télévision, une table et quatre chaises.	In the living room there is a sofa, a television, a table and four chairs.<br>/dɑ̃ lə salɔ̃, il j a œ̃ kanape, yn televizjɔ̃, yn tabl e katʁ ʃɛz/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+In the living room there is a sofa, a television, a table and four chairs.	Dans le salon, il y a un canapé, une télévision, une table et quatre chaises.<br>/dɑ̃ lə salɔ̃, il j a œ̃ kanape, yn televizjɔ̃, yn tabl e katʁ ʃɛz/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Ma chambre est au premier étage.	My bedroom is on the first floor.<br>/ma ʃɑ̃bʁ ɛ o pʁəmjɛʁ‿etaʒ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+My bedroom is on the first floor.	Ma chambre est au premier étage.<br>/ma ʃɑ̃bʁ ɛ o pʁəmjɛʁ‿etaʒ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Elle est petite mais jolie.	It is small but pretty.<br>/ɛl ɛ pətit mɛ ʒɔli/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+It is small but pretty.	Elle est petite mais jolie.<br>/ɛl ɛ pətit mɛ ʒɔli/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Dans ma chambre, il y a un lit, un bureau, une chaise et une armoire.	In my bedroom there is a bed, a desk, a chair and a wardrobe.<br>/dɑ̃ ma ʃɑ̃bʁ, il j a œ̃ li, œ̃ byʁo, yn ʃɛz e yn aʁmwaʁ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+In my bedroom there is a bed, a desk, a chair and a wardrobe.	Dans ma chambre, il y a un lit, un bureau, une chaise et une armoire.<br>/dɑ̃ ma ʃɑ̃bʁ, il j a œ̃ li, œ̃ byʁo, yn ʃɛz e yn aʁmwaʁ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Sur mon bureau, il y a mes livres et mes cahiers.	On my desk there are my books and my notebooks.<br>/syʁ mɔ̃ byʁo, il j a me livʁ e me kaje/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+On my desk there are my books and my notebooks.	Sur mon bureau, il y a mes livres et mes cahiers.<br>/syʁ mɔ̃ byʁo, il j a me livʁ e me kaje/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+J’aime beaucoup ma maison parce que je peux jouer, étudier et regarder la télévision avec ma famille.	I like my house a lot because I can play, study and watch television with my family.<br>/ʒɛm boku ma mɛzɔ̃ paʁs kə ʒə pø ʒwe, etydje e ʁəɡaʁde la televizjɔ̃ avɛk ma famij/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+I like my house a lot because I can play, study and watch television with my family.	J’aime beaucoup ma maison parce que je peux jouer, étudier et regarder la télévision avec ma famille.<br>/ʒɛm boku ma mɛzɔ̃ paʁs kə ʒə pø ʒwe, etydje e ʁəɡaʁde la televizjɔ̃ avɛk ma famij/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Réponds aux questions.	Answer the questions.<br>/ʁepɔ̃ o kɛstjɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Answer the questions.	Réponds aux questions.<br>/ʁepɔ̃ o kɛstjɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+1. Comment s’appelle le garçon ?	What is the boy’s name?<br>/kɔmɑ̃ sapɛl lə ɡaʁsɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+What is the boy’s name?	1. Comment s’appelle le garçon ?<br>/kɔmɑ̃ sapɛl lə ɡaʁsɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+2. Quel âge a-t-il ?	How old is he?<br>/kɛl ɑʒ atil/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+How old is he?	2. Quel âge a-t-il ?<br>/kɛl ɑʒ atil/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+3. Avec qui habite-t-il ?	Who does he live with?<br>/avɛk ki abitil/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Who does he live with?	3. Avec qui habite-t-il ?<br>/avɛk ki abitil/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+4. Comment est sa maison ?	What is his house like?<br>/kɔmɑ̃ ɛ sa mɛzɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+What is his house like?	4. Comment est sa maison ?<br>/kɔmɑ̃ ɛ sa mɛzɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+5. Combien de chambres y a-t-il dans la maison ?	How many bedrooms are there in the house?<br>/kɔ̃bjɛ̃ də ʃɑ̃bʁ jatil dɑ̃ la mɛzɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+How many bedrooms are there in the house?	5. Combien de chambres y a-t-il dans la maison ?<br>/kɔ̃bjɛ̃ də ʃɑ̃bʁ jatil dɑ̃ la mɛzɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+6. Combien de salles de bains y a-t-il ?	How many bathrooms are there?<br>/kɔ̃bjɛ̃ də sal də bɛ̃ jatil/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+How many bathrooms are there?	6. Combien de salles de bains y a-t-il ?<br>/kɔ̃bjɛ̃ də sal də bɛ̃ jatil/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+7. Est-ce qu’il y a un jardin ?	Is there a garden?<br>/ɛs kil j a œ̃ ʒaʁdɛ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Is there a garden?	7. Est-ce qu’il y a un jardin ?<br>/ɛs kil j a œ̃ ʒaʁdɛ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+8. Où est la chambre d’Adam ?	Where is Adam’s bedroom?<br>/u ɛ la ʃɑ̃bʁ dadam/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Where is Adam’s bedroom?	8. Où est la chambre d’Adam ?<br>/u ɛ la ʃɑ̃bʁ dadam/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+9. Qu’est-ce qu’il y a dans sa chambre ?	What is there in his bedroom?<br>/kɛs kil j a dɑ̃ sa ʃɑ̃bʁ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+What is there in his bedroom?	9. Qu’est-ce qu’il y a dans sa chambre ?<br>/kɛs kil j a dɑ̃ sa ʃɑ̃bʁ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+10. Qu’est-ce qu’il y a sur son bureau ?	What is there on his desk?<br>/kɛs kil j a syʁ sɔ̃ byʁo/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+What is there on his desk?	10. Qu’est-ce qu’il y a sur son bureau ?<br>/kɛs kil j a syʁ sɔ̃ byʁo/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+11. Est-ce qu’Adam aime sa maison ?	Does Adam like his house?<br>/ɛs kadam ɛm sa mɛzɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Does Adam like his house?	11. Est-ce qu’Adam aime sa maison ?<br>/ɛs kadam ɛm sa mɛzɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+12. Pourquoi aime-t-il sa maison ?	Why does he like his house?<br>/puʁkwa ɛmtil sa mɛzɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Why does he like his house?	12. Pourquoi aime-t-il sa maison ?<br>/puʁkwa ɛmtil sa mɛzɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Écris Vrai ou Faux.	Write True or False.<br>/ekʁi vʁɛ u fo/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Write True or False.	Écris Vrai ou Faux.<br>/ekʁi vʁɛ u fo/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+1. Adam a treize ans.	Adam is thirteen years old.<br>/adam a tʁɛz ɑ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Adam is thirteen years old.	1. Adam a treize ans.<br>/adam a tʁɛz ɑ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+2. Adam habite dans un appartement.	Adam lives in a flat.<br>/adam abit dɑ̃z‿œ̃n‿apaʁtəmɑ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Adam lives in a flat.	2. Adam habite dans un appartement.<br>/adam abit dɑ̃z‿œ̃n‿apaʁtəmɑ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+3. Adam habite avec sa famille.	Adam lives with his family.<br>/adam abit avɛk sa famij/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Adam lives with his family.	3. Adam habite avec sa famille.<br>/adam abit avɛk sa famij/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+4. Il y a trois chambres dans la maison.	There are three bedrooms in the house.<br>/il j a tʁwa ʃɑ̃bʁ dɑ̃ la mɛzɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+There are three bedrooms in the house.	4. Il y a trois chambres dans la maison.<br>/il j a tʁwa ʃɑ̃bʁ dɑ̃ la mɛzɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+5. Il y a une salle de bains.	There is one bathroom.<br>/il j a yn sal də bɛ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+There is one bathroom.	5. Il y a une salle de bains.<br>/il j a yn sal də bɛ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+6. Il y a un petit jardin.	There is a small garden.<br>/il j a œ̃ pəti ʒaʁdɛ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+There is a small garden.	6. Il y a un petit jardin.<br>/il j a œ̃ pəti ʒaʁdɛ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+7. La chambre d’Adam est au premier étage.	Adam’s bedroom is on the first floor.<br>/la ʃɑ̃bʁ dadam ɛ o pʁəmjɛʁ‿etaʒ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Adam’s bedroom is on the first floor.	7. La chambre d’Adam est au premier étage.<br>/la ʃɑ̃bʁ dadam ɛ o pʁəmjɛʁ‿etaʒ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+8. Dans sa chambre, il y a un lit et un bureau.	In his bedroom there is a bed and a desk.<br>/dɑ̃ sa ʃɑ̃bʁ, il j a œ̃ li e œ̃ byʁo/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+In his bedroom there is a bed and a desk.	8. Dans sa chambre, il y a un lit et un bureau.<br>/dɑ̃ sa ʃɑ̃bʁ, il j a œ̃ li e œ̃ byʁo/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+9. Il y a des livres et des cahiers sur son bureau.	There are books and notebooks on his desk.<br>/il j a de livʁ e de kaje syʁ sɔ̃ byʁo/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+There are books and notebooks on his desk.	9. Il y a des livres et des cahiers sur son bureau.<br>/il j a de livʁ e de kaje syʁ sɔ̃ byʁo/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+10. Adam n’aime pas sa maison.	Adam does not like his house.<br>/adam nɛm pa sa mɛzɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Adam does not like his house.	10. Adam n’aime pas sa maison.<br>/adam nɛm pa sa mɛzɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Complète avec les mots suivants :	Complete with the following words:<br>/kɔ̃plɛt avɛk le mo sɥivɑ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Complete with the following words:	Complète avec les mots suivants :<br>/kɔ̃plɛt avɛk le mo sɥivɑ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+maison – salon – cuisine – chambre – jardin – bureau	house – living room – kitchen – bedroom – garden – desk<br>/mɛzɔ̃ – salɔ̃ – kɥizin – ʃɑ̃bʁ – ʒaʁdɛ̃ – byʁo/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+house – living room – kitchen – bedroom – garden – desk	maison – salon – cuisine – chambre – jardin – bureau<br>/mɛzɔ̃ – salɔ̃ – kɥizin – ʃɑ̃bʁ – ʒaʁdɛ̃ – byʁo/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+1. Adam habite dans une grande ________.<br>(Complète les phrases)	/adam abit dɑ̃z‿yn ɡʁɑ̃d [mɛzɔ̃]/<br>Adam lives in a big ________.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+2. Dans le ________, il y a un canapé et une télévision.<br>(Complète les phrases)	/dɑ̃ lə [salɔ̃], il j a œ̃ kanape e yn televizjɔ̃/<br>In the ________ there is a sofa and a television.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+3. La ________ est la pièce où on prépare les repas.<br>(Complète les phrases)	/la [kɥizin] ɛ la pjɛs u ɔ̃ pʁepaʁ le ʁəpa/<br>The ________ is the room where meals are prepared.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+4. Adam dort dans sa ________.<br>(Complète les phrases)	/adam dɔʁ dɑ̃ sa [ʃɑ̃bʁ]/<br>Adam sleeps in his ________.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+5. Il y a un petit ________ derrière la maison.<br>(Complète les phrases)	/il j a œ̃ pəti [ʒaʁdɛ̃] dɛʁjɛʁ la mɛzɔ̃/<br>There is a small ________ behind the house.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+6. Adam fait ses devoirs sur son ________.<br>(Complète les phrases)	/adam fɛ se dəvwaʁ syʁ sɔ̃ [byʁo]/<br>Adam does his homework on his ________.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+1. Où est la chambre d’Adam ?	Where is Adam’s bedroom?<br>/u ɛ la ʃɑ̃bʁ dadam/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Where is Adam’s bedroom? (2)	1. Où est la chambre d’Adam ?<br>/u ɛ la ʃɑ̃bʁ dadam/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a) Au rez-de-chaussée.	On the ground floor.<br>/o ʁedʃose/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+On the ground floor.	a) Au rez-de-chaussée.<br>/o ʁedʃose/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+b) Au premier étage.	On the first floor.<br>/o pʁəmjɛʁ‿etaʒ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+On the first floor.	b) Au premier étage.<br>/o pʁəmjɛʁ‿etaʒ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+c) Dans le jardin.	In the garden.<br>/dɑ̃ lə ʒaʁdɛ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+In the garden.	c) Dans le jardin.<br>/dɑ̃ lə ʒaʁdɛ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+2. Combien de chambres y a-t-il dans la maison ?	How many bedrooms are there in the house?<br>/kɔ̃bjɛ̃ də ʃɑ̃bʁ jatil dɑ̃ la mɛzɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+How many bedrooms are there in the house? (2)	2. Combien de chambres y a-t-il dans la maison ?<br>/kɔ̃bjɛ̃ də ʃɑ̃bʁ jatil dɑ̃ la mɛzɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a) Deux.	Two.<br>/dø/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Two.	a) Deux.<br>/dø/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+b) Trois.	Three.<br>/tʁwa/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Three.	b) Trois.<br>/tʁwa/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+c) Quatre.	Four.<br>/katʁ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Four.	c) Quatre.<br>/katʁ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+3. Qu’est-ce qu’il y a dans le salon ?	What is there in the living room?<br>/kɛs kil j a dɑ̃ lə salɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+What is there in the living room?	3. Qu’est-ce qu’il y a dans le salon ?<br>/kɛs kil j a dɑ̃ lə salɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a) Un lit.	A bed.<br>/œ̃ li/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+A bed.	a) Un lit.<br>/œ̃ li/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+b) Une armoire.	A wardrobe.<br>/yn aʁmwaʁ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+A wardrobe.	b) Une armoire.<br>/yn aʁmwaʁ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+c) Un canapé.	A sofa.<br>/œ̃ kanape/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+A sofa.	c) Un canapé.<br>/œ̃ kanape/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+4. Qu’est-ce qu’il y a sur le bureau ?	What is there on the desk?<br>/kɛs kil j a syʁ lə byʁo/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+What is there on the desk?	4. Qu’est-ce qu’il y a sur le bureau ?<br>/kɛs kil j a syʁ lə byʁo/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a) Des livres et des cahiers.	Books and notebooks.<br>/de livʁ e de kaje/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Books and notebooks.	a) Des livres et des cahiers.<br>/de livʁ e de kaje/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+b) Des vêtements.	Clothes.<br>/de vɛtmɑ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Clothes.	b) Des vêtements.<br>/de vɛtmɑ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+c) Des fleurs.	Flowers.<br>/de flœʁ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Flowers.	c) Des fleurs.<br>/de flœʁ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+5. Avec qui Adam regarde-t-il la télévision ?	Who does Adam watch television with?<br>/avɛk ki adam ʁəɡaʁdtil la televizjɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Who does Adam watch television with?	5. Avec qui Adam regarde-t-il la télévision ?<br>/avɛk ki adam ʁəɡaʁdtil la televizjɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+a) Avec ses amis.	With his friends.<br>/avɛk sez‿ami/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+With his friends.	a) Avec ses amis.<br>/avɛk sez‿ami/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+b) Avec sa famille.	With his family.<br>/avɛk sa famij/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+With his family.	b) Avec sa famille.<br>/avɛk sa famij/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+c) Avec son professeur.	With his teacher.<br>/avɛk sɔ̃ pʁɔfɛsœʁ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+With his teacher.	c) Avec son professeur.<br>/avɛk sɔ̃ pʁɔfɛsœʁ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+On utilise « il y a » pour dire qu’une personne ou une chose se trouve dans un endroit.	“Il y a” is used to say that a person or a thing is in a place.<br>/ɔ̃n‿ytiliz il j a puʁ diʁ kyn pɛʁsɔn u yn ʃoz sə tʁuv dɑ̃z‿œ̃n‿ɑ̃dʁwa/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+“Il y a” is used to say that a person or a thing is in a place.	On utilise « il y a » pour dire qu’une personne ou une chose se trouve dans un endroit.<br>/ɔ̃n‿ytiliz il j a puʁ diʁ kyn pɛʁsɔn u yn ʃoz sə tʁuv dɑ̃z‿œ̃n‿ɑ̃dʁwa/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Exemples :	Examples:<br>/ɛɡzɑ̃pl/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Examples:	Exemples :<br>/ɛɡzɑ̃pl/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Il y a un canapé dans le salon.	There is a sofa in the living room.<br>/il j a œ̃ kanape dɑ̃ lə salɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+There is a sofa in the living room.	Il y a un canapé dans le salon.<br>/il j a œ̃ kanape dɑ̃ lə salɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Il y a une table dans la cuisine.	There is a table in the kitchen.<br>/il j a yn tabl dɑ̃ la kɥizin/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+There is a table in the kitchen.	Il y a une table dans la cuisine.<br>/il j a yn tabl dɑ̃ la kɥizin/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Il y a trois chambres dans la maison.	There are three bedrooms in the house.<br>/il j a tʁwa ʃɑ̃bʁ dɑ̃ la mɛzɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+There are three bedrooms in the house. (2)	Il y a trois chambres dans la maison.<br>/il j a tʁwa ʃɑ̃bʁ dɑ̃ la mɛzɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Il y a des livres sur le bureau.	There are books on the desk.<br>/il j a de livʁ syʁ lə byʁo/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+There are books on the desk.	Il y a des livres sur le bureau.<br>/il j a de livʁ syʁ lə byʁo/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Structure :	Structure:<br>/stʁyktyʁ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Structure:	Structure :<br>/stʁyktyʁ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Il y a + un / une / des + nom.	There is / there are + un / une / des + noun.<br>/il j a + œ̃, yn, de + nɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+There is / there are + un / une / des + noun.	Il y a + un / une / des + nom.<br>/il j a + œ̃, yn, de + nɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+1. Dans ma maison, ________ un salon.<br>(Complète avec « il y a »)	/dɑ̃ ma mɛzɔ̃, [il j a] œ̃ salɔ̃/<br>In my house ________ a living room.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+2. Dans ma chambre, ________ un lit.<br>(Complète avec « il y a »)	/dɑ̃ ma ʃɑ̃bʁ, [il j a] œ̃ li/<br>In my bedroom ________ a bed.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+3. Dans la cuisine, ________ une table.<br>(Complète avec « il y a »)	/dɑ̃ la kɥizin, [il j a] yn tabl/<br>In the kitchen ________ a table.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+4. Dans le jardin, ________ des fleurs.<br>(Complète avec « il y a »)	/dɑ̃ lə ʒaʁdɛ̃, [il j a] de flœʁ/<br>In the garden ________ flowers.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+5. Dans le salon, ________ un canapé.<br>(Complète avec « il y a »)	/dɑ̃ lə salɔ̃, [il j a] œ̃ kanape/<br>In the living room ________ a sofa.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+6. Dans ma chambre, ________ une armoire.<br>(Complète avec « il y a »)	/dɑ̃ ma ʃɑ̃bʁ, [il j a] yn aʁmwaʁ/<br>In my bedroom ________ a wardrobe.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Mots importants	Key words<br>/mo ɛ̃pɔʁtɑ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Key words	Mots importants<br>/mo ɛ̃pɔʁtɑ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+dans	inside, in<br>/dɑ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+inside, in	dans<br>/dɑ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+sur	on<br>/syʁ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+on	sur<br>/syʁ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+sous	under<br>/su/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+under	sous<br>/su/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+devant	in front of<br>/dəvɑ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+in front of	devant<br>/dəvɑ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+derrière	behind<br>/dɛʁjɛʁ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+behind	derrière<br>/dɛʁjɛʁ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+à côté de	next to<br>/a kote də/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+next to	à côté de<br>/a kote də/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Le livre est sur le bureau.	The book is on the desk.<br>/lə livʁ ɛ syʁ lə byʁo/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+The book is on the desk.	Le livre est sur le bureau.<br>/lə livʁ ɛ syʁ lə byʁo/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Le sac est sous la table.	The bag is under the table.<br>/lə sak ɛ su la tabl/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+The bag is under the table.	Le sac est sous la table.<br>/lə sak ɛ su la tabl/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+La chaise est à côté du bureau.	The chair is next to the desk.<br>/la ʃɛz ɛ(t)‿a kote dy byʁo/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+The chair is next to the desk.	La chaise est à côté du bureau.<br>/la ʃɛz ɛ(t)‿a kote dy byʁo/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+La voiture est devant la maison.	The car is in front of the house.<br>/la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+The car is in front of the house.	La voiture est devant la maison.<br>/la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Le jardin est derrière la maison.	The garden is behind the house.<br>/lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ la mɛzɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+The garden is behind the house.	Le jardin est derrière la maison.<br>/lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ la mɛzɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Utilise les phrases suivantes pour parler de ta maison :	Use the following sentences to talk about your house:<br>/ytiliz le fʁaz sɥivɑ̃t puʁ paʁle də ta mɛzɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Use the following sentences to talk about your house:	Utilise les phrases suivantes pour parler de ta maison :<br>/ytiliz le fʁaz sɥivɑ̃t puʁ paʁle də ta mɛzɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+J’habite dans une ________.<br>(Décris ta maison)	/ʒabit dɑ̃z‿yn …/<br>I live in a ________.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Ma maison est ________.<br>(Décris ta maison)	/ma mɛzɔ̃ ɛ …/<br>My house is ________.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Dans ma maison, il y a ________.<br>(Décris ta maison)	/dɑ̃ ma mɛzɔ̃, il j a …/<br>In my house there is ________.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Dans ma chambre, il y a ________.<br>(Décris ta maison)	/dɑ̃ ma ʃɑ̃bʁ, il j a …/<br>In my bedroom there is ________.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Dans le salon, il y a ________.<br>(Décris ta maison)	/dɑ̃ lə salɔ̃, il j a …/<br>In the living room there is ________.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Sur mon bureau, il y a ________.<br>(Décris ta maison)	/syʁ mɔ̃ byʁo, il j a …/<br>On my desk there is ________.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+J’aime ma maison parce que ________.<br>(Décris ta maison)	/ʒɛm ma mɛzɔ̃ paʁs kə …/<br>I like my house because ________.	french yosser lesson01 exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Exemple :	Example:<br>/ɛɡzɑ̃pl/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Example:	Exemple :<br>/ɛɡzɑ̃pl/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Ma chambre est petite mais jolie.	My bedroom is small but pretty.<br>/ma ʃɑ̃bʁ ɛ pətit mɛ ʒɔli/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+My bedroom is small but pretty.	Ma chambre est petite mais jolie.<br>/ma ʃɑ̃bʁ ɛ pətit mɛ ʒɔli/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Il y a un lit, un bureau et une armoire.	There is a bed, a desk and a wardrobe.<br>/il j a œ̃ li, œ̃ byʁo e yn aʁmwaʁ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+There is a bed, a desk and a wardrobe.	Il y a un lit, un bureau et une armoire.<br>/il j a œ̃ li, œ̃ byʁo e yn aʁmwaʁ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+J’aime beaucoup ma maison.	I like my house a lot.<br>/ʒɛm boku ma mɛzɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+I like my house a lot.	J’aime beaucoup ma maison.<br>/ʒɛm boku ma mɛzɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+1. Il s’appelle Adam.	His name is Adam.<br>/il sapɛl adam/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+His name is Adam.	1. Il s’appelle Adam.<br>/il sapɛl adam/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+2. Il a treize ans.	He is thirteen years old.<br>/il a tʁɛz ɑ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+He is thirteen years old.	2. Il a treize ans.<br>/il a tʁɛz ɑ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+3. Il habite avec sa famille.	He lives with his family.<br>/il abit avɛk sa famij/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+He lives with his family.	3. Il habite avec sa famille.<br>/il abit avɛk sa famij/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+4. Sa maison est grande, belle et confortable.	His house is big, beautiful and comfortable.<br>/sa mɛzɔ̃ ɛ ɡʁɑ̃d, bɛl e kɔ̃fɔʁtabl/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+His house is big, beautiful and comfortable.	4. Sa maison est grande, belle et confortable.<br>/sa mɛzɔ̃ ɛ ɡʁɑ̃d, bɛl e kɔ̃fɔʁtabl/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+5. Il y a trois chambres.	There are three bedrooms.<br>/il j a tʁwa ʃɑ̃bʁ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+There are three bedrooms.	5. Il y a trois chambres.<br>/il j a tʁwa ʃɑ̃bʁ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+6. Il y a deux salles de bains.	There are two bathrooms.<br>/il j a dø sal də bɛ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+There are two bathrooms.	6. Il y a deux salles de bains.<br>/il j a dø sal də bɛ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+7. Oui, il y a un petit jardin.	Yes, there is a small garden.<br>/wi, il j a œ̃ pəti ʒaʁdɛ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Yes, there is a small garden.	7. Oui, il y a un petit jardin.<br>/wi, il j a œ̃ pəti ʒaʁdɛ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+8. Sa chambre est au premier étage.	His bedroom is on the first floor.<br>/sa ʃɑ̃bʁ ɛ o pʁəmjɛʁ‿etaʒ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+His bedroom is on the first floor.	8. Sa chambre est au premier étage.<br>/sa ʃɑ̃bʁ ɛ o pʁəmjɛʁ‿etaʒ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+9. Il y a un lit, un bureau, une chaise et une armoire.	There is a bed, a desk, a chair and a wardrobe.<br>/il j a œ̃ li, œ̃ byʁo, yn ʃɛz e yn aʁmwaʁ/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+There is a bed, a desk, a chair and a wardrobe.	9. Il y a un lit, un bureau, une chaise et une armoire.<br>/il j a œ̃ li, œ̃ byʁo, yn ʃɛz e yn aʁmwaʁ/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+10. Il y a ses livres et ses cahiers.	There are his books and his notebooks.<br>/il j a se livʁ e se kaje/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+There are his books and his notebooks.	10. Il y a ses livres et ses cahiers.<br>/il j a se livʁ e se kaje/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+11. Oui, Adam aime sa maison.	Yes, Adam likes his house.<br>/wi, adam ɛm sa mɛzɔ̃/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Yes, Adam likes his house.	11. Oui, Adam aime sa maison.<br>/wi, adam ɛm sa mɛzɔ̃/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+12. Il aime sa maison parce qu’il peut jouer, étudier et regarder la télévision avec sa famille.	He likes his house because he can play, study and watch television with his family.<br>/il ɛm sa mɛzɔ̃ paʁs kil pø ʒwe, etydje e ʁəɡaʁde la televizjɔ̃ avɛk sa famij/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+He likes his house because he can play, study and watch television with his family.	12. Il aime sa maison parce qu’il peut jouer, étudier et regarder la télévision avec sa famille.<br>/il ɛm sa mɛzɔ̃ paʁs kil pø ʒwe, etydje e ʁəɡaʁde la televizjɔ̃ avɛk sa famij/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+1 Vrai · 2 Faux · 3 Vrai · 4 Vrai · 5 Faux · 6 Vrai · 7 Vrai · 8 Vrai · 9 Vrai · 10 Faux	1 True · 2 False · 3 True · 4 True · 5 False · 6 True · 7 True · 8 True · 9 True · 10 False<br>vrai /vʁɛ/, faux /fo/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+1 True · 2 False · 3 True · 4 True · 5 False · 6 True · 7 True · 8 True · 9 True · 10 False	1 Vrai · 2 Faux · 3 Vrai · 4 Vrai · 5 Faux · 6 Vrai · 7 Vrai · 8 Vrai · 9 Vrai · 10 Faux<br>vrai /vʁɛ/, faux /fo/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+1 maison · 2 salon · 3 cuisine · 4 chambre · 5 jardin · 6 bureau	1 house · 2 living room · 3 kitchen · 4 bedroom · 5 garden · 6 desk<br>/mɛzɔ̃ · salɔ̃ · kɥizin · ʃɑ̃bʁ · ʒaʁdɛ̃ · byʁo/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+1 house · 2 living room · 3 kitchen · 4 bedroom · 5 garden · 6 desk	1 maison · 2 salon · 3 cuisine · 4 chambre · 5 jardin · 6 bureau<br>/mɛzɔ̃ · salɔ̃ · kɥizin · ʃɑ̃bʁ · ʒaʁdɛ̃ · byʁo/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+1 b) Au premier étage. · 2 b) Trois. · 3 c) Un canapé. · 4 a) Des livres et des cahiers. · 5 b) Avec sa famille.	1 b) On the first floor. · 2 b) Three. · 3 c) A sofa. · 4 a) Books and notebooks. · 5 b) With his family.<br>/o pʁəmjɛʁ‿etaʒ · tʁwa · œ̃ kanape · de livʁ e de kaje · avɛk sa famij/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+1 b) On the first floor. · 2 b) Three. · 3 c) A sofa. · 4 a) Books and notebooks. · 5 b) With his family.	1 b) Au premier étage. · 2 b) Trois. · 3 c) Un canapé. · 4 a) Des livres et des cahiers. · 5 b) Avec sa famille.<br>/o pʁəmjɛʁ‿etaʒ · tʁwa · œ̃ kanape · de livʁ e de kaje · avɛk sa famij/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+1 à 6 : Il y a	1 to 6: there is<br>/il j a/	french yosser lesson01 fr-en	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+1 to 6: there is	1 à 6 : Il y a<br>/il j a/	french yosser lesson01 en-fr	French::Yosser::Lesson 1: La maison — français, anglais, IPA
+Answer in French: Comment s’appelle le garçon ?	Il s’appelle Adam. /il sapɛl adam/	french yosser lesson01 challenge comprehension	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Answer in French: Quel âge a-t-il ?	Il a treize ans. /il a tʁɛz ɑ̃/	french yosser lesson01 challenge comprehension	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Answer in French: Avec qui habite-t-il ?	Il habite avec sa famille. /il abit avɛk sa famij/	french yosser lesson01 challenge comprehension	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Answer in French: Comment est sa maison ?	Sa maison est grande, belle et confortable. /sa mɛzɔ̃ ɛ ɡʁɑ̃d, bɛl e kɔ̃fɔʁtabl/	french yosser lesson01 challenge comprehension	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Answer in French: Combien de chambres y a-t-il dans la maison ?	Il y a trois chambres. /il j a tʁwa ʃɑ̃bʁ/	french yosser lesson01 challenge comprehension	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Answer in French: Combien de salles de bains y a-t-il ?	Il y a deux salles de bains. /il j a dø sal də bɛ̃/	french yosser lesson01 challenge comprehension	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Answer in French: Est-ce qu’il y a un jardin ?	Oui, il y a un petit jardin. /wi, il j a œ̃ pəti ʒaʁdɛ̃/	french yosser lesson01 challenge comprehension	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Answer in French: Où est la chambre d’Adam ?	Sa chambre est au premier étage. /sa ʃɑ̃bʁ ɛ o pʁəmjɛʁ‿etaʒ/	french yosser lesson01 challenge comprehension	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Answer in French: Qu’est-ce qu’il y a dans sa chambre ?	Il y a un lit, un bureau, une chaise et une armoire. /il j a œ̃ li, œ̃ byʁo, yn ʃɛz e yn aʁmwaʁ/	french yosser lesson01 challenge comprehension	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Answer in French: Qu’est-ce qu’il y a sur son bureau ?	Il y a ses livres et ses cahiers. /il j a se livʁ e se kaje/	french yosser lesson01 challenge comprehension	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Answer in French: Pourquoi aime-t-il sa maison ?	Il aime sa maison parce qu’il peut jouer, étudier et regarder la télévision avec sa famille. /il ɛm sa mɛzɔ̃ paʁs kil pø ʒwe, etydje e ʁəɡaʁde la televizjɔ̃ avɛk sa famij/	french yosser lesson01 challenge comprehension	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Vrai ou faux, and correct it: Adam habite dans un appartement.	Faux. Adam habite dans une maison. /adam abit dɑ̃z‿yn mɛzɔ̃/	french yosser lesson01 challenge vrai-faux	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Vrai ou faux, and correct it: Il y a une salle de bains.	Faux. Il y a deux salles de bains. /il j a dø sal də bɛ̃/	french yosser lesson01 challenge vrai-faux	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Vrai ou faux, and correct it: Adam n’aime pas sa maison.	Faux. Adam aime beaucoup sa maison. /adam ɛm boku sa mɛzɔ̃/	french yosser lesson01 challenge vrai-faux	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+The rooms of the house: living room, kitchen, bedroom, bathroom, toilet, dining room, garden, garage	le salon /lə salɔ̃/ · la cuisine /la kɥizin/ · la chambre /la ʃɑ̃bʁ/ · la salle de bains /la sal də bɛ̃/ · les toilettes /le twalɛt/ · la salle à manger /la sal a mɑ̃ʒe/ · le jardin /lə ʒaʁdɛ̃/ · le garage /lə ɡaʁaʒ/	french yosser lesson01 challenge vocabulary	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+The furniture: sofa, table, chair, bed, desk, wardrobe, television, lamp, rug, window, door	un canapé /œ̃ kanape/ · une table /yn tabl/ · une chaise /yn ʃɛz/ · un lit /œ̃ li/ · un bureau /œ̃ byʁo/ · une armoire /yn aʁmwaʁ/ · une télévision /yn televizjɔ̃/ · une lampe /yn lɑ̃p/ · un tapis /œ̃ tapi/ · une fenêtre /yn fənɛtʁ/ · une porte /yn pɔʁt/	french yosser lesson01 challenge vocabulary	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Un or une: ___ lit, ___ chaise, ___ bureau, ___ armoire, ___ canapé, ___ lampe	un lit, une chaise, un bureau, une armoire, un canapé, une lampe /œ̃ li, yn ʃɛz, œ̃ byʁo, yn aʁmwaʁ, œ̃ kanape, yn lɑ̃p/	french yosser lesson01 challenge grammar	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+What is the structure of il y a, and what does it say?	Il y a + un / une / des + noun: a person or a thing is in a place. Il y a un canapé dans le salon. /il j a œ̃ kanape dɑ̃ lə salɔ̃/	french yosser lesson01 challenge grammar	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Say: There are three bedrooms in the house.	Il y a trois chambres dans la maison. /il j a tʁwa ʃɑ̃bʁ dɑ̃ la mɛzɔ̃/	french yosser lesson01 challenge say	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Say: In the garden there are flowers.	Dans le jardin, il y a des fleurs. /dɑ̃ lə ʒaʁdɛ̃, il j a de flœʁ/	french yosser lesson01 challenge say	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+The prepositions of place: inside, on, under, in front of, behind, next to	dans /dɑ̃/ · sur /syʁ/ · sous /su/ · devant /dəvɑ̃/ · derrière /dɛʁjɛʁ/ · à côté de /a kote də/	french yosser lesson01 challenge vocabulary	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Say: The book is on the desk. The bag is under the table.	Le livre est sur le bureau. /lə livʁ ɛ syʁ lə byʁo/ Le sac est sous la table. /lə sak ɛ su la tabl/	french yosser lesson01 challenge say	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Say: The chair is next to the desk. The car is in front of the house.	La chaise est à côté du bureau. /la ʃɛz ɛ(t)‿a kote dy byʁo/ La voiture est devant la maison. /la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃/	french yosser lesson01 challenge say	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Say: The garden is behind the house.	Le jardin est derrière la maison. /lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ la mɛzɔ̃/	french yosser lesson01 challenge say	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Say: My bedroom is on the first floor. It is small but pretty.	Ma chambre est au premier étage. /ma ʃɑ̃bʁ ɛ o pʁəmjɛʁ‿etaʒ/ Elle est petite mais jolie. /ɛl ɛ pətit mɛ ʒɔli/	french yosser lesson01 challenge say	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Say: I like my house a lot because I can play and study.	J’aime beaucoup ma maison parce que je peux jouer et étudier. /ʒɛm boku ma mɛzɔ̃ paʁs kə ʒə pø ʒwe e etydje/	french yosser lesson01 challenge say	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Where is the liaison in dans une grande maison, and what sound does it add?	dans‿une /dɑ̃z‿yn/: the silent s of dans sounds as /z/ before the vowel.	french yosser lesson01 challenge sound	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Why is premier étage read /pʁəmjɛʁ‿etaʒ/ when premier alone is /pʁəmje/?	Liaison: the silent r of premier sounds before the vowel of étage, and the e opens to /ɛ/.	french yosser lesson01 challenge sound	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Un and une: how do they sound apart?	un /œ̃/, a nasal vowel; une /yn/, with the n sounded. un lit /œ̃ li/, une chaise /yn ʃɛz/	french yosser lesson01 challenge sound	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Complete with the word bank: Adam dort dans sa ________. Il y a un petit ________ derrière la maison.	chambre /ʃɑ̃bʁ/ · jardin /ʒaʁdɛ̃/	french yosser lesson01 challenge exercise	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
+Describe your house in three sentences, using il y a (a model answer)	J’habite dans un appartement. /ʒabit dɑ̃z‿œ̃n‿apaʁtəmɑ̃/ Dans mon appartement, il y a deux chambres et une cuisine. /dɑ̃ mɔ̃n‿apaʁtəmɑ̃, il j a dø ʃɑ̃bʁ e yn kɥizin/ Sur mon bureau, il y a mes livres. /syʁ mɔ̃ byʁo, il j a me livʁ/	french yosser lesson01 challenge say	French::Yosser::Lesson 1: La maison — français, anglais, IPA::Challenges
