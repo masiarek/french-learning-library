@@ -49,8 +49,10 @@ House rules for writing pages are in [CONTRIBUTING.md](CONTRIBUTING.md):
 ```bash
 python3 tools/run_examples.py --check
 uv run --group docs mkdocs build --strict
+python3 tools/anki_from_tables.py 02_Yosser_teacher --check
+python3 tools/combine_anki.py 02_Yosser_teacher --check
 python3 tools/anki_from_tables.py 03_Szypowska --check
 python3 tools/combine_anki.py 03_Szypowska --check
 ```
 
-All four are what CI runs. After changing a lesson table in `03_Szypowska`, regenerate its deck and the combined deck with `python3 tools/anki_from_tables.py 03_Szypowska && python3 tools/combine_anki.py 03_Szypowska`; the challenge decks, `<lesson>/anki/<lesson>_challenges.txt`, are written by hand.
+All six are what CI runs. After changing a lesson table in `02_Yosser_teacher` or `03_Szypowska`, regenerate its deck and the chapter's combined deck with `python3 tools/anki_from_tables.py <chapter> && python3 tools/combine_anki.py <chapter>`; the challenge decks, `<lesson>/anki/<lesson>_challenges.txt`, are written by hand. The two chapters' decks stay separate: the owner asked for that.

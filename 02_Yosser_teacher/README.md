@@ -10,6 +10,10 @@ The owner's French teacher, Yosser, gives a worksheet per lesson: a reading text
 
 How to read a lesson's table: French as printed, bold rows for the sections, `________` for a blank; English as a translation; IPA after Le Robert's key, from memory, with ‿ for a compulsory liaison, (t)‿ for the optional one after *est*, and the Corrigé's answer in square brackets where the worksheet leaves a blank. A program under each table reads it back from the page and checks it.
 
+## Anki
+
+One file imports the whole chapter, kept apart from the textbook's: [`anki/yosser_teacher_all.txt`](anki/yosser_teacher_all.txt), with a subdeck per lesson. Each lesson folder has its own two decks under `anki/`: one generated from the lesson's table by `tools/anki_from_tables.py` (every word, question and sentence, French to English and English to French, and the exercises with their answers), and one of challenges written by hand (answer the comprehension questions, correct the false statements, say it, which article). Cards carry the tags `fr-en`, `en-fr`, `exercise` and `challenge`.
+
 ## Po polsku, w skrócie
 
 Ten rozdział zbiera karty pracy od nauczycielki francuskiego, lekcja po lekcji. Każda karta jest jedną tabelą: każda linijka po francusku, po angielsku i w transkrypcji fonetycznej według klucza Le Roberta, tak aby z jednego wiersza dało się zdanie przeczytać, zrozumieć i wymówić. Program przy każdej lekcji czyta tabelę ze strony i sprawdza to, czego oko nie sprawdzi w stu sześćdziesięciu wierszach: czy każdy znak jest francuskim fonemem, które samogłoski nosowe i jakie łączenia międzywyrazowe (liaison) występują, i jak duża część karty opiera się na jej punkcie gramatycznym.
