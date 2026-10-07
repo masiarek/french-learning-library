@@ -1,0 +1,197 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Szypowska (FR-PL)::Lesson 5: Dialogue
+#tags:french szypowska lecon05 fr-pl
+#columns:Front	Back	Tags
+#tags column:3
+cahier, canif, carnet, crayon	c przed a, o i spółgłoską to /k/<br>c before a, o and a consonant is /k/<br>/kaje, kanif, kaʁnɛ, kʁɛjɔ̃/	fr-pl
+crayon	-ay- to /ɛj/<br>-ay- is /ɛj/<br>/kʁɛjɔ̃/	fr-pl
+j’ai, avez, des	-ai, -ez, -es tutaj to /e/<br>-ai, -ez, -es here are /e/<br>/ʒe, ave, de/	fr-pl
+que, de	e bez akcentu w krótkim wyrazie to /ə/<br>an unaccented e in a short word is /ə/<br>/kə, də/	fr-pl
+— J’ai un stylo. Est-ce que j’ai un stylo ?	Mam pióro wieczne. Czy mam pióro wieczne?<br>I have a fountain pen. Do I have a fountain pen?<br>/ʒe œ̃ stilo. ɛs kə ʒe œ̃ stilo/	fr-pl
+— Oui, vous avez un stylo.	Tak, ma pan pióro wieczne.<br>Yes, you have a fountain pen.<br>/wi, vuz‿ave œ̃ stilo/	fr-pl
+— Avez-vous un carnet ?	Czy ma pan notes?<br>Do you have a notebook?<br>/ave vu œ̃ kaʁnɛ/	fr-pl
+— Oui, j’ai un carnet.	Tak, mam notes.<br>Yes, I have a notebook.<br>/wi, ʒe œ̃ kaʁnɛ/	fr-pl
+— Pierre, as-tu un canif ?	Piotrze, czy masz scyzoryk?<br>Pierre, do you have a penknife?<br>/pjɛʁ, a ty œ̃ kanif/	fr-pl
+— Non, je n’ai pas de canif.	Nie, nie mam scyzoryka.<br>No, I have no penknife.<br>/nɔ̃, ʒə ne pa də kanif/	fr-pl
+— Pierre et Annette, avez-vous des crayons ?	Piotrze i Anetko, czy macie ołówki?<br>Pierre and Annette, do you have pencils?<br>/pjɛʁ e anɛt, ave vu de kʁɛjɔ̃/	fr-pl
+— Oui, nous avons des crayons, mais nous n’avons pas de cahiers.	Tak, mamy ołówki, ale nie mamy zeszytów.<br>Yes, we have pencils, but we have no exercise books.<br>/wi, nuz‿avɔ̃ de kʁɛjɔ̃, mɛ nu navɔ̃ pa də kaje/	fr-pl
+— Est-ce que Pierre a une plume ?	Czy Piotr ma pióro?<br>Does Pierre have a pen?<br>/ɛs kə pjɛʁ a yn plym/	fr-pl
+A-t-il une plume ?	Czy on ma pióro?<br>Does he have a pen?<br>/atil yn plym/	fr-pl
+— Oui, il a une plume.	Tak, on ma pióro.<br>Yes, he has a pen.<br>/wi, il a yn plym/	fr-pl
+— Est-ce qu’Annette a un cahier ?	Czy Anetka ma zeszyt?<br>Does Annette have an exercise book?<br>/ɛs kanɛt a œ̃ kaje/	fr-pl
+A-t-elle un cahier ?	Czy ona ma zeszyt?<br>Does she have an exercise book?<br>/atɛl œ̃ kaje/	fr-pl
+— Oui, elle a un cahier.	Tak, ona ma zeszyt.<br>Yes, she has an exercise book.<br>/wi, ɛl a œ̃ kaje/	fr-pl
+— Est-ce que Pierre et Annette ont des crayons ?	Czy Piotr i Anetka mają ołówki?<br>Do Pierre and Annette have pencils?<br>/ɛs kə pjɛʁ e anɛt ɔ̃ de kʁɛjɔ̃/	fr-pl
+Ont-ils des crayons ?	Czy oni mają ołówki?<br>Do they have pencils?<br>/ɔ̃til de kʁɛjɔ̃/	fr-pl
+— Oui, ils ont des crayons.	Tak, mają ołówki.<br>Yes, they have pencils.<br>/wi, ilz‿ɔ̃ de kʁɛjɔ̃/	fr-pl
+— Est-ce qu’ils ont des cahiers ?	Czy oni mają zeszyty?<br>Do they have exercise books?<br>/ɛs kilz‿ɔ̃ de kaje/	fr-pl
+— Non, ils n’ont pas de cahiers.	Nie, nie mają zeszytów.<br>No, they have no exercise books.<br>/nɔ̃, il nɔ̃ pa də kaje/	fr-pl
+cinq	pięć<br>five<br>/sɛ̃k/	fr-pl
+cinquième	piąty, -a<br>fifth<br>/sɛ̃kjɛm/	fr-pl
+j’ai	(ja) mam<br>I have<br>/ʒe/	fr-pl
+un stylo	wieczne pióro<br>a fountain pen<br>/œ̃ stilo/	fr-pl
+vous avez	pan ma, pani ma, (wy) macie<br>you have<br>/vuz‿ave/	fr-pl
+avez-vous ?	czy pan ma? czy pani ma? czy (wy) macie?<br>do you have?<br>/ave vu/	fr-pl
+un carnet	notes<br>a notebook<br>/œ̃ kaʁnɛ/	fr-pl
+as-tu ?	czy (ty) masz?<br>do you have?<br>/a ty/	fr-pl
+un canif	scyzoryk<br>a penknife<br>/œ̃ kanif/	fr-pl
+je n’ai pas	(ja) nie mam<br>I have not<br>/ʒə ne pa/	fr-pl
+Annette	Anetka, Ania, Anusia<br>Annette<br>/anɛt/	fr-pl
+un crayon	ołówek<br>a pencil<br>/œ̃ kʁɛjɔ̃/	fr-pl
+nous avons	(my) mamy<br>we have<br>/nuz‿avɔ̃/	fr-pl
+mais	ale, lecz<br>but<br>/mɛ/	fr-pl
+nous n’avons pas	(my) nie mamy<br>we have not<br>/nu navɔ̃ pa/	fr-pl
+il a	(on) ma<br>he has<br>/il a/	fr-pl
+une plume	pióro<br>a pen, a nib<br>/yn plym/	fr-pl
+un cahier	zeszyt<br>an exercise book<br>/œ̃ kaje/	fr-pl
+(ils, elles) ont	(oni, one) mają<br>they have<br>/ilz‿ɔ̃, ɛlz‿ɔ̃/	fr-pl
+je n’ai pas de canif	(ja) nie mam scyzoryka<br>I have no penknife<br>/ʒə ne pa də kanif/	fr-pl
+nous n’avons pas de cahiers	(my) nie mamy zeszytów<br>we have no exercise books<br>/nu navɔ̃ pa də kaje/	fr-pl
+l’encre (ż)	atrament<br>the ink<br>/lɑ̃kʁ/	fr-pl
+un encrier	kałamarz<br>an inkwell<br>/œ̃n‿ɑ̃kʁije/	fr-pl
+une gomme	gumka<br>an eraser<br>/yn ɡɔm/	fr-pl
+un papier buvard	bibuła<br>a blotting paper<br>/œ̃ papje byvaʁ/	fr-pl
+une règle	linijka<br>a ruler<br>/yn ʁɛɡl/	fr-pl
+un stylo à bille	pióro kulkowe, długopis<br>a ballpoint pen<br>/œ̃ stilo a bij/	fr-pl
+vous avez (2)	łączenie międzywyrazowe<br>liaison between pronoun and verb<br>/vuz‿ave/	fr-pl
+nous avons (2)	łączenie międzywyrazowe<br>liaison between pronoun and verb<br>/nuz‿avɔ̃/	fr-pl
+ils ont	łączenie międzywyrazowe<br>liaison between pronoun and verb<br>/ilz‿ɔ̃/	fr-pl
+ont-ils	łączenie międzywyrazowe<br>liaison between verb and pronoun<br>/ɔ̃til/	fr-pl
+cahier	h nieme<br>mute h<br>/kaje/	fr-pl
+avoir	mieć<br>to have<br>/avwaʁ/	fr-pl
+Présent	czas teraźniejszy<br>the present tense<br>/pʁezɑ̃/	fr-pl
+Forme affirmative	forma twierdząca<br>affirmative<br>/fɔʁm afiʁmativ/	fr-pl
+tu as	(ty) masz<br>you have<br>/ty a/	fr-pl
+elle a	(ona) ma<br>she has<br>/ɛl a/	fr-pl
+on a	ma się<br>one has<br>/ɔ̃n‿a/	fr-pl
+vous avez (3)	(wy) macie<br>you have<br>/vuz‿ave/	fr-pl
+ils ont (2)	(oni) mają<br>they have<br>/ilz‿ɔ̃/	fr-pl
+elles ont	(one) mają<br>they have (women)<br>/ɛlz‿ɔ̃/	fr-pl
+Forme négative	forma przecząca<br>negative<br>/fɔʁm neɡativ/	fr-pl
+tu n’as pas	(ty) nie masz<br>you have not<br>/ty na pa/	fr-pl
+il n’a pas	(on) nie ma<br>he has not<br>/il na pa/	fr-pl
+elle n’a pas	(ona) nie ma<br>she has not<br>/ɛl na pa/	fr-pl
+on n’a pas	nie ma się<br>one has not<br>/ɔ̃ na pa/	fr-pl
+vous n’avez pas	(wy) nie macie<br>you have not<br>/vu nave pa/	fr-pl
+ils n’ont pas	(oni) nie mają<br>they have not<br>/il nɔ̃ pa/	fr-pl
+elles n’ont pas	(one) nie mają<br>they have not (women)<br>/ɛl nɔ̃ pa/	fr-pl
+Forme interrogative	forma pytająca<br>interrogative<br>/fɔʁm ɛ̃teʁɔɡativ/	fr-pl
+est-ce que j’ai ?	czy (ja) mam?<br>do I have?<br>/ɛs kə ʒe/	fr-pl
+a-t-il ?	czy (on) ma?<br>does he have?<br>/atil/	fr-pl
+a-t-elle ?	czy (ona) ma?<br>does she have?<br>/atɛl/	fr-pl
+a-t-on ?	czy się ma?<br>does one have?<br>/atɔ̃/	fr-pl
+j’ai un stylo	mam pióro wieczne<br>I have a fountain pen<br>/ʒe œ̃ stilo/	fr-pl
+je n’ai pas de stylo	nie mam pióra wiecznego<br>I have no fountain pen<br>/ʒə ne pa də stilo/	fr-pl
+j’ai des stylos	mam pióra wieczne<br>I have fountain pens<br>/ʒe de stilo/	fr-pl
+je n’ai pas de stylos	nie mam piór wiecznych<br>I have no fountain pens<br>/ʒə ne pa də stilo/	fr-pl
+j’ai une plume	mam pióro<br>I have a pen<br>/ʒe yn plym/	fr-pl
+je n’ai pas de plume	nie mam pióra<br>I have no pen<br>/ʒə ne pa də plym/	fr-pl
+j’ai des plumes	mam pióra<br>I have pens<br>/ʒe de plym/	fr-pl
+je n’ai pas de plumes	nie mam piór<br>I have no pens<br>/ʒə ne pa də plym/	fr-pl
+j’ai un …, une …, des …	mam …<br>I have a …, some … (the box on the page)<br>/ʒe œ̃, yn, de/	fr-pl
+je n’ai pas de …	nie mam …<br>I have no … (the box on the page)<br>/ʒə ne pa də/	fr-pl
+« Je n’ai pas de stylo ! »	„Nie mam pióra!”<br>“I have no fountain pen!” (the caption of the drawing)<br>/ʒə ne pa də stilo/	fr-pl
+parlez-vous ?	czy mówicie?<br>do you speak? (inversion)<br>/paʁle vu/	fr-pl
+est-ce que je parle ?	czy mówię?<br>do I speak?<br>/ɛs kə ʒə paʁl/	fr-pl
+est-ce que Pierre a ?	czy Piotr ma?<br>does Pierre have?<br>/ɛs kə pjɛʁ a/	fr-pl
+est-ce qu’Annette a ?	czy Anetka ma?<br>does Annette have?<br>/ɛs kanɛt a/	fr-pl
+est-ce que Pierre et Annette ont ?	czy Piotr i Anetka mają?<br>do Pierre and Annette have?<br>/ɛs kə pjɛʁ e anɛt ɔ̃/	fr-pl
+J’ai ________ stylo.<br>(Put in the right article)	/ʒe [œ̃] stilo/<br>I have a fountain pen.<br>Mam pióro wieczne.	exercise
+Vous avez ________ crayons.<br>(Put in the right article)	/vuz‿ave [de] kʁɛjɔ̃/<br>You have pencils.<br>Macie ołówki.	exercise
+Il a ________ plume.<br>(Put in the right article)	/il a [yn] plym/<br>He has a pen.<br>On ma pióro.	exercise
+Nous avons ________ cahiers.<br>(Put in the right article)	/nuz‿avɔ̃ [de] kaje/<br>We have exercise books.<br>Mamy zeszyty.	exercise
+Elle a ________ carnet.<br>(Put in the right article)	/ɛl a [œ̃] kaʁnɛ/<br>She has a notebook.<br>Ona ma notes.	exercise
+Vous avez ________ photos.<br>(Put in the right article)	/vuz‿ave [de] fɔto/<br>You have photos.<br>Macie zdjęcia.	exercise
+J’ai un canif. — Nous avons des canifs.	Wzór<br>I have a penknife. — We have penknives. (the model)<br>/ʒe œ̃ kanif. nuz‿avɔ̃ de kanif/	fr-pl
+J’ai un cahier.	Mam zeszyt.<br>I have an exercise book.<br>/ʒe œ̃ kaje/	fr-pl
+J’ai un cahier. → Put into the first person plural	Nous avons des cahiers.<br>/nuz‿avɔ̃ de kaje/<br>We have exercise books.<br>Mamy zeszyty.	exercise
+J’ai un stylo.	Mam pióro wieczne.<br>I have a fountain pen.<br>/ʒe œ̃ stilo/	fr-pl
+J’ai un stylo. → Put into the first person plural	Nous avons des stylos.<br>/nuz‿avɔ̃ de stilo/<br>We have fountain pens.<br>Mamy pióra wieczne.	exercise
+Je visite un appartement.	Zwiedzam mieszkanie.<br>I am visiting a flat.<br>/ʒə vizit œ̃n‿apaʁtəmɑ̃/	fr-pl
+Je visite un appartement. → Put into the first person plural	Nous visitons des appartements.<br>/nu vizitɔ̃ dez‿apaʁtəmɑ̃/<br>We are visiting flats.<br>Zwiedzamy mieszkania.	exercise
+Je montre la chambre.	Pokazuję pokój.<br>I am showing the room.<br>/ʒə mɔ̃tʁ la ʃɑ̃bʁ/	fr-pl
+Je montre la chambre. → Put into the first person plural	Nous montrons les chambres.<br>/nu mɔ̃tʁɔ̃ le ʃɑ̃bʁ/<br>We are showing the rooms.<br>Pokazujemy pokoje.	exercise
+Je regarde une carte.	Oglądam pocztówkę.<br>I am looking at a postcard.<br>/ʒə ʁəɡaʁd yn kaʁt/	fr-pl
+Je regarde une carte. → Put into the first person plural	Nous regardons des cartes.<br>/nu ʁəɡaʁdɔ̃ de kaʁt/<br>We are looking at postcards.<br>Oglądamy pocztówki.	exercise
+As-tu un crayon ?	Czy masz ołówek?<br>Do you have a pencil?<br>/a ty œ̃ kʁɛjɔ̃/	fr-pl
+As-tu un crayon ? → Answer yes and no (Oui j’ai)	Oui, j’ai un crayon.<br>/wi, ʒe œ̃ kʁɛjɔ̃/<br>Yes, I have a pencil.<br>Tak, mam ołówek.	exercise
+As-tu un crayon ? → Answer yes and no (Non je)	Non, je n’ai pas de crayon.<br>/nɔ̃, ʒə ne pa də kʁɛjɔ̃/<br>No, I have no pencil.<br>Nie, nie mam ołówka.	exercise
+A-t-il un canif ?	Czy on ma scyzoryk?<br>Does he have a penknife?<br>/atil œ̃ kanif/	fr-pl
+A-t-il un canif ? → Answer yes and no (Oui il)	Oui, il a un canif.<br>/wi, il a œ̃ kanif/<br>Yes, he has a penknife.<br>Tak, on ma scyzoryk.	exercise
+A-t-il un canif ? → Answer yes and no (Non il)	Non, il n’a pas de canif.<br>/nɔ̃, il na pa də kanif/<br>No, he has no penknife.<br>Nie, on nie ma scyzoryka.	exercise
+Avons-nous des cahiers ?	Czy mamy zeszyty?<br>Do we have exercise books?<br>/avɔ̃ nu de kaje/	fr-pl
+Avons-nous des cahiers ? → Answer yes and no (Oui nous)	Oui, nous avons des cahiers.<br>/wi, nuz‿avɔ̃ de kaje/<br>Yes, we have exercise books.<br>Tak, mamy zeszyty.	exercise
+Avons-nous des cahiers ? → Answer yes and no (Non nous)	Non, nous n’avons pas de cahiers.<br>/nɔ̃, nu navɔ̃ pa də kaje/<br>No, we have no exercise books.<br>Nie, nie mamy zeszytów.	exercise
+J’ai un carnet.	Mam notes.<br>I have a notebook.<br>/ʒe œ̃ kaʁnɛ/	fr-pl
+J’ai un carnet. → Make negative	Je n’ai pas de carnet.<br>/ʒə ne pa də kaʁnɛ/<br>I have no notebook.<br>Nie mam notesu.	exercise
+Nous avons des plumes.	Mamy pióra.<br>We have pens.<br>/nuz‿avɔ̃ de plym/	fr-pl
+Nous avons des plumes. → Make negative	Nous n’avons pas de plumes.<br>/nu navɔ̃ pa də plym/<br>We have no pens.<br>Nie mamy piór.	exercise
+Ils ont des cahiers.	Oni mają zeszyty.<br>They have exercise books.<br>/ilz‿ɔ̃ de kaje/	fr-pl
+Ils ont des cahiers. → Make negative	Ils n’ont pas de cahiers.<br>/il nɔ̃ pa də kaje/<br>They have no exercise books.<br>Oni nie mają zeszytów.	exercise
+Tu as un stylo.	Masz pióro wieczne.<br>You have a fountain pen.<br>/ty a œ̃ stilo/	fr-pl
+Tu as un stylo. → Make negative	Tu n’as pas de stylo.<br>/ty na pa də stilo/<br>You have no fountain pen.<br>Nie masz pióra wiecznego.	exercise
+Je visite la maison de Pierre.	Zwiedzam dom Piotra.<br>I am visiting Pierre's house.<br>/ʒə vizit la mɛzɔ̃ də pjɛʁ/	fr-pl
+La famille d’Annette a un appartement à Varsovie.	Rodzina Anetki ma mieszkanie w Warszawie.<br>Annette's family has a flat in Warsaw.<br>/la famij danɛt a œ̃n‿apaʁtəmɑ̃ a vaʁsɔvi/	fr-pl
+Est-ce que Madame B. a un appartement à Paris ?	Czy pani B. ma mieszkanie w Paryżu?<br>Does Mrs B. have a flat in Paris?<br>/ɛs kə madam be a œ̃n‿apaʁtəmɑ̃ a paʁi/	fr-pl
+Elle a une fille et un fils.	Ona ma córkę i syna.<br>She has a daughter and a son.<br>/ɛl a yn fij e œ̃ fis/	fr-pl
+Vous avez des crayons, mais vous n’avez pas de plumes.	Macie ołówki, ale nie macie piór.<br>You have pencils, but you have no pens.<br>/vuz‿ave de kʁɛjɔ̃, mɛ vu nave pa də plym/	fr-pl
+Avez-vous un carnet ?	Czy pan ma notes?<br>Do you have a notebook?<br>/ave vu œ̃ kaʁnɛ/	fr-pl
+Est-ce qu’ils ont un appartement ?	Czy oni mają mieszkanie?<br>Do they have a flat?<br>/ɛs kilz‿ɔ̃ œ̃n‿apaʁtəmɑ̃/	fr-pl
+j’ai, je n’ai pas, nous n’avons pas, ils n’ont pas, est-ce qu’Annette, est-ce qu’ils, l’encre	elizja<br>the apostrophe where je, ne, que, le lose their vowel before a vowel<br>/ʒe, ʒə ne pa, nu navɔ̃ pa, il nɔ̃ pa, ɛs kanɛt, ɛs kil, lɑ̃kʁ/	fr-pl
+J’ai treize ans.	Mam trzynaście lat.<br>I am thirteen years old: age takes avoir<br>/ʒe tʁɛz ɑ̃/	fr-pl
+Quel âge as-tu ?	Ile masz lat?<br>How old are you?<br>/kɛl ɑʒ a ty/	fr-pl
+J’ai faim.	Jestem głodny.<br>I am hungry.<br>/ʒe fɛ̃/	fr-pl
+J’ai soif.	Chce mi się pić.<br>I am thirsty.<br>/ʒe swaf/	fr-pl
+Tu as un stylo ?	Masz pióro wieczne?<br>Do you have a fountain pen? (the statement, with the voice rising)<br>/ty a œ̃ stilo/	fr-pl
+Est-ce que tu as un stylo ?	Czy masz pióro wieczne?<br>Do you have a fountain pen? (with est-ce que)<br>/ɛs kə ty a œ̃ stilo/	fr-pl
+As-tu un stylo ?	Czy masz pióro wieczne?<br>Do you have a fountain pen? (inversion)<br>/a ty œ̃ stilo/	fr-pl
+Ils ont des crayons.	Oni mają ołówki.<br>They have pencils.<br>/ilz‿ɔ̃ de kʁɛjɔ̃/	fr-pl
+Ils sont à Paris.	Oni są w Paryżu.<br>They are in Paris: /z/ against /s/ is the whole difference.<br>/il sɔ̃ a paʁi/	fr-pl
+Il ne regarde pas de photos.	On nie ogląda zdjęć.<br>He is not looking at any photos: de after the negated verb.<br>/il nə ʁəɡaʁd pa də fɔto/	fr-pl
+Ce n’est pas un stylo, c’est une plume.	To nie jest pióro wieczne, to pióro ze stalówką.<br>It is not a fountain pen, it is a nib pen: after c'est the article stays.<br>/sə nɛ pa œ̃ stilo, sɛt‿yn plym/	fr-pl
+un, deux, trois, quatre, cinq	jeden, dwa, trzy, cztery, pięć<br>one, two, three, four, five<br>/œ̃, dø, tʁwa, katʁ, sɛ̃k/	fr-pl
+cinq livres	pięć książek<br>five books: before a consonant older usage drops the /k/, /sɛ̃ livʁ/; /sɛ̃k/ is usual today.<br>/sɛ̃k livʁ/	fr-pl
+un livre	książka<br>a book<br>/œ̃ livʁ/	fr-pl
+une trousse	piórnik<br>a pencil case<br>/yn tʁus/	fr-pl
+une feuille de papier	kartka papieru<br>a sheet of paper<br>/yn fœj də papje/	fr-pl
+un taille-crayon	temperówka<br>a pencil sharpener<br>/œ̃ tajkʁɛjɔ̃/	fr-pl
+un sac	torba<br>a bag<br>/œ̃ sak/	fr-pl
+cinq : à cinq heures · les cinq doigts · cinq minutes	o piątej · pięć palców · pięć minut<br>at five o'clock · the five fingers · five minutes<br>/a sɛ̃k‿œʁ · le sɛ̃k dwa · sɛ̃k minyt/	fr-pl
+cinquième : au cinquième étage · la cinquième leçon · en cinquième	na piątym piętrze · piąta lekcja · w klasie „cinquième”<br>on the fifth floor · the fifth lesson · in the second year of French secondary school<br>/o sɛ̃kjɛm etaʒ · la sɛ̃kjɛm ləsɔ̃ · ɑ̃ sɛ̃kjɛm/	fr-pl
+avoir : avoir faim · avoir vingt ans · avoir raison	być głodnym · mieć dwadzieścia lat · mieć rację<br>to be hungry · to be twenty · to be right<br>/avwaʁ fɛ̃ · avwaʁ vɛ̃t‿ɑ̃ · avwaʁ ʁɛzɔ̃/	fr-pl
+un stylo : un stylo à bille · un stylo à encre · écrire au stylo	długopis · pióro wieczne · pisać piórem<br>a ballpoint pen · a fountain pen · to write in pen<br>/œ̃ stilo a bij · œ̃ stilo a ɑ̃kʁ · ekʁiʁ o stilo/	fr-pl
+un carnet : un carnet d’adresses · un carnet de notes · un carnet de chèques	notes z adresami · dzienniczek ocen · książeczka czekowa<br>an address book · a school report · a chequebook<br>/œ̃ kaʁnɛ dadʁɛs · œ̃ kaʁnɛ də nɔt · œ̃ kaʁnɛ də ʃɛk/	fr-pl
+un canif : ouvrir son canif · un canif suisse	otworzyć scyzoryk · scyzoryk szwajcarski<br>to open one's penknife · a Swiss army knife<br>/uvʁiʁ sɔ̃ kanif · œ̃ kanif sɥis/	fr-pl
+un crayon : un crayon de couleur · écrire au crayon · un crayon à papier	kredka · pisać ołówkiem · ołówek<br>a coloured pencil · to write in pencil · a lead pencil<br>/œ̃ kʁɛjɔ̃ də kulœʁ · ekʁiʁ o kʁɛjɔ̃ · œ̃ kʁɛjɔ̃ a papje/	fr-pl
+mais : mais oui ! · mais non ! · non seulement … mais aussi	ależ tak! · ależ nie! · nie tylko … ale także<br>why, yes! · of course not! · not only … but also<br>/mɛ wi · mɛ nɔ̃ · nɔ̃ sœlmɑ̃ … mɛ osi/	fr-pl
+une plume : une plume d’oiseau · un stylo-plume · écrire à la plume	ptasie pióro · pióro wieczne · pisać piórem ze stalówką<br>a bird's feather · a fountain pen · to write with a nib pen<br>/yn plym dwazo · œ̃ stilo plym · ekʁiʁ a la plym/	fr-pl
+un cahier : un cahier d’exercices · un cahier de brouillon · un cahier de textes	zeszyt ćwiczeń · brudnopis · dzienniczek zadań<br>an exercise book · a rough book · a homework diary<br>/œ̃ kaje dɛɡzɛʁsis · œ̃ kaje də bʁujɔ̃ · œ̃ kaje də tɛkst/	fr-pl
+l’encre : de l’encre bleue · une tache d’encre · écrire à l’encre	niebieski atrament · plama z atramentu · pisać atramentem<br>blue ink · an ink stain · to write in ink<br>/də lɑ̃kʁ blø · yn taʃ dɑ̃kʁ · ekʁiʁ a lɑ̃kʁ/	fr-pl
+une gomme : une gomme à effacer · une gomme à mâcher	gumka do ścierania · guma do żucia<br>an eraser · chewing gum<br>/yn ɡɔm a efase · yn ɡɔm a maʃe/	fr-pl
+une règle : une règle graduée · les règles du jeu · en règle générale	linijka z podziałką · reguły gry · z reguły<br>a ruler with a scale · the rules of the game · as a general rule<br>/yn ʁɛɡl ɡʁadɥe · le ʁɛɡl dy ʒø · ɑ̃ ʁɛɡl ʒeneʁal/	fr-pl
+le papier : une feuille de papier · du papier à lettres · les papiers d’identité	kartka papieru · papier listowy · dokumenty<br>a sheet of paper · writing paper · identity papers<br>/yn fœj də papje · dy papje a lɛtʁ · le papje didɑ̃tite/	fr-pl
+oui, non : mais oui · oui et non · dire non	ależ tak · tak i nie · powiedzieć nie<br>why, yes · yes and no · to say no<br>/mɛ wi · wi e nɔ̃ · diʁ nɔ̃/	fr-pl
+Pierre a un stylo, mais il n’a pas de cahier.	Piotr ma pióro, ale nie ma zeszytu.<br>Pierre has a fountain pen but no exercise book.<br>/pjɛʁ a œ̃ stilo, mɛ il na pa də kaje/	fr-pl
+Avez-vous des crayons de couleur ?	Czy macie kredki?<br>Do you have coloured pencils?<br>/ave vu de kʁɛjɔ̃ də kulœʁ/	fr-pl
+Annette a trois cahiers et deux carnets dans son sac.	Anetka ma trzy zeszyty i dwa notesy w torbie.<br>Annette has three exercise books and two notebooks in her bag.<br>/anɛt a tʁwa kaje e dø kaʁnɛ dɑ̃ sɔ̃ sak/	fr-pl
+Est-ce que tu as une gomme ? Non, je n’ai pas de gomme.	Czy masz gumkę? Nie, nie mam gumki.<br>Do you have an eraser? No, I have no eraser.<br>/ɛs kə ty a yn ɡɔm ? nɔ̃, ʒə ne pa də ɡɔm/	fr-pl
+Nous avons une règle, mais nous n’avons pas de stylo à bille.	Mamy linijkę, ale nie mamy długopisu.<br>We have a ruler but no ballpoint pen.<br>/nuz‿avɔ̃ yn ʁɛɡl, mɛ nu navɔ̃ pa də stilo a bij/	fr-pl
+On a des livres et des cahiers sur le bureau.	Mamy książki i zeszyty na biurku.<br>We have books and exercise books on the desk.<br>/ɔ̃n‿a de livʁ e de kaje syʁ lə byʁo/	fr-pl
+Qu’est-ce que vous avez dans la trousse ?	Co macie w piórniku?<br>What do you have in the pencil case?<br>/kɛs kə vuz‿ave dɑ̃ la tʁus/	fr-pl
+L’encre est bleue ; le crayon est noir.	Atrament jest niebieski, ołówek czarny.<br>The ink is blue; the pencil is black.<br>/lɑ̃kʁ ɛ blø ; lə kʁɛjɔ̃ ɛ nwaʁ/	fr-pl
+bleu, bleue	niebieski, niebieska<br>blue<br>/blø/	fr-pl
+noir, noire	czarny, czarna<br>black<br>/nwaʁ/	fr-pl
+de couleur	kolorowy<br>coloured<br>/də kulœʁ/	fr-pl
+le papier	papier<br>paper<br>/lə papje/	fr-pl
+écrire	pisać<br>to write<br>/ekʁiʁ/	fr-pl
+dessiner	rysować<br>to draw<br>/desine/	fr-pl
+Tu as un canif.	Masz scyzoryk.<br>You have a penknife.<br>/ty a œ̃ kanif/	fr-pl
+Tu as un canif. → AI exercise: ask with est-ce que, then with inversion	Est-ce que tu as un canif ? As-tu un canif ?<br>/ɛs kə ty a œ̃ kanif ? a ty œ̃ kanif/<br>Do you have a penknife? (both ways)<br>Czy masz scyzoryk?	exercise
+Elle a des crayons.	Ona ma ołówki.<br>She has pencils.<br>/ɛl a de kʁɛjɔ̃/	fr-pl
+Elle a des crayons. → AI exercise: ask with est-ce que, then with inversion	Est-ce qu’elle a des crayons ? A-t-elle des crayons ?<br>/ɛs kɛl a de kʁɛjɔ̃ ? atɛl de kʁɛjɔ̃/<br>Does she have pencils? (both ways)<br>Czy ona ma ołówki?	exercise
+As-tu une gomme ?	Czy masz gumkę?<br>Do you have an eraser?<br>/a ty yn ɡɔm/	fr-pl
+As-tu une gomme ? → AI exercise: answer no, with de	Non, je n’ai pas de gomme.<br>/nɔ̃, ʒə ne pa də ɡɔm/<br>No, I have no eraser.<br>Nie, nie mam gumki.	exercise
+Ont-elles des cahiers ?	Czy one mają zeszyty?<br>Do they (women) have exercise books?<br>/ɔ̃tɛl de kaje/	fr-pl
+Ont-elles des cahiers ? → AI exercise: answer no, with de	Non, elles n’ont pas de cahiers.<br>/nɔ̃, ɛl nɔ̃ pa də kaje/<br>No, they have no exercise books.<br>Nie, nie mają zeszytów.	exercise

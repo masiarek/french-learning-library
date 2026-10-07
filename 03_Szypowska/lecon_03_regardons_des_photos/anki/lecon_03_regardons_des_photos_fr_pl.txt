@@ -1,0 +1,150 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Szypowska (FR-PL)::Lesson 3: Regardons des photos
+#tags:french szypowska lecon03 fr-pl
+#columns:Front	Back	Tags
+#tags column:3
+Madame Renoir, Marie et Jean regardent les photos et les cartes.	Pani Renoir, Maria i Jan oglądają zdjęcia i pocztówki.<br>Mrs Renoir, Marie and Jean are looking at the photos and the postcards.<br>/madam ʁənwaʁ, maʁi e ʒɑ̃ ʁəɡaʁd le fɔto e le kaʁt/	fr-pl
+— Voici la photo de Suzanne, l’amie de Marie.	Oto zdjęcie Zuzanny, przyjaciółki Marii.<br>Here is the photo of Suzanne, Marie’s friend.<br>/vwasi la fɔto də syzan, lami də maʁi/	fr-pl
+— Et voilà la photo de Pierre, le camarade de Jean.	A oto zdjęcie Piotra, kolegi Jana.<br>And there is the photo of Pierre, Jean’s friend.<br>/e vwala la fɔto də pjɛʁ, lə kamaʁad də ʒɑ̃/	fr-pl
+— Voici Paris, la capitale de la France. Regarde la Tour Eiffel !	Oto Paryż, stolica Francji. Patrz na wieżę Eiffla!<br>Here is Paris, the capital of France. Look at the Eiffel Tower!<br>/vwasi paʁi, la kapital də la fʁɑ̃s. ʁəɡaʁd la tuʁ ɛfɛl/	fr-pl
+— Et voilà Varsovie, la capitale de la Pologne. Regardez le Palais de la Culture et de la Science !	A oto Warszawa, stolica Polski. Popatrzcie na Pałac Kultury i Nauki!<br>And there is Warsaw, the capital of Poland. Look at the Palace of Culture and Science!<br>/e vwala vaʁsɔvi, la kapital də la pɔlɔɲ. ʁəɡaʁde lə palɛ də la kyltyʁ e də la sjɑ̃s/	fr-pl
+— A Varsovie on parle polonais.	W Warszawie mówi się po polsku.<br>In Warsaw people speak Polish.<br>/a vaʁsɔvi ɔ̃ paʁl pɔlɔnɛ/	fr-pl
+— A Paris on parle français.	W Paryżu mówi się po francusku.<br>In Paris people speak French.<br>/a paʁi ɔ̃ paʁl fʁɑ̃sɛ/	fr-pl
+Jean regarde Marie	Jan patrzy na Marię<br>Jean looks at Marie<br>/ʒɑ̃ ʁəɡaʁd maʁi/	fr-pl
+Marie regarde Jean	Maria patrzy na Jana<br>Marie looks at Jean<br>/maʁi ʁəɡaʁd ʒɑ̃/	fr-pl
+trois	trzy<br>three<br>/tʁwa/	fr-pl
+troisième	trzeci, -a<br>third<br>/tʁwazjɛm/	fr-pl
+Suzanne	Zuzanna<br>Suzanne<br>/syzan/	fr-pl
+l’amie (ż)	przyjaciółka<br>the friend, a woman<br>/lami/	fr-pl
+voilà	(tam) oto (wskazując na przedmiot)<br>there is, there (pointing at something)<br>/vwala/	fr-pl
+Pierre	Piotr<br>Pierre<br>/pjɛʁ/	fr-pl
+le camarade	kolega<br>the friend, the mate<br>/lə kamaʁad/	fr-pl
+Paris	Paryż<br>Paris<br>/paʁi/	fr-pl
+la capitale	stolica<br>the capital<br>/la kapital/	fr-pl
+la France	Francja<br>France<br>/la fʁɑ̃s/	fr-pl
+regarde !	patrz!<br>look!<br>/ʁəɡaʁd/	fr-pl
+Varsovie	Warszawa<br>Warsaw<br>/vaʁsɔvi/	fr-pl
+la Pologne	Polska<br>Poland<br>/la pɔlɔɲ/	fr-pl
+la tour	wieża<br>the tower<br>/la tuʁ/	fr-pl
+le palais	pałac<br>the palace<br>/lə palɛ/	fr-pl
+la culture	kultura<br>culture<br>/la kyltyʁ/	fr-pl
+la science	nauka<br>science<br>/la sjɑ̃s/	fr-pl
+aussi	także<br>also<br>/osi/	fr-pl
+à Varsovie	w Warszawie<br>in Warsaw<br>/a vaʁsɔvi/	fr-pl
+à Paris	w Paryżu<br>in Paris<br>/a paʁi/	fr-pl
+nous aimons	(my) lubimy<br>we like<br>/nuz‿ɛmɔ̃/	fr-pl
+voici	oto (bliżej)<br>here is, this is (for what is nearer)<br>/vwasi/	fr-pl
+voilà (2)	oto (dalej)<br>there is, that is (for what is farther)<br>/vwala/	fr-pl
+la Tour Eiffel	wieża Eiffla<br>the Eiffel Tower<br>/la tuʁ ɛfɛl/	fr-pl
+Impératif	tryb rozkazujący<br>the imperative<br>/ɛ̃peʁatif/	fr-pl
+Présent	czas teraźniejszy<br>the present tense<br>/pʁezɑ̃/	fr-pl
+regardons !	patrzmy!<br>let’s look!<br>/ʁəɡaʁdɔ̃/	fr-pl
+Regarde la Tour Eiffel !	Patrz na wieżę Eiffla!<br>Look at the Eiffel Tower!<br>/ʁəɡaʁd la tuʁ ɛfɛl/	fr-pl
+Regardez le Palais de la Culture !	Patrzcie na Pałac Kultury!<br>Look at the Palace of Culture!<br>/ʁəɡaʁde lə palɛ də la kyltyʁ/	fr-pl
+tu regardes	(ty) patrzysz<br>you look (one person)<br>/ty ʁəɡaʁd/	fr-pl
+regarde ! (2)	patrz!<br>look! (to one person)<br>/ʁəɡaʁd/	fr-pl
+nous regardons	(my) patrzymy<br>we look<br>/nu ʁəɡaʁdɔ̃/	fr-pl
+vous regardez	(wy) patrzycie<br>you look (several people, or politely)<br>/vu ʁəɡaʁde/	fr-pl
+regardez !	patrzcie!<br>look! (to several people, or politely)<br>/ʁəɡaʁde/	fr-pl
+le	rodzajnik określony, rodzaj męski<br>the (masculine singular)<br>/lə/	fr-pl
+la	rodzajnik określony, rodzaj żeński<br>the (feminine singular)<br>/la/	fr-pl
+les	rodzajnik określony, liczba mnoga, oba rodzaje<br>the (plural, both genders)<br>/le/	fr-pl
+l’	rodzajnik przed samogłoską, oba rodzaje<br>the (before a vowel, both genders)<br>/l/	fr-pl
+Marie et Jean regardent les photos	Maria i Jan oglądają te zdjęcia<br>Marie and Jean are looking at the photos (the ones already mentioned)<br>/maʁi e ʒɑ̃ ʁəɡaʁd le fɔto/	fr-pl
+Ils regardent des photos.	Oglądają zdjęcia (w ogóle, jakiekolwiek).<br>They are looking at photos (any photos).<br>/il ʁəɡaʁd de fɔto/	fr-pl
+des	rodzajnik nieokreślony, liczba mnoga<br>some, any (the indefinite article in the plural)<br>/de/	fr-pl
+la photo de Pierre	zdjęcie Piotra<br>Pierre’s photo<br>/la fɔto də pjɛʁ/	fr-pl
+la photo de Suzanne	fotografia Zuzanny<br>Suzanne’s photo<br>/la fɔto də syzan/	fr-pl
+le camarade de Jean	kolega Jana<br>Jean’s friend<br>/lə kamaʁad də ʒɑ̃/	fr-pl
+l’amie de Marie	przyjaciółka Marii<br>Marie’s friend<br>/lami də maʁi/	fr-pl
+le Palais de la Culture	Pałac Kultury<br>the Palace of Culture<br>/lə palɛ də la kyltyʁ/	fr-pl
+de	odpowiednik dopełniacza<br>of (the counterpart of the Polish genitive)<br>/də/	fr-pl
+la capitale de la Pologne	stolica Polski<br>the capital of Poland<br>/la kapital də la pɔlɔɲ/	fr-pl
+le Palais de la Culture et de la Science	Pałac Kultury i Nauki<br>the Palace of Culture and Science<br>/lə palɛ də la kyltyʁ e də la sjɑ̃s/	fr-pl
+Voici une photo	Oto zdjęcie<br>Here is a photo (the caption of the first picture)<br>/vwasi yn fɔto/	fr-pl
+Voilà la photo de Pierre	Oto zdjęcie Piotra<br>There is Pierre's photo (the caption of the second)<br>/vwala la fɔto də pjɛʁ/	fr-pl
+à	w (przed nazwą miasta)<br>at, in: with the name of a city it answers where?<br>/a/	fr-pl
+Voici ________ photo.<br>(Fill in the blanks)	/vwasi [yn] fɔto/<br>Here is a photo.<br>Oto zdjęcie.	exercise
+Voilà ________ photo ________ Pierre.<br>(Fill in the blanks)	/vwala [la] fɔto [də] pjɛʁ/<br>There is Pierre's photo.<br>Oto zdjęcie Piotra.	exercise
+________ regardons ________ cartes.<br>(Fill in the blanks)	/[nu] ʁəɡaʁdɔ̃ [le] kaʁt/<br>We are looking at the postcards.<br>Oglądamy pocztówki.	exercise
+Tu ________ le Palais ________ ________ Culture.<br>(Fill in the blanks)	/ty [ʁəɡaʁd] lə palɛ [də la] kyltyʁ/<br>You are looking at the Palace of Culture.<br>Patrzysz na Pałac Kultury.	exercise
+Regardez ________ la Tour Eiffel ?<br>(Fill in the blanks)	/ʁəɡaʁde [vu] la tuʁ ɛfɛl/<br>Are you looking at the Eiffel Tower?<br>Czy patrzycie na wieżę Eiffla?	exercise
+Voilà des cartes.	Oto pocztówki.<br>There are some postcards.<br>/vwala de kaʁt/	fr-pl
+Voilà des cartes. → Put into the singular	Voilà une carte.<br>/vwala yn kaʁt/<br>There is a postcard.<br>Oto pocztówka.	exercise
+Voici les photos de Suzanne.	Oto zdjęcia Zuzanny.<br>Here are Suzanne's photos.<br>/vwasi le fɔto də syzan/	fr-pl
+Voici les photos de Suzanne. → Put into the singular	Voici la photo de Suzanne.<br>/vwasi la fɔto də syzan/<br>Here is Suzanne's photo.<br>Oto zdjęcie Zuzanny.	exercise
+Nous fumons des cigarettes.	Palimy papierosy.<br>We smoke cigarettes.<br>/nu fymɔ̃ de siɡaʁɛt/	fr-pl
+Nous fumons des cigarettes. → Put into the singular	Je fume une cigarette.<br>/ʒə fym yn siɡaʁɛt/<br>I smoke a cigarette.<br>Palę papierosa.	exercise
+Elles apportent des livres.	One przynoszą książki.<br>They (women) bring books.<br>/ɛlz‿apɔʁt de livʁ/	fr-pl
+Elles apportent des livres. → Put into the singular	Elle apporte un livre.<br>/ɛl apɔʁt œ̃ livʁ/<br>She brings a book.<br>Ona przynosi książkę.	exercise
+Je regarde un livre.	Oglądam książkę.<br>I am looking at a book.<br>/ʒə ʁəɡaʁd œ̃ livʁ/	fr-pl
+Je regarde un livre. → Put into the plural	Nous regardons des livres.<br>/nu ʁəɡaʁdɔ̃ de livʁ/<br>We are looking at books.<br>Oglądamy książki.	exercise
+Voici la carte de Jean.	Oto pocztówka Jana.<br>Here is Jean's postcard.<br>/vwasi la kaʁt də ʒɑ̃/	fr-pl
+Voici la carte de Jean. → Put into the plural	Voici les cartes de Jean.<br>/vwasi le kaʁt də ʒɑ̃/<br>Here are Jean's postcards.<br>Oto pocztówki Jana.	exercise
+Tu apportes un livre.	Przynosisz książkę.<br>You bring a book.<br>/ty apɔʁt œ̃ livʁ/	fr-pl
+Tu apportes un livre. → Put into the plural	Vous apportez des livres.<br>/vuz‿apɔʁte de livʁ/<br>You bring books.<br>Przynosicie książki.	exercise
+Aimez-vous parler français ?	Czy lubicie mówić po francusku?<br>Do you like speaking French?<br>/ɛme vu paʁle fʁɑ̃sɛ/	fr-pl
+Aimez-vous parler français ? → Answer yes and no (Oui nous)	Oui, nous aimons parler français.<br>/wi, nuz‿ɛmɔ̃ paʁle fʁɑ̃sɛ/<br>Yes, we like speaking French.<br>Tak, lubimy mówić po francusku.	exercise
+Aimez-vous parler français ? → Answer yes and no (Non nous)	Non, nous n’aimons pas parler français.<br>/nɔ̃, nu nɛmɔ̃ pa paʁle fʁɑ̃sɛ/<br>No, we do not like speaking French.<br>Nie, nie lubimy mówić po francusku.	exercise
+Aiment-ils regarder des photos ?	Czy oni lubią oglądać zdjęcia?<br>Do they like looking at photos?<br>/ɛmtil ʁəɡaʁde de fɔto/	fr-pl
+Aiment-ils regarder des photos ? → Answer yes and no (Oui ils)	Oui, ils aiment regarder des photos.<br>/wi, ilz‿ɛm ʁəɡaʁde de fɔto/<br>Yes, they like looking at photos.<br>Tak, lubią oglądać zdjęcia.	exercise
+Aiment-ils regarder des photos ? → Answer yes and no (Non ils)	Non, ils n’aiment pas regarder des photos.<br>/nɔ̃, il nɛm pa ʁəɡaʁde de fɔto/<br>No, they do not like looking at photos.<br>Nie, nie lubią oglądać zdjęć.	exercise
+Voici la photo de Jean, l’ami de Pierre.	Oto zdjęcie Jana, przyjaciela Piotra.<br>Here is the photo of Jean, Pierre's friend.<br>/vwasi la fɔto də ʒɑ̃, lami də pjɛʁ/	fr-pl
+Regardez !	Patrzcie!<br>Look!<br>/ʁəɡaʁde/	fr-pl
+Voici Paris.	Oto Paryż.<br>Here is Paris.<br>/vwasi paʁi/	fr-pl
+Voici la capitale de la Pologne.	Oto stolica Polski.<br>Here is the capital of Poland.<br>/vwasi la kapital də la pɔlɔɲ/	fr-pl
+Marie regarde un livre.	Maria ogląda książkę.<br>Marie is looking at a book.<br>/maʁi ʁəɡaʁd œ̃ livʁ/	fr-pl
+Nous regardons le livre de Jean.	Oglądamy książkę Jana.<br>We are looking at Jean's book.<br>/nu ʁəɡaʁdɔ̃ lə livʁ də ʒɑ̃/	fr-pl
+Voici trois cartes et quatre photos.	Oto trzy pocztówki i cztery zdjęcia.<br>Here are three postcards and four photos.<br>/vwasi tʁwa kaʁt e katʁ fɔto/	fr-pl
+trois : trois fois · les trois amis · à trois heures	trzy razy · trzej przyjaciele · o trzeciej<br>three times · the three friends · at three o'clock<br>/tʁwa fwa · le tʁwaz‿ami · a tʁwaz‿œʁ/	fr-pl
+troisième : au troisième étage · la troisième fois · le troisième jour	na trzecim piętrze · trzeci raz · trzeciego dnia<br>on the third floor · the third time · the third day<br>/o tʁwazjɛm etaʒ · la tʁwazjɛm fwa · lə tʁwazjɛm ʒuʁ/	fr-pl
+l’amie, l’ami : une bonne amie · mon meilleur ami · un ami d’enfance	dobra przyjaciółka · mój najlepszy przyjaciel · przyjaciel z dzieciństwa<br>a good friend (a woman) · my best friend · a childhood friend<br>/yn bɔn ami · mɔ̃ mɛjœʁ ami · œ̃n‿ami dɑ̃fɑ̃s/	fr-pl
+voilà : voilà tout · me voilà · voilà pourquoi	to wszystko · oto jestem · oto dlaczego<br>that's all · here I am · that is why<br>/vwala tu · mə vwala · vwala puʁkwa/	fr-pl
+voici : voici ma sœur · le voici · voici la réponse	oto moja siostra · oto on · oto odpowiedź<br>here is my sister · here he is · here is the answer<br>/vwasi ma sœʁ · lə vwasi · vwasi la ʁepɔ̃s/	fr-pl
+le camarade : un camarade de classe · une camarade · camarade !	kolega z klasy · koleżanka · towarzyszu!<br>a classmate · a female friend · comrade!<br>/œ̃ kamaʁad də klas · yn kamaʁad · kamaʁad/	fr-pl
+la capitale : la capitale de la France · une lettre capitale · en capitales	stolica Francji · wielka litera · wielkimi literami<br>the capital of France · a capital letter · in capitals<br>/la kapital də la fʁɑ̃s · yn lɛtʁ kapital · ɑ̃ kapital/	fr-pl
+la France : en France · le sud de la France · la France entière	we Francji · południe Francji · cała Francja<br>in France · the south of France · the whole of France<br>/ɑ̃ fʁɑ̃s · lə syd də la fʁɑ̃s · la fʁɑ̃s ɑ̃tjɛʁ/	fr-pl
+regarder : regarde ! · regardez-moi · regarder un film	patrz! · patrzcie na mnie · oglądać film<br>look! · look at me · to watch a film<br>/ʁəɡaʁd · ʁəɡaʁde mwa · ʁəɡaʁde œ̃ film/	fr-pl
+la Pologne : en Pologne · le nord de la Pologne · la Pologne et la France	w Polsce · północ Polski · Polska i Francja<br>in Poland · the north of Poland · Poland and France<br>/ɑ̃ pɔlɔɲ · lə nɔʁ də la pɔlɔɲ · la pɔlɔɲ e la fʁɑ̃s/	fr-pl
+la tour : la Tour Eiffel · une tour de vingt étages · le Tour de France (masculine: a tour, a turn)	wieża Eiffla · dwudziestopiętrowa wieża · Tour de France (le tour, rodzaj męski: objazd)<br>the Eiffel Tower · a twenty-storey tower · the Tour de France<br>/la tuʁ ɛfɛl · yn tuʁ də vɛ̃t‿etaʒ · lə tuʁ də fʁɑ̃s/	fr-pl
+le palais : le Palais de la Culture · le palais royal · le Palais de justice	Pałac Kultury · pałac królewski · gmach sądu<br>the Palace of Culture · the royal palace · the law courts<br>/lə palɛ də la kyltyʁ · lə palɛ ʁwajal · lə palɛ də ʒystis/	fr-pl
+la culture : la culture française · la culture générale · un homme de culture	kultura francuska · wiedza ogólna · człowiek kulturalny<br>French culture · general knowledge · a cultured man<br>/la kyltyʁ fʁɑ̃sɛz · la kyltyʁ ʒeneʁal · œ̃n‿ɔm də kyltyʁ/	fr-pl
+la science : les sciences · la science-fiction · un homme de science	nauki ścisłe · fantastyka naukowa · człowiek nauki<br>the sciences · science fiction · a man of science<br>/le sjɑ̃s · la sjɑ̃s fiksjɔ̃ · œ̃n‿ɔm də sjɑ̃s/	fr-pl
+aussi : moi aussi · aussi grand que · et aussi	ja też · tak duży jak · a także<br>me too · as big as · and also<br>/mwa osi · osi ɡʁɑ̃ kə · e osi/	fr-pl
+aimer : nous aimons Paris · j’aime bien · aimer parler	kochamy Paryż · lubię · lubić mówić<br>we love Paris · I quite like · to like speaking<br>/nuz‿ɛmɔ̃ paʁi · ʒɛm bjɛ̃ · ɛme paʁle/	fr-pl
+la photo : prendre une photo · une photo de famille · un appareil photo	zrobić zdjęcie · zdjęcie rodzinne · aparat fotograficzny<br>to take a photo · a family photo · a camera<br>/pʁɑ̃dʁ yn fɔto · yn fɔto də famij · œ̃n‿apaʁɛj fɔto/	fr-pl
+la carte : une carte postale · la carte de France · une carte d’identité	pocztówka · mapa Francji · dowód tożsamości<br>a postcard · the map of France · an identity card<br>/yn kaʁt pɔstal · la kaʁt də fʁɑ̃s · yn kaʁt didɑ̃tite/	fr-pl
+parler : parler français · parler de Paris · parler à Marie	mówić po francusku · mówić o Paryżu · mówić do Marii<br>to speak French · to talk about Paris · to talk to Marie<br>/paʁle fʁɑ̃sɛ · paʁle də paʁi · paʁle a maʁi/	fr-pl
+Paris : à Paris · de Paris · un Parisien, une Parisienne	w Paryżu · z Paryża · paryżanin, paryżanka<br>in Paris · from Paris · a Parisian<br>/a paʁi · də paʁi · œ̃ paʁizjɛ̃, yn paʁizjɛn/	fr-pl
+Varsovie : à Varsovie · de Varsovie · un Varsovien, une Varsovienne	w Warszawie · z Warszawy · warszawiak, warszawianka<br>in Warsaw · from Warsaw · a Varsovian<br>/a vaʁsɔvi · də vaʁsɔvi · œ̃ vaʁsɔvjɛ̃, yn vaʁsɔvjɛn/	fr-pl
+Voici Marie. La voici !	Oto Maria. Oto ona!<br>Here is Marie. Here she is!<br>/vwasi maʁi. la vwasi/	fr-pl
+Regardez la carte de France : voilà Paris.	Spójrzcie na mapę Francji: oto Paryż.<br>Look at the map of France: there is Paris.<br>/ʁəɡaʁde la kaʁt də fʁɑ̃s : vwala paʁi/	fr-pl
+J’écoute la radio et je regarde les photos.	Słucham radia i oglądam zdjęcia.<br>I listen to the radio and look at the photos.<br>/ʒekut la ʁadjo e ʒə ʁəɡaʁd le fɔto/	fr-pl
+À Berlin on parle allemand ; à Rome on parle italien.	W Berlinie mówi się po niemiecku, w Rzymie po włosku.<br>In Berlin people speak German; in Rome, Italian.<br>/a bɛʁlɛ̃ ɔ̃ paʁl almɑ̃ ; a ʁɔm ɔ̃ paʁl italjɛ̃/	fr-pl
+Nous aimons regarder la Tour Eiffel la nuit.	Lubimy patrzeć na wieżę Eiffla nocą.<br>We like looking at the Eiffel Tower at night.<br>/nuz‿ɛmɔ̃ ʁəɡaʁde la tuʁ ɛfɛl la nɥi/	fr-pl
+Le camarade de Jean habite à Varsovie.	Kolega Jana mieszka w Warszawie.<br>Jean's friend lives in Warsaw.<br>/lə kamaʁad də ʒɑ̃ abit a vaʁsɔvi/	fr-pl
+Suzanne apporte trois cartes postales de Paris.	Zuzanna przynosi trzy pocztówki z Paryża.<br>Suzanne brings three postcards from Paris.<br>/syzan apɔʁt tʁwa kaʁt pɔstal də paʁi/	fr-pl
+La science et la culture sont au Palais.	Nauka i kultura są w Pałacu.<br>Science and culture are at the Palace.<br>/la sjɑ̃s e la kyltyʁ sɔ̃(t)‿o palɛ/	fr-pl
+Regardons ensemble les photos de Pierre !	Obejrzyjmy razem zdjęcia Piotra!<br>Let's look at Pierre's photos together!<br>/ʁəɡaʁdɔ̃ ɑ̃sɑ̃bl le fɔto də pjɛʁ/	fr-pl
+Madame Renoir fume une cigarette dans le jardin.	Pani Renoir pali papierosa w ogrodzie.<br>Mrs Renoir smokes a cigarette in the garden.<br>/madam ʁənwaʁ fym yn siɡaʁɛt dɑ̃ lə ʒaʁdɛ̃/	fr-pl
+la carte postale	pocztówka<br>the postcard<br>/la kaʁt pɔstal/	fr-pl
+la carte de France	mapa Francji<br>the map of France<br>/la kaʁt də fʁɑ̃s/	fr-pl
+écouter	słuchać<br>to listen to<br>/ekute/	fr-pl
+apporter	przynosić<br>to bring<br>/apɔʁte/	fr-pl
+fumer	palić<br>to smoke<br>/fyme/	fr-pl
+ensemble	razem<br>together<br>/ɑ̃sɑ̃bl/	fr-pl
+la nuit	noc; nocą<br>the night; at night<br>/la nɥi/	fr-pl
+allemand, italien, anglais, polonais, français	niemiecki, włoski, angielski, polski, francuski<br>German, Italian, English, Polish, French (the languages, no capital letter)<br>/almɑ̃, italjɛ̃, ɑ̃ɡlɛ, pɔlɔnɛ, fʁɑ̃sɛ/	fr-pl
+le pays	kraj<br>the country<br>/lə pei/	fr-pl
+la ville	miasto<br>the city<br>/la vil/	fr-pl
+________ la photo ________ Suzanne : regarde !<br>(AI exercise: voici or voilà, le, la, les or de)	/[vwasi] la fɔto [də] syzan : ʁəɡaʁd/<br>Here is Suzanne's photo: look!<br>Oto zdjęcie Zuzanny: patrz!	exercise
+À Varsovie on parle ________.<br>(AI exercise: voici or voilà, le, la, les or de)	/a vaʁsɔvi ɔ̃ paʁl [pɔlɔnɛ]/<br>In Warsaw people speak Polish.<br>W Warszawie mówi się po polsku.	exercise
+________ capitale ________ la France est Paris.<br>(AI exercise: voici or voilà, le, la, les or de)	/[la] kapital [də] la fʁɑ̃s ɛ paʁi/<br>The capital of France is Paris.<br>Stolicą Francji jest Paryż.	exercise
+regarder la carte (nous)	patrzeć na mapę (my)<br>to look at the map (we)<br>/ʁəɡaʁde la kaʁt/	fr-pl
+regarder la carte (nous) → AI exercise: give the imperative	Regardons la carte !<br>/ʁəɡaʁdɔ̃ la kaʁt/<br>Let's look at the map!<br>Popatrzmy na mapę!	exercise
+écouter Marie (tu)	słuchać Marii (ty)<br>to listen to Marie (you, one person)<br>/ekute maʁi/	fr-pl
+écouter Marie (tu) → AI exercise: give the imperative	Écoute Marie !<br>/ekut maʁi/<br>Listen to Marie!<br>Słuchaj Marii!	exercise
+apporter les photos (vous)	przynieść zdjęcia (wy)<br>to bring the photos (you, several)<br>/apɔʁte le fɔto/	fr-pl
+apporter les photos (vous) → AI exercise: give the imperative	Apportez les photos !<br>/apɔʁte le fɔto/<br>Bring the photos!<br>Przynieście zdjęcia!	exercise

@@ -1,7 +1,7 @@
 #separator:tab
 #html:true
 #notetype:Basic
-#deck:French::Szypowska::Lesson 5: Dialogue::Challenges
+#deck:French::Szypowska (PL-FR)::Lesson 5: Dialogue::Challenges
 #tags:french szypowska lecon05 challenge
 #columns:Front	Back	Tags
 #tags column:3

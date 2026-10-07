@@ -1,18 +1,21 @@
 #!/usr/bin/env python3
-"""Make each lesson's Anki deck from the table on its page.
+"""Make each lesson's Anki decks from the table on its page, one per direction.
 
-    python3 tools/anki_from_tables.py 03_Szypowska            # write <lesson>/anki/<lesson>.txt for every lesson
+    python3 tools/anki_from_tables.py 03_Szypowska            # write <lesson>/anki/<lesson>_fr_pl.txt and _pl_fr.txt
     python3 tools/anki_from_tables.py 03_Szypowska --check    # write nothing; fail if any deck is stale (CI)
 
 A lesson page here is one table: French | English, with the Polish below it |
-IPA. Every row with a transcription gives two cards, the French on the front
-and the meaning with the IPA on the back, then the meaning on the front and
-the French with the IPA on the back. An exercise row gives one card instead:
-a sentence with a blank, or the book's sentence with the instruction of its
-section, on the front, and the answer on the back. Heading rows, in bold,
-name the sections; the page's H1 names the deck. The deck is generated so
-that it cannot drift from the page; the challenges beside it,
-<lesson>/anki/<lesson>_challenges.txt, are written by hand and left alone.
+IPA. Every row with a transcription gives one card in each direction. In the
+chapter of the Polish textbook the directions are FR-PL (French on the front,
+the Polish and English and the IPA on the back) and PL-FR (the book's Polish
+on the front, the French with its IPA and the English on the back); in the
+teacher's chapter, which has no Polish, FR-EN and EN-FR. An exercise row
+gives one card, in the French-front deck: a sentence with a blank, or the
+book's sentence with the instruction of its section, on the front, and the
+answer on the back. Heading rows, in bold, name the sections; the page's H1
+names the subdeck. The decks are generated so that they cannot drift from
+the page; the challenges beside them, <lesson>/anki/<lesson>_challenges.txt,
+are written by hand and left alone.
 """
 
 from __future__ import annotations
@@ -23,6 +26,12 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 BLANK = "________"
+
+# chapter folder -> (name in the deck, French-front direction, to-French direction, has Polish)
+CHAPTERS = {
+    "02_Yosser_teacher": ("Yosser", "FR-EN", "EN-FR", False),
+    "03_Szypowska": ("Szypowska", "FR-PL", "PL-FR", True),
+}
 
 
 def clean(cell: str) -> str:
@@ -49,54 +58,61 @@ def parse_page(text: str):
     return title, rows
 
 
-def cards(rows) -> list[tuple[str, str, str]]:
-    out: list[tuple[str, str, str]] = []
+def dedupe(cards):
+    """A word the page repeats gives one card; a front that recurs with a
+    different back is numbered so that Anki keeps both."""
+    backs: dict[str, list[str]] = {}
+    out = []
+    for front, back, tag in cards:
+        had = backs.setdefault(front, [])
+        if back in had:
+            continue
+        had.append(back)
+        n = len(had)
+        out.append((front if n == 1 else f"{front} ({n})", back, tag))
+    return out
+
+
+def cards(rows, polish: bool):
+    """Two lists: the French-front cards (with the exercises) and the to-French cards."""
+    fr, to_fr = [], []
     base = ""
     for french, meaning, ipa, section in rows:
         if not ipa:
             continue
+        english, pl = (meaning.split("<br>", 1) + [""])[:2] if "<br>" in meaning else (meaning, "")
         if french.startswith("→"):
             answer = french.lstrip("→ ").strip()
             front = f"{base} → {section}"
             if section.lower().startswith("answer"):
                 words = re.sub(r"[.,!?]", "", answer).split()
                 front += f" ({' '.join(words[:2])})"
-            out.append((front, f"{answer}<br>{ipa}<br>{meaning}", "exercise"))
+            fr.append((front, f"{answer}<br>{ipa}<br>{meaning}", "exercise"))
             continue
         base = french
         if BLANK in french:
-            out.append((f"{french}<br>({section})", f"{ipa}<br>{meaning}", "exercise"))
+            fr.append((f"{french}<br>({section})", f"{ipa}<br>{meaning}", "exercise"))
             continue
-        out.append((french, f"{meaning}<br>{ipa}", "fr-en"))
-        out.append((meaning, f"{french}<br>{ipa}", "en-fr"))
-    # A word the page repeats (in the word list, then in the notes, then in a
-    # grammar table) gives one card, not three; a front that recurs with a
-    # different back is numbered so that Anki keeps both.
-    backs: dict[str, list[str]] = {}
-    unique = []
-    for front, back, tag in out:
-        had = backs.setdefault(front, [])
-        if back in had:
-            continue
-        had.append(back)
-        n = len(had)
-        unique.append((front if n == 1 else f"{front} ({n})", back, tag))
-    return unique
+        if polish and pl:
+            fr.append((french, f"{pl}<br>{english}<br>{ipa}", "fr-pl"))
+            to_fr.append((pl, f"{french}<br>{ipa}<br>{english}", "pl-fr"))
+        else:
+            fr.append((french, f"{english}<br>{ipa}", "fr-en"))
+            to_fr.append((english, f"{french}<br>{ipa}", "en-fr"))
+    return dedupe(fr), dedupe(to_fr)
 
 
-def deck_text(chapter: Path, lesson: Path) -> str:
-    title, rows = parse_page((lesson / "README.md").read_text(encoding="utf-8"))
-    chapter_name = chapter.name.split("_", 1)[1].split("_")[0]
+def deck_text(name: str, direction: str, title: str, lesson_tag: str, items) -> str:
     lines = [
         "#separator:tab",
         "#html:true",
         "#notetype:Basic",
-        f"#deck:French::{chapter_name}::{title}",
-        f"#tags:french {chapter_name.lower()} {lesson.name.split('_')[0]}{lesson.name.split('_')[1]}",
+        f"#deck:French::{name} ({direction})::{title}",
+        f"#tags:french {name.lower()} {lesson_tag} {direction.lower()}",
         "#columns:Front\tBack\tTags",
         "#tags column:3",
     ]
-    for front, back, tag in cards(rows):
+    for front, back, tag in items:
         lines.append("\t".join([front, back, tag]))
     return "\n".join(lines) + "\n"
 
@@ -104,26 +120,31 @@ def deck_text(chapter: Path, lesson: Path) -> str:
 def main() -> None:
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     check = "--check" in sys.argv
-    if len(args) != 1:
-        sys.exit(__doc__)
+    if len(args) != 1 or args[0] not in CHAPTERS:
+        sys.exit(__doc__ + "\nKnown chapters: " + ", ".join(CHAPTERS))
     chapter = ROOT / args[0]
+    name, d_fr, d_to, polish = CHAPTERS[args[0]]
     lessons = sorted(p.parent for p in chapter.glob("*/README.md"))
     if not lessons:
         sys.exit(f"{chapter}: no lessons found")
     stale = []
     for lesson in lessons:
-        text = deck_text(chapter, lesson)
-        out = lesson / "anki" / f"{lesson.name}.txt"
-        n = sum(1 for l in text.splitlines() if not l.startswith("#"))
-        if check:
-            if not out.exists() or out.read_text(encoding="utf-8") != text:
-                stale.append(str(out.relative_to(ROOT)))
-            else:
-                print(f"{out.relative_to(ROOT)}: up to date, {n} cards.")
-            continue
-        out.parent.mkdir(exist_ok=True)
-        out.write_text(text, encoding="utf-8")
-        print(f"wrote {out.relative_to(ROOT)}: {n} cards.")
+        title, rows = parse_page((lesson / "README.md").read_text(encoding="utf-8"))
+        parts = lesson.name.split("_")
+        lesson_tag = parts[0] + parts[1]
+        fr, to_fr = cards(rows, polish)
+        for direction, items in ((d_fr, fr), (d_to, to_fr)):
+            text = deck_text(name, direction, title, lesson_tag, items)
+            out = lesson / "anki" / f"{lesson.name}_{direction.lower().replace('-', '_')}.txt"
+            if check:
+                if not out.exists() or out.read_text(encoding="utf-8") != text:
+                    stale.append(str(out.relative_to(ROOT)))
+                else:
+                    print(f"{out.relative_to(ROOT)}: up to date, {len(items)} cards.")
+                continue
+            out.parent.mkdir(exist_ok=True)
+            out.write_text(text, encoding="utf-8")
+            print(f"wrote {out.relative_to(ROOT)}: {len(items)} cards.")
     if stale:
         sys.exit("stale: " + ", ".join(stale) + f" — run python3 tools/anki_from_tables.py {args[0]}")
 

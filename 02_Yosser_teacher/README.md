@@ -12,4 +12,11 @@ How to read a lesson's table: French as printed, bold rows for the sections, `__
 
 ## Anki
 
-One file imports the whole chapter, kept apart from the textbook's: [`anki/yosser_teacher_all.txt`](anki/yosser_teacher_all.txt), with a subdeck per lesson. Each lesson folder has its own two decks under `anki/`: one generated from the lesson's table by `tools/anki_from_tables.py` (every word, question and sentence, French to English and English to French, and the exercises with their answers), and one of challenges written by hand (answer the comprehension questions, correct the false statements, say it, which article). Cards carry the tags `fr-en`, `en-fr`, `exercise` and `challenge`.
+Two sets, kept apart from the textbook's, each one file with a subdeck per lesson:
+
+| Set | File | On the front | On the back |
+|---|---|---|---|
+| Yosser (FR-EN) | [`anki/yosser_fr_en.txt`](anki/yosser_fr_en.txt) | the French | the English and the IPA; also the exercises, with their answers |
+| Yosser (EN-FR) | [`anki/yosser_en_fr.txt`](anki/yosser_en_fr.txt) | the English | the French and the IPA; also the challenges written by hand, under their own subdeck |
+
+Each lesson folder holds its own decks under `anki/`: the two generated from the lesson's table by `tools/anki_from_tables.py`, and the challenges. Cards carry the tags `fr-en`, `en-fr`, `exercise` and `challenge`.
