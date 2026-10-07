@@ -5,10 +5,6 @@
 #tags:french szypowska lecon06 fr-pl
 #columns:Front	Back	Tags
 #tags column:3
-huit, puis<br>/ɥit, pɥi/	ui to /ɥi/<br>ui is /ɥi/	fr-pl
-aussi, gâteau, oiseaux<br>/osi, ɡɑto, wazo/	au, eau, eaux to /o/<br>au, eau, eaux are /o/	fr-pl
-bien, chien<br>/bjɛ̃, ʃjɛ̃/	ien to /jɛ̃/<br>ien is /jɛ̃/	fr-pl
-douze, deux enfants, aux enfants, visite<br>/duz, døz‿ɑ̃fɑ̃, oz‿ɑ̃fɑ̃, vizit/	z oraz x lub s w łączeniu to /z/<br>z, and x or s in liaison, are /z/	fr-pl
 Monsieur et Madame Bertin habitent à Chaville dans les environs de Paris.<br>/məsjø e madam bɛʁtɛ̃ abit a ʃavil dɑ̃ lez‿ɑ̃viʁɔ̃ də paʁi/	Państwo Bertin mieszkają w Chaville pod Paryżem.<br>Mr and Mrs Bertin live in Chaville, near Paris.	fr-pl
 Ils ont une petite maison avec un petit jardin.<br>/ilz‿ɔ̃ yn pətit mɛzɔ̃ avɛk œ̃ pəti ʒaʁdɛ̃/	Mają mały dom z małym ogrodem.<br>They have a small house with a small garden.	fr-pl
 Et ils ont deux enfants : un garçon et une fille.<br>/e ilz‿ɔ̃ døz‿ɑ̃fɑ̃ : œ̃ ɡaʁsɔ̃ e yn fij/	I mają dwoje dzieci: chłopca i dziewczynkę.<br>And they have two children: a boy and a girl.	fr-pl

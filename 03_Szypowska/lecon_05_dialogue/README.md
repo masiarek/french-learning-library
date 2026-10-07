@@ -15,10 +15,10 @@ Conventions: on the [chapter page](../README.md).
 |---|---|---|
 | **Leçon cinq — Cinquième leçon** | **Lesson five — Fifth lesson**<br>Lekcja piąta | /ləsɔ̃ sɛ̃k — sɛ̃kjɛm ləsɔ̃/ |
 | **The sounds drilled at the top of the lesson** | **(the letters in bold on the page, and their sound)**<br>Ćwiczenie wymowy | |
-| cahier, canif, carnet, crayon | c before a, o and a consonant is /k/<br>c przed a, o i spółgłoską to /k/ | /kaje, kanif, kaʁnɛ, kʁɛjɔ̃/ |
-| crayon | -ay- is /ɛj/<br>-ay- to /ɛj/ | /kʁɛjɔ̃/ |
-| j’ai, avez, des | -ai, -ez, -es here are /e/<br>-ai, -ez, -es tutaj to /e/ | /ʒe, ave, de/ |
-| que, de | an unaccented e in a short word is /ə/<br>e bez akcentu w krótkim wyrazie to /ə/ | /kə, də/ |
+| cahier, canif, carnet, crayon | c before a, o and a consonant is /k/<br>c przed a, o i spółgłoską czyta się /k/ | /kaje, kanif, kaʁnɛ, kʁɛjɔ̃/ |
+| crayon | -ay- is /ɛj/<br>-ay- czyta się /ɛj/ | /kʁɛjɔ̃/ |
+| j’ai, avez, des | -ai, -ez, -es here are /e/<br>-ai, -ez, -es tutaj czyta się /e/ | /ʒe, ave, de/ |
+| que, de | an unaccented e in a short word is /ə/<br>e bez akcentu w krótkim wyrazie czyta się /ə/ | /kə, də/ |
 | **I. Dialogue** | **I. Dialogue**<br>Dialog | /djalɔɡ/ |
 | — J’ai un stylo. Est-ce que j’ai un stylo ? | I have a fountain pen. Do I have a fountain pen?<br>Mam pióro wieczne. Czy mam pióro wieczne? | /ʒe œ̃ stilo. ɛs kə ʒe œ̃ stilo/ |
 | — Oui, vous avez un stylo. | Yes, you have a fountain pen.<br>Tak, ma pan pióro wieczne. | /wi, vuz‿ave œ̃ stilo/ |

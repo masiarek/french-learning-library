@@ -5,10 +5,6 @@
 #tags:french szypowska lecon05 pl-fr
 #columns:Front	Back	Tags
 #tags column:3
-c przed a, o i spółgłoską to /k/	cahier, canif, carnet, crayon<br>/kaje, kanif, kaʁnɛ, kʁɛjɔ̃/<br>c before a, o and a consonant is /k/	pl-fr
--ay- to /ɛj/	crayon<br>/kʁɛjɔ̃/<br>-ay- is /ɛj/	pl-fr
--ai, -ez, -es tutaj to /e/	j’ai, avez, des<br>/ʒe, ave, de/<br>-ai, -ez, -es here are /e/	pl-fr
-e bez akcentu w krótkim wyrazie to /ə/	que, de<br>/kə, də/<br>an unaccented e in a short word is /ə/	pl-fr
 Mam pióro wieczne. Czy mam pióro wieczne?	— J’ai un stylo. Est-ce que j’ai un stylo ?<br>/ʒe œ̃ stilo. ɛs kə ʒe œ̃ stilo/<br>I have a fountain pen. Do I have a fountain pen?	pl-fr
 Tak, ma pan pióro wieczne.	— Oui, vous avez un stylo.<br>/wi, vuz‿ave œ̃ stilo/<br>Yes, you have a fountain pen.	pl-fr
 Czy ma pan notes?	— Avez-vous un carnet ?<br>/ave vu œ̃ kaʁnɛ/<br>Do you have a notebook?	pl-fr

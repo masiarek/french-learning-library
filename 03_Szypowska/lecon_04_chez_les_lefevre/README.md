@@ -15,13 +15,13 @@ Conventions: on the [chapter page](../README.md).
 |---|---|---|
 | **Leçon quatre — Quatrième leçon** | **Lesson four — Fourth lesson**<br>Lekcja czwarta | /ləsɔ̃ katʁ — katʁijɛm ləsɔ̃/ |
 | **The sounds drilled at the top of the lesson** | **(the letters in bold on the page, and their sound)**<br>Ćwiczenie wymowy | |
-| leçon, garçon | the letter ç is /s/<br>litera ç to /s/ | /ləsɔ̃, ɡaʁsɔ̃/ |
-| fille, famille | -ille is /ij/<br>-ille to /ij/ | /fij, famij/ |
-| divan, parents, chambre, manger, appartement | an, en, am are /ɑ̃/<br>an, en, am to /ɑ̃/ | /divɑ̃, paʁɑ̃, ʃɑ̃bʁ, mɑ̃ʒe, apaʁtəmɑ̃/ |
-| bain | ain is /ɛ̃/<br>ain to /ɛ̃/ | /bɛ̃/ |
-| du, rue | u is /y/<br>u to /y/ | /dy, ʁy/ |
-| Bac, quatre, cabinet | c and qu are /k/<br>c i qu to /k/ | /bak, katʁ, kabinɛ/ |
-| chambre | ch is /ʃ/<br>ch to /ʃ/ | /ʃɑ̃bʁ/ |
+| leçon, garçon | the letter ç is /s/<br>litera ç czyta się /s/ | /ləsɔ̃, ɡaʁsɔ̃/ |
+| fille, famille | -ille is /ij/<br>-ille czyta się /ij/ | /fij, famij/ |
+| divan, parents, chambre, manger, appartement | an, en, am are /ɑ̃/<br>an, en, am czyta się /ɑ̃/ | /divɑ̃, paʁɑ̃, ʃɑ̃bʁ, mɑ̃ʒe, apaʁtəmɑ̃/ |
+| bain | ain is /ɛ̃/<br>ain czyta się /ɛ̃/ | /bɛ̃/ |
+| du, rue | u is /y/<br>u czyta się /y/ | /dy, ʁy/ |
+| Bac, quatre, cabinet | c and qu are /k/<br>c i qu czyta się /k/ | /bak, katʁ, kabinɛ/ |
+| chambre | ch is /ʃ/<br>ch czyta się /ʃ/ | /ʃɑ̃bʁ/ |
 | **I. Chez les Lefèvre** | **I. At the Lefèvres'**<br>U państwa Lefèvre | /ʃe le ləfɛvʁ/ |
 | Monsieur et Madame Lefèvre habitent un appartement rue du Bac. | Mr and Mrs Lefèvre live in a flat on the rue du Bac.<br>Państwo Lefèvre mieszkają w mieszkaniu przy ulicy du Bac. | /məsjø e madam ləfɛvʁ abit‿œ̃n‿apaʁtəmɑ̃ ʁy dy bak/ |
 | Nous entrons. | We go in.<br>Wchodzimy. | /nuz‿ɑ̃tʁɔ̃/ |

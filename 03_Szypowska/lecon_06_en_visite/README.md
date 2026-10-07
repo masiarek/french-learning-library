@@ -16,10 +16,10 @@ Conventions: on the [chapter page](../README.md). The book gives no transcriptio
 |---|---|---|
 | **Leçon six — Sixième leçon** | **Lesson six — Sixth lesson**<br>Lekcja szósta | /ləsɔ̃ sis — sizjɛm ləsɔ̃/ |
 | **The sounds drilled at the top of the lesson** | **(the letters in bold on the page, and their sound)**<br>Ćwiczenie wymowy | |
-| huit, puis | ui is /ɥi/<br>ui to /ɥi/ | /ɥit, pɥi/ |
-| aussi, gâteau, oiseaux | au, eau, eaux are /o/<br>au, eau, eaux to /o/ | /osi, ɡɑto, wazo/ |
-| bien, chien | ien is /jɛ̃/<br>ien to /jɛ̃/ | /bjɛ̃, ʃjɛ̃/ |
-| douze, deux enfants, aux enfants, visite | z, and x or s in liaison, are /z/<br>z oraz x lub s w łączeniu to /z/ | /duz, døz‿ɑ̃fɑ̃, oz‿ɑ̃fɑ̃, vizit/ |
+| huit, puis | ui is /ɥi/<br>ui czyta się /ɥi/ | /ɥit, pɥi/ |
+| aussi, gâteau, oiseaux | au, eau, eaux are /o/<br>au, eau, eaux czyta się /o/ | /osi, ɡɑto, wazo/ |
+| bien, chien | ien is /jɛ̃/<br>ien czyta się /jɛ̃/ | /bjɛ̃, ʃjɛ̃/ |
+| douze, deux enfants, aux enfants, visite | z, and x or s in liaison, are /z/<br>z oraz x lub s w łączeniu czyta się /z/ | /duz, døz‿ɑ̃fɑ̃, oz‿ɑ̃fɑ̃, vizit/ |
 | **I. En visite** | **I. On a visit**<br>Z wizytą | /ɑ̃ vizit/ |
 | Monsieur et Madame Bertin habitent à Chaville dans les environs de Paris. | Mr and Mrs Bertin live in Chaville, near Paris.<br>Państwo Bertin mieszkają w Chaville pod Paryżem. | /məsjø e madam bɛʁtɛ̃ abit a ʃavil dɑ̃ lez‿ɑ̃viʁɔ̃ də paʁi/ |
 | Ils ont une petite maison avec un petit jardin. | They have a small house with a small garden.<br>Mają mały dom z małym ogrodem. | /ilz‿ɔ̃ yn pətit mɛzɔ̃ avɛk œ̃ pəti ʒaʁdɛ̃/ |

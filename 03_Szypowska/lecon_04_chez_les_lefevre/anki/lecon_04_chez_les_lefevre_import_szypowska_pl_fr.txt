@@ -4,13 +4,6 @@
 #columns:Front	Back	Tags	Deck
 #tags column:3
 #deck column:4
-litera ç to /s/	leçon, garçon<br>/ləsɔ̃, ɡaʁsɔ̃/<br>the letter ç is /s/	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
--ille to /ij/	fille, famille<br>/fij, famij/<br>-ille is /ij/	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
-an, en, am to /ɑ̃/	divan, parents, chambre, manger, appartement<br>/divɑ̃, paʁɑ̃, ʃɑ̃bʁ, mɑ̃ʒe, apaʁtəmɑ̃/<br>an, en, am are /ɑ̃/	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
-ain to /ɛ̃/	bain<br>/bɛ̃/<br>ain is /ɛ̃/	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
-u to /y/	du, rue<br>/dy, ʁy/<br>u is /y/	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
-c i qu to /k/	Bac, quatre, cabinet<br>/bak, katʁ, kabinɛ/<br>c and qu are /k/	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
-ch to /ʃ/	chambre<br>/ʃɑ̃bʁ/<br>ch is /ʃ/	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
 Państwo Lefèvre mieszkają w mieszkaniu przy ulicy du Bac.	Monsieur et Madame Lefèvre habitent un appartement rue du Bac.<br>/məsjø e madam ləfɛvʁ abit‿œ̃n‿apaʁtəmɑ̃ ʁy dy bak/<br>Mr and Mrs Lefèvre live in a flat on the rue du Bac.	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
 Wchodzimy.	Nous entrons.<br>/nuz‿ɑ̃tʁɔ̃/<br>We go in.	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
 Zwiedzamy mieszkanie rodziny Lefèvre.	Nous visitons l’appartement de la famille Lefèvre.<br>/nu vizitɔ̃ lapaʁtəmɑ̃ də la famij ləfɛvʁ/<br>We visit the Lefèvre family's flat.	french szypowska lecon04 pl-fr	French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
