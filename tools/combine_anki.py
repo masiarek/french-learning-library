@@ -40,7 +40,15 @@ def parse(path: Path):
 
 def build(chapter: Path) -> dict[str, str]:
     """Set name -> the combined file's text."""
-    sources = sorted(p for p in chapter.glob("*/anki/*.txt"))
+    # A lesson's own cards must come before its challenge subdeck. Anki's
+    # importer creates a parent deck silently when a subdeck is named first,
+    # and then, not finding it by name, makes a new deck with a "+" for every
+    # later card that names the parent: one card per deck, "Lesson 3+",
+    # "Lesson 3++", and so on. Sorting the challenges last avoids that.
+    sources = sorted(
+        (p for p in chapter.glob("*/anki/*.txt")),
+        key=lambda p: (p.parent, p.name.endswith("_challenges.txt"), p.name),
+    )
     if not sources:
         sys.exit(f"{chapter}: no lesson decks found")
     sets: dict[str, list[str]] = {}
