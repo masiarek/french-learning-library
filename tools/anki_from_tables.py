@@ -6,8 +6,8 @@
 
 A lesson page here is one table: French | English, with the Polish below it |
 IPA. Every row with a transcription gives one card in each direction. In the
-chapter of the Polish textbook the directions are FR-PL (French on the front,
-the Polish and English and the IPA on the back) and PL-FR (the book's Polish
+chapter of the Polish textbook the directions are FR-PL (the French with its
+IPA on the front, the Polish and the English on the back) and PL-FR (the book's Polish
 on the front, the French with its IPA and the English on the back); in the
 teacher's chapter, which has no Polish, FR-EN and EN-FR. An exercise row
 gives one card, in the French-front deck: a sentence with a blank, or the
@@ -93,11 +93,13 @@ def cards(rows, polish: bool):
         if BLANK in french:
             fr.append((f"{french}<br>({section})", f"{ipa}<br>{meaning}", "exercise"))
             continue
+        # French-front cards show the IPA under the French, so the card is read
+        # and pronounced before it is turned; the meaning is the answer.
         if polish and pl:
-            fr.append((french, f"{pl}<br>{english}<br>{ipa}", "fr-pl"))
+            fr.append((f"{french}<br>{ipa}", f"{pl}<br>{english}", "fr-pl"))
             to_fr.append((pl, f"{french}<br>{ipa}<br>{english}", "pl-fr"))
         else:
-            fr.append((french, f"{english}<br>{ipa}", "fr-en"))
+            fr.append((f"{french}<br>{ipa}", english, "fr-en"))
             to_fr.append((english, f"{french}<br>{ipa}", "en-fr"))
     return dedupe(fr), dedupe(to_fr)
 

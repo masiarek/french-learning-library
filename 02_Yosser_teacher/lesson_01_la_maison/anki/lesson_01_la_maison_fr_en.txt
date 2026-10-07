@@ -5,116 +5,116 @@
 #tags:french yosser lesson01 fr-en
 #columns:Front	Back	Tags
 #tags column:3
-le salon	the living room<br>/lə salɔ̃/	fr-en
-la cuisine	the kitchen<br>/la kɥizin/	fr-en
-la chambre	the bedroom<br>/la ʃɑ̃bʁ/	fr-en
-la salle de bains	the bathroom<br>/la sal də bɛ̃/	fr-en
-les toilettes	the toilet<br>/le twalɛt/	fr-en
-la salle à manger	the dining room<br>/la sal a mɑ̃ʒe/	fr-en
-le jardin	the garden<br>/lə ʒaʁdɛ̃/	fr-en
-le garage	the garage<br>/lə ɡaʁaʒ/	fr-en
-un canapé	a sofa<br>/œ̃ kanape/	fr-en
-une table	a table<br>/yn tabl/	fr-en
-une chaise	a chair<br>/yn ʃɛz/	fr-en
-un lit	a bed<br>/œ̃ li/	fr-en
-un bureau	a desk<br>/œ̃ byʁo/	fr-en
-une armoire	a wardrobe<br>/yn aʁmwaʁ/	fr-en
-une télévision	a television<br>/yn televizjɔ̃/	fr-en
-une lampe	a lamp<br>/yn lɑ̃p/	fr-en
-un tapis	a carpet, a rug<br>/œ̃ tapi/	fr-en
-une fenêtre	a window<br>/yn fənɛtʁ/	fr-en
-une porte	a door<br>/yn pɔʁt/	fr-en
-Je m’appelle Adam.	My name is Adam.<br>/ʒə mapɛl adam/	fr-en
-J’ai treize ans.	I am thirteen years old.<br>/ʒe tʁɛz ɑ̃/	fr-en
-J’habite dans une grande maison avec ma famille.	I live in a big house with my family.<br>/ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/	fr-en
-Ma maison est belle et confortable.	My house is beautiful and comfortable.<br>/ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/	fr-en
-Dans ma maison, il y a un salon, une cuisine, trois chambres et deux salles de bains.	In my house there is a living room, a kitchen, three bedrooms and two bathrooms.<br>/dɑ̃ ma mɛzɔ̃, il j a œ̃ salɔ̃, yn kɥizin, tʁwa ʃɑ̃bʁ e dø sal də bɛ̃/	fr-en
-Il y a aussi un petit jardin.	There is also a small garden.<br>/il j a osi œ̃ pəti ʒaʁdɛ̃/	fr-en
-Dans le salon, il y a un canapé, une télévision, une table et quatre chaises.	In the living room there is a sofa, a television, a table and four chairs.<br>/dɑ̃ lə salɔ̃, il j a œ̃ kanape, yn televizjɔ̃, yn tabl e katʁ ʃɛz/	fr-en
-Ma chambre est au premier étage.	My bedroom is on the first floor.<br>/ma ʃɑ̃bʁ ɛ o pʁəmjɛʁ‿etaʒ/	fr-en
-Elle est petite mais jolie.	It is small but pretty.<br>/ɛl ɛ pətit mɛ ʒɔli/	fr-en
-Dans ma chambre, il y a un lit, un bureau, une chaise et une armoire.	In my bedroom there is a bed, a desk, a chair and a wardrobe.<br>/dɑ̃ ma ʃɑ̃bʁ, il j a œ̃ li, œ̃ byʁo, yn ʃɛz e yn aʁmwaʁ/	fr-en
-Sur mon bureau, il y a mes livres et mes cahiers.	On my desk there are my books and my notebooks.<br>/syʁ mɔ̃ byʁo, il j a me livʁ e me kaje/	fr-en
-J’aime beaucoup ma maison parce que je peux jouer, étudier et regarder la télévision avec ma famille.	I like my house a lot because I can play, study and watch television with my family.<br>/ʒɛm boku ma mɛzɔ̃ paʁs kə ʒə pø ʒwe, etydje e ʁəɡaʁde la televizjɔ̃ avɛk ma famij/	fr-en
-Réponds aux questions.	Answer the questions.<br>/ʁepɔ̃ o kɛstjɔ̃/	fr-en
-1. Comment s’appelle le garçon ?	What is the boy’s name?<br>/kɔmɑ̃ sapɛl lə ɡaʁsɔ̃/	fr-en
-2. Quel âge a-t-il ?	How old is he?<br>/kɛl ɑʒ atil/	fr-en
-3. Avec qui habite-t-il ?	Who does he live with?<br>/avɛk ki abitil/	fr-en
-4. Comment est sa maison ?	What is his house like?<br>/kɔmɑ̃ ɛ sa mɛzɔ̃/	fr-en
-5. Combien de chambres y a-t-il dans la maison ?	How many bedrooms are there in the house?<br>/kɔ̃bjɛ̃ də ʃɑ̃bʁ jatil dɑ̃ la mɛzɔ̃/	fr-en
-6. Combien de salles de bains y a-t-il ?	How many bathrooms are there?<br>/kɔ̃bjɛ̃ də sal də bɛ̃ jatil/	fr-en
-7. Est-ce qu’il y a un jardin ?	Is there a garden?<br>/ɛs kil j a œ̃ ʒaʁdɛ̃/	fr-en
-8. Où est la chambre d’Adam ?	Where is Adam’s bedroom?<br>/u ɛ la ʃɑ̃bʁ dadam/	fr-en
-9. Qu’est-ce qu’il y a dans sa chambre ?	What is there in his bedroom?<br>/kɛs kil j a dɑ̃ sa ʃɑ̃bʁ/	fr-en
-10. Qu’est-ce qu’il y a sur son bureau ?	What is there on his desk?<br>/kɛs kil j a syʁ sɔ̃ byʁo/	fr-en
-11. Est-ce qu’Adam aime sa maison ?	Does Adam like his house?<br>/ɛs kadam ɛm sa mɛzɔ̃/	fr-en
-12. Pourquoi aime-t-il sa maison ?	Why does he like his house?<br>/puʁkwa ɛmtil sa mɛzɔ̃/	fr-en
-Écris Vrai ou Faux.	Write True or False.<br>/ekʁi vʁɛ u fo/	fr-en
-1. Adam a treize ans.	Adam is thirteen years old.<br>/adam a tʁɛz ɑ̃/	fr-en
-2. Adam habite dans un appartement.	Adam lives in a flat.<br>/adam abit dɑ̃z‿œ̃n‿apaʁtəmɑ̃/	fr-en
-3. Adam habite avec sa famille.	Adam lives with his family.<br>/adam abit avɛk sa famij/	fr-en
-4. Il y a trois chambres dans la maison.	There are three bedrooms in the house.<br>/il j a tʁwa ʃɑ̃bʁ dɑ̃ la mɛzɔ̃/	fr-en
-5. Il y a une salle de bains.	There is one bathroom.<br>/il j a yn sal də bɛ̃/	fr-en
-6. Il y a un petit jardin.	There is a small garden.<br>/il j a œ̃ pəti ʒaʁdɛ̃/	fr-en
-7. La chambre d’Adam est au premier étage.	Adam’s bedroom is on the first floor.<br>/la ʃɑ̃bʁ dadam ɛ o pʁəmjɛʁ‿etaʒ/	fr-en
-8. Dans sa chambre, il y a un lit et un bureau.	In his bedroom there is a bed and a desk.<br>/dɑ̃ sa ʃɑ̃bʁ, il j a œ̃ li e œ̃ byʁo/	fr-en
-9. Il y a des livres et des cahiers sur son bureau.	There are books and notebooks on his desk.<br>/il j a de livʁ e de kaje syʁ sɔ̃ byʁo/	fr-en
-10. Adam n’aime pas sa maison.	Adam does not like his house.<br>/adam nɛm pa sa mɛzɔ̃/	fr-en
-Complète avec les mots suivants :	Complete with the following words:<br>/kɔ̃plɛt avɛk le mo sɥivɑ̃/	fr-en
-maison – salon – cuisine – chambre – jardin – bureau	house – living room – kitchen – bedroom – garden – desk<br>/mɛzɔ̃ – salɔ̃ – kɥizin – ʃɑ̃bʁ – ʒaʁdɛ̃ – byʁo/	fr-en
+le salon<br>/lə salɔ̃/	the living room	fr-en
+la cuisine<br>/la kɥizin/	the kitchen	fr-en
+la chambre<br>/la ʃɑ̃bʁ/	the bedroom	fr-en
+la salle de bains<br>/la sal də bɛ̃/	the bathroom	fr-en
+les toilettes<br>/le twalɛt/	the toilet	fr-en
+la salle à manger<br>/la sal a mɑ̃ʒe/	the dining room	fr-en
+le jardin<br>/lə ʒaʁdɛ̃/	the garden	fr-en
+le garage<br>/lə ɡaʁaʒ/	the garage	fr-en
+un canapé<br>/œ̃ kanape/	a sofa	fr-en
+une table<br>/yn tabl/	a table	fr-en
+une chaise<br>/yn ʃɛz/	a chair	fr-en
+un lit<br>/œ̃ li/	a bed	fr-en
+un bureau<br>/œ̃ byʁo/	a desk	fr-en
+une armoire<br>/yn aʁmwaʁ/	a wardrobe	fr-en
+une télévision<br>/yn televizjɔ̃/	a television	fr-en
+une lampe<br>/yn lɑ̃p/	a lamp	fr-en
+un tapis<br>/œ̃ tapi/	a carpet, a rug	fr-en
+une fenêtre<br>/yn fənɛtʁ/	a window	fr-en
+une porte<br>/yn pɔʁt/	a door	fr-en
+Je m’appelle Adam.<br>/ʒə mapɛl adam/	My name is Adam.	fr-en
+J’ai treize ans.<br>/ʒe tʁɛz ɑ̃/	I am thirteen years old.	fr-en
+J’habite dans une grande maison avec ma famille.<br>/ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/	I live in a big house with my family.	fr-en
+Ma maison est belle et confortable.<br>/ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/	My house is beautiful and comfortable.	fr-en
+Dans ma maison, il y a un salon, une cuisine, trois chambres et deux salles de bains.<br>/dɑ̃ ma mɛzɔ̃, il j a œ̃ salɔ̃, yn kɥizin, tʁwa ʃɑ̃bʁ e dø sal də bɛ̃/	In my house there is a living room, a kitchen, three bedrooms and two bathrooms.	fr-en
+Il y a aussi un petit jardin.<br>/il j a osi œ̃ pəti ʒaʁdɛ̃/	There is also a small garden.	fr-en
+Dans le salon, il y a un canapé, une télévision, une table et quatre chaises.<br>/dɑ̃ lə salɔ̃, il j a œ̃ kanape, yn televizjɔ̃, yn tabl e katʁ ʃɛz/	In the living room there is a sofa, a television, a table and four chairs.	fr-en
+Ma chambre est au premier étage.<br>/ma ʃɑ̃bʁ ɛ o pʁəmjɛʁ‿etaʒ/	My bedroom is on the first floor.	fr-en
+Elle est petite mais jolie.<br>/ɛl ɛ pətit mɛ ʒɔli/	It is small but pretty.	fr-en
+Dans ma chambre, il y a un lit, un bureau, une chaise et une armoire.<br>/dɑ̃ ma ʃɑ̃bʁ, il j a œ̃ li, œ̃ byʁo, yn ʃɛz e yn aʁmwaʁ/	In my bedroom there is a bed, a desk, a chair and a wardrobe.	fr-en
+Sur mon bureau, il y a mes livres et mes cahiers.<br>/syʁ mɔ̃ byʁo, il j a me livʁ e me kaje/	On my desk there are my books and my notebooks.	fr-en
+J’aime beaucoup ma maison parce que je peux jouer, étudier et regarder la télévision avec ma famille.<br>/ʒɛm boku ma mɛzɔ̃ paʁs kə ʒə pø ʒwe, etydje e ʁəɡaʁde la televizjɔ̃ avɛk ma famij/	I like my house a lot because I can play, study and watch television with my family.	fr-en
+Réponds aux questions.<br>/ʁepɔ̃ o kɛstjɔ̃/	Answer the questions.	fr-en
+1. Comment s’appelle le garçon ?<br>/kɔmɑ̃ sapɛl lə ɡaʁsɔ̃/	What is the boy’s name?	fr-en
+2. Quel âge a-t-il ?<br>/kɛl ɑʒ atil/	How old is he?	fr-en
+3. Avec qui habite-t-il ?<br>/avɛk ki abitil/	Who does he live with?	fr-en
+4. Comment est sa maison ?<br>/kɔmɑ̃ ɛ sa mɛzɔ̃/	What is his house like?	fr-en
+5. Combien de chambres y a-t-il dans la maison ?<br>/kɔ̃bjɛ̃ də ʃɑ̃bʁ jatil dɑ̃ la mɛzɔ̃/	How many bedrooms are there in the house?	fr-en
+6. Combien de salles de bains y a-t-il ?<br>/kɔ̃bjɛ̃ də sal də bɛ̃ jatil/	How many bathrooms are there?	fr-en
+7. Est-ce qu’il y a un jardin ?<br>/ɛs kil j a œ̃ ʒaʁdɛ̃/	Is there a garden?	fr-en
+8. Où est la chambre d’Adam ?<br>/u ɛ la ʃɑ̃bʁ dadam/	Where is Adam’s bedroom?	fr-en
+9. Qu’est-ce qu’il y a dans sa chambre ?<br>/kɛs kil j a dɑ̃ sa ʃɑ̃bʁ/	What is there in his bedroom?	fr-en
+10. Qu’est-ce qu’il y a sur son bureau ?<br>/kɛs kil j a syʁ sɔ̃ byʁo/	What is there on his desk?	fr-en
+11. Est-ce qu’Adam aime sa maison ?<br>/ɛs kadam ɛm sa mɛzɔ̃/	Does Adam like his house?	fr-en
+12. Pourquoi aime-t-il sa maison ?<br>/puʁkwa ɛmtil sa mɛzɔ̃/	Why does he like his house?	fr-en
+Écris Vrai ou Faux.<br>/ekʁi vʁɛ u fo/	Write True or False.	fr-en
+1. Adam a treize ans.<br>/adam a tʁɛz ɑ̃/	Adam is thirteen years old.	fr-en
+2. Adam habite dans un appartement.<br>/adam abit dɑ̃z‿œ̃n‿apaʁtəmɑ̃/	Adam lives in a flat.	fr-en
+3. Adam habite avec sa famille.<br>/adam abit avɛk sa famij/	Adam lives with his family.	fr-en
+4. Il y a trois chambres dans la maison.<br>/il j a tʁwa ʃɑ̃bʁ dɑ̃ la mɛzɔ̃/	There are three bedrooms in the house.	fr-en
+5. Il y a une salle de bains.<br>/il j a yn sal də bɛ̃/	There is one bathroom.	fr-en
+6. Il y a un petit jardin.<br>/il j a œ̃ pəti ʒaʁdɛ̃/	There is a small garden.	fr-en
+7. La chambre d’Adam est au premier étage.<br>/la ʃɑ̃bʁ dadam ɛ o pʁəmjɛʁ‿etaʒ/	Adam’s bedroom is on the first floor.	fr-en
+8. Dans sa chambre, il y a un lit et un bureau.<br>/dɑ̃ sa ʃɑ̃bʁ, il j a œ̃ li e œ̃ byʁo/	In his bedroom there is a bed and a desk.	fr-en
+9. Il y a des livres et des cahiers sur son bureau.<br>/il j a de livʁ e de kaje syʁ sɔ̃ byʁo/	There are books and notebooks on his desk.	fr-en
+10. Adam n’aime pas sa maison.<br>/adam nɛm pa sa mɛzɔ̃/	Adam does not like his house.	fr-en
+Complète avec les mots suivants :<br>/kɔ̃plɛt avɛk le mo sɥivɑ̃/	Complete with the following words:	fr-en
+maison – salon – cuisine – chambre – jardin – bureau<br>/mɛzɔ̃ – salɔ̃ – kɥizin – ʃɑ̃bʁ – ʒaʁdɛ̃ – byʁo/	house – living room – kitchen – bedroom – garden – desk	fr-en
 1. Adam habite dans une grande ________.<br>(Complète les phrases)	/adam abit dɑ̃z‿yn ɡʁɑ̃d [mɛzɔ̃]/<br>Adam lives in a big ________.	exercise
 2. Dans le ________, il y a un canapé et une télévision.<br>(Complète les phrases)	/dɑ̃ lə [salɔ̃], il j a œ̃ kanape e yn televizjɔ̃/<br>In the ________ there is a sofa and a television.	exercise
 3. La ________ est la pièce où on prépare les repas.<br>(Complète les phrases)	/la [kɥizin] ɛ la pjɛs u ɔ̃ pʁepaʁ le ʁəpa/<br>The ________ is the room where meals are prepared.	exercise
 4. Adam dort dans sa ________.<br>(Complète les phrases)	/adam dɔʁ dɑ̃ sa [ʃɑ̃bʁ]/<br>Adam sleeps in his ________.	exercise
 5. Il y a un petit ________ derrière la maison.<br>(Complète les phrases)	/il j a œ̃ pəti [ʒaʁdɛ̃] dɛʁjɛʁ la mɛzɔ̃/<br>There is a small ________ behind the house.	exercise
 6. Adam fait ses devoirs sur son ________.<br>(Complète les phrases)	/adam fɛ se dəvwaʁ syʁ sɔ̃ [byʁo]/<br>Adam does his homework on his ________.	exercise
-1. Où est la chambre d’Adam ?	Where is Adam’s bedroom?<br>/u ɛ la ʃɑ̃bʁ dadam/	fr-en
-a) Au rez-de-chaussée.	On the ground floor.<br>/o ʁedʃose/	fr-en
-b) Au premier étage.	On the first floor.<br>/o pʁəmjɛʁ‿etaʒ/	fr-en
-c) Dans le jardin.	In the garden.<br>/dɑ̃ lə ʒaʁdɛ̃/	fr-en
-2. Combien de chambres y a-t-il dans la maison ?	How many bedrooms are there in the house?<br>/kɔ̃bjɛ̃ də ʃɑ̃bʁ jatil dɑ̃ la mɛzɔ̃/	fr-en
-a) Deux.	Two.<br>/dø/	fr-en
-b) Trois.	Three.<br>/tʁwa/	fr-en
-c) Quatre.	Four.<br>/katʁ/	fr-en
-3. Qu’est-ce qu’il y a dans le salon ?	What is there in the living room?<br>/kɛs kil j a dɑ̃ lə salɔ̃/	fr-en
-a) Un lit.	A bed.<br>/œ̃ li/	fr-en
-b) Une armoire.	A wardrobe.<br>/yn aʁmwaʁ/	fr-en
-c) Un canapé.	A sofa.<br>/œ̃ kanape/	fr-en
-4. Qu’est-ce qu’il y a sur le bureau ?	What is there on the desk?<br>/kɛs kil j a syʁ lə byʁo/	fr-en
-a) Des livres et des cahiers.	Books and notebooks.<br>/de livʁ e de kaje/	fr-en
-b) Des vêtements.	Clothes.<br>/de vɛtmɑ̃/	fr-en
-c) Des fleurs.	Flowers.<br>/de flœʁ/	fr-en
-5. Avec qui Adam regarde-t-il la télévision ?	Who does Adam watch television with?<br>/avɛk ki adam ʁəɡaʁdtil la televizjɔ̃/	fr-en
-a) Avec ses amis.	With his friends.<br>/avɛk sez‿ami/	fr-en
-b) Avec sa famille.	With his family.<br>/avɛk sa famij/	fr-en
-c) Avec son professeur.	With his teacher.<br>/avɛk sɔ̃ pʁɔfɛsœʁ/	fr-en
-On utilise « il y a » pour dire qu’une personne ou une chose se trouve dans un endroit.	“Il y a” is used to say that a person or a thing is in a place.<br>/ɔ̃n‿ytiliz il j a puʁ diʁ kyn pɛʁsɔn u yn ʃoz sə tʁuv dɑ̃z‿œ̃n‿ɑ̃dʁwa/	fr-en
-Exemples :	Examples:<br>/ɛɡzɑ̃pl/	fr-en
-Il y a un canapé dans le salon.	There is a sofa in the living room.<br>/il j a œ̃ kanape dɑ̃ lə salɔ̃/	fr-en
-Il y a une table dans la cuisine.	There is a table in the kitchen.<br>/il j a yn tabl dɑ̃ la kɥizin/	fr-en
-Il y a trois chambres dans la maison.	There are three bedrooms in the house.<br>/il j a tʁwa ʃɑ̃bʁ dɑ̃ la mɛzɔ̃/	fr-en
-Il y a des livres sur le bureau.	There are books on the desk.<br>/il j a de livʁ syʁ lə byʁo/	fr-en
-Structure :	Structure:<br>/stʁyktyʁ/	fr-en
-Il y a + un / une / des + nom.	There is / there are + un / une / des + noun.<br>/il j a + œ̃, yn, de + nɔ̃/	fr-en
+1. Où est la chambre d’Adam ?<br>/u ɛ la ʃɑ̃bʁ dadam/	Where is Adam’s bedroom?	fr-en
+a) Au rez-de-chaussée.<br>/o ʁedʃose/	On the ground floor.	fr-en
+b) Au premier étage.<br>/o pʁəmjɛʁ‿etaʒ/	On the first floor.	fr-en
+c) Dans le jardin.<br>/dɑ̃ lə ʒaʁdɛ̃/	In the garden.	fr-en
+2. Combien de chambres y a-t-il dans la maison ?<br>/kɔ̃bjɛ̃ də ʃɑ̃bʁ jatil dɑ̃ la mɛzɔ̃/	How many bedrooms are there in the house?	fr-en
+a) Deux.<br>/dø/	Two.	fr-en
+b) Trois.<br>/tʁwa/	Three.	fr-en
+c) Quatre.<br>/katʁ/	Four.	fr-en
+3. Qu’est-ce qu’il y a dans le salon ?<br>/kɛs kil j a dɑ̃ lə salɔ̃/	What is there in the living room?	fr-en
+a) Un lit.<br>/œ̃ li/	A bed.	fr-en
+b) Une armoire.<br>/yn aʁmwaʁ/	A wardrobe.	fr-en
+c) Un canapé.<br>/œ̃ kanape/	A sofa.	fr-en
+4. Qu’est-ce qu’il y a sur le bureau ?<br>/kɛs kil j a syʁ lə byʁo/	What is there on the desk?	fr-en
+a) Des livres et des cahiers.<br>/de livʁ e de kaje/	Books and notebooks.	fr-en
+b) Des vêtements.<br>/de vɛtmɑ̃/	Clothes.	fr-en
+c) Des fleurs.<br>/de flœʁ/	Flowers.	fr-en
+5. Avec qui Adam regarde-t-il la télévision ?<br>/avɛk ki adam ʁəɡaʁdtil la televizjɔ̃/	Who does Adam watch television with?	fr-en
+a) Avec ses amis.<br>/avɛk sez‿ami/	With his friends.	fr-en
+b) Avec sa famille.<br>/avɛk sa famij/	With his family.	fr-en
+c) Avec son professeur.<br>/avɛk sɔ̃ pʁɔfɛsœʁ/	With his teacher.	fr-en
+On utilise « il y a » pour dire qu’une personne ou une chose se trouve dans un endroit.<br>/ɔ̃n‿ytiliz il j a puʁ diʁ kyn pɛʁsɔn u yn ʃoz sə tʁuv dɑ̃z‿œ̃n‿ɑ̃dʁwa/	“Il y a” is used to say that a person or a thing is in a place.	fr-en
+Exemples :<br>/ɛɡzɑ̃pl/	Examples:	fr-en
+Il y a un canapé dans le salon.<br>/il j a œ̃ kanape dɑ̃ lə salɔ̃/	There is a sofa in the living room.	fr-en
+Il y a une table dans la cuisine.<br>/il j a yn tabl dɑ̃ la kɥizin/	There is a table in the kitchen.	fr-en
+Il y a trois chambres dans la maison.<br>/il j a tʁwa ʃɑ̃bʁ dɑ̃ la mɛzɔ̃/	There are three bedrooms in the house.	fr-en
+Il y a des livres sur le bureau.<br>/il j a de livʁ syʁ lə byʁo/	There are books on the desk.	fr-en
+Structure :<br>/stʁyktyʁ/	Structure:	fr-en
+Il y a + un / une / des + nom.<br>/il j a + œ̃, yn, de + nɔ̃/	There is / there are + un / une / des + noun.	fr-en
 1. Dans ma maison, ________ un salon.<br>(Complète avec « il y a »)	/dɑ̃ ma mɛzɔ̃, [il j a] œ̃ salɔ̃/<br>In my house ________ a living room.	exercise
 2. Dans ma chambre, ________ un lit.<br>(Complète avec « il y a »)	/dɑ̃ ma ʃɑ̃bʁ, [il j a] œ̃ li/<br>In my bedroom ________ a bed.	exercise
 3. Dans la cuisine, ________ une table.<br>(Complète avec « il y a »)	/dɑ̃ la kɥizin, [il j a] yn tabl/<br>In the kitchen ________ a table.	exercise
 4. Dans le jardin, ________ des fleurs.<br>(Complète avec « il y a »)	/dɑ̃ lə ʒaʁdɛ̃, [il j a] de flœʁ/<br>In the garden ________ flowers.	exercise
 5. Dans le salon, ________ un canapé.<br>(Complète avec « il y a »)	/dɑ̃ lə salɔ̃, [il j a] œ̃ kanape/<br>In the living room ________ a sofa.	exercise
 6. Dans ma chambre, ________ une armoire.<br>(Complète avec « il y a »)	/dɑ̃ ma ʃɑ̃bʁ, [il j a] yn aʁmwaʁ/<br>In my bedroom ________ a wardrobe.	exercise
-Mots importants	Key words<br>/mo ɛ̃pɔʁtɑ̃/	fr-en
-dans	inside, in<br>/dɑ̃/	fr-en
-sur	on<br>/syʁ/	fr-en
-sous	under<br>/su/	fr-en
-devant	in front of<br>/dəvɑ̃/	fr-en
-derrière	behind<br>/dɛʁjɛʁ/	fr-en
-à côté de	next to<br>/a kote də/	fr-en
-Le livre est sur le bureau.	The book is on the desk.<br>/lə livʁ ɛ syʁ lə byʁo/	fr-en
-Le sac est sous la table.	The bag is under the table.<br>/lə sak ɛ su la tabl/	fr-en
-La chaise est à côté du bureau.	The chair is next to the desk.<br>/la ʃɛz ɛ(t)‿a kote dy byʁo/	fr-en
-La voiture est devant la maison.	The car is in front of the house.<br>/la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃/	fr-en
-Le jardin est derrière la maison.	The garden is behind the house.<br>/lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ la mɛzɔ̃/	fr-en
-Utilise les phrases suivantes pour parler de ta maison :	Use the following sentences to talk about your house:<br>/ytiliz le fʁaz sɥivɑ̃t puʁ paʁle də ta mɛzɔ̃/	fr-en
+Mots importants<br>/mo ɛ̃pɔʁtɑ̃/	Key words	fr-en
+dans<br>/dɑ̃/	inside, in	fr-en
+sur<br>/syʁ/	on	fr-en
+sous<br>/su/	under	fr-en
+devant<br>/dəvɑ̃/	in front of	fr-en
+derrière<br>/dɛʁjɛʁ/	behind	fr-en
+à côté de<br>/a kote də/	next to	fr-en
+Le livre est sur le bureau.<br>/lə livʁ ɛ syʁ lə byʁo/	The book is on the desk.	fr-en
+Le sac est sous la table.<br>/lə sak ɛ su la tabl/	The bag is under the table.	fr-en
+La chaise est à côté du bureau.<br>/la ʃɛz ɛ(t)‿a kote dy byʁo/	The chair is next to the desk.	fr-en
+La voiture est devant la maison.<br>/la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃/	The car is in front of the house.	fr-en
+Le jardin est derrière la maison.<br>/lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ la mɛzɔ̃/	The garden is behind the house.	fr-en
+Utilise les phrases suivantes pour parler de ta maison :<br>/ytiliz le fʁaz sɥivɑ̃t puʁ paʁle də ta mɛzɔ̃/	Use the following sentences to talk about your house:	fr-en
 J’habite dans une ________.<br>(Décris ta maison)	/ʒabit dɑ̃z‿yn …/<br>I live in a ________.	exercise
 Ma maison est ________.<br>(Décris ta maison)	/ma mɛzɔ̃ ɛ …/<br>My house is ________.	exercise
 Dans ma maison, il y a ________.<br>(Décris ta maison)	/dɑ̃ ma mɛzɔ̃, il j a …/<br>In my house there is ________.	exercise
@@ -122,87 +122,87 @@ Dans ma chambre, il y a ________.<br>(Décris ta maison)	/dɑ̃ ma ʃɑ̃bʁ, il
 Dans le salon, il y a ________.<br>(Décris ta maison)	/dɑ̃ lə salɔ̃, il j a …/<br>In the living room there is ________.	exercise
 Sur mon bureau, il y a ________.<br>(Décris ta maison)	/syʁ mɔ̃ byʁo, il j a …/<br>On my desk there is ________.	exercise
 J’aime ma maison parce que ________.<br>(Décris ta maison)	/ʒɛm ma mɛzɔ̃ paʁs kə …/<br>I like my house because ________.	exercise
-Exemple :	Example:<br>/ɛɡzɑ̃pl/	fr-en
-Ma chambre est petite mais jolie.	My bedroom is small but pretty.<br>/ma ʃɑ̃bʁ ɛ pətit mɛ ʒɔli/	fr-en
-Il y a un lit, un bureau et une armoire.	There is a bed, a desk and a wardrobe.<br>/il j a œ̃ li, œ̃ byʁo e yn aʁmwaʁ/	fr-en
-J’aime beaucoup ma maison.	I like my house a lot.<br>/ʒɛm boku ma mɛzɔ̃/	fr-en
-1. Il s’appelle Adam.	His name is Adam.<br>/il sapɛl adam/	fr-en
-2. Il a treize ans.	He is thirteen years old.<br>/il a tʁɛz ɑ̃/	fr-en
-3. Il habite avec sa famille.	He lives with his family.<br>/il abit avɛk sa famij/	fr-en
-4. Sa maison est grande, belle et confortable.	His house is big, beautiful and comfortable.<br>/sa mɛzɔ̃ ɛ ɡʁɑ̃d, bɛl e kɔ̃fɔʁtabl/	fr-en
-5. Il y a trois chambres.	There are three bedrooms.<br>/il j a tʁwa ʃɑ̃bʁ/	fr-en
-6. Il y a deux salles de bains.	There are two bathrooms.<br>/il j a dø sal də bɛ̃/	fr-en
-7. Oui, il y a un petit jardin.	Yes, there is a small garden.<br>/wi, il j a œ̃ pəti ʒaʁdɛ̃/	fr-en
-8. Sa chambre est au premier étage.	His bedroom is on the first floor.<br>/sa ʃɑ̃bʁ ɛ o pʁəmjɛʁ‿etaʒ/	fr-en
-9. Il y a un lit, un bureau, une chaise et une armoire.	There is a bed, a desk, a chair and a wardrobe.<br>/il j a œ̃ li, œ̃ byʁo, yn ʃɛz e yn aʁmwaʁ/	fr-en
-10. Il y a ses livres et ses cahiers.	There are his books and his notebooks.<br>/il j a se livʁ e se kaje/	fr-en
-11. Oui, Adam aime sa maison.	Yes, Adam likes his house.<br>/wi, adam ɛm sa mɛzɔ̃/	fr-en
-12. Il aime sa maison parce qu’il peut jouer, étudier et regarder la télévision avec sa famille.	He likes his house because he can play, study and watch television with his family.<br>/il ɛm sa mɛzɔ̃ paʁs kil pø ʒwe, etydje e ʁəɡaʁde la televizjɔ̃ avɛk sa famij/	fr-en
-1 Vrai · 2 Faux · 3 Vrai · 4 Vrai · 5 Faux · 6 Vrai · 7 Vrai · 8 Vrai · 9 Vrai · 10 Faux	1 True · 2 False · 3 True · 4 True · 5 False · 6 True · 7 True · 8 True · 9 True · 10 False<br>vrai /vʁɛ/, faux /fo/	fr-en
-1 maison · 2 salon · 3 cuisine · 4 chambre · 5 jardin · 6 bureau	1 house · 2 living room · 3 kitchen · 4 bedroom · 5 garden · 6 desk<br>/mɛzɔ̃ · salɔ̃ · kɥizin · ʃɑ̃bʁ · ʒaʁdɛ̃ · byʁo/	fr-en
-1 b) Au premier étage. · 2 b) Trois. · 3 c) Un canapé. · 4 a) Des livres et des cahiers. · 5 b) Avec sa famille.	1 b) On the first floor. · 2 b) Three. · 3 c) A sofa. · 4 a) Books and notebooks. · 5 b) With his family.<br>/o pʁəmjɛʁ‿etaʒ · tʁwa · œ̃ kanape · de livʁ e de kaje · avɛk sa famij/	fr-en
-1 à 6 : Il y a	1 to 6: there is<br>/il j a/	fr-en
-le salon : un salon de thé · un salon de coiffure · le Salon du livre	a tea room · a hairdresser's · the book fair<br>/œ̃ salɔ̃ də te · œ̃ salɔ̃ də kwafyʁ · lə salɔ̃ dy livʁ/	fr-en
-la cuisine : faire la cuisine · la cuisine française · un livre de cuisine	to cook · French cooking · a cookbook<br>/fɛʁ la kɥizin · la kɥizin fʁɑ̃sɛz · œ̃ livʁ də kɥizin/	fr-en
-la chambre : une chambre à coucher · une chambre d’hôtel · une chambre d’amis	a bedroom · a hotel room · a guest room<br>/yn ʃɑ̃bʁ a kuʃe · yn ʃɑ̃bʁ dotɛl · yn ʃɑ̃bʁ dami/	fr-en
-la salle de bains : prendre un bain · une salle d’attente · une salle de classe	to take a bath · a waiting room · a classroom<br>/pʁɑ̃dʁ œ̃ bɛ̃ · yn sal datɑ̃t · yn sal də klas/	fr-en
-les toilettes : aller aux toilettes · Où sont les toilettes ? · du papier toilette	to go to the toilet · where is the toilet? · toilet paper<br>/ale o twalɛt · u sɔ̃ le twalɛt · dy papje twalɛt/	fr-en
-la salle à manger : à table ! · manger au restaurant · quelque chose à manger	dinner is served! · to eat out · something to eat<br>/a tabl · mɑ̃ʒe o ʁɛstoʁɑ̃ · kɛlkə ʃoz a mɑ̃ʒe/	fr-en
-le jardin : un jardin public · le jardin du Luxembourg · faire du jardinage	a public garden, a park · the Luxembourg Garden · to do some gardening<br>/œ̃ ʒaʁdɛ̃ pyblik · lə ʒaʁdɛ̃ dy lyksɑ̃buʁ · fɛʁ dy ʒaʁdinaʒ/	fr-en
-le garage : la voiture est au garage · un garagiste · garer la voiture	the car is at the garage · a mechanic · to park the car<br>/la vwatyʁ ɛ(t)‿o ɡaʁaʒ · œ̃ ɡaʁaʒist · ɡaʁe la vwatyʁ/	fr-en
-un canapé : un canapé-lit · s’asseoir sur le canapé · un canapé en cuir	a sofa bed · to sit on the sofa · a leather sofa<br>/œ̃ kanape li · saswaʁ syʁ lə kanape · œ̃ kanape ɑ̃ kɥiʁ/	fr-en
-une table : mettre la table · à table ! · une table ronde	to set the table · dinner is served! · a round table<br>/mɛtʁ la tabl · a tabl · yn tabl ʁɔ̃d/	fr-en
-une chaise : une chaise longue · prendre une chaise · une chaise roulante	a deckchair · to take a chair · a wheelchair<br>/yn ʃɛz lɔ̃ɡ · pʁɑ̃dʁ yn ʃɛz · yn ʃɛz ʁulɑ̃t/	fr-en
-un lit : aller au lit · faire le lit · un grand lit	to go to bed · to make the bed · a double bed<br>/ale o li · fɛʁ lə li · œ̃ ɡʁɑ̃ li/	fr-en
-un bureau : un bureau de poste · au bureau · un bureau de tabac	a post office · at the office · a tobacconist's<br>/œ̃ byʁo də pɔst · o byʁo · œ̃ byʁo də taba/	fr-en
-une armoire : une armoire à pharmacie · ranger dans l’armoire · une armoire à glace	a medicine cabinet · to put away in the wardrobe · a mirrored wardrobe, also a hulk of a man<br>/yn aʁmwaʁ a faʁmasi · ʁɑ̃ʒe dɑ̃ laʁmwaʁ · yn aʁmwaʁ a ɡlas/	fr-en
-une télévision : regarder la télé · à la télévision · une chaîne de télévision	to watch TV · on television · a TV channel<br>/ʁəɡaʁde la tele · a la televizjɔ̃ · yn ʃɛn də televizjɔ̃/	fr-en
-une lampe : allumer la lampe · éteindre la lampe · une lampe de poche	to switch the lamp on · to switch it off · a torch<br>/alyme la lɑ̃p · etɛ̃dʁ la lɑ̃p · yn lɑ̃p də pɔʃ/	fr-en
-un tapis : un tapis de bain · un tapis roulant · le tapis rouge	a bath mat · a conveyor belt, a treadmill · the red carpet<br>/œ̃ tapi də bɛ̃ · œ̃ tapi ʁulɑ̃ · lə tapi ʁuʒ/	fr-en
-une fenêtre : ouvrir la fenêtre · fermer la fenêtre · regarder par la fenêtre	to open the window · to close the window · to look out of the window<br>/uvʁiʁ la fənɛtʁ · fɛʁme la fənɛtʁ · ʁəɡaʁde paʁ la fənɛtʁ/	fr-en
-une porte : la porte d’entrée · frapper à la porte · fermer la porte à clé	the front door · to knock at the door · to lock the door<br>/la pɔʁt dɑ̃tʁe · fʁape a la pɔʁt · fɛʁme la pɔʁt a kle/	fr-en
-dans : dans la rue · dans une heure · dans ma poche	in the street · in an hour · in my pocket<br>/dɑ̃ la ʁy · dɑ̃z‿yn‿œʁ · dɑ̃ ma pɔʃ/	fr-en
-sur : sur la table · sur Internet · un livre sur Paris	on the table · on the internet · a book about Paris<br>/syʁ la tabl · syʁ ɛ̃tɛʁnɛt · œ̃ livʁ syʁ paʁi/	fr-en
-sous : sous la table · sous la pluie · sous la main	under the table · in the rain · to hand<br>/su la tabl · su la plɥi · su la mɛ̃/	fr-en
-devant : devant la maison · passer devant · devant tout le monde	in front of the house · to go past · in front of everyone<br>/dəvɑ̃ la mɛzɔ̃ · pase dəvɑ̃ · dəvɑ̃ tu lə mɔ̃d/	fr-en
-derrière : derrière la porte · regarder derrière soi · la porte de derrière	behind the door · to look behind one · the back door<br>/dɛʁjɛʁ la pɔʁt · ʁəɡaʁde dɛʁjɛʁ swa · la pɔʁt də dɛʁjɛʁ/	fr-en
-à côté de : à côté de moi · juste à côté · la maison d’à côté	next to me · right next door · the house next door<br>/a kote də mwa · ʒyst a kote · la mɛzɔ̃ da kote/	fr-en
-habiter : habiter à Paris · habiter en France · habiter au premier étage	to live in Paris · to live in France · to live on the first floor<br>/abite a paʁi · abite ɑ̃ fʁɑ̃s · abite o pʁəmjɛʁ‿etaʒ/	fr-en
-jouer : jouer au football · jouer du piano · jouer dans le jardin	to play football · to play the piano · to play in the garden<br>/ʒwe o futbol · ʒwe dy pjano · ʒwe dɑ̃ lə ʒaʁdɛ̃/	fr-en
-étudier : étudier le français · étudier à l’université · étudier le soir	to study French · to study at university · to study in the evening<br>/etydje lə fʁɑ̃sɛ · etydje a lynivɛʁsite · etydje lə swaʁ/	fr-en
-regarder : regarder la télévision · regarder par la fenêtre · regarder l’heure	to watch TV · to look out of the window · to check the time<br>/ʁəɡaʁde la televizjɔ̃ · ʁəɡaʁde paʁ la fənɛtʁ · ʁəɡaʁde lœʁ/	fr-en
-Dans la cuisine, il y a une table et quatre chaises.	In the kitchen there is a table and four chairs.<br>/dɑ̃ la kɥizin, il j a yn tabl e katʁ ʃɛz/	fr-en
-Il n’y a pas de garage, mais il y a un jardin.	There is no garage, but there is a garden.<br>/il nja pa də ɡaʁaʒ, mɛ il j a œ̃ ʒaʁdɛ̃/	fr-en
-Y a-t-il une lampe sur le bureau ?	Is there a lamp on the desk?<br>/jatil yn lɑ̃p syʁ lə byʁo/	fr-en
-Oui, il y en a une.	Yes, there is one.<br>/wi, il j ɑ̃n‿a yn/	fr-en
-Ma chambre est au deuxième étage, à côté de la salle de bains.	My bedroom is on the second floor, next to the bathroom.<br>/ma ʃɑ̃bʁ ɛ o døzjɛm etaʒ, a kote də la sal də bɛ̃/	fr-en
-Le chat dort sous le lit.	The cat is sleeping under the bed.<br>/lə ʃa dɔʁ su lə li/	fr-en
-Les toilettes sont au rez-de-chaussée, derrière la cuisine.	The toilet is on the ground floor, behind the kitchen.<br>/le twalɛt sɔ̃ o ʁedʃose, dɛʁjɛʁ la kɥizin/	fr-en
-Il y a une fenêtre dans chaque chambre.	There is a window in every bedroom.<br>/il j a yn fənɛtʁ dɑ̃ ʃak ʃɑ̃bʁ/	fr-en
-La porte du garage est ouverte.	The garage door is open.<br>/la pɔʁt dy ɡaʁaʒ ɛ(t)‿uvɛʁt/	fr-en
-Nous regardons la télévision dans le salon, sur le canapé.	We watch television in the living room, on the sofa.<br>/nu ʁəɡaʁdɔ̃ la televizjɔ̃ dɑ̃ lə salɔ̃, syʁ lə kanape/	fr-en
-Mon père travaille dans son bureau.	My father works in his office.<br>/mɔ̃ pɛʁ tʁavaj dɑ̃ sɔ̃ byʁo/	fr-en
-Il y a un tapis rouge devant la porte.	There is a red rug in front of the door.<br>/il j a œ̃ tapi ʁuʒ dəvɑ̃ la pɔʁt/	fr-en
-Où est la lampe ? Elle est sur la table, à côté du lit.	Where is the lamp? It is on the table, next to the bed.<br>/u ɛ la lɑ̃p ? ɛl ɛ syʁ la tabl, a kote dy li/	fr-en
-la pièce	the room (any room)<br>/la pjɛs/	fr-en
-le rez-de-chaussée	the ground floor<br>/lə ʁedʃose/	fr-en
-l’escalier	the staircase<br>/lɛskalje/	fr-en
-le mur	the wall<br>/lə myʁ/	fr-en
-le plafond	the ceiling<br>/lə plafɔ̃/	fr-en
-le sol	the floor, what you walk on<br>/lə sɔl/	fr-en
-l’étagère	the shelf<br>/letaʒɛʁ/	fr-en
-le fauteuil	the armchair<br>/lə fotœj/	fr-en
-le réfrigérateur, le frigo	the fridge<br>/lə ʁefʁiʒeʁatœʁ, lə fʁiɡo/	fr-en
-le chat	the cat<br>/lə ʃa/	fr-en
-chaque	each, every<br>/ʃak/	fr-en
-ouvert, ouverte	open<br>/uvɛʁ, uvɛʁt/	fr-en
-fermé, fermée	closed<br>/fɛʁme/	fr-en
-rouge	red<br>/ʁuʒ/	fr-en
-Combien de pièces y a-t-il chez toi ?	How many rooms are there at your place?<br>/kɔ̃bjɛ̃ də pjɛs jatil ʃe twa/	fr-en
+Exemple :<br>/ɛɡzɑ̃pl/	Example:	fr-en
+Ma chambre est petite mais jolie.<br>/ma ʃɑ̃bʁ ɛ pətit mɛ ʒɔli/	My bedroom is small but pretty.	fr-en
+Il y a un lit, un bureau et une armoire.<br>/il j a œ̃ li, œ̃ byʁo e yn aʁmwaʁ/	There is a bed, a desk and a wardrobe.	fr-en
+J’aime beaucoup ma maison.<br>/ʒɛm boku ma mɛzɔ̃/	I like my house a lot.	fr-en
+1. Il s’appelle Adam.<br>/il sapɛl adam/	His name is Adam.	fr-en
+2. Il a treize ans.<br>/il a tʁɛz ɑ̃/	He is thirteen years old.	fr-en
+3. Il habite avec sa famille.<br>/il abit avɛk sa famij/	He lives with his family.	fr-en
+4. Sa maison est grande, belle et confortable.<br>/sa mɛzɔ̃ ɛ ɡʁɑ̃d, bɛl e kɔ̃fɔʁtabl/	His house is big, beautiful and comfortable.	fr-en
+5. Il y a trois chambres.<br>/il j a tʁwa ʃɑ̃bʁ/	There are three bedrooms.	fr-en
+6. Il y a deux salles de bains.<br>/il j a dø sal də bɛ̃/	There are two bathrooms.	fr-en
+7. Oui, il y a un petit jardin.<br>/wi, il j a œ̃ pəti ʒaʁdɛ̃/	Yes, there is a small garden.	fr-en
+8. Sa chambre est au premier étage.<br>/sa ʃɑ̃bʁ ɛ o pʁəmjɛʁ‿etaʒ/	His bedroom is on the first floor.	fr-en
+9. Il y a un lit, un bureau, une chaise et une armoire.<br>/il j a œ̃ li, œ̃ byʁo, yn ʃɛz e yn aʁmwaʁ/	There is a bed, a desk, a chair and a wardrobe.	fr-en
+10. Il y a ses livres et ses cahiers.<br>/il j a se livʁ e se kaje/	There are his books and his notebooks.	fr-en
+11. Oui, Adam aime sa maison.<br>/wi, adam ɛm sa mɛzɔ̃/	Yes, Adam likes his house.	fr-en
+12. Il aime sa maison parce qu’il peut jouer, étudier et regarder la télévision avec sa famille.<br>/il ɛm sa mɛzɔ̃ paʁs kil pø ʒwe, etydje e ʁəɡaʁde la televizjɔ̃ avɛk sa famij/	He likes his house because he can play, study and watch television with his family.	fr-en
+1 Vrai · 2 Faux · 3 Vrai · 4 Vrai · 5 Faux · 6 Vrai · 7 Vrai · 8 Vrai · 9 Vrai · 10 Faux<br>vrai /vʁɛ/, faux /fo/	1 True · 2 False · 3 True · 4 True · 5 False · 6 True · 7 True · 8 True · 9 True · 10 False	fr-en
+1 maison · 2 salon · 3 cuisine · 4 chambre · 5 jardin · 6 bureau<br>/mɛzɔ̃ · salɔ̃ · kɥizin · ʃɑ̃bʁ · ʒaʁdɛ̃ · byʁo/	1 house · 2 living room · 3 kitchen · 4 bedroom · 5 garden · 6 desk	fr-en
+1 b) Au premier étage. · 2 b) Trois. · 3 c) Un canapé. · 4 a) Des livres et des cahiers. · 5 b) Avec sa famille.<br>/o pʁəmjɛʁ‿etaʒ · tʁwa · œ̃ kanape · de livʁ e de kaje · avɛk sa famij/	1 b) On the first floor. · 2 b) Three. · 3 c) A sofa. · 4 a) Books and notebooks. · 5 b) With his family.	fr-en
+1 à 6 : Il y a<br>/il j a/	1 to 6: there is	fr-en
+le salon : un salon de thé · un salon de coiffure · le Salon du livre<br>/œ̃ salɔ̃ də te · œ̃ salɔ̃ də kwafyʁ · lə salɔ̃ dy livʁ/	a tea room · a hairdresser's · the book fair	fr-en
+la cuisine : faire la cuisine · la cuisine française · un livre de cuisine<br>/fɛʁ la kɥizin · la kɥizin fʁɑ̃sɛz · œ̃ livʁ də kɥizin/	to cook · French cooking · a cookbook	fr-en
+la chambre : une chambre à coucher · une chambre d’hôtel · une chambre d’amis<br>/yn ʃɑ̃bʁ a kuʃe · yn ʃɑ̃bʁ dotɛl · yn ʃɑ̃bʁ dami/	a bedroom · a hotel room · a guest room	fr-en
+la salle de bains : prendre un bain · une salle d’attente · une salle de classe<br>/pʁɑ̃dʁ œ̃ bɛ̃ · yn sal datɑ̃t · yn sal də klas/	to take a bath · a waiting room · a classroom	fr-en
+les toilettes : aller aux toilettes · Où sont les toilettes ? · du papier toilette<br>/ale o twalɛt · u sɔ̃ le twalɛt · dy papje twalɛt/	to go to the toilet · where is the toilet? · toilet paper	fr-en
+la salle à manger : à table ! · manger au restaurant · quelque chose à manger<br>/a tabl · mɑ̃ʒe o ʁɛstoʁɑ̃ · kɛlkə ʃoz a mɑ̃ʒe/	dinner is served! · to eat out · something to eat	fr-en
+le jardin : un jardin public · le jardin du Luxembourg · faire du jardinage<br>/œ̃ ʒaʁdɛ̃ pyblik · lə ʒaʁdɛ̃ dy lyksɑ̃buʁ · fɛʁ dy ʒaʁdinaʒ/	a public garden, a park · the Luxembourg Garden · to do some gardening	fr-en
+le garage : la voiture est au garage · un garagiste · garer la voiture<br>/la vwatyʁ ɛ(t)‿o ɡaʁaʒ · œ̃ ɡaʁaʒist · ɡaʁe la vwatyʁ/	the car is at the garage · a mechanic · to park the car	fr-en
+un canapé : un canapé-lit · s’asseoir sur le canapé · un canapé en cuir<br>/œ̃ kanape li · saswaʁ syʁ lə kanape · œ̃ kanape ɑ̃ kɥiʁ/	a sofa bed · to sit on the sofa · a leather sofa	fr-en
+une table : mettre la table · à table ! · une table ronde<br>/mɛtʁ la tabl · a tabl · yn tabl ʁɔ̃d/	to set the table · dinner is served! · a round table	fr-en
+une chaise : une chaise longue · prendre une chaise · une chaise roulante<br>/yn ʃɛz lɔ̃ɡ · pʁɑ̃dʁ yn ʃɛz · yn ʃɛz ʁulɑ̃t/	a deckchair · to take a chair · a wheelchair	fr-en
+un lit : aller au lit · faire le lit · un grand lit<br>/ale o li · fɛʁ lə li · œ̃ ɡʁɑ̃ li/	to go to bed · to make the bed · a double bed	fr-en
+un bureau : un bureau de poste · au bureau · un bureau de tabac<br>/œ̃ byʁo də pɔst · o byʁo · œ̃ byʁo də taba/	a post office · at the office · a tobacconist's	fr-en
+une armoire : une armoire à pharmacie · ranger dans l’armoire · une armoire à glace<br>/yn aʁmwaʁ a faʁmasi · ʁɑ̃ʒe dɑ̃ laʁmwaʁ · yn aʁmwaʁ a ɡlas/	a medicine cabinet · to put away in the wardrobe · a mirrored wardrobe, also a hulk of a man	fr-en
+une télévision : regarder la télé · à la télévision · une chaîne de télévision<br>/ʁəɡaʁde la tele · a la televizjɔ̃ · yn ʃɛn də televizjɔ̃/	to watch TV · on television · a TV channel	fr-en
+une lampe : allumer la lampe · éteindre la lampe · une lampe de poche<br>/alyme la lɑ̃p · etɛ̃dʁ la lɑ̃p · yn lɑ̃p də pɔʃ/	to switch the lamp on · to switch it off · a torch	fr-en
+un tapis : un tapis de bain · un tapis roulant · le tapis rouge<br>/œ̃ tapi də bɛ̃ · œ̃ tapi ʁulɑ̃ · lə tapi ʁuʒ/	a bath mat · a conveyor belt, a treadmill · the red carpet	fr-en
+une fenêtre : ouvrir la fenêtre · fermer la fenêtre · regarder par la fenêtre<br>/uvʁiʁ la fənɛtʁ · fɛʁme la fənɛtʁ · ʁəɡaʁde paʁ la fənɛtʁ/	to open the window · to close the window · to look out of the window	fr-en
+une porte : la porte d’entrée · frapper à la porte · fermer la porte à clé<br>/la pɔʁt dɑ̃tʁe · fʁape a la pɔʁt · fɛʁme la pɔʁt a kle/	the front door · to knock at the door · to lock the door	fr-en
+dans : dans la rue · dans une heure · dans ma poche<br>/dɑ̃ la ʁy · dɑ̃z‿yn‿œʁ · dɑ̃ ma pɔʃ/	in the street · in an hour · in my pocket	fr-en
+sur : sur la table · sur Internet · un livre sur Paris<br>/syʁ la tabl · syʁ ɛ̃tɛʁnɛt · œ̃ livʁ syʁ paʁi/	on the table · on the internet · a book about Paris	fr-en
+sous : sous la table · sous la pluie · sous la main<br>/su la tabl · su la plɥi · su la mɛ̃/	under the table · in the rain · to hand	fr-en
+devant : devant la maison · passer devant · devant tout le monde<br>/dəvɑ̃ la mɛzɔ̃ · pase dəvɑ̃ · dəvɑ̃ tu lə mɔ̃d/	in front of the house · to go past · in front of everyone	fr-en
+derrière : derrière la porte · regarder derrière soi · la porte de derrière<br>/dɛʁjɛʁ la pɔʁt · ʁəɡaʁde dɛʁjɛʁ swa · la pɔʁt də dɛʁjɛʁ/	behind the door · to look behind one · the back door	fr-en
+à côté de : à côté de moi · juste à côté · la maison d’à côté<br>/a kote də mwa · ʒyst a kote · la mɛzɔ̃ da kote/	next to me · right next door · the house next door	fr-en
+habiter : habiter à Paris · habiter en France · habiter au premier étage<br>/abite a paʁi · abite ɑ̃ fʁɑ̃s · abite o pʁəmjɛʁ‿etaʒ/	to live in Paris · to live in France · to live on the first floor	fr-en
+jouer : jouer au football · jouer du piano · jouer dans le jardin<br>/ʒwe o futbol · ʒwe dy pjano · ʒwe dɑ̃ lə ʒaʁdɛ̃/	to play football · to play the piano · to play in the garden	fr-en
+étudier : étudier le français · étudier à l’université · étudier le soir<br>/etydje lə fʁɑ̃sɛ · etydje a lynivɛʁsite · etydje lə swaʁ/	to study French · to study at university · to study in the evening	fr-en
+regarder : regarder la télévision · regarder par la fenêtre · regarder l’heure<br>/ʁəɡaʁde la televizjɔ̃ · ʁəɡaʁde paʁ la fənɛtʁ · ʁəɡaʁde lœʁ/	to watch TV · to look out of the window · to check the time	fr-en
+Dans la cuisine, il y a une table et quatre chaises.<br>/dɑ̃ la kɥizin, il j a yn tabl e katʁ ʃɛz/	In the kitchen there is a table and four chairs.	fr-en
+Il n’y a pas de garage, mais il y a un jardin.<br>/il nja pa də ɡaʁaʒ, mɛ il j a œ̃ ʒaʁdɛ̃/	There is no garage, but there is a garden.	fr-en
+Y a-t-il une lampe sur le bureau ?<br>/jatil yn lɑ̃p syʁ lə byʁo/	Is there a lamp on the desk?	fr-en
+Oui, il y en a une.<br>/wi, il j ɑ̃n‿a yn/	Yes, there is one.	fr-en
+Ma chambre est au deuxième étage, à côté de la salle de bains.<br>/ma ʃɑ̃bʁ ɛ o døzjɛm etaʒ, a kote də la sal də bɛ̃/	My bedroom is on the second floor, next to the bathroom.	fr-en
+Le chat dort sous le lit.<br>/lə ʃa dɔʁ su lə li/	The cat is sleeping under the bed.	fr-en
+Les toilettes sont au rez-de-chaussée, derrière la cuisine.<br>/le twalɛt sɔ̃ o ʁedʃose, dɛʁjɛʁ la kɥizin/	The toilet is on the ground floor, behind the kitchen.	fr-en
+Il y a une fenêtre dans chaque chambre.<br>/il j a yn fənɛtʁ dɑ̃ ʃak ʃɑ̃bʁ/	There is a window in every bedroom.	fr-en
+La porte du garage est ouverte.<br>/la pɔʁt dy ɡaʁaʒ ɛ(t)‿uvɛʁt/	The garage door is open.	fr-en
+Nous regardons la télévision dans le salon, sur le canapé.<br>/nu ʁəɡaʁdɔ̃ la televizjɔ̃ dɑ̃ lə salɔ̃, syʁ lə kanape/	We watch television in the living room, on the sofa.	fr-en
+Mon père travaille dans son bureau.<br>/mɔ̃ pɛʁ tʁavaj dɑ̃ sɔ̃ byʁo/	My father works in his office.	fr-en
+Il y a un tapis rouge devant la porte.<br>/il j a œ̃ tapi ʁuʒ dəvɑ̃ la pɔʁt/	There is a red rug in front of the door.	fr-en
+Où est la lampe ? Elle est sur la table, à côté du lit.<br>/u ɛ la lɑ̃p ? ɛl ɛ syʁ la tabl, a kote dy li/	Where is the lamp? It is on the table, next to the bed.	fr-en
+la pièce<br>/la pjɛs/	the room (any room)	fr-en
+le rez-de-chaussée<br>/lə ʁedʃose/	the ground floor	fr-en
+l’escalier<br>/lɛskalje/	the staircase	fr-en
+le mur<br>/lə myʁ/	the wall	fr-en
+le plafond<br>/lə plafɔ̃/	the ceiling	fr-en
+le sol<br>/lə sɔl/	the floor, what you walk on	fr-en
+l’étagère<br>/letaʒɛʁ/	the shelf	fr-en
+le fauteuil<br>/lə fotœj/	the armchair	fr-en
+le réfrigérateur, le frigo<br>/lə ʁefʁiʒeʁatœʁ, lə fʁiɡo/	the fridge	fr-en
+le chat<br>/lə ʃa/	the cat	fr-en
+chaque<br>/ʃak/	each, every	fr-en
+ouvert, ouverte<br>/uvɛʁ, uvɛʁt/	open	fr-en
+fermé, fermée<br>/fɛʁme/	closed	fr-en
+rouge<br>/ʁuʒ/	red	fr-en
+Combien de pièces y a-t-il chez toi ?<br>/kɔ̃bjɛ̃ də pjɛs jatil ʃe twa/	How many rooms are there at your place?	fr-en
 Combien de pièces y a-t-il chez toi ? → AI exercise: answer about your own home	Chez moi, il y a quatre pièces.<br>/ʃe mwa, il j a katʁ pjɛs/<br>At my place there are four rooms.<br>U mnie są cztery pokoje.	exercise
-Qu’est-ce qu’il y a sur ta table ?	What is there on your table?<br>/kɛs kil j a syʁ ta tabl/	fr-en
+Qu’est-ce qu’il y a sur ta table ?<br>/kɛs kil j a syʁ ta tabl/	What is there on your table?	fr-en
 Qu’est-ce qu’il y a sur ta table ? → AI exercise: answer about your own home	Sur ma table, il y a une lampe et des livres.<br>/syʁ ma tabl, il j a yn lɑ̃p e de livʁ/<br>On my table there is a lamp and some books.<br>Na moim stole jest lampa i książki.	exercise
-Où est ton lit ?	Where is your bed?<br>/u ɛ tɔ̃ li/	fr-en
+Où est ton lit ?<br>/u ɛ tɔ̃ li/	Where is your bed?	fr-en
 Où est ton lit ? → AI exercise: answer about your own home	Mon lit est à côté de la fenêtre.<br>/mɔ̃ li ɛ(t)‿a kote də la fənɛtʁ/<br>My bed is next to the window.<br>Moje łóżko jest obok okna.	exercise
 Le tapis est ________ le lit.<br>(AI exercise: dans, sur, sous, devant, derrière or à côté de)	/lə tapi ɛ [dəvɑ̃] lə li/<br>The rug is in front of the bed.<br>Dywan jest przed łóżkiem.	exercise
 Les livres sont ________ l’étagère.<br>(AI exercise: dans, sur, sous, devant, derrière or à côté de)	/le livʁ sɔ̃ [syʁ] letaʒɛʁ/<br>The books are on the shelf.<br>Książki są na półce.	exercise
