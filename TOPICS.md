@@ -16,7 +16,7 @@
     - **Szypowska's Polish textbook** · from [Szypowska (Polish material)](03_Szypowska/README.md)
         - [Lesson 3: Regardons des photos](03_Szypowska/lecon_03_regardons_des_photos/README.md) — photos, Paris and Warsaw, the imperative, the definite article, de as the genitive, à with a city, the book's notation held to Le Robert's
         - [Lesson 4: Chez les Lefèvre](03_Szypowska/lecon_04_chez_les_lefevre/README.md) — the rooms of a flat, the letter c, elision, du, de la, de l', des, a translation into French
-        - [Lesson 5: Dialogue](03_Szypowska/lecon_05_dialogue/README.md) — having and not having, est-ce que, inversion, ne … pas de; the first page only
+        - [Lesson 5: Dialogue](03_Szypowska/lecon_05_dialogue/README.md) — avoir in the present, negative and interrogative, ne … pas de, est-ce que against inversion, liaison between pronoun and verb, mute h, school things
     - ↪ [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md) — the inventory every lesson's program checks against
 
 ## Threads

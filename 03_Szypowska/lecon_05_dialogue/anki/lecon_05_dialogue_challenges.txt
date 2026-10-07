@@ -1,0 +1,33 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Szypowska::Lesson 5: Dialogue::Challenges
+#tags:french szypowska lecon05 challenge
+#columns:Front	Back	Tags
+#tags column:3
+Conjugate avoir in the present, with IPA	j’ai /ʒe/ · tu as /ty a/ · il a /il a/ · elle a /ɛl a/ · on a /ɔ̃n‿a/ · nous avons /nuz‿avɔ̃/ · vous avez /vuz‿ave/ · ils ont /ilz‿ɔ̃/ · elles ont /ɛlz‿ɔ̃/	grammar
+Make negative: Nous avons des plumes.	Nous n’avons pas de plumes. /nu navɔ̃ pa də plym/	exercise
+Make negative: Tu as un stylo.	Tu n’as pas de stylo. /ty na pa də stilo/	exercise
+Why de, not des, in je n’ai pas de cahiers?	After ne … pas, the object’s un, une, des become de. /ʒə ne pa də kaje/	grammar
+Does the article change in Ce n’est pas un stylo?	No: after c’est the article stays. /sə nɛ pa œ̃ stilo/ The change to de is only for the object of the negated verb.	grammar
+Ask in two ways: does he have a penknife?	A-t-il un canif ? /atil œ̃ kanif/ · Est-ce qu’il a un canif ? /ɛs kil a œ̃ kanif/	exercise
+Ask in two ways: do you (vous) have pencils?	Avez-vous des crayons ? /ave vu de kʁɛjɔ̃/ · Est-ce que vous avez des crayons ? /ɛs kə vuz‿ave de kʁɛjɔ̃/	exercise
+Why a-t-il and not a-il?	A -t- is slipped in between two vowels: a-t-il /atil/, a-t-elle /atɛl/, a-t-on /atɔ̃/.	grammar
+Which is used in speech, est-ce que or inversion? And in writing?	Speech mostly est-ce que; literature and letters mostly inversion. A third way in speech: the statement with the voice rising, tu as un stylo ?	grammar
+ils ont and ils sont: say both, and what is the difference?	ils ont /ilz‿ɔ̃/ they have · ils sont /il sɔ̃/ they are: /z/ against /s/ is the whole difference.	sound
+The liaison consonant in vous avez, nous avons, ils ont, on a	/z/ in vous‿avez, nous‿avons, ils‿ont; /n/ in on‿a /ɔ̃n‿a/	sound
+Mute h: how is cahier read, and what follows from it?	/kaje/: the h is silent, so elision and liaison happen as before a vowel.	sound
+Read the book’s bracket: [ɛskilzõ]	est-ce qu’ils ont /ɛs kilz‿ɔ̃/	notation
+Read the book’s bracket: [ünplüm]	une plume /yn plym/ (ü is /y/)	notation
+Read the book’s bracket: [œ̃nãkrije]	un encrier /œ̃n‿ɑ̃kʁije/, an inkwell	notation
+Say: I have no penknife.	Je n’ai pas de canif. /ʒə ne pa də kanif/	say
+Say: She has a daughter and a son.	Elle a une fille et un fils. /ɛl a yn fij e œ̃ fis/	say
+Say: I am thirteen years old.	J’ai treize ans. /ʒe tʁɛz ɑ̃/ (age takes avoir)	say
+Say: Do they have a flat?	Est-ce qu’ils ont un appartement ? /ɛs kilz‿ɔ̃ œ̃n‿apaʁtəmɑ̃/	say
+Count from one to five, with IPA	un /œ̃/ · deux /dø/ · trois /tʁwa/ · quatre /katʁ/ · cinq /sɛ̃k/	say
+School things: pencil, exercise book, notebook, penknife, eraser, ruler	un crayon /œ̃ kʁɛjɔ̃/ · un cahier /œ̃ kaje/ · un carnet /œ̃ kaʁnɛ/ · un canif /œ̃ kanif/ · une gomme /yn ɡɔm/ · une règle /yn ʁɛɡl/	say
+Writing things: fountain pen, ballpoint pen, nib pen, ink, inkwell, blotting paper	un stylo /œ̃ stilo/ · un stylo à bille /œ̃ stilo a bij/ · une plume /yn plym/ · l’encre /lɑ̃kʁ/ · un encrier /œ̃n‿ɑ̃kʁije/ · un papier buvard /œ̃ papje byvaʁ/	say
+Put the right article: Il a ___ plume. Vous avez ___ photos.	Il a une plume. /il a yn plym/ · Vous avez des photos. /vuz‿ave de fɔto/	exercise
+Answer yes and no: Avons-nous des cahiers ?	Oui, nous avons des cahiers. /wi, nuz‿avɔ̃ de kaje/ · Non, nous n’avons pas de cahiers. /nɔ̃, nu navɔ̃ pa də kaje/	exercise
+Put into the first person plural: Je visite un appartement.	Nous visitons des appartements. /nu vizitɔ̃ dez‿apaʁtəmɑ̃/	exercise
+List the elisions in the dialogue	j’ai, n’ai, qu’Annette, qu’ils, n’avons, n’ont: je, ne, que lose their vowel before a vowel.	grammar

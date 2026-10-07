@@ -37,7 +37,7 @@ The examples are **stdlib-only, on purpose**. If you have `python3`, you can run
 |---|---|
 | [Lesson 3: Regardons des photos](03_Szypowska/lecon_03_regardons_des_photos/README.md) | The reading, the word list, the grammar (imperative, definite article, *de*, *à*) and the exercises as one table; the book's own phonetic brackets relettered by a key and held to Le Robert's IPA, with two words where they part |
 | [Lesson 4: Chez les Lefèvre](03_Szypowska/lecon_04_chez_les_lefevre/README.md) | A flat on the rue du Bac, the letter *c*, elision, *du, de la, de l', des*; 46 brackets of the book, all relettered exactly |
-| [Lesson 5: Dialogue](03_Szypowska/lecon_05_dialogue/README.md) | Having and not having: *est-ce que*, inversion, *ne … pas de*; the first page of the lesson |
+| [Lesson 5: Dialogue](03_Szypowska/lecon_05_dialogue/README.md) | *Avoir* in the present and in the negative, *ne … pas de*, *est-ce que* against inversion; 68 brackets of the book, 66 relettered exactly |
 
 ## Other ways in
 

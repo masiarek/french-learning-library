@@ -26,3 +26,7 @@ jobs:
         run: python3 --version
       - name: Run every example and check it against its answer key
         run: python3 tools/run_examples.py --check
+      - name: Check that each Szypowska lesson's Anki deck matches its table
+        run: python3 tools/anki_from_tables.py 03_Szypowska --check
+      - name: Check that the combined Szypowska deck is up to date
+        run: python3 tools/combine_anki.py 03_Szypowska --check
