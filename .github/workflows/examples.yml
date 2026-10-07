@@ -26,6 +26,8 @@ jobs:
         run: python3 --version
       - name: Run every example and check it against its answer key
         run: python3 tools/run_examples.py --check
+      - name: Check every transcription in the source chapters' tables
+        run: python3 tools/check_ipa.py
       - name: Check that each lesson's Anki deck matches its table
         run: |
           python3 tools/anki_from_tables.py 02_Yosser_teacher --check

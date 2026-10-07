@@ -2,6 +2,7 @@
 
 Dated log of decisions and preferences, with the reason. Newest first.
 
+- 2026-10-07 — **No programs on the source-chapter pages.** The owner asked for no Python on the Yosser and Szypowska lessons, so their examples and output blocks were removed; `tools/check_ipa.py` checks every transcription in those tables against Le Robert's inventory in CI, which keeps the one check that matters without showing it. The Sounds chapter keeps its programs: they are the argument of those lessons.
 - 2026-10-07 — **No Polish or German summary sections in this library.** The owner asked for them to be removed from every page ("remove these sections from French"), so `CLAUDE.md` and `CONTRIBUTING.md` no longer require them; the earlier decision to carry both on every page is reversed for this library only.
 - 2026-10-07 — **The teacher's worksheets and Szypowska's textbook are chapters of their own**, `02_Yosser_teacher` and `03_Szypowska`, each lesson a page with one table and a program that reads the table back from the page. The owner decided this after being told the teacher's material would be public on the site. Chapter labels that a folder name cannot carry ("Yosser (teacher)") come from `CHAPTER_LABELS` in `mkdocs_hooks.py`.
 - 2026-10-07 — **The book's notation is converted, not transcribed twice.** Each Szypowska program types in the book's brackets and holds the key-converted result to the page's Le Robert IPA, so the page is checked against the book. Where the two part (*photo* with a final [ɔ], *Eiffel* with [e]) the page keeps Le Robert's and says so.

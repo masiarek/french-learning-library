@@ -290,3 +290,73 @@ un taille-crayon	a pencil sharpener<br>temperówka<br>/œ̃ tajkʁɛjɔ̃/	fr-en
 a pencil sharpener<br>temperówka	un taille-crayon<br>/œ̃ tajkʁɛjɔ̃/	en-fr
 un sac	a bag<br>torba<br>/œ̃ sak/	fr-en
 a bag<br>torba	un sac<br>/œ̃ sak/	en-fr
+cinq : à cinq heures · les cinq doigts · cinq minutes	at five o'clock · the five fingers · five minutes<br>o piątej · pięć palców · pięć minut<br>/a sɛ̃k‿œʁ · le sɛ̃k dwa · sɛ̃k minyt/	fr-en
+at five o'clock · the five fingers · five minutes<br>o piątej · pięć palców · pięć minut	cinq : à cinq heures · les cinq doigts · cinq minutes<br>/a sɛ̃k‿œʁ · le sɛ̃k dwa · sɛ̃k minyt/	en-fr
+cinquième : au cinquième étage · la cinquième leçon · en cinquième	on the fifth floor · the fifth lesson · in the second year of French secondary school<br>na piątym piętrze · piąta lekcja · w klasie „cinquième”<br>/o sɛ̃kjɛm etaʒ · la sɛ̃kjɛm ləsɔ̃ · ɑ̃ sɛ̃kjɛm/	fr-en
+on the fifth floor · the fifth lesson · in the second year of French secondary school<br>na piątym piętrze · piąta lekcja · w klasie „cinquième”	cinquième : au cinquième étage · la cinquième leçon · en cinquième<br>/o sɛ̃kjɛm etaʒ · la sɛ̃kjɛm ləsɔ̃ · ɑ̃ sɛ̃kjɛm/	en-fr
+avoir : avoir faim · avoir vingt ans · avoir raison	to be hungry · to be twenty · to be right<br>być głodnym · mieć dwadzieścia lat · mieć rację<br>/avwaʁ fɛ̃ · avwaʁ vɛ̃t‿ɑ̃ · avwaʁ ʁɛzɔ̃/	fr-en
+to be hungry · to be twenty · to be right<br>być głodnym · mieć dwadzieścia lat · mieć rację	avoir : avoir faim · avoir vingt ans · avoir raison<br>/avwaʁ fɛ̃ · avwaʁ vɛ̃t‿ɑ̃ · avwaʁ ʁɛzɔ̃/	en-fr
+un stylo : un stylo à bille · un stylo à encre · écrire au stylo	a ballpoint pen · a fountain pen · to write in pen<br>długopis · pióro wieczne · pisać piórem<br>/œ̃ stilo a bij · œ̃ stilo a ɑ̃kʁ · ekʁiʁ o stilo/	fr-en
+a ballpoint pen · a fountain pen · to write in pen<br>długopis · pióro wieczne · pisać piórem	un stylo : un stylo à bille · un stylo à encre · écrire au stylo<br>/œ̃ stilo a bij · œ̃ stilo a ɑ̃kʁ · ekʁiʁ o stilo/	en-fr
+un carnet : un carnet d’adresses · un carnet de notes · un carnet de chèques	an address book · a school report · a chequebook<br>notes z adresami · dzienniczek ocen · książeczka czekowa<br>/œ̃ kaʁnɛ dadʁɛs · œ̃ kaʁnɛ də nɔt · œ̃ kaʁnɛ də ʃɛk/	fr-en
+an address book · a school report · a chequebook<br>notes z adresami · dzienniczek ocen · książeczka czekowa	un carnet : un carnet d’adresses · un carnet de notes · un carnet de chèques<br>/œ̃ kaʁnɛ dadʁɛs · œ̃ kaʁnɛ də nɔt · œ̃ kaʁnɛ də ʃɛk/	en-fr
+un canif : ouvrir son canif · un canif suisse	to open one's penknife · a Swiss army knife<br>otworzyć scyzoryk · scyzoryk szwajcarski<br>/uvʁiʁ sɔ̃ kanif · œ̃ kanif sɥis/	fr-en
+to open one's penknife · a Swiss army knife<br>otworzyć scyzoryk · scyzoryk szwajcarski	un canif : ouvrir son canif · un canif suisse<br>/uvʁiʁ sɔ̃ kanif · œ̃ kanif sɥis/	en-fr
+un crayon : un crayon de couleur · écrire au crayon · un crayon à papier	a coloured pencil · to write in pencil · a lead pencil<br>kredka · pisać ołówkiem · ołówek<br>/œ̃ kʁɛjɔ̃ də kulœʁ · ekʁiʁ o kʁɛjɔ̃ · œ̃ kʁɛjɔ̃ a papje/	fr-en
+a coloured pencil · to write in pencil · a lead pencil<br>kredka · pisać ołówkiem · ołówek	un crayon : un crayon de couleur · écrire au crayon · un crayon à papier<br>/œ̃ kʁɛjɔ̃ də kulœʁ · ekʁiʁ o kʁɛjɔ̃ · œ̃ kʁɛjɔ̃ a papje/	en-fr
+mais : mais oui ! · mais non ! · non seulement … mais aussi	why, yes! · of course not! · not only … but also<br>ależ tak! · ależ nie! · nie tylko … ale także<br>/mɛ wi · mɛ nɔ̃ · nɔ̃ sœlmɑ̃ … mɛ osi/	fr-en
+why, yes! · of course not! · not only … but also<br>ależ tak! · ależ nie! · nie tylko … ale także	mais : mais oui ! · mais non ! · non seulement … mais aussi<br>/mɛ wi · mɛ nɔ̃ · nɔ̃ sœlmɑ̃ … mɛ osi/	en-fr
+une plume : une plume d’oiseau · un stylo-plume · écrire à la plume	a bird's feather · a fountain pen · to write with a nib pen<br>ptasie pióro · pióro wieczne · pisać piórem ze stalówką<br>/yn plym dwazo · œ̃ stilo plym · ekʁiʁ a la plym/	fr-en
+a bird's feather · a fountain pen · to write with a nib pen<br>ptasie pióro · pióro wieczne · pisać piórem ze stalówką	une plume : une plume d’oiseau · un stylo-plume · écrire à la plume<br>/yn plym dwazo · œ̃ stilo plym · ekʁiʁ a la plym/	en-fr
+un cahier : un cahier d’exercices · un cahier de brouillon · un cahier de textes	an exercise book · a rough book · a homework diary<br>zeszyt ćwiczeń · brudnopis · dzienniczek zadań<br>/œ̃ kaje dɛɡzɛʁsis · œ̃ kaje də bʁujɔ̃ · œ̃ kaje də tɛkst/	fr-en
+an exercise book · a rough book · a homework diary<br>zeszyt ćwiczeń · brudnopis · dzienniczek zadań	un cahier : un cahier d’exercices · un cahier de brouillon · un cahier de textes<br>/œ̃ kaje dɛɡzɛʁsis · œ̃ kaje də bʁujɔ̃ · œ̃ kaje də tɛkst/	en-fr
+l’encre : de l’encre bleue · une tache d’encre · écrire à l’encre	blue ink · an ink stain · to write in ink<br>niebieski atrament · plama z atramentu · pisać atramentem<br>/də lɑ̃kʁ blø · yn taʃ dɑ̃kʁ · ekʁiʁ a lɑ̃kʁ/	fr-en
+blue ink · an ink stain · to write in ink<br>niebieski atrament · plama z atramentu · pisać atramentem	l’encre : de l’encre bleue · une tache d’encre · écrire à l’encre<br>/də lɑ̃kʁ blø · yn taʃ dɑ̃kʁ · ekʁiʁ a lɑ̃kʁ/	en-fr
+une gomme : une gomme à effacer · une gomme à mâcher	an eraser · chewing gum<br>gumka do ścierania · guma do żucia<br>/yn ɡɔm a efase · yn ɡɔm a maʃe/	fr-en
+an eraser · chewing gum<br>gumka do ścierania · guma do żucia	une gomme : une gomme à effacer · une gomme à mâcher<br>/yn ɡɔm a efase · yn ɡɔm a maʃe/	en-fr
+une règle : une règle graduée · les règles du jeu · en règle générale	a ruler with a scale · the rules of the game · as a general rule<br>linijka z podziałką · reguły gry · z reguły<br>/yn ʁɛɡl ɡʁadɥe · le ʁɛɡl dy ʒø · ɑ̃ ʁɛɡl ʒeneʁal/	fr-en
+a ruler with a scale · the rules of the game · as a general rule<br>linijka z podziałką · reguły gry · z reguły	une règle : une règle graduée · les règles du jeu · en règle générale<br>/yn ʁɛɡl ɡʁadɥe · le ʁɛɡl dy ʒø · ɑ̃ ʁɛɡl ʒeneʁal/	en-fr
+le papier : une feuille de papier · du papier à lettres · les papiers d’identité	a sheet of paper · writing paper · identity papers<br>kartka papieru · papier listowy · dokumenty<br>/yn fœj də papje · dy papje a lɛtʁ · le papje didɑ̃tite/	fr-en
+a sheet of paper · writing paper · identity papers<br>kartka papieru · papier listowy · dokumenty	le papier : une feuille de papier · du papier à lettres · les papiers d’identité<br>/yn fœj də papje · dy papje a lɛtʁ · le papje didɑ̃tite/	en-fr
+oui, non : mais oui · oui et non · dire non	why, yes · yes and no · to say no<br>ależ tak · tak i nie · powiedzieć nie<br>/mɛ wi · wi e nɔ̃ · diʁ nɔ̃/	fr-en
+why, yes · yes and no · to say no<br>ależ tak · tak i nie · powiedzieć nie	oui, non : mais oui · oui et non · dire non<br>/mɛ wi · wi e nɔ̃ · diʁ nɔ̃/	en-fr
+Pierre a un stylo, mais il n’a pas de cahier.	Pierre has a fountain pen but no exercise book.<br>Piotr ma pióro, ale nie ma zeszytu.<br>/pjɛʁ a œ̃ stilo, mɛ il na pa də kaje/	fr-en
+Pierre has a fountain pen but no exercise book.<br>Piotr ma pióro, ale nie ma zeszytu.	Pierre a un stylo, mais il n’a pas de cahier.<br>/pjɛʁ a œ̃ stilo, mɛ il na pa də kaje/	en-fr
+Avez-vous des crayons de couleur ?	Do you have coloured pencils?<br>Czy macie kredki?<br>/ave vu de kʁɛjɔ̃ də kulœʁ/	fr-en
+Do you have coloured pencils?<br>Czy macie kredki?	Avez-vous des crayons de couleur ?<br>/ave vu de kʁɛjɔ̃ də kulœʁ/	en-fr
+Annette a trois cahiers et deux carnets dans son sac.	Annette has three exercise books and two notebooks in her bag.<br>Anetka ma trzy zeszyty i dwa notesy w torbie.<br>/anɛt a tʁwa kaje e dø kaʁnɛ dɑ̃ sɔ̃ sak/	fr-en
+Annette has three exercise books and two notebooks in her bag.<br>Anetka ma trzy zeszyty i dwa notesy w torbie.	Annette a trois cahiers et deux carnets dans son sac.<br>/anɛt a tʁwa kaje e dø kaʁnɛ dɑ̃ sɔ̃ sak/	en-fr
+Est-ce que tu as une gomme ? Non, je n’ai pas de gomme.	Do you have an eraser? No, I have no eraser.<br>Czy masz gumkę? Nie, nie mam gumki.<br>/ɛs kə ty a yn ɡɔm ? nɔ̃, ʒə ne pa də ɡɔm/	fr-en
+Do you have an eraser? No, I have no eraser.<br>Czy masz gumkę? Nie, nie mam gumki.	Est-ce que tu as une gomme ? Non, je n’ai pas de gomme.<br>/ɛs kə ty a yn ɡɔm ? nɔ̃, ʒə ne pa də ɡɔm/	en-fr
+Nous avons une règle, mais nous n’avons pas de stylo à bille.	We have a ruler but no ballpoint pen.<br>Mamy linijkę, ale nie mamy długopisu.<br>/nuz‿avɔ̃ yn ʁɛɡl, mɛ nu navɔ̃ pa də stilo a bij/	fr-en
+We have a ruler but no ballpoint pen.<br>Mamy linijkę, ale nie mamy długopisu.	Nous avons une règle, mais nous n’avons pas de stylo à bille.<br>/nuz‿avɔ̃ yn ʁɛɡl, mɛ nu navɔ̃ pa də stilo a bij/	en-fr
+On a des livres et des cahiers sur le bureau.	We have books and exercise books on the desk.<br>Mamy książki i zeszyty na biurku.<br>/ɔ̃n‿a de livʁ e de kaje syʁ lə byʁo/	fr-en
+We have books and exercise books on the desk.<br>Mamy książki i zeszyty na biurku.	On a des livres et des cahiers sur le bureau.<br>/ɔ̃n‿a de livʁ e de kaje syʁ lə byʁo/	en-fr
+Qu’est-ce que vous avez dans la trousse ?	What do you have in the pencil case?<br>Co macie w piórniku?<br>/kɛs kə vuz‿ave dɑ̃ la tʁus/	fr-en
+What do you have in the pencil case?<br>Co macie w piórniku?	Qu’est-ce que vous avez dans la trousse ?<br>/kɛs kə vuz‿ave dɑ̃ la tʁus/	en-fr
+L’encre est bleue ; le crayon est noir.	The ink is blue; the pencil is black.<br>Atrament jest niebieski, ołówek czarny.<br>/lɑ̃kʁ ɛ blø ; lə kʁɛjɔ̃ ɛ nwaʁ/	fr-en
+The ink is blue; the pencil is black.<br>Atrament jest niebieski, ołówek czarny.	L’encre est bleue ; le crayon est noir.<br>/lɑ̃kʁ ɛ blø ; lə kʁɛjɔ̃ ɛ nwaʁ/	en-fr
+bleu, bleue	blue<br>niebieski, niebieska<br>/blø/	fr-en
+blue<br>niebieski, niebieska	bleu, bleue<br>/blø/	en-fr
+noir, noire	black<br>czarny, czarna<br>/nwaʁ/	fr-en
+black<br>czarny, czarna	noir, noire<br>/nwaʁ/	en-fr
+de couleur	coloured<br>kolorowy<br>/də kulœʁ/	fr-en
+coloured<br>kolorowy	de couleur<br>/də kulœʁ/	en-fr
+le papier	paper<br>papier<br>/lə papje/	fr-en
+paper<br>papier	le papier<br>/lə papje/	en-fr
+écrire	to write<br>pisać<br>/ekʁiʁ/	fr-en
+to write<br>pisać	écrire<br>/ekʁiʁ/	en-fr
+dessiner	to draw<br>rysować<br>/desine/	fr-en
+to draw<br>rysować	dessiner<br>/desine/	en-fr
+Tu as un canif.	You have a penknife.<br>Masz scyzoryk.<br>/ty a œ̃ kanif/	fr-en
+You have a penknife.<br>Masz scyzoryk.	Tu as un canif.<br>/ty a œ̃ kanif/	en-fr
+Tu as un canif. → AI exercise: ask with est-ce que, then with inversion	Est-ce que tu as un canif ? As-tu un canif ?<br>/ɛs kə ty a œ̃ kanif ? a ty œ̃ kanif/<br>Do you have a penknife? (both ways)<br>Czy masz scyzoryk?	exercise
+Elle a des crayons.	She has pencils.<br>Ona ma ołówki.<br>/ɛl a de kʁɛjɔ̃/	fr-en
+She has pencils.<br>Ona ma ołówki.	Elle a des crayons.<br>/ɛl a de kʁɛjɔ̃/	en-fr
+Elle a des crayons. → AI exercise: ask with est-ce que, then with inversion	Est-ce qu’elle a des crayons ? A-t-elle des crayons ?<br>/ɛs kɛl a de kʁɛjɔ̃ ? atɛl de kʁɛjɔ̃/<br>Does she have pencils? (both ways)<br>Czy ona ma ołówki?	exercise
+As-tu une gomme ?	Do you have an eraser?<br>Czy masz gumkę?<br>/a ty yn ɡɔm/	fr-en
+Do you have an eraser?<br>Czy masz gumkę?	As-tu une gomme ?<br>/a ty yn ɡɔm/	en-fr
+As-tu une gomme ? → AI exercise: answer no, with de	Non, je n’ai pas de gomme.<br>/nɔ̃, ʒə ne pa də ɡɔm/<br>No, I have no eraser.<br>Nie, nie mam gumki.	exercise
+Ont-elles des cahiers ?	Do they (women) have exercise books?<br>Czy one mają zeszyty?<br>/ɔ̃tɛl de kaje/	fr-en
+Do they (women) have exercise books?<br>Czy one mają zeszyty?	Ont-elles des cahiers ?<br>/ɔ̃tɛl de kaje/	en-fr
+Ont-elles des cahiers ? → AI exercise: answer no, with de	Non, elles n’ont pas de cahiers.<br>/nɔ̃, ɛl nɔ̃ pa də kaje/<br>No, they have no exercise books.<br>Nie, nie mają zeszytów.	exercise
