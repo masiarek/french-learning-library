@@ -9,7 +9,8 @@ IPA. Every row with a transcription gives one card in each direction. In the
 chapter of the Polish textbook the directions are FR-PL (the French with its
 IPA on the front, the Polish and the English on the back) and PL-FR (the book's Polish
 on the front, the French with its IPA and the English on the back); in the
-teacher's chapter, which has no Polish, FR-EN and EN-FR. An exercise row
+teacher's chapter and the chapter of the pronunciation videos, which have no
+Polish, FR-EN and EN-FR. An exercise row
 gives one card, in the French-front deck: a sentence with a blank, or the
 book's sentence with the instruction of its section, on the front, and the
 answer on the back. Heading rows, in bold, name the sections; the page's H1
@@ -31,6 +32,7 @@ BLANK = "________"
 CHAPTERS = {
     "02_Yosser_teacher": ("Yosser", "FR-EN", "EN-FR", False),
     "03_Szypowska": ("Szypowska", "FR-PL", "PL-FR", True),
+    "04_Pronunciation": ("Pronunciation", "FR-EN", "EN-FR", False),
 }
 
 
@@ -137,7 +139,9 @@ def main() -> None:
     for lesson in lessons:
         title, rows = parse_page((lesson / "README.md").read_text(encoding="utf-8"))
         parts = lesson.name.split("_")
-        lesson_tag = parts[0] + parts[1]
+        # lecon_03_… and lesson_01_… tag as lecon03 and lesson01; a folder
+        # named for its idea, sons_an_on, tags as its name run together.
+        lesson_tag = parts[0] + parts[1] if parts[1].isdigit() else lesson.name.replace("_", "")
         fr, to_fr = cards(rows, polish)
         for direction, items in ((d_fr, fr), (d_to, to_fr)):
             text = deck_text(name, direction, title, lesson_tag, items)

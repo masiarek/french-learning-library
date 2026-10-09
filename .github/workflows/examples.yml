@@ -32,7 +32,9 @@ jobs:
         run: |
           python3 tools/anki_from_tables.py 02_Yosser_teacher --check
           python3 tools/anki_from_tables.py 03_Szypowska --check
+          python3 tools/anki_from_tables.py 04_Pronunciation --check
       - name: Check that each chapter's combined deck is up to date
         run: |
           python3 tools/combine_anki.py 02_Yosser_teacher --check
           python3 tools/combine_anki.py 03_Szypowska --check
+          python3 tools/combine_anki.py 04_Pronunciation --check

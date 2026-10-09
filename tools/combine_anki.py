@@ -14,7 +14,7 @@ set, <lesson>/anki/<lesson>_import_<set>.txt, holding that lesson's cards of
 the set with its challenges after them: the owner imports a new lesson on
 its own, two files, without touching the rest. Each deck's file-level tags
 are merged into its cards' own tag, so a card keeps both when imported from
-any of these files. The two chapters never share a file: the owner asked
+any of these files. The source chapters never share a file: the owner asked
 for that.
 """
 

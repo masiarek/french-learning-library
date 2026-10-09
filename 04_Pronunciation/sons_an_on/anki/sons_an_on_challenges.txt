@@ -1,0 +1,23 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+#tags:french pronunciation sonsanon challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: a good white wine	un bon vin blanc /œ̃ bɔ̃ vɛ̃ blɑ̃/ (the four nasal vowels in a row)	say
+Say: a big round loaf	un grand pain rond /œ̃ ɡʁɑ̃ pɛ̃ ʁɔ̃/	say
+Say: My uncle has a white coat.	Mon oncle a un manteau blanc. /mɔ̃n‿ɔ̃kl a œ̃ mɑ̃to blɑ̃/	say
+Say: The blond boy is eleven.	Le garçon blond a onze ans. /lə ɡaʁsɔ̃ blɔ̃ a ɔ̃z ɑ̃/	say
+Say: From time to time we eat under the bridge.	De temps en temps, nous mangeons sous le pont. /də tɑ̃z‿ɑ̃ tɑ̃, nu mɑ̃ʒɔ̃ su lə pɔ̃/	say
+Which spellings give /ɑ̃/, and which /ɔ̃/?	an, am, en, em → /ɑ̃/ (blanc, chambre, enfant, temps); on, om → /ɔ̃/ (bon, nom, ombre); the m spellings come before b and p	sound
+Why is bonne /bɔn/ when bon is /bɔ̃/?	A doubled n or m, or a vowel after, undoes the nasal: bon /bɔ̃/, bonne /bɔn/, un bon ami /œ̃ bɔn‿ami/; the same for an /ɑ̃/ and année /ane/	sound
+Read aloud, then check: blanc, blond, banc, bon	/blɑ̃/ /blɔ̃/ /bɑ̃/ /bɔ̃/	sound
+The other half of the pair: vent (wind)	vont /vɔ̃/ (they go); vent is /vɑ̃/	words
+Read the IPA: /tɑ̃/, /tɔ̃/, /dɑ̃/, /dɔ̃/	temps, ton, dent, dont	sound
+Which of these has no nasal vowel: femme, chambre, jambe?	femme /fam/; chambre /ʃɑ̃bʁ/ and jambe /ʒɑ̃b/ keep it	sound
+How is en read in examen?	/ɛ̃/, an exception: /ɛɡzamɛ̃/; also agenda /aʒɛ̃da/	sound
+Three words with both sounds	chanson /ʃɑ̃sɔ̃/, pantalon /pɑ̃talɔ̃/, jambon /ʒɑ̃bɔ̃/	words
+Anne writes [ã]; what does Le Robert write?	/ɑ̃/, the same sound; Szypowska's book writes ã too, and õ for /ɔ̃/	notation
+Chanter and manger in the nous form, with IPA	nous chantons /nu ʃɑ̃tɔ̃/, nous mangeons /nu mɑ̃ʒɔ̃/: /ɑ̃/ then /ɔ̃/	grammar
+The feminine of bon, blanc, long, rond, blond	bonne /bɔn/, blanche /blɑ̃ʃ/, longue /lɔ̃ɡ/, ronde /ʁɔ̃d/, blonde /blɔ̃d/: the nasal stays except in bonne	grammar

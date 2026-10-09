@@ -1,0 +1,122 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Pronunciation (FR-EN)::Le son [ɛ] — français, anglais, IPA
+#tags:french pronunciation soneouvert fr-en
+#columns:Front	Back	Tags
+#tags column:3
+est<br>/ɛ/	is	fr-en
+mais<br>/mɛ/	but	fr-en
+lève<br>/lɛv/	(he, she) lifts; lift!	fr-en
+être<br>/ɛtʁ/	to be	fr-en
+appelle<br>/apɛl/	(he, she) calls; call!	fr-en
+et – est<br>/e/ · /ɛ/	and – is	fr-en
+mes – mais<br>/me/ · /mɛ/	my (plural) – but	fr-en
+les – le lait<br>/le/ · /lə lɛ/	the (plural) – the milk	fr-en
+le pré – près<br>/lə pʁe/ · /pʁɛ/	the meadow – near	fr-en
+la fée – le fait<br>/la fe/ · /lə fɛ/	the fairy – the fact	fr-en
+l’été – il était<br>/lete/ · /il etɛ/	the summer – he was	fr-en
+allé – il allait<br>/ale/ · /il alɛ/	gone – he was going	fr-en
+le dé – le dais<br>/lə de/ · /lə dɛ/	the die – the canopy	fr-en
+le thé – la taie<br>/lə te/ · /la tɛ/	the tea – the pillowcase	fr-en
+la poignée – le poignet<br>/la pwaɲe/ · /lə pwaɲɛ/	the handle; the handful – the wrist	fr-en
+elle<br>/ɛl/	she	fr-en
+belle<br>/bɛl/	beautiful	fr-en
+cette<br>/sɛt/	this, feminine	fr-en
+avec<br>/avɛk/	with	fr-en
+le sel<br>/lə sɛl/	the salt	fr-en
+la mer<br>/la mɛʁ/	the sea	fr-en
+la terre<br>/la tɛʁ/	the earth, the ground	fr-en
+le verre<br>/lə vɛʁ/	the glass	fr-en
+l’hiver<br>/livɛʁ/	the winter	fr-en
+le chef<br>/lə ʃɛf/	the chief, the chef	fr-en
+la lettre<br>/la lɛtʁ/	the letter	fr-en
+il jette<br>/il ʒɛt/	he throws	fr-en
+j’appelle, tu appelles, nous appelons<br>/ʒapɛl, ty apɛl, nuz‿aplɔ̃/	I call, you call, we call	fr-en
+je lève, nous levons<br>/ʒə lɛv, nu ləvɔ̃/	I lift, we lift	fr-en
+le père, la mère, le frère<br>/lə pɛʁ, la mɛʁ, lə fʁɛʁ/	the father, the mother, the brother	fr-en
+très<br>/tʁɛ/	very	fr-en
+après<br>/apʁɛ/	after	fr-en
+la pièce<br>/la pjɛs/	the room; the coin; the play	fr-en
+la crème<br>/la kʁɛm/	the cream	fr-en
+le succès<br>/lə syksɛ/	the success	fr-en
+la fête<br>/la fɛt/	the party, the feast	fr-en
+la tête<br>/la tɛt/	the head	fr-en
+même<br>/mɛm/	same; even	fr-en
+le rêve<br>/lə ʁɛv/	the dream	fr-en
+la forêt<br>/la fɔʁɛ/	the forest	fr-en
+prêt<br>/pʁɛ/	ready	fr-en
+le lait<br>/lə lɛ/	the milk	fr-en
+faire<br>/fɛʁ/	to do, to make	fr-en
+la chaise<br>/la ʃɛz/	the chair	fr-en
+la maison<br>/la mɛzɔ̃/	the house	fr-en
+la semaine<br>/la səmɛn/	the week	fr-en
+jamais<br>/ʒamɛ/	never	fr-en
+vrai<br>/vʁɛ/	true	fr-en
+français, anglais<br>/fʁɑ̃sɛ, ɑ̃ɡlɛ/	French, English	fr-en
+j’aime<br>/ʒɛm/	I love, I like	fr-en
+la neige<br>/la nɛʒ/	the snow	fr-en
+seize, treize<br>/sɛz, tʁɛz/	sixteen, thirteen	fr-en
+la reine<br>/la ʁɛn/	the queen	fr-en
+la Seine<br>/la sɛn/	the Seine	fr-en
+beige<br>/bɛʒ/	beige	fr-en
+le poulet<br>/lə pulɛ/	the chicken	fr-en
+le jouet<br>/lə ʒwɛ/	the toy	fr-en
+l’objet<br>/lɔbʒɛ/	the object	fr-en
+le ballet<br>/lə balɛ/	the ballet	fr-en
+le ticket<br>/lə tikɛ/	the ticket	fr-en
+l’intérêt<br>/lɛ̃teʁɛ/	the interest	fr-en
+l’arrêt<br>/laʁɛ/	the stop	fr-en
+Elle est belle, mais elle est très sévère.<br>/ɛl ɛ bɛl, mɛ ɛl ɛ tʁɛ sevɛʁ/	She is beautiful, but she is very strict.	fr-en
+Je m’appelle Hélène et j’aime la mer.<br>/ʒə mapɛl elɛn e ʒɛm la mɛʁ/	My name is Hélène and I love the sea.	fr-en
+Mon père lève la tête.<br>/mɔ̃ pɛʁ lɛv la tɛt/	My father lifts his head.	fr-en
+Il fait très froid en hiver.<br>/il fɛ tʁɛ fʁwa ɑ̃n‿ivɛʁ/	It is very cold in winter.	fr-en
+Le lait est sur la chaise.<br>/lə lɛ ɛ syʁ la ʃɛz/	The milk is on the chair.	fr-en
+Être ou ne pas être.<br>/ɛtʁ u nə pa ɛtʁ/	To be or not to be.	fr-en
+C’est la fête de ma mère.<br>/sɛ la fɛt də ma mɛʁ/	It is my mother’s party.	fr-en
+Mes frères sont prêts, mais pas mes sœurs.<br>/me fʁɛʁ sɔ̃ pʁɛ, mɛ pa me sœʁ/	My brothers are ready, but not my sisters.	fr-en
+Tu appelles le chef après la neige.<br>/ty apɛl lə ʃɛf apʁɛ la nɛʒ/	You call the chef after the snow.	fr-en
+Il était seize heures et il faisait beau.<br>/il etɛ sɛz‿œʁ e il fəzɛ bo/	It was four in the afternoon and the weather was fine.	fr-en
+est : c’est tout · il est l’heure · n’est-ce pas ?<br>/sɛ tu · il ɛ lœʁ · nɛs pa/	that’s all · it is time · isn’t it?	fr-en
+mais : mais oui · mais non · non mais !<br>/mɛ wi · mɛ nɔ̃ · nɔ̃ mɛ/	yes, of course · of course not · honestly!	fr-en
+lève : lève-toi · il lève la main · le soleil se lève<br>/lɛv twa · il lɛv la mɛ̃ · lə sɔlɛj sə lɛv/	get up · he raises his hand · the sun rises	fr-en
+être : peut-être · être en retard · être d’accord<br>/pøtɛtʁ · ɛtʁ ɑ̃ ʁətaʁ · ɛtʁ dakɔʁ/	maybe · to be late · to agree	fr-en
+appelle : je m’appelle · comment ça s’appelle ? · elle appelle le médecin<br>/ʒə mapɛl · kɔmɑ̃ sa sapɛl · ɛl apɛl lə medsɛ̃/	my name is · what is that called? · she calls the doctor	fr-en
+Ma mère est prête, mais mon père rêve encore.<br>/ma mɛʁ ɛ pʁɛt, mɛ mɔ̃ pɛʁ ʁɛv ɑ̃kɔʁ/	My mother is ready, but my father is still dreaming.	fr-en
+Cette semaine, il neige sur la forêt.<br>/sɛt səmɛn, il nɛʒ syʁ la fɔʁɛ/	This week it is snowing on the forest.	fr-en
+Le poulet est sur la table, avec le sel.<br>/lə pulɛ ɛ syʁ la tabl, avɛk lə sɛl/	The chicken is on the table, with the salt.	fr-en
+Elle jette la lettre dans la mer.<br>/ɛl ʒɛt la lɛtʁ dɑ̃ la mɛʁ/	She throws the letter into the sea.	fr-en
+Treize, seize : les chiffres de la reine.<br>/tʁɛz, sɛz : le ʃifʁ də la ʁɛn/	Thirteen, sixteen: the queen’s numbers.	fr-en
+Je ne sais pas si c’est vrai.<br>/ʒə nə sɛ pa si sɛ vʁɛ/	I do not know if it is true.	fr-en
+Après la fête, même le chef était fatigué.<br>/apʁɛ la fɛt, mɛm lə ʃɛf etɛ fatiɡe/	After the party even the chef was tired.	fr-en
+Le frère d’Hélène s’appelle Pierre.<br>/lə fʁɛʁ delɛn sapɛl pjɛʁ/	Hélène’s brother is called Pierre.	fr-en
+la fenêtre<br>/la fənɛtʁ/	the window	fr-en
+la fraise<br>/la fʁɛz/	the strawberry	fr-en
+la lèvre<br>/la lɛvʁ/	the lip	fr-en
+la règle<br>/la ʁɛɡl/	the rule, the ruler	fr-en
+le mètre<br>/lə mɛtʁ/	the metre	fr-en
+la bête<br>/la bɛt/	the animal, the beast	fr-en
+la pêche<br>/la pɛʃ/	the peach; fishing	fr-en
+la peine<br>/la pɛn/	the sorrow, the trouble	fr-en
+l’aile<br>/lɛl/	the wing	fr-en
+la laine<br>/la lɛn/	the wool	fr-en
+le dessert<br>/lə desɛʁ/	the dessert	fr-en
+la veste<br>/la vɛst/	the jacket	fr-en
+le restaurant<br>/lə ʁɛstoʁɑ̃/	the restaurant	fr-en
+le problème<br>/lə pʁɔblɛm/	the problem	fr-en
+la bibliothèque<br>/la biblijɔtɛk/	the library	fr-en
+Elle ________ belle, ________ elle ________ sévère.<br>(AI exercise: fill in the word with /ɛ/)	/ɛl [ɛ] bɛl, [mɛ] ɛl [ɛ] sevɛʁ/<br>She is beautiful, but she is strict.	exercise
+Je m’________ Hélène.<br>(AI exercise: fill in the word with /ɛ/)	/ʒə m[apɛl] elɛn/<br>My name is Hélène.	exercise
+Mon père ________ la tête.<br>(AI exercise: fill in the word with /ɛ/)	/mɔ̃ pɛʁ [lɛv] la tɛt/<br>My father lifts his head.	exercise
+________ ou ne pas ________.<br>(AI exercise: fill in the word with /ɛ/)	/[ɛtʁ] u nə pa [ɛtʁ]/<br>To be or not to be.	exercise
+Le ________ est sur la ________.<br>(AI exercise: fill in the word with /ɛ/)	/lə [lɛ] ɛ syʁ la [ʃɛz]/<br>The milk is on the chair.	exercise
+Il fait froid en ________.<br>(AI exercise: fill in the word with /ɛ/)	/il fɛ fʁwa ɑ̃n‿[ivɛʁ]/<br>It is cold in winter.	exercise
+le nez<br>/lə ne/	the nose	fr-en
+le café<br>/lə kafe/	the coffee	fr-en
+chez<br>/ʃe/	at the home of	fr-en
+parler<br>/paʁle/	to speak	fr-en
+il parlait<br>/il paʁlɛ/	he was speaking	fr-en
+le pied<br>/lə pje/	the foot	fr-en
+la pièce<br>/la pjɛs/ (2)	the room	fr-en
+l’école<br>/lekɔl/	the school	fr-en
+l’élève<br>/lelɛv/	the pupil	fr-en
