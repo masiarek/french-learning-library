@@ -1,0 +1,49 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::pour — for; to
+#tags:french 1000words pour en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(prep.) for; to (in order to)	pour<br>/puʁ/	en-fr
+This film is for children.	Ce film est pour les enfants.<br>/sə film ɛ puʁ lez‿ɑ̃fɑ̃/	en-fr
+for me, for you	pour moi, pour toi<br>/puʁ mwa, puʁ twa/	en-fr
+for him, for her	pour lui, pour elle<br>/puʁ lɥi, puʁ ɛl/	en-fr
+for us, for you	pour nous, pour vous<br>/puʁ nu, puʁ vu/	en-fr
+for them (men, women)	pour eux, pour elles<br>/puʁ ø, puʁ ɛl/	en-fr
+A present for you.	Un cadeau pour toi.<br>/œ̃ kado puʁ twa/	en-fr
+a children’s book	un livre pour enfants<br>/œ̃ livʁ puʁ ɑ̃fɑ̃/	en-fr
+the train to Paris	le train pour Paris<br>/lə tʁɛ̃ puʁ paʁi/	en-fr
+for two weeks	pour deux semaines<br>/puʁ dø səmɛn/	en-fr
+for tomorrow	pour demain<br>/puʁ dəmɛ̃/	en-fr
+for dinner	pour le dîner<br>/puʁ lə dine/	en-fr
+I work to live.	Je travaille pour vivre.<br>/ʒə tʁavaj puʁ vivʁ/	en-fr
+He came to see you.	Il est venu pour te voir.<br>/il ɛ vəny puʁ tə vwaʁ/	en-fr
+How do I get to the station, please?	Pour aller à la gare, s’il vous plaît ?<br>/puʁ ale a la ɡaʁ, sil vu plɛ/	en-fr
+I have to sleep to be in good shape.	Je dois dormir pour être en forme.<br>/ʒə dwa dɔʁmiʁ puʁ ɛtʁ ɑ̃ fɔʁm/	en-fr
+I speak slowly so that you understand.	Je parle lentement pour que tu comprennes.<br>/ʒə paʁl lɑ̃tmɑ̃ puʁ kə ty kɔ̃pʁɛn/	en-fr
+I am leaving for two weeks.	Je pars pour deux semaines.<br>/ʒə paʁ puʁ dø səmɛn/	en-fr
+I slept for two hours.	J’ai dormi pendant deux heures.<br>/ʒe dɔʁmi pɑ̃dɑ̃ døz‿œʁ/	en-fr
+The book is written by Marie.	Le livre est écrit par Marie.<br>/lə livʁ ɛ(t)‿ekʁi paʁ maʁi/	en-fr
+per cent	pour cent<br>/puʁ sɑ̃/	en-fr
+for the moment, for now	pour le moment, pour l’instant<br>/puʁ lə mɔmɑ̃, puʁ lɛ̃stɑ̃/	en-fr
+forever	pour toujours<br>/puʁ tuʒuʁ/	en-fr
+for the first time	pour la première fois<br>/puʁ la pʁəmjɛʁ fwa/	en-fr
+for good	pour de bon<br>/puʁ də bɔ̃/	en-fr
+for nothing	pour rien<br>/puʁ ʁjɛ̃/	en-fr
+thank you for the present	merci pour le cadeau<br>/mɛʁsi puʁ lə kado/	en-fr
+That is why …	C’est pour ça que …<br>/sɛ puʁ sa kə/	en-fr
+for or against	pour ou contre<br>/puʁ u kɔ̃tʁ/	en-fr
+the pros and cons	le pour et le contre<br>/lə puʁ e lə kɔ̃tʁ/	en-fr
+Why? Because …	Pourquoi ? Parce que …<br>/puʁkwa, paʁs kə/	en-fr
+It is for you.	C’est pour toi.<br>/sɛ puʁ twa/	en-fr
+This book is for my mother.	Ce livre est pour ma mère.<br>/sə livʁ ɛ puʁ ma mɛʁ/	en-fr
+I have a present for you.	J’ai un cadeau pour vous.<br>/ʒe œ̃ kado puʁ vu/	en-fr
+The train to Warsaw leaves at eight.	Le train pour Varsovie part à huit heures.<br>/lə tʁɛ̃ puʁ vaʁsɔvi paʁ a ɥit‿œʁ/	en-fr
+I come to learn French.	Je viens pour apprendre le français.<br>/ʒə vjɛ̃ puʁ apʁɑ̃dʁ lə fʁɑ̃sɛ/	en-fr
+He is sleeping to be in good shape tomorrow.	Il dort pour être en forme demain.<br>/il dɔʁ puʁ ɛtʁ ɑ̃ fɔʁm dəmɛ̃/	en-fr
+We are leaving for three days.	Nous partons pour trois jours.<br>/nu paʁtɔ̃ puʁ tʁwa ʒuʁ/	en-fr
+Thank you for everything!	Merci pour tout !<br>/mɛʁsi puʁ tu/	en-fr
+That is why I have to leave.	C’est pour ça que je dois partir.<br>/sɛ puʁ sa kə ʒə dwa paʁtiʁ/	en-fr
+Are you for or against?	Tu es pour ou contre ?<br>/ty ɛ puʁ u kɔ̃tʁ/	en-fr
+This film is for children, not for them.	Ce film est pour les enfants, pas pour eux.<br>/sə film ɛ puʁ lez‿ɑ̃fɑ̃, pa puʁ ø/	en-fr

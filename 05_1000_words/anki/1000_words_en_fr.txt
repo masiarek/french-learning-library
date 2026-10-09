@@ -71,6 +71,83 @@ The near future: how is it built?	Aller in the present plus an infinitive: je va
 Why vas-y with an s, when the imperative is va?	The s comes back before y for the liaison: vas-y /vazi/; alone it is va /va/	french 1000words aller challenge grammar	French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges
 I am well: être or aller?	Aller: je vais bien /ʒə vɛ bjɛ̃/; être is for places and qualities, je suis à Paris, je suis prêt	french 1000words aller challenge grammar	French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges
 Four third-person plurals in -ont	ils vont, ils sont, ils ont, ils font /vɔ̃, sɔ̃, ɔ̃, fɔ̃/	french 1000words aller challenge words	French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges
+(v.) to have, to own; to have done (the auxiliary)	avoir<br>/avwaʁ/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+(they) have: the ils form, irregular	ont<br>/ɔ̃/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+have! (to several people); (that you) have: the imperative and the subjunctive, irregular	ayez<br>/ɛje/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+had: the past participle, irregular, said /y/	eu<br>/y/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+Jules has three mobile phones.	Jules a trois téléphones portables.<br>/ʒyl a tʁwa telefɔn pɔʁtabl/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+I have	j’ai<br>/ʒe/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+you have	tu as<br>/ty a/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+he has, she has, one has	il a, elle a, on a<br>/il a, ɛl a, ɔ̃n‿a/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+we have	nous avons<br>/nuz‿avɔ̃/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+you have (plural, or polite)	vous avez<br>/vuz‿ave/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+they have	ils ont, elles ont<br>/ilz‿ɔ̃, ɛlz‿ɔ̃/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+I had, I have had	j’ai eu<br>/ʒe y/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+I had (imperfect)	j’avais<br>/ʒavɛ/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+I will have	j’aurai<br>/ʒoʁe/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+I would have	j’aurais<br>/ʒoʁɛ/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+that I have, that we have, that you have (subjunctive)	que j’aie, que nous ayons, que vous ayez<br>/kə ʒɛ, kə nuz‿ɛjɔ̃, kə vuz‿ɛje/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+Have! Let’s have! Have! (imperative)	Aie ! Ayons ! Ayez !<br>/ɛ, ɛjɔ̃, ɛje/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+he had (passé simple, in books)	il eut<br>/il y/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+I slept.	J’ai dormi.<br>/ʒe dɔʁmi/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+Did you sleep well?	Tu as bien dormi ?<br>/ty a bjɛ̃ dɔʁmi/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+He had to leave.	Il a dû partir.<br>/il a dy paʁtiʁ/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+We were ill.	Nous avons été malades.<br>/nuz‿avɔ̃ ete malad/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+They were afraid.	Ils ont eu peur.<br>/ilz‿ɔ̃ y pœʁ/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+to be hungry, to be thirsty	avoir faim, avoir soif<br>/avwaʁ fɛ̃, avwaʁ swaf/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+to be hot, to be cold	avoir chaud, avoir froid<br>/avwaʁ ʃo, avwaʁ fʁwa/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+to be afraid	avoir peur<br>/avwaʁ pœʁ/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+to be right, to be wrong	avoir raison, avoir tort<br>/avwaʁ ʁɛzɔ̃, avwaʁ tɔʁ/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+to be sleepy	avoir sommeil<br>/avwaʁ sɔmɛj/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+to be twenty	avoir vingt ans<br>/avwaʁ vɛ̃t‿ɑ̃/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+to need	avoir besoin de<br>/avwaʁ bəzwɛ̃ də/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+to feel like, to want	avoir envie de<br>/avwaʁ ɑ̃vi də/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+to have a headache	avoir mal à la tête<br>/avwaʁ mal a la tɛt/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+to be lucky	avoir de la chance<br>/avwaʁ də la ʃɑ̃s/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+to look tired	avoir l’air fatigué<br>/avwaʁ lɛʁ fatiɡe/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+to take place	avoir lieu<br>/avwaʁ ljø/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+There is a cat on the bed.	Il y a un chat sur le lit.<br>/il j a œ̃ ʃa syʁ lə li/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+There are three bedrooms.	Il y a trois chambres.<br>/il j a tʁwa ʃɑ̃bʁ/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+There is no problem.	Il n’y a pas de problème.<br>/il nja pa də pʁɔblɛm/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+Three years ago.	Il y a trois ans.<br>/il j a tʁwaz‿ɑ̃/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+What is the matter?	Qu’est-ce qu’il y a ?<br>/kɛs kil j a/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+I have no cat.	Je n’ai pas de chat.<br>/ʒə ne pa də ʃa/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+He has no money.	Il n’a pas d’argent.<br>/il na pa daʁʒɑ̃/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+We do not have the time.	Nous n’avons pas le temps.<br>/nu navɔ̃ pa lə tɑ̃/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+Aren’t you hungry?	Tu n’as pas faim ?<br>/ty na pa fɛ̃/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+has – to, at	a – à<br>/a/ · /a/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+(they) have – one, we	ont – on<br>/ɔ̃/ · /ɔ̃/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+they have – they are	ils ont – ils sont<br>/ilz‿ɔ̃/ · /il sɔ̃/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+I have – and	j’ai – et<br>/ʒe/ · /e/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+I have a brother and a sister.	J’ai un frère et une sœur.<br>/ʒe œ̃ fʁɛʁ e yn sœʁ/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+Do you have the time?	Tu as l’heure ?<br>/ty a lœʁ/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+She has blue eyes.	Elle a les yeux bleus.<br>/ɛl a lez‿jø blø/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+We have a house in Warsaw.	Nous avons une maison à Varsovie.<br>/nuz‿avɔ̃ yn mɛzɔ̃ a vaʁsɔvi/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+Do you have children?	Vous avez des enfants ?<br>/vuz‿ave dez‿ɑ̃fɑ̃/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+They have three phones.	Ils ont trois téléphones.<br>/ilz‿ɔ̃ tʁwa telefɔn/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+I was afraid.	J’ai eu peur.<br>/ʒe y pœʁ/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+I am hungry, I have to eat.	J’ai faim, je dois manger.<br>/ʒe fɛ̃, ʒə dwa mɑ̃ʒe/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+His mother is forty.	Sa mère a quarante ans.<br>/sa mɛʁ a kaʁɑ̃t ɑ̃/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+You are right.	Tu as raison.<br>/ty a ʁɛzɔ̃/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+There is no milk.	Il n’y a pas de lait.<br>/il nja pa də lɛ/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+Do not be afraid!	N’ayez pas peur !<br>/nɛje pa pœʁ/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+They are hungry: avoir, with the /z/.	Ils ont faim.<br>/ilz‿ɔ̃ fɛ̃/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+They are tired: être, no /z/.	Ils sont fatigués.<br>/il sɔ̃ fatiɡe/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+They are twenty: avoir.	Ils ont vingt ans.<br>/ilz‿ɔ̃ vɛ̃t‿ɑ̃/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+They are in Paris: être.	Ils sont à Paris.<br>/il sɔ̃ a paʁi/	french 1000words avoir en-fr	French::1000 words (EN-FR)::avoir — to have; to have done
+Say: Jules has three mobile phones.	Jules a trois téléphones portables. /ʒyl a tʁwa telefɔn pɔʁtabl/	french 1000words avoir challenge say	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
+Say: I am hungry, I have to eat.	J’ai faim, je dois manger. /ʒe fɛ̃, ʒə dwa mɑ̃ʒe/	french 1000words avoir challenge say	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
+Say: There is no milk.	Il n’y a pas de lait. /il nja pa də lɛ/	french 1000words avoir challenge say	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
+Say: Do you have children?	Vous avez des enfants ? /vuz‿ave dez‿ɑ̃fɑ̃/	french 1000words avoir challenge say	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
+Say: Do not be afraid! (to several people)	N’ayez pas peur ! /nɛje pa pœʁ/	french 1000words avoir challenge say	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
+The present of avoir, all six forms	j’ai, tu as, il a, nous avons, vous avez, ils ont /ʒe, ty a, il a, nuz‿avɔ̃, vuz‿ave, ilz‿ɔ̃/	french 1000words avoir challenge grammar	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
+ils ont or ils sont: what is the difference in sound?	The /z/ of the liaison: ils ont /ilz‿ɔ̃/ they have, ils sont /il sɔ̃/ they are	french 1000words avoir challenge sound	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
+How is eu, the participle, pronounced?	/y/, not /ø/: j’ai eu /ʒe y/ I had; the one common word where the letters eu are /y/	french 1000words avoir challenge sound	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
+The three irregular forms the app flags	ont /ɔ̃/ the ils present, ayez /ɛje/ the vous imperative and subjunctive, eu /y/ the past participle	french 1000words avoir challenge grammar	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
+Five things one has in French and is in English	avoir faim /fɛ̃/, soif /swaf/, froid /fʁwa/, peur /pœʁ/, vingt ans /vɛ̃t‿ɑ̃/: hungry, thirsty, cold, afraid, twenty	french 1000words avoir challenge words	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
+There is, there are, and three years ago	il y a /il j a/ for both; il y a trois ans /il j a tʁwaz‿ɑ̃/	french 1000words avoir challenge grammar	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
+J’ai un chat; and in the negative?	Je n’ai pas de chat /ʒə ne pa də ʃa/: after a negative avoir, un, une, des become de	french 1000words avoir challenge grammar	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
+a or à: which is the verb?	a without the accent is the verb (il a), à with the accent is the preposition to, at; both /a/	french 1000words avoir challenge words	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
 (v.) must, to have to, should; to owe	devoir<br>/dəvwaʁ/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
 (I, you) must, have to; owe: the je and tu form, irregular	dois<br>/dwa/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
 had to; owed: the past participle, irregular	dû<br>/dy/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
@@ -243,6 +320,127 @@ Which verbs take être as their auxiliary?	The verbs of movement and change (all
 I am twenty, I am hungry: être?	No, avoir: j’ai vingt ans /ʒe vɛ̃t‿ɑ̃/, j’ai faim /ʒe fɛ̃/; and for health, aller: je vais bien	french 1000words etre challenge grammar	French::1000 words (EN-FR)::être — to be; a being::Challenges
 Il est médecin or c’est un médecin?	Both; after il est the profession has no article, after c’est it has one: /il ɛ medsɛ̃/, /sɛt‿œ̃ medsɛ̃/	french 1000words etre challenge grammar	French::1000 words (EN-FR)::être — to be; a being::Challenges
 sont and son: how do they sound?	The same, /sɔ̃/: ils sont, son frère; the sentence tells them apart	french 1000words etre challenge sound	French::1000 words (EN-FR)::être — to be; a being::Challenges
+(n.f.) mother	une mère<br>/yn mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+His mother is French. Her mother is French.	Sa mère est française.<br>/sa mɛʁ ɛ fʁɑ̃sɛz/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+my father, my mother, my parents	mon père, ma mère, mes parents<br>/mɔ̃ pɛʁ, ma mɛʁ, me paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+your father, your mother, your parents	ton père, ta mère, tes parents<br>/tɔ̃ pɛʁ, ta mɛʁ, te paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+his or her father, mother, parents	son père, sa mère, ses parents<br>/sɔ̃ pɛʁ, sa mɛʁ, se paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+our mother, our parents	notre mère, nos parents<br>/nɔtʁ mɛʁ, no paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+your mother, your parents (plural, or polite)	votre mère, vos parents<br>/vɔtʁ mɛʁ, vo paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+their mother, their parents	leur mère, leurs parents<br>/lœʁ mɛʁ, lœʁ paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+my friend (a woman), his or her school: mon, son before a vowel	mon amie, son école<br>/mɔ̃n‿ami, sɔ̃n‿ekɔl/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Pierre and his mother	Pierre et sa mère<br>/pjɛʁ e sa mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Marie and her mother	Marie et sa mère<br>/maʁi e sa mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Marie’s mother	la mère de Marie<br>/la mɛʁ də maʁi/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the father, the mother, the parents	le père, la mère, les parents<br>/lə pɛʁ, la mɛʁ, le paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the son, the daughter, the children	le fils, la fille, les enfants<br>/lə fis, la fij, lez‿ɑ̃fɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the brother, the sister	le frère, la sœur<br>/lə fʁɛʁ, la sœʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the grandfather, the grandmother, the grandparents	le grand-père, la grand-mère, les grands-parents<br>/lə ɡʁɑ̃pɛʁ, la ɡʁɑ̃mɛʁ, le ɡʁɑ̃paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the father-in-law or stepfather, the mother-in-law or stepmother	le beau-père, la belle-mère<br>/lə bopɛʁ, la bɛlmɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the husband, the wife	le mari, la femme<br>/lə maʁi, la fam/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the uncle, the aunt	l’oncle, la tante<br>/lɔ̃kl, la tɑ̃t/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the cousin (a man, a woman)	le cousin, la cousine<br>/lə kuzɛ̃, la kuzin/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+mum, dad	maman, papa<br>/mamɑ̃, papa/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+French (masculine, feminine)	français, française<br>/fʁɑ̃sɛ, fʁɑ̃sɛz/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Polish	polonais, polonaise<br>/pɔlɔnɛ, pɔlɔnɛz/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+English	anglais, anglaise<br>/ɑ̃ɡlɛ, ɑ̃ɡlɛz/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+German	allemand, allemande<br>/almɑ̃, almɑ̃d/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+American	américain, américaine<br>/ameʁikɛ̃, ameʁikɛn/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Italian	italien, italienne<br>/italjɛ̃, italjɛn/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+a Frenchwoman, a Pole: the noun takes a capital	une Française, un Polonais<br>/yn fʁɑ̃sɛz, œ̃ pɔlɔnɛ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Mother’s Day	la fête des mères<br>/la fɛt de mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+a mother of a family	une mère de famille<br>/yn mɛʁ də famij/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+a single mother	une mère célibataire<br>/yn mɛʁ selibatɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+a mother hen, an overprotective mother	une mère poule<br>/yn mɛʁ pul/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the mother tongue	la langue maternelle<br>/la lɑ̃ɡ matɛʁnɛl/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+motherly love	l’amour maternel<br>/lamuʁ matɛʁnɛl/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the head office	la maison mère<br>/la mɛzɔ̃ mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Mother Nature	Mère Nature<br>/mɛʁ natyʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+to become a mother	devenir mère<br>/dəvniʁ mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+from mother to daughter	de mère en fille<br>/də mɛʁ ɑ̃ fij/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Happy Mother’s Day, mum!	Bonne fête, maman !<br>/bɔn fɛt, mamɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the mother – the sea – the mayor	la mère – la mer – le maire<br>/la mɛʁ/ · /la mɛʁ/ · /lə mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the mother – the pond	la mère – la mare<br>/la mɛʁ/ · /la maʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the mother – the blackberry	la mère – la mûre<br>/la mɛʁ/ · /la myʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the father – the pair	le père – la paire<br>/lə pɛʁ/ · /la pɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+My mother’s name is Anne.	Ma mère s’appelle Anne.<br>/ma mɛʁ sapɛl an/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+His mother is French and his father is Polish.	Sa mère est française et son père est polonais.<br>/sa mɛʁ ɛ fʁɑ̃sɛz e sɔ̃ pɛʁ ɛ pɔlɔnɛ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Marie’s mother is still sleeping.	La mère de Marie dort encore.<br>/la mɛʁ də maʁi dɔʁ ɑ̃kɔʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+We are going to my mother’s on Sunday.	Nous allons chez ma mère dimanche.<br>/nuz‿alɔ̃ ʃe ma mɛʁ dimɑ̃ʃ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+I have to call my mother.	Je dois appeler ma mère.<br>/ʒə dwa aple ma mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+All mothers are tired.	Toutes les mères sont fatiguées.<br>/tut le mɛʁ sɔ̃ fatiɡe/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Her mother comes from Warsaw.	Sa mère vient de Varsovie.<br>/sa mɛʁ vjɛ̃ də vaʁsɔvi/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+My grandmother is eighty.	Ma grand-mère a quatre-vingts ans.<br>/ma ɡʁɑ̃mɛʁ a katʁəvɛ̃z‿ɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+She is my friend’s mother.	C’est la mère de mon ami.<br>/sɛ la mɛʁ də mɔ̃n‿ami/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+His mother is in the photo.	Sa mère est sur la photo.<br>/sa mɛʁ ɛ syʁ la fɔto/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Mum, I am here!	Maman, je suis là !<br>/mamɑ̃, ʒə sɥi la/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Say: His mother is French.	Sa mère est française. /sa mɛʁ ɛ fʁɑ̃sɛz/	french 1000words mere challenge say	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Say: Marie’s mother is still sleeping.	La mère de Marie dort encore. /la mɛʁ də maʁi dɔʁ ɑ̃kɔʁ/	french 1000words mere challenge say	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Say: I have to call my mother.	Je dois appeler ma mère. /ʒə dwa aple ma mɛʁ/	french 1000words mere challenge say	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Say: My grandmother is eighty.	Ma grand-mère a quatre-vingts ans. /ma ɡʁɑ̃mɛʁ a katʁəvɛ̃z‿ɑ̃/	french 1000words mere challenge say	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Say: Happy Mother’s Day, mum!	Bonne fête, maman ! /bɔn fɛt, mamɑ̃/	french 1000words mere challenge say	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Sa mère: his mother or her mother?	Either: the possessive agrees with the noun owned (mère, feminine), not with the owner; Pierre et sa mère, Marie et sa mère /sa mɛʁ/	french 1000words mere challenge grammar	French::1000 words (EN-FR)::une mère — a mother::Challenges
+The possessives for my, your (tu), his or her, before père, mère, parents	mon, ma, mes /mɔ̃, ma, me/; ton, ta, tes /tɔ̃, ta, te/; son, sa, ses /sɔ̃, sa, se/	french 1000words mere challenge grammar	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Why mon amie and not ma amie?	Before a vowel the feminine ma, ta, sa become mon, ton, son for the sound: mon amie /mɔ̃n‿ami/, son école /sɔ̃n‿ekɔl/	french 1000words mere challenge grammar	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Marie’s mother, in French	la mère de Marie /la mɛʁ də maʁi/: possession with de, French has no ’s	french 1000words mere challenge grammar	French::1000 words (EN-FR)::une mère — a mother::Challenges
+français → française: what changes in sound?	The final consonant is said: /fʁɑ̃sɛ/ → /fʁɑ̃sɛz/; the same for polonais, polonaise /pɔlɔnɛ, pɔlɔnɛz/	french 1000words mere challenge sound	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Three words that sound like mère	la mer /la mɛʁ/ the sea, le maire /lə mɛʁ/ the mayor; and le père /lə pɛʁ/ rhymes	french 1000words mere challenge sound	French::1000 words (EN-FR)::une mère — a mother::Challenges
+The family in pairs: father and mother, son and daughter, brother and sister	le père, la mère /lə pɛʁ, la mɛʁ/; le fils, la fille /lə fis, la fij/; le frère, la sœur /lə fʁɛʁ, la sœʁ/	french 1000words mere challenge words	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Grandmother, mother-in-law, mother tongue	la grand-mère /la ɡʁɑ̃mɛʁ/, la belle-mère /la bɛlmɛʁ/, la langue maternelle /la lɑ̃ɡ matɛʁnɛl/	french 1000words mere challenge words	French::1000 words (EN-FR)::une mère — a mother::Challenges
+(prep.) for; to (in order to)	pour<br>/puʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+This film is for children.	Ce film est pour les enfants.<br>/sə film ɛ puʁ lez‿ɑ̃fɑ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for me, for you	pour moi, pour toi<br>/puʁ mwa, puʁ twa/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for him, for her	pour lui, pour elle<br>/puʁ lɥi, puʁ ɛl/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for us, for you	pour nous, pour vous<br>/puʁ nu, puʁ vu/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for them (men, women)	pour eux, pour elles<br>/puʁ ø, puʁ ɛl/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+A present for you.	Un cadeau pour toi.<br>/œ̃ kado puʁ twa/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+a children’s book	un livre pour enfants<br>/œ̃ livʁ puʁ ɑ̃fɑ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+the train to Paris	le train pour Paris<br>/lə tʁɛ̃ puʁ paʁi/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for two weeks	pour deux semaines<br>/puʁ dø səmɛn/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for tomorrow	pour demain<br>/puʁ dəmɛ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for dinner	pour le dîner<br>/puʁ lə dine/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+I work to live.	Je travaille pour vivre.<br>/ʒə tʁavaj puʁ vivʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+He came to see you.	Il est venu pour te voir.<br>/il ɛ vəny puʁ tə vwaʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+How do I get to the station, please?	Pour aller à la gare, s’il vous plaît ?<br>/puʁ ale a la ɡaʁ, sil vu plɛ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+I have to sleep to be in good shape.	Je dois dormir pour être en forme.<br>/ʒə dwa dɔʁmiʁ puʁ ɛtʁ ɑ̃ fɔʁm/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+I speak slowly so that you understand.	Je parle lentement pour que tu comprennes.<br>/ʒə paʁl lɑ̃tmɑ̃ puʁ kə ty kɔ̃pʁɛn/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+I am leaving for two weeks.	Je pars pour deux semaines.<br>/ʒə paʁ puʁ dø səmɛn/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+I slept for two hours.	J’ai dormi pendant deux heures.<br>/ʒe dɔʁmi pɑ̃dɑ̃ døz‿œʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+The book is written by Marie.	Le livre est écrit par Marie.<br>/lə livʁ ɛ(t)‿ekʁi paʁ maʁi/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+per cent	pour cent<br>/puʁ sɑ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for the moment, for now	pour le moment, pour l’instant<br>/puʁ lə mɔmɑ̃, puʁ lɛ̃stɑ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+forever	pour toujours<br>/puʁ tuʒuʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for the first time	pour la première fois<br>/puʁ la pʁəmjɛʁ fwa/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for good	pour de bon<br>/puʁ də bɔ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for nothing	pour rien<br>/puʁ ʁjɛ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+thank you for the present	merci pour le cadeau<br>/mɛʁsi puʁ lə kado/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+That is why …	C’est pour ça que …<br>/sɛ puʁ sa kə/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for or against	pour ou contre<br>/puʁ u kɔ̃tʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+the pros and cons	le pour et le contre<br>/lə puʁ e lə kɔ̃tʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+Why? Because …	Pourquoi ? Parce que …<br>/puʁkwa, paʁs kə/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+It is for you.	C’est pour toi.<br>/sɛ puʁ twa/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+This book is for my mother.	Ce livre est pour ma mère.<br>/sə livʁ ɛ puʁ ma mɛʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+I have a present for you.	J’ai un cadeau pour vous.<br>/ʒe œ̃ kado puʁ vu/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+The train to Warsaw leaves at eight.	Le train pour Varsovie part à huit heures.<br>/lə tʁɛ̃ puʁ vaʁsɔvi paʁ a ɥit‿œʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+I come to learn French.	Je viens pour apprendre le français.<br>/ʒə vjɛ̃ puʁ apʁɑ̃dʁ lə fʁɑ̃sɛ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+He is sleeping to be in good shape tomorrow.	Il dort pour être en forme demain.<br>/il dɔʁ puʁ ɛtʁ ɑ̃ fɔʁm dəmɛ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+We are leaving for three days.	Nous partons pour trois jours.<br>/nu paʁtɔ̃ puʁ tʁwa ʒuʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+Thank you for everything!	Merci pour tout !<br>/mɛʁsi puʁ tu/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+That is why I have to leave.	C’est pour ça que je dois partir.<br>/sɛ puʁ sa kə ʒə dwa paʁtiʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+Are you for or against?	Tu es pour ou contre ?<br>/ty ɛ puʁ u kɔ̃tʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+This film is for children, not for them.	Ce film est pour les enfants, pas pour eux.<br>/sə film ɛ puʁ lez‿ɑ̃fɑ̃, pa puʁ ø/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+Say: This film is for children.	Ce film est pour les enfants. /sə film ɛ puʁ lez‿ɑ̃fɑ̃/	french 1000words pour challenge say	French::1000 words (EN-FR)::pour — for; to::Challenges
+Say: It is for you.	C’est pour toi. /sɛ puʁ twa/	french 1000words pour challenge say	French::1000 words (EN-FR)::pour — for; to::Challenges
+Say: I work to live.	Je travaille pour vivre. /ʒə tʁavaj puʁ vivʁ/	french 1000words pour challenge say	French::1000 words (EN-FR)::pour — for; to::Challenges
+Say: How do I get to the station, please?	Pour aller à la gare, s’il vous plaît ? /puʁ ale a la ɡaʁ, sil vu plɛ/	french 1000words pour challenge say	French::1000 words (EN-FR)::pour — for; to::Challenges
+Say: Thank you for everything!	Merci pour tout ! /mɛʁsi puʁ tu/	french 1000words pour challenge say	French::1000 words (EN-FR)::pour — for; to::Challenges
+The stressed pronouns, in order	moi, toi, lui, elle, nous, vous, eux, elles /mwa, twa, lɥi, ɛl, nu, vu, ø, ɛl/: after a preposition and for emphasis	french 1000words pour challenge grammar	French::1000 words (EN-FR)::pour — for; to::Challenges
+For two weeks (planned) and for two hours (passed): which preposition?	pour deux semaines /puʁ dø səmɛn/ for a plan; pendant deux heures /pɑ̃dɑ̃ døz‿œʁ/ for a time that passed	french 1000words pour challenge grammar	French::1000 words (EN-FR)::pour — for; to::Challenges
+Written by Marie: pour or par?	par: écrit par Marie /ekʁi paʁ maʁi/; par is the agent, pour the purpose or the beneficiary	french 1000words pour challenge grammar	French::1000 words (EN-FR)::pour — for; to::Challenges
+pour que: which mood follows?	The subjunctive: pour que tu viennes /puʁ kə ty vjɛn/, pour que tu comprennes /puʁ kə ty kɔ̃pʁɛn/	french 1000words pour challenge grammar	French::1000 words (EN-FR)::pour — for; to::Challenges
+Thank you for the present, thank you for coming	merci pour le cadeau /mɛʁsi puʁ lə kado/ with a noun; merci d’être venu /mɛʁsi dɛtʁ vəny/ with an infinitive	french 1000words pour challenge words	French::1000 words (EN-FR)::pour — for; to::Challenges
+pour or pur: which vowel?	pour /puʁ/ with /u/, pur /pyʁ/ with the front rounded /y/	french 1000words pour challenge sound	French::1000 words (EN-FR)::pour — for; to::Challenges
+Why les enfants in ce film est pour les enfants?	French keeps the article for a kind where English drops it: pour les enfants, for children; with the liaison /lez‿ɑ̃fɑ̃/	french 1000words pour challenge grammar	French::1000 words (EN-FR)::pour — for; to::Challenges
 (prep.) on, upon; on top of	sur<br>/syʁ/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
 I’m on the internet.	Je suis sur internet.<br>/ʒə sɥi syʁ ɛ̃tɛʁnɛt/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
 on the table	sur la table<br>/syʁ la tabl/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of

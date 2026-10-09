@@ -26,9 +26,12 @@
 - **Words**
     - **The thousand words, one page each** · from [1000 words](05_1000_words/README.md)
         - [aller](05_1000_words/aller/README.md) — to go, to be of health; three stems, the near future, être as its auxiliary, comment allez-vous, vas-y
+        - [avoir](05_1000_words/avoir/README.md) — to have; ils ont against ils sont, eu said /y/, the auxiliary, avoir faim and the other to be of English, il y a, pas de, a and à
         - [devoir](05_1000_words/devoir/README.md) — must, to owe; two stems, dû against du, devrais as should, must of probability, the noun le devoir
         - [dormir](05_1000_words/dormir/README.md) — to sleep; the partir pattern of -ir verbs, the singular that drops a consonant, as-tu bien dormi, s'endormir
         - [être](05_1000_words/etre/README.md) — to be, a being; three stems, fus of the books, soyez, été, the auxiliary of movement and reflexive verbs, avoir for faim and froid
+        - [une mère](05_1000_words/mere/README.md) — a mother; the article as the gender, sa as his or her, the possessives, de for possession, the feminine française, the family words, mère, mer and maire
+        - [pour](05_1000_words/pour/README.md) — for, to; the stressed pronouns, pour with an infinitive, pour que and the subjunctive, pour against pendant and par, merci pour and merci de
         - [sur](05_1000_words/sur/README.md) — on; where English says in or at, about, out of; sur and sûr, sous and dans, the vowel /y/
         - [tout](05_1000_words/tout/README.md) — all, every, the whole; tout, toute, tous, toutes, /tu/ against /tus/, the adverb that agrees by sound, tout à fait
         - [venir](05_1000_words/venir/README.md) — to come; two stems and the denasalised viennent, the recent past venir de, origin with de, tenir and the family
@@ -38,4 +41,4 @@
 
 - **Sets at work.** The IPA pages hold two, then four, phoneme inventories as sets and reads off their intersection and differences; the operations are explained in the math library's [Sets ↗](https://masiarek.github.io/math-learning-library/04_Sets/) chapter.
 - **One alphabet, many spellings of it.** Every book spells the same sounds its own way. The Sounds chapter reads Oxford's and Le Robert's keys; the Szypowska chapter adds a key from the book's Polish-reader notation to Le Robert's. The teacher's worksheets have no transcription at all, so there the page supplies it. The Pronunciation chapter reads the videos' [ã] as Le Robert's /ɑ̃/. The 1000 words chapter adds the IPA the app leaves out.
-- **The verbs that run a sentence.** *Avoir* is conjugated in Szypowska's [lesson 5](03_Szypowska/lecon_05_dialogue/README.md); *être, aller, venir, devoir* and *dormir* each have a page in [1000 words](05_1000_words/README.md), with the tense English hides in it: the near future of *aller*, the recent past of *venir de*, the conditional *should* of *devoir*, and *être* as the auxiliary of the other two.
+- **The verbs that run a sentence.** *Avoir* is conjugated in Szypowska's [lesson 5](03_Szypowska/lecon_05_dialogue/README.md) and on its own page; *avoir, être, aller, venir, devoir* and *dormir* each have a page in [1000 words](05_1000_words/README.md), with the tense English hides in it: the near future of *aller*, the recent past of *venir de*, the conditional *should* of *devoir*, and *être* as the auxiliary of the other two.

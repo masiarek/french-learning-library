@@ -52,7 +52,11 @@
 
 **Phoneme inventory** — the set of distinct sounds a language uses to tell words apart; about 36 for French, 44 for British English plus two weak vowels in Oxford's key. See [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md).
 
+**Possessive adjective (adjectif possessif)** — *mon, ma, mes; ton, ta, tes; son, sa, ses; notre, nos; votre, vos; leur, leurs* /mɔ̃, ma, me, tɔ̃, ta, te, sɔ̃, sa, se, nɔtʁ, no, vɔtʁ, vo, lœʁ/. It agrees with the noun owned, not with the owner, so *sa mère* /sa mɛʁ/ is his mother or her mother. See [une mère](05_1000_words/mere/README.md).
+
 **Stress mark ˈ** — before a syllable, marks it as the stressed one. English dictionaries need it because stress distinguishes words; French dictionaries omit it because French stress always falls on the last syllable of a phrase. See [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md).
+
+**Stressed pronoun (pronom tonique)** — *moi, toi, lui, elle, nous, vous, eux, elles* /mwa, twa, lɥi, ɛl, nu, vu, ø, ɛl/, the pronoun after a preposition and the one used alone or for emphasis: *pour moi* /puʁ mwa/, *moi, je dors* /mwa, ʒə dɔʁ/. See [pour](05_1000_words/pour/README.md).
 
 **Subjunctive (subjonctif)** — the mood after *il faut que* /il fo kə/ and after verbs of wish, doubt and feeling: *il faut que j’aille* /il fo kə ʒaj/, *que tu viennes* /kə ty vjɛn/, *que vous soyez* /kə vu swaje/. See [aller](05_1000_words/aller/README.md).
 

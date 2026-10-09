@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::pour — for; to::Challenges
+#tags:french 1000words pour challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: This film is for children.	Ce film est pour les enfants. /sə film ɛ puʁ lez‿ɑ̃fɑ̃/	say
+Say: It is for you.	C’est pour toi. /sɛ puʁ twa/	say
+Say: I work to live.	Je travaille pour vivre. /ʒə tʁavaj puʁ vivʁ/	say
+Say: How do I get to the station, please?	Pour aller à la gare, s’il vous plaît ? /puʁ ale a la ɡaʁ, sil vu plɛ/	say
+Say: Thank you for everything!	Merci pour tout ! /mɛʁsi puʁ tu/	say
+The stressed pronouns, in order	moi, toi, lui, elle, nous, vous, eux, elles /mwa, twa, lɥi, ɛl, nu, vu, ø, ɛl/: after a preposition and for emphasis	grammar
+For two weeks (planned) and for two hours (passed): which preposition?	pour deux semaines /puʁ dø səmɛn/ for a plan; pendant deux heures /pɑ̃dɑ̃ døz‿œʁ/ for a time that passed	grammar
+Written by Marie: pour or par?	par: écrit par Marie /ekʁi paʁ maʁi/; par is the agent, pour the purpose or the beneficiary	grammar
+pour que: which mood follows?	The subjunctive: pour que tu viennes /puʁ kə ty vjɛn/, pour que tu comprennes /puʁ kə ty kɔ̃pʁɛn/	grammar
+Thank you for the present, thank you for coming	merci pour le cadeau /mɛʁsi puʁ lə kado/ with a noun; merci d’être venu /mɛʁsi dɛtʁ vəny/ with an infinitive	words
+pour or pur: which vowel?	pour /puʁ/ with /u/, pur /pyʁ/ with the front rounded /y/	sound
+Why les enfants in ce film est pour les enfants?	French keeps the article for a kind where English drops it: pour les enfants, for children; with the liaison /lez‿ɑ̃fɑ̃/	grammar

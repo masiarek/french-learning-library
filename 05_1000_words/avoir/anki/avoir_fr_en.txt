@@ -1,0 +1,77 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::avoir — to have; to have done
+#tags:french 1000words avoir fr-en
+#columns:Front	Back	Tags
+#tags column:3
+avoir<br>/avwaʁ/	(v.) to have, to own; to have done (the auxiliary)	fr-en
+ont<br>/ɔ̃/	(they) have: the ils form, irregular	fr-en
+ayez<br>/ɛje/	have! (to several people); (that you) have: the imperative and the subjunctive, irregular	fr-en
+eu<br>/y/	had: the past participle, irregular, said /y/	fr-en
+Jules a trois téléphones portables.<br>/ʒyl a tʁwa telefɔn pɔʁtabl/	Jules has three mobile phones.	fr-en
+j’ai<br>/ʒe/	I have	fr-en
+tu as<br>/ty a/	you have	fr-en
+il a, elle a, on a<br>/il a, ɛl a, ɔ̃n‿a/	he has, she has, one has	fr-en
+nous avons<br>/nuz‿avɔ̃/	we have	fr-en
+vous avez<br>/vuz‿ave/	you have (plural, or polite)	fr-en
+ils ont, elles ont<br>/ilz‿ɔ̃, ɛlz‿ɔ̃/	they have	fr-en
+j’ai eu<br>/ʒe y/	I had, I have had	fr-en
+j’avais<br>/ʒavɛ/	I had (imperfect)	fr-en
+j’aurai<br>/ʒoʁe/	I will have	fr-en
+j’aurais<br>/ʒoʁɛ/	I would have	fr-en
+que j’aie, que nous ayons, que vous ayez<br>/kə ʒɛ, kə nuz‿ɛjɔ̃, kə vuz‿ɛje/	that I have, that we have, that you have (subjunctive)	fr-en
+Aie ! Ayons ! Ayez !<br>/ɛ, ɛjɔ̃, ɛje/	Have! Let’s have! Have! (imperative)	fr-en
+il eut<br>/il y/	he had (passé simple, in books)	fr-en
+J’ai dormi.<br>/ʒe dɔʁmi/	I slept.	fr-en
+Tu as bien dormi ?<br>/ty a bjɛ̃ dɔʁmi/	Did you sleep well?	fr-en
+Il a dû partir.<br>/il a dy paʁtiʁ/	He had to leave.	fr-en
+Nous avons été malades.<br>/nuz‿avɔ̃ ete malad/	We were ill.	fr-en
+Ils ont eu peur.<br>/ilz‿ɔ̃ y pœʁ/	They were afraid.	fr-en
+avoir faim, avoir soif<br>/avwaʁ fɛ̃, avwaʁ swaf/	to be hungry, to be thirsty	fr-en
+avoir chaud, avoir froid<br>/avwaʁ ʃo, avwaʁ fʁwa/	to be hot, to be cold	fr-en
+avoir peur<br>/avwaʁ pœʁ/	to be afraid	fr-en
+avoir raison, avoir tort<br>/avwaʁ ʁɛzɔ̃, avwaʁ tɔʁ/	to be right, to be wrong	fr-en
+avoir sommeil<br>/avwaʁ sɔmɛj/	to be sleepy	fr-en
+avoir vingt ans<br>/avwaʁ vɛ̃t‿ɑ̃/	to be twenty	fr-en
+avoir besoin de<br>/avwaʁ bəzwɛ̃ də/	to need	fr-en
+avoir envie de<br>/avwaʁ ɑ̃vi də/	to feel like, to want	fr-en
+avoir mal à la tête<br>/avwaʁ mal a la tɛt/	to have a headache	fr-en
+avoir de la chance<br>/avwaʁ də la ʃɑ̃s/	to be lucky	fr-en
+avoir l’air fatigué<br>/avwaʁ lɛʁ fatiɡe/	to look tired	fr-en
+avoir lieu<br>/avwaʁ ljø/	to take place	fr-en
+Il y a un chat sur le lit.<br>/il j a œ̃ ʃa syʁ lə li/	There is a cat on the bed.	fr-en
+Il y a trois chambres.<br>/il j a tʁwa ʃɑ̃bʁ/	There are three bedrooms.	fr-en
+Il n’y a pas de problème.<br>/il nja pa də pʁɔblɛm/	There is no problem.	fr-en
+Il y a trois ans.<br>/il j a tʁwaz‿ɑ̃/	Three years ago.	fr-en
+Qu’est-ce qu’il y a ?<br>/kɛs kil j a/	What is the matter?	fr-en
+Je n’ai pas de chat.<br>/ʒə ne pa də ʃa/	I have no cat.	fr-en
+Il n’a pas d’argent.<br>/il na pa daʁʒɑ̃/	He has no money.	fr-en
+Nous n’avons pas le temps.<br>/nu navɔ̃ pa lə tɑ̃/	We do not have the time.	fr-en
+Tu n’as pas faim ?<br>/ty na pa fɛ̃/	Aren’t you hungry?	fr-en
+a – à<br>/a/ · /a/	has – to, at	fr-en
+ont – on<br>/ɔ̃/ · /ɔ̃/	(they) have – one, we	fr-en
+ils ont – ils sont<br>/ilz‿ɔ̃/ · /il sɔ̃/	they have – they are	fr-en
+j’ai – et<br>/ʒe/ · /e/	I have – and	fr-en
+J’ai un frère et une sœur.<br>/ʒe œ̃ fʁɛʁ e yn sœʁ/	I have a brother and a sister.	fr-en
+Tu as l’heure ?<br>/ty a lœʁ/	Do you have the time?	fr-en
+Elle a les yeux bleus.<br>/ɛl a lez‿jø blø/	She has blue eyes.	fr-en
+Nous avons une maison à Varsovie.<br>/nuz‿avɔ̃ yn mɛzɔ̃ a vaʁsɔvi/	We have a house in Warsaw.	fr-en
+Vous avez des enfants ?<br>/vuz‿ave dez‿ɑ̃fɑ̃/	Do you have children?	fr-en
+Ils ont trois téléphones.<br>/ilz‿ɔ̃ tʁwa telefɔn/	They have three phones.	fr-en
+J’ai eu peur.<br>/ʒe y pœʁ/	I was afraid.	fr-en
+J’ai faim, je dois manger.<br>/ʒe fɛ̃, ʒə dwa mɑ̃ʒe/	I am hungry, I have to eat.	fr-en
+Sa mère a quarante ans.<br>/sa mɛʁ a kaʁɑ̃t ɑ̃/	His mother is forty.	fr-en
+Tu as raison.<br>/ty a ʁɛzɔ̃/	You are right.	fr-en
+Il n’y a pas de lait.<br>/il nja pa də lɛ/	There is no milk.	fr-en
+N’ayez pas peur !<br>/nɛje pa pœʁ/	Do not be afraid!	fr-en
+J’________ un chat.<br>(AI exercise: fill in the form of avoir)	/ʒ[e] œ̃ ʃa/<br>I have a cat.	exercise
+Tu ________ faim ?<br>(AI exercise: fill in the form of avoir)	/ty [a] fɛ̃/<br>Are you hungry?	exercise
+Nous ________ froid.<br>(AI exercise: fill in the form of avoir)	/nuz‿[avɔ̃] fʁwa/<br>We are cold.	exercise
+Ils ________ trois enfants.<br>(AI exercise: fill in the form of avoir)	/ilz‿[ɔ̃] tʁwaz‿ɑ̃fɑ̃/<br>They have three children.	exercise
+J’ai ________ peur hier.<br>(AI exercise: fill in the form of avoir)	/ʒe [y] pœʁ jɛʁ/<br>I was afraid yesterday.	exercise
+Il y ________ un problème.<br>(AI exercise: fill in the form of avoir)	/il j [a] œ̃ pʁɔblɛm/<br>There is a problem.	exercise
+Ils ont faim.<br>/ilz‿ɔ̃ fɛ̃/	They are hungry: avoir, with the /z/.	fr-en
+Ils sont fatigués.<br>/il sɔ̃ fatiɡe/	They are tired: être, no /z/.	fr-en
+Ils ont vingt ans.<br>/ilz‿ɔ̃ vɛ̃t‿ɑ̃/	They are twenty: avoir.	fr-en
+Ils sont à Paris.<br>/il sɔ̃ a paʁi/	They are in Paris: être.	fr-en

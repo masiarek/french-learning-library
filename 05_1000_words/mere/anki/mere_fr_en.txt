@@ -1,0 +1,71 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::une mère — a mother
+#tags:french 1000words mere fr-en
+#columns:Front	Back	Tags
+#tags column:3
+une mère<br>/yn mɛʁ/	(n.f.) mother	fr-en
+Sa mère est française.<br>/sa mɛʁ ɛ fʁɑ̃sɛz/	His mother is French. Her mother is French.	fr-en
+mon père, ma mère, mes parents<br>/mɔ̃ pɛʁ, ma mɛʁ, me paʁɑ̃/	my father, my mother, my parents	fr-en
+ton père, ta mère, tes parents<br>/tɔ̃ pɛʁ, ta mɛʁ, te paʁɑ̃/	your father, your mother, your parents	fr-en
+son père, sa mère, ses parents<br>/sɔ̃ pɛʁ, sa mɛʁ, se paʁɑ̃/	his or her father, mother, parents	fr-en
+notre mère, nos parents<br>/nɔtʁ mɛʁ, no paʁɑ̃/	our mother, our parents	fr-en
+votre mère, vos parents<br>/vɔtʁ mɛʁ, vo paʁɑ̃/	your mother, your parents (plural, or polite)	fr-en
+leur mère, leurs parents<br>/lœʁ mɛʁ, lœʁ paʁɑ̃/	their mother, their parents	fr-en
+mon amie, son école<br>/mɔ̃n‿ami, sɔ̃n‿ekɔl/	my friend (a woman), his or her school: mon, son before a vowel	fr-en
+Pierre et sa mère<br>/pjɛʁ e sa mɛʁ/	Pierre and his mother	fr-en
+Marie et sa mère<br>/maʁi e sa mɛʁ/	Marie and her mother	fr-en
+la mère de Marie<br>/la mɛʁ də maʁi/	Marie’s mother	fr-en
+le père, la mère, les parents<br>/lə pɛʁ, la mɛʁ, le paʁɑ̃/	the father, the mother, the parents	fr-en
+le fils, la fille, les enfants<br>/lə fis, la fij, lez‿ɑ̃fɑ̃/	the son, the daughter, the children	fr-en
+le frère, la sœur<br>/lə fʁɛʁ, la sœʁ/	the brother, the sister	fr-en
+le grand-père, la grand-mère, les grands-parents<br>/lə ɡʁɑ̃pɛʁ, la ɡʁɑ̃mɛʁ, le ɡʁɑ̃paʁɑ̃/	the grandfather, the grandmother, the grandparents	fr-en
+le beau-père, la belle-mère<br>/lə bopɛʁ, la bɛlmɛʁ/	the father-in-law or stepfather, the mother-in-law or stepmother	fr-en
+le mari, la femme<br>/lə maʁi, la fam/	the husband, the wife	fr-en
+l’oncle, la tante<br>/lɔ̃kl, la tɑ̃t/	the uncle, the aunt	fr-en
+le cousin, la cousine<br>/lə kuzɛ̃, la kuzin/	the cousin (a man, a woman)	fr-en
+maman, papa<br>/mamɑ̃, papa/	mum, dad	fr-en
+français, française<br>/fʁɑ̃sɛ, fʁɑ̃sɛz/	French (masculine, feminine)	fr-en
+polonais, polonaise<br>/pɔlɔnɛ, pɔlɔnɛz/	Polish	fr-en
+anglais, anglaise<br>/ɑ̃ɡlɛ, ɑ̃ɡlɛz/	English	fr-en
+allemand, allemande<br>/almɑ̃, almɑ̃d/	German	fr-en
+américain, américaine<br>/ameʁikɛ̃, ameʁikɛn/	American	fr-en
+italien, italienne<br>/italjɛ̃, italjɛn/	Italian	fr-en
+une Française, un Polonais<br>/yn fʁɑ̃sɛz, œ̃ pɔlɔnɛ/	a Frenchwoman, a Pole: the noun takes a capital	fr-en
+la fête des mères<br>/la fɛt de mɛʁ/	Mother’s Day	fr-en
+une mère de famille<br>/yn mɛʁ də famij/	a mother of a family	fr-en
+une mère célibataire<br>/yn mɛʁ selibatɛʁ/	a single mother	fr-en
+une mère poule<br>/yn mɛʁ pul/	a mother hen, an overprotective mother	fr-en
+la langue maternelle<br>/la lɑ̃ɡ matɛʁnɛl/	the mother tongue	fr-en
+l’amour maternel<br>/lamuʁ matɛʁnɛl/	motherly love	fr-en
+la maison mère<br>/la mɛzɔ̃ mɛʁ/	the head office	fr-en
+Mère Nature<br>/mɛʁ natyʁ/	Mother Nature	fr-en
+devenir mère<br>/dəvniʁ mɛʁ/	to become a mother	fr-en
+de mère en fille<br>/də mɛʁ ɑ̃ fij/	from mother to daughter	fr-en
+Bonne fête, maman !<br>/bɔn fɛt, mamɑ̃/	Happy Mother’s Day, mum!	fr-en
+la mère – la mer – le maire<br>/la mɛʁ/ · /la mɛʁ/ · /lə mɛʁ/	the mother – the sea – the mayor	fr-en
+la mère – la mare<br>/la mɛʁ/ · /la maʁ/	the mother – the pond	fr-en
+la mère – la mûre<br>/la mɛʁ/ · /la myʁ/	the mother – the blackberry	fr-en
+le père – la paire<br>/lə pɛʁ/ · /la pɛʁ/	the father – the pair	fr-en
+Ma mère s’appelle Anne.<br>/ma mɛʁ sapɛl an/	My mother’s name is Anne.	fr-en
+Sa mère est française et son père est polonais.<br>/sa mɛʁ ɛ fʁɑ̃sɛz e sɔ̃ pɛʁ ɛ pɔlɔnɛ/	His mother is French and his father is Polish.	fr-en
+La mère de Marie dort encore.<br>/la mɛʁ də maʁi dɔʁ ɑ̃kɔʁ/	Marie’s mother is still sleeping.	fr-en
+Nous allons chez ma mère dimanche.<br>/nuz‿alɔ̃ ʃe ma mɛʁ dimɑ̃ʃ/	We are going to my mother’s on Sunday.	fr-en
+Je dois appeler ma mère.<br>/ʒə dwa aple ma mɛʁ/	I have to call my mother.	fr-en
+Toutes les mères sont fatiguées.<br>/tut le mɛʁ sɔ̃ fatiɡe/	All mothers are tired.	fr-en
+Sa mère vient de Varsovie.<br>/sa mɛʁ vjɛ̃ də vaʁsɔvi/	Her mother comes from Warsaw.	fr-en
+Ma grand-mère a quatre-vingts ans.<br>/ma ɡʁɑ̃mɛʁ a katʁəvɛ̃z‿ɑ̃/	My grandmother is eighty.	fr-en
+C’est la mère de mon ami.<br>/sɛ la mɛʁ də mɔ̃n‿ami/	She is my friend’s mother.	fr-en
+Sa mère est sur la photo.<br>/sa mɛʁ ɛ syʁ la fɔto/	His mother is in the photo.	fr-en
+Maman, je suis là !<br>/mamɑ̃, ʒə sɥi la/	Mum, I am here!	fr-en
+________ mère est française.<br>(AI exercise: mon, ma, mes, son, sa, ses …?)	/[sa] mɛʁ ɛ fʁɑ̃sɛz/<br>His mother is French.	exercise
+________ père est polonais.<br>(AI exercise: mon, ma, mes, son, sa, ses …?)	/[sɔ̃] pɛʁ ɛ pɔlɔnɛ/<br>Her father is Polish.	exercise
+________ parents dorment.<br>(AI exercise: mon, ma, mes, son, sa, ses …?)	/[me] paʁɑ̃ dɔʁm/<br>My parents are sleeping.	exercise
+________ amie vient demain.<br>(AI exercise: mon, ma, mes, son, sa, ses …?)	/[mɔ̃n]‿ami vjɛ̃ dəmɛ̃/<br>My friend (a woman) is coming tomorrow.	exercise
+________ sœur est à Paris.<br>(AI exercise: mon, ma, mes, son, sa, ses …?)	/[ta] sœʁ ɛ a paʁi/<br>Your sister is in Paris. (to a friend)	exercise
+________ grand-mère a quatre-vingts ans.<br>(AI exercise: mon, ma, mes, son, sa, ses …?)	/[lœʁ] ɡʁɑ̃mɛʁ a katʁəvɛ̃z‿ɑ̃/<br>Their grandmother is eighty.	exercise
+Il est français, elle est ________.<br>(AI exercise: the feminine of the nationality)	/il ɛ fʁɑ̃sɛ, ɛl ɛ [fʁɑ̃sɛz]/<br>He is French, she is French.	exercise
+Il est polonais, elle est ________.<br>(AI exercise: the feminine of the nationality)	/il ɛ pɔlɔnɛ, ɛl ɛ [pɔlɔnɛz]/<br>He is Polish, she is Polish.	exercise
+Il est allemand, elle est ________.<br>(AI exercise: the feminine of the nationality)	/il ɛ almɑ̃, ɛl ɛ [almɑ̃d]/<br>He is German, she is German.	exercise
+Il est italien, elle est ________.<br>(AI exercise: the feminine of the nationality)	/il ɛ italjɛ̃, ɛl ɛ [italjɛn]/<br>He is Italian, she is Italian.	exercise
