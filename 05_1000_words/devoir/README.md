@@ -4,7 +4,6 @@
 
 Conventions: on the [chapter page](../README.md).
 
-- The source is a screenshot of the owner’s vocabulary app: the headword, two definitions, two irregular forms and one example sentence. The app gives no transcription; the IPA is Le Robert’s key, from memory. Everything under the AI heading is mine.
 - *devoir* /dəvwaʁ/: three things to watch, the /ə/ of the first syllable, which fast speech drops (/dvwaʁ/), the glide /w/ of *oi* /wa/, and the uvular /ʁ/ at the end, with the final *r* said as in every *-oir* infinitive, *voir* /vwaʁ/, *avoir* /avwaʁ/.
 - One verb, two senses. Before an infinitive it is *must, to have to*: *je dois partir* /ʒə dwa paʁtiʁ/ I have to leave. With a noun it is *to owe*: *je te dois dix euros* /ʒə tə dwa diz‿øʁo/ I owe you ten euros. Both senses conjugate alike.
 - The two forms the app flags: *dois* /dwa/, the *je* and *tu* form of the present, whose stem *doi-* is not the infinitive’s *dev-*; and *dû* /dy/, the past participle, written with a circumflex to tell it from *du* /dy/, the contracted article of *le lit du garçon* /lə li dy ɡaʁsɔ̃/. Its feminine *due* /dy/ and plurals *dus, dues* /dy/ have no accent.
@@ -21,8 +20,6 @@ Conventions: on the [chapter page](../README.md).
 | Tu dois être plus prudent ! | You have to be more careful! | /ty dwa ɛtʁ ply pʁydɑ̃/ |
 
 ## AI section: grammar, phrases, examples, exercises
-
-Mine, not the app’s. The grammar first, in bullets and a conjugation table; then the word in set phrases, my own sentences, the noun that looks the same, and exercises with the answers.
 
 - **Two stems.** The present has *doi-* /dwa/ in the singular and in the third person plural, *je dois, tu dois, il doit, ils doivent* /ʒə dwa, ty dwa, il dwa, il dwav/, and *dev-* /dəv/ with *nous* and *vous*, *nous devons, vous devez* /nu dəvɔ̃, vu dəve/: the stressed stem keeps the /wa/, the unstressed one the /ə/. The three singular forms sound the same, /dwa/. *Recevoir* /ʁəsəvwaʁ/ to receive, *je reçois* /ʒə ʁəswa/, follows the same pattern.
 - **Compound tenses with *avoir*.** *J’ai dû* /ʒe dy/ is both *I had to* and *I must have*: *j’ai dû attendre* /ʒe dy atɑ̃dʁ/ I had to wait, *il a dû oublier* /il a dy ublije/ he must have forgotten.

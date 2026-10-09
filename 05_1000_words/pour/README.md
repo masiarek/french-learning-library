@@ -4,7 +4,6 @@
 
 Conventions: on the [chapter page](../README.md).
 
-- The source is a screenshot of the owner’s vocabulary app: the headword, two definitions, both prepositions, no irregular forms, and one example sentence whose translation was folded away, so it is supplied below. The IPA is Le Robert’s key, from memory. Everything under the AI heading is mine.
 - *pour* /puʁ/: the vowel /u/ and the *r* said, so no liaison and no elision, *pour elle* /puʁ ɛl/, *pour eux* /puʁ ø/. Its pair for the vowel is *pur* /pyʁ/ pure, drilled on the page of *sur*.
 - *For*: the person something is meant for, *c’est pour toi* /sɛ puʁ twa/; a destination, *le train pour Paris* /lə tʁɛ̃ puʁ paʁi/; a duration planned ahead, *pour deux semaines* /puʁ dø səmɛn/. *To*, in order to, before an infinitive: *je travaille pour vivre* /ʒə tʁavaj puʁ vivʁ/ I work to live; and *pour que* /puʁ kə/ with the subjunctive, *pour que tu viennes* /puʁ kə ty vjɛn/ so that you come.
 - After a preposition the pronoun is the stressed form, not *je, tu, il*: *moi, toi, lui, elle, nous, vous, eux, elles* /mwa, twa, lɥi, ɛl, nu, vu, ø, ɛl/. *C’est pour moi* /sɛ puʁ mwa/ it is for me.
@@ -20,8 +19,6 @@ Conventions: on the [chapter page](../README.md).
 | Ce film est pour les enfants. | This film is for children. | /sə film ɛ puʁ lez‿ɑ̃fɑ̃/ |
 
 ## AI section: grammar, phrases, examples, exercises
-
-Mine, not the app’s. The stressed pronouns first, then *pour* with a noun, with an infinitive, against *pendant* and *par*, the set phrases, my own sentences, and exercises with the answers.
 
 - **The stressed pronouns.** *Moi, toi, lui, elle, nous, vous, eux, elles* /mwa, twa, lɥi, ɛl, nu, vu, ø, ɛl/ stand after every preposition, *pour moi, avec toi, chez lui* /puʁ mwa, avɛk twa, ʃe lɥi/, and alone for emphasis, *moi, je dors* /mwa, ʒə dɔʁ/ as for me, I sleep. *Lui* here is *him*, not *to him*, and *eux* is the masculine *them*.
 - **Pour with an infinitive.** The purpose: *il est venu pour te voir* /il ɛ vəny puʁ tə vwaʁ/ he came to see you. Asking the way starts with it: *Pour aller à la gare, s’il vous plaît ?* /puʁ ale a la ɡaʁ, sil vu plɛ/, literally *to go to the station, please?*

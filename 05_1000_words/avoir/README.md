@@ -4,7 +4,6 @@
 
 Conventions: on the [chapter page](../README.md).
 
-- The source is a screenshot of the owner’s vocabulary app: the headword, two definitions, three irregular forms and one example sentence without its translation, which is supplied below. The IPA is Le Robert’s key, from memory. Everything under the AI heading is mine.
 - *avoir* /avwaʁ/: an *-oir* infinitive like *devoir* /dəvwaʁ/, with /waʁ/ at the end. Its forms are short and made of vowels: *ai* /e/, *as, a* /a/, *ont* /ɔ̃/, *eu* /y/. In *eu* the letters *eu* are said /y/ and not /ø/, the one common word where they are, so *j’ai eu* is /ʒe y/.
 - The present, *j’ai, tu as, il a, nous avons, vous avez, ils ont* /ʒe, ty a, il a, nuz‿avɔ̃, vuz‿ave, ilz‿ɔ̃/: the three singular forms have no consonant at all, and *ils ont* /ilz‿ɔ̃/ differs from *ils sont* /il sɔ̃/ by the /z/ of the liaison alone, which is the whole difference between *they have* and *they are*.
 - Two senses, as the app says: to have, to own, *j’ai un chat* /ʒe œ̃ ʃa/; and the auxiliary of most verbs in the compound tenses, *j’ai dormi* /ʒe dɔʁmi/, *j’ai dû* /ʒe dy/, *j’ai été* /ʒe ete/. *Être* takes the verbs of movement and the reflexive verbs instead, as its page says.
@@ -24,8 +23,6 @@ Conventions: on the [chapter page](../README.md).
 | Jules a trois téléphones portables. | Jules has three mobile phones. | /ʒyl a tʁwa telefɔn pɔʁtabl/ |
 
 ## AI section: grammar, phrases, examples, exercises
-
-Mine, not the app’s. The conjugation first, then *avoir* as the auxiliary, the expressions where English says *to be*, *il y a*, the negative, the words that sound alike, my own sentences, and exercises with the answers.
 
 - **One verb, many spellings of the same sound.** *Ai* /e/, *as* and *a* /a/, *ont* /ɔ̃/: the ear hears a vowel and the spelling tells the person. The future and conditional are on the stem *aur-*, *j’aurai, j’aurais* /ʒoʁe, ʒoʁɛ/; the imperfect *j’avais* /ʒavɛ/; the subjunctive *que j’aie, que nous ayons, que vous ayez* /kə ʒɛ, kə nuz‿ɛjɔ̃, kə vuz‿ɛje/; the imperative *aie, ayons, ayez* /ɛ, ɛjɔ̃, ɛje/.
 - **The auxiliary.** *Avoir* in the present and the past participle make the passé composé of most verbs: *j’ai dormi* /ʒe dɔʁmi/ I slept, *il a dû partir* /il a dy paʁtiʁ/ he had to leave, *nous avons été malades* /nuz‿avɔ̃ ete malad/ we were ill. With *avoir* the participle does not agree with the subject. Its own passé composé is *j’ai eu* /ʒe y/ I had.

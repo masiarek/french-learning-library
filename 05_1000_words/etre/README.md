@@ -4,7 +4,6 @@
 
 Conventions: on the [chapter page](../README.md).
 
-- The source is a screenshot of the owner’s vocabulary app: the headword, two definitions, a verb and a masculine noun, three irregular forms and one example sentence. The IPA is Le Robert’s key, from memory. Everything under the AI heading is mine.
 - *être* /ɛtʁ/: one syllable, the open /ɛ/ of the Pronunciation page on that sound, then /tʁ/ with nothing after it, the final *e* silent as in *lettre* /lɛtʁ/ and *quatre* /katʁ/.
 - The most irregular verb and the most used. The present has three stems: *je suis, tu es, il est* /ʒə sɥi, ty ɛ, il ɛ/, where *es* and *est* sound the same; *nous sommes, vous êtes* /nu sɔm, vuz‿ɛt/; *ils sont* /il sɔ̃/, which sounds like *son* /sɔ̃/ his. The app flags *sommes* /sɔm/, *fus* /fy/ and *soyez* /swaje/.
 - *Fus* /fy/ is the passé simple, *je fus, tu fus, il fut* /fy/: the tense of books and history, never of speech. A learner reads it, *il fut un temps* /il fy œ̃ tɑ̃/ there was a time, and does not need to say it. *Soyez* /swaje/ is the *vous* imperative and the *vous* subjunctive: *soyez les bienvenus !* /swaje le bjɛ̃vny/ welcome!, *il faut que vous soyez là* /il fo kə vu swaje la/ you must be there.
@@ -24,8 +23,6 @@ Conventions: on the [chapter page](../README.md).
 | Mère Nature est généreuse. | Mother Nature is generous. | /mɛʁ natyʁ ɛ ʒeneʁøz/ |
 
 ## AI section: grammar, phrases, examples, exercises
-
-Mine, not the app’s. The conjugation first, then *être* as the auxiliary, the places where French says *avoir* instead, the set phrases, my own sentences, and exercises with the answers.
 
 - **Three stems, one verb.** *s-* in *suis, sommes, sont* /sɥi, sɔm, sɔ̃/, *e-* in *es, est, êtes, été* /ɛ, ɛ, ɛt, ete/, *s-* again in the future and conditional, *je serai, je serais* /ʒə səʁe, ʒə səʁɛ/, and the subjunctive *soi-, soy-* /swa, swaj/, *que je sois, que nous soyons* /kə ʒə swa, kə nu swajɔ̃/. The imperfect is *j’étais* /ʒetɛ/.
 - **C’est and il est.** *C’est* /sɛ/ presents a thing or a person with its article, *c’est un livre* /sɛt‿œ̃ livʁ/ it is a book, *c’est Marie* /sɛ maʁi/; *il est* and *elle est* /il ɛ, ɛl ɛ/ describe, with an adjective or a bare noun of profession, *il est grand* /il ɛ ɡʁɑ̃/, *elle est médecin* /ɛl ɛ medsɛ̃/. In the plural *ce sont* /sə sɔ̃/.

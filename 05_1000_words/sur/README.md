@@ -4,7 +4,6 @@
 
 Conventions: on the [chapter page](../README.md).
 
-- The source is a screenshot of the owner’s vocabulary app: the headword, two definitions, both prepositions, no irregular forms, and one example sentence. The IPA is Le Robert’s key, from memory. Everything under the AI heading is mine.
 - *sur* /syʁ/: the vowel is /y/, the French *u* of *tu* /ty/, lips rounded as for /u/ and tongue forward as for /i/; neither Polish nor English has it. Say *sous* /su/ under and *sur* /syʁ/ on one after the other: the lips stay rounded, only the tongue moves forward. The *r* is always said, so there is no liaison and no elision; before a vowel the word simply runs on, *sur une table* /syʁ yn tabl/, *sur internet* /syʁ ɛ̃tɛʁnɛt/.
 - A preposition never changes its form, so all the work is in its uses. On a surface: *sur la table* /syʁ la tabl/. On a medium, where English says *in* or *at*: *sur internet* /syʁ ɛ̃tɛʁnɛt/ on the internet, *sur la photo* /syʁ la fɔto/ in the photo, *sur la page dix* /syʁ la paʒ dis/ on page ten, *la clé est sur la porte* /la kle ɛ syʁ la pɔʁt/ the key is in the door.
 - About: *un livre sur Paris* /œ̃ livʁ syʁ paʁi/ a book about Paris. Out of, in a proportion: *neuf sur dix* /nœf syʁ dis/ nine out of ten, *une fois sur deux* /yn fwa syʁ dø/ every other time.
@@ -19,8 +18,6 @@ Conventions: on the [chapter page](../README.md).
 | Je suis sur internet. | I’m on the internet. | /ʒə sɥi syʁ ɛ̃tɛʁnɛt/ |
 
 ## AI section: grammar, phrases, examples, exercises
-
-Mine, not the app’s. The uses first, grouped, then the set phrases, the neighbours *sous* and *dans* with the vowel pair /y/ and /u/, my own sentences, and exercises with the answers.
 
 - **Sur against dans.** *Sur* is contact with a surface, *dans* is inside: *sur la table* /syʁ la tabl/ on the table, *dans la boîte* /dɑ̃ la bwat/ in the box. English *in* often answers to *sur*: *sur la photo* /syʁ la fɔto/, *sur la carte* /syʁ la kaʁt/ on the map, *sur la route* /syʁ la ʁut/ on the road, *sur mon téléphone* /syʁ mɔ̃ telefɔn/ on my phone.
 - **Sur as about.** With a book, a lesson, a question: *une leçon sur les sons* /yn ləsɔ̃ syʁ le sɔ̃/ a lesson on sounds, *un film sur la guerre* /œ̃ film syʁ la ɡɛʁ/ a film about the war.

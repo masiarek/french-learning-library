@@ -4,7 +4,6 @@
 
 Conventions: on the [chapter page](../README.md).
 
-- The source is a screenshot of the owner’s vocabulary app: the headword, two definitions, an adjective and a masculine noun, no irregular forms flagged, and one example sentence. The IPA is Le Robert’s key, from memory. Everything under the AI heading is mine.
 - *tout* /tu/: the final *t* is silent on its own, said in liaison before a vowel, *tout homme* /tut‿ɔm/, *tout à fait* /tut‿a fɛ/, and written and said in the feminine, *toute* /tut/. The vowel is /u/, the French *ou*; *tu* /ty/ is another vowel and another word.
 - Four spellings, three sounds: *tout* /tu/, *toute* /tut/, *tous* /tu/ or /tus/, *toutes* /tut/. Before a noun with its article the word is a determiner and agrees: *tout le monde* /tu lə mɔ̃d/ everybody, *toute la journée* /tut la ʒuʁne/ all day, *tous les jours* /tu le ʒuʁ/ every day, *toutes les femmes* /tut le fam/ all the women. Here *tous* is /tu/, the *s* silent.
 - Standing alone, as a pronoun, *tous* is /tus/, the *s* said: *ils sont tous là* /il sɔ̃ tus la/ they are all here, *merci à tous* /mɛʁsi a tus/ thank you all. The one rule a learner needs: /tus/ when no noun follows.
@@ -20,8 +19,6 @@ Conventions: on the [chapter page](../README.md).
 | Tout homme est mortel. | Every man is mortal. | /tut‿ɔm ɛ mɔʁtɛl/ |
 
 ## AI section: grammar, phrases, examples, exercises
-
-Mine, not the app’s. The four forms first, then *tous* with and without its *s*, the adverb, the set phrases, my own sentences, and exercises with the answers.
 
 - **Agreement.** As a determiner the word takes the gender and number of the noun: *tout* /tu/ masculine singular, *toute* /tut/ feminine singular, *tous* /tu/ masculine plural, *toutes* /tut/ feminine plural. The feminine adds the /t/; the plural changes only the spelling.
 - **The /s/ of the pronoun.** *Tous* is /tu/ as a determiner, *tous les jours* /tu le ʒuʁ/, and /tus/ as a pronoun, *tous dorment* /tus dɔʁm/ all are sleeping. *Toutes* is /tut/ in both uses. Le Robert gives the two pronunciations; the rule is the grammarians’ and is kept by most speakers.
