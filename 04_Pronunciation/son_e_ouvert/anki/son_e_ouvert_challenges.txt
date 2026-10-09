@@ -1,0 +1,22 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+#tags:french pronunciation soneouvert challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: She is beautiful, but she is very strict.	Elle est belle, mais elle est très sévère. /ɛl ɛ bɛl, mɛ ɛl ɛ tʁɛ sevɛʁ/	say
+Say: My name is Hélène and I love the sea.	Je m’appelle Hélène et j’aime la mer. /ʒə mapɛl elɛn e ʒɛm la mɛʁ/	say
+Say: To be or not to be.	Être ou ne pas être. /ɛtʁ u nə pa ɛtʁ/	say
+Say: My brothers are ready, but not my sisters.	Mes frères sont prêts, mais pas mes sœurs. /me fʁɛʁ sɔ̃ pʁɛ, mɛ pa me sœʁ/	say
+Say: Get up! Raise your hand!	Lève-toi ! Lève la main ! /lɛv twa/ /lɛv la mɛ̃/	say
+The five words of the video, with IPA	est /ɛ/, mais /mɛ/, lève /lɛv/, être /ɛtʁ/, appelle /apɛl/	words
+et or est: which is /e/ and which /ɛ/?	et /e/ (and), est /ɛ/ (is): il est grand et blond /il ɛ ɡʁɑ̃ e blɔ̃/	sound
+mes or mais: which is /e/ and which /ɛ/?	mes /me/ (my), mais /mɛ/ (but); the same pair as les /le/ and le lait /lə lɛ/	sound
+Why appelle /apɛl/ but appelons /aplɔ̃/?	A doubled l closes the syllable and opens the e to /ɛ/; before a single l plus a vowel the e is /ə/ and drops: j’appelle, nous appelons; the same with lève /lɛv/ and levons /ləvɔ̃/	sound
+Which letters make /ɛ/ in lève, être, mais, neige, elle?	è, ê, ai, ei, and e before a consonant that is said (the ll of elle)	sound
+Read the IPA: /lɛ/, /le/, /fɛ/, /fe/	le lait, les, le fait, la fée	sound
+Read aloud, then check: fête, tête, même, rêve	/fɛt/ /tɛt/ /mɛm/ /ʁɛv/	sound
+-et at the end of a word: poulet, jouet, ticket	/pulɛ/, /ʒwɛ/, /tikɛ/: /ɛ/, and the t is silent	sound
+Which has /e/, not /ɛ/: j’ai, j’aime, jamais?	j’ai /ʒe/; j’aime /ʒɛm/ and jamais /ʒamɛ/ have /ɛ/	sound
+Je m’appelle … : the tu, il and nous forms	tu t’appelles /ty tapɛl/, il s’appelle /il sapɛl/, nous nous appelons /nu nuz‿aplɔ̃/	grammar

@@ -1,0 +1,158 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Pronunciation (FR-EN)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+#tags:french pronunciation sonsanon fr-en
+#columns:Front	Back	Tags
+#tags column:3
+Pratiquons ensemble les sons [ã] et [ɔ̃] !<br>/pʁatikɔ̃ ɑ̃sɑ̃bl le sɔ̃ ɑ̃ e ɔ̃/	Let’s practise the sounds /ɑ̃/ and /ɔ̃/ together!	fr-en
+Améliorez votre prononciation française.<br>/ameljɔʁe vɔtʁ pʁɔnɔ̃sjasjɔ̃ fʁɑ̃sɛz/	Improve your French pronunciation.	fr-en
+Pratiquez avec moi les sons [ã] et [ɔ̃] !<br>/pʁatike avɛk mwa le sɔ̃ ɑ̃ e ɔ̃/	Practise the sounds /ɑ̃/ and /ɔ̃/ with me!	fr-en
+Répétez ces mots plusieurs fois de suite !<br>/ʁepete se mo plyzjœʁ fwa də sɥit/	Repeat these words several times in a row!	fr-en
+À très bientôt pour une nouvelle leçon de français !<br>/a tʁɛ bjɛ̃to puʁ yn nuvɛl ləsɔ̃ də fʁɑ̃sɛ/	See you very soon for a new French lesson!	fr-en
+blanc – blond<br>/blɑ̃/ · /blɔ̃/	white – blond	fr-en
+banc – bon<br>/bɑ̃/ · /bɔ̃/	bench – good	fr-en
+lent – long<br>/lɑ̃/ · /lɔ̃/	slow – long	fr-en
+sans – son<br>/sɑ̃/ · /sɔ̃/	without – his, her, its; sound	fr-en
+vent – vont<br>/vɑ̃/ · /vɔ̃/	wind – (they) go	fr-en
+temps – ton<br>/tɑ̃/ · /tɔ̃/	time, weather – your	fr-en
+dent – dont<br>/dɑ̃/ · /dɔ̃/	tooth – whose, of which	fr-en
+rang – rond<br>/ʁɑ̃/ · /ʁɔ̃/	row, rank – round	fr-en
+an – on<br>/ɑ̃/ · /ɔ̃/	year – one, we	fr-en
+franc – front<br>/fʁɑ̃/ · /fʁɔ̃/	frank; a franc – forehead	fr-en
+plan – plomb<br>/plɑ̃/ · /plɔ̃/	plan – lead, the metal	fr-en
+gant – gond<br>/ɡɑ̃/ · /ɡɔ̃/	glove – hinge	fr-en
+tante – tonte<br>/tɑ̃t/ · /tɔ̃t/	aunt – shearing, mowing	fr-en
+pendre – pondre<br>/pɑ̃dʁ/ · /pɔ̃dʁ/	to hang – to lay an egg	fr-en
+tendre – tondre<br>/tɑ̃dʁ/ · /tɔ̃dʁ/	tender; to hold out – to mow, to shear	fr-en
+fendre – fondre<br>/fɑ̃dʁ/ · /fɔ̃dʁ/	to split – to melt	fr-en
+ranger – ronger<br>/ʁɑ̃ʒe/ · /ʁɔ̃ʒe/	to tidy away – to gnaw	fr-en
+dans<br>/dɑ̃/	in	fr-en
+grand<br>/ɡʁɑ̃/	big, tall	fr-en
+l’enfant<br>/lɑ̃fɑ̃/	the child	fr-en
+la chambre<br>/la ʃɑ̃bʁ/	the bedroom	fr-en
+le temps<br>/lə tɑ̃/	the time, the weather	fr-en
+cent<br>/sɑ̃/	a hundred	fr-en
+la France<br>/la fʁɑ̃s/	France	fr-en
+chanter<br>/ʃɑ̃te/	to sing	fr-en
+manger<br>/mɑ̃ʒe/	to eat	fr-en
+le printemps<br>/lə pʁɛ̃tɑ̃/	spring	fr-en
+ensemble<br>/ɑ̃sɑ̃bl/	together	fr-en
+comment<br>/kɔmɑ̃/	how	fr-en
+le vent<br>/lə vɑ̃/	the wind	fr-en
+la lampe<br>/la lɑ̃p/	the lamp	fr-en
+novembre, décembre<br>/nɔvɑ̃bʁ, desɑ̃bʁ/	November, December	fr-en
+maman<br>/mamɑ̃/	mum	fr-en
+pendant<br>/pɑ̃dɑ̃/	during	fr-en
+la jambe<br>/la ʒɑ̃b/	the leg	fr-en
+le champ<br>/lə ʃɑ̃/	the field	fr-en
+le dimanche<br>/lə dimɑ̃ʃ/	Sunday	fr-en
+bon<br>/bɔ̃/	good	fr-en
+non<br>/nɔ̃/	no	fr-en
+le nom<br>/lə nɔ̃/	the name	fr-en
+mon, ton, son<br>/mɔ̃, tɔ̃, sɔ̃/	my, your, his or her	fr-en
+le pont<br>/lə pɔ̃/	the bridge	fr-en
+rond<br>/ʁɔ̃/	round	fr-en
+long<br>/lɔ̃/	long	fr-en
+la maison<br>/la mɛzɔ̃/	the house	fr-en
+le garçon<br>/lə ɡaʁsɔ̃/	the boy	fr-en
+bonjour<br>/bɔ̃ʒuʁ/	hello	fr-en
+le monde<br>/lə mɔ̃d/	the world	fr-en
+onze<br>/ɔ̃z/	eleven	fr-en
+l’oncle<br>/lɔ̃kl/	the uncle	fr-en
+l’ombre<br>/lɔ̃bʁ/	the shade, the shadow	fr-en
+le pompier<br>/lə pɔ̃pje/	the firefighter	fr-en
+tomber<br>/tɔ̃be/	to fall	fr-en
+le nombre<br>/lə nɔ̃bʁ/	the number	fr-en
+compter<br>/kɔ̃te/	to count	fr-en
+la montagne<br>/la mɔ̃taɲ/	the mountain	fr-en
+la réponse<br>/la ʁepɔ̃s/	the answer	fr-en
+la chanson<br>/la ʃɑ̃sɔ̃/	the song	fr-en
+le pantalon<br>/lə pɑ̃talɔ̃/	the trousers	fr-en
+le jambon<br>/lə ʒɑ̃bɔ̃/	the ham	fr-en
+le menton<br>/lə mɑ̃tɔ̃/	the chin	fr-en
+le champignon<br>/lə ʃɑ̃piɲɔ̃/	the mushroom	fr-en
+l’attention<br>/latɑ̃sjɔ̃/	attention	fr-en
+nous chantons<br>/nu ʃɑ̃tɔ̃/	we sing	fr-en
+nous mangeons<br>/nu mɑ̃ʒɔ̃/	we eat	fr-en
+nous commençons<br>/nu kɔmɑ̃sɔ̃/	we begin	fr-en
+nous entendons<br>/nuz‿ɑ̃tɑ̃dɔ̃/	we hear	fr-en
+un bon vin blanc<br>/œ̃ bɔ̃ vɛ̃ blɑ̃/	a good white wine; the four nasal vowels in a row	fr-en
+un grand pain rond<br>/œ̃ ɡʁɑ̃ pɛ̃ ʁɔ̃/	a big round loaf	fr-en
+Mon oncle a un manteau blanc.<br>/mɔ̃n‿ɔ̃kl a œ̃ mɑ̃to blɑ̃/	My uncle has a white coat.	fr-en
+Les enfants chantent une chanson.<br>/lez‿ɑ̃fɑ̃ ʃɑ̃t yn ʃɑ̃sɔ̃/	The children sing a song.	fr-en
+Il y a du vent sur le pont.<br>/il j a dy vɑ̃ syʁ lə pɔ̃/	There is wind on the bridge.	fr-en
+Nous montons dans la chambre.<br>/nu mɔ̃tɔ̃ dɑ̃ la ʃɑ̃bʁ/	We go up to the bedroom.	fr-en
+Ton pantalon est trop long.<br>/tɔ̃ pɑ̃talɔ̃ ɛ tʁo lɔ̃/	Your trousers are too long.	fr-en
+Le garçon blond a onze ans.<br>/lə ɡaʁsɔ̃ blɔ̃ a ɔ̃z ɑ̃/	The blond boy is eleven.	fr-en
+Comment s’appelle ton oncle ?<br>/kɔmɑ̃ sapɛl tɔ̃n‿ɔ̃kl/	What is your uncle’s name?	fr-en
+Pendant le printemps, le temps est bon.<br>/pɑ̃dɑ̃ lə pʁɛ̃tɑ̃, lə tɑ̃ ɛ bɔ̃/	During spring the weather is good.	fr-en
+Le pain est rond et le vin est blanc.<br>/lə pɛ̃ ɛ ʁɔ̃ e lə vɛ̃ ɛ blɑ̃/	The bread is round and the wine is white.	fr-en
+Simon tombe sur le banc.<br>/simɔ̃ tɔ̃b syʁ lə bɑ̃/	Simon falls on the bench.	fr-en
+bon, bonne<br>/bɔ̃, bɔn/	good, masculine and feminine	fr-en
+un an, une année<br>/œ̃n‿ɑ̃, yn ane/	a year, as a count and as a span	fr-en
+Simon, Simone<br>/simɔ̃, simɔn/	Simon, Simone	fr-en
+Jean, Jeanne<br>/ʒɑ̃, ʒan/	John, Jane	fr-en
+le paysan, la paysanne<br>/lə peizɑ̃, la peizan/	the peasant, masculine and feminine	fr-en
+le nom, nommer<br>/lə nɔ̃, nɔme/	the name, to name	fr-en
+un bon ami<br>/œ̃ bɔn‿ami/	a good friend	fr-en
+la femme<br>/la fam/	the woman, the wife	fr-en
+évidemment<br>/evidamɑ̃/	obviously	fr-en
+l’automne<br>/lotɔn/	autumn	fr-en
+monsieur<br>/məsjø/	sir, Mr	fr-en
+l’examen<br>/lɛɡzamɛ̃/	the exam	fr-en
+l’ennemi<br>/lɛnmi/	the enemy	fr-en
+blanc : un vin blanc · une nuit blanche · un chèque en blanc<br>/œ̃ vɛ̃ blɑ̃ · yn nɥi blɑ̃ʃ · œ̃ ʃɛk ɑ̃ blɑ̃/	a white wine · a sleepless night · a blank cheque	fr-en
+blond : les cheveux blonds · une bière blonde · un blond cendré<br>/le ʃəvø blɔ̃ · yn bjɛʁ blɔ̃d · œ̃ blɔ̃ sɑ̃dʁe/	blond hair · a lager · ash blond	fr-en
+bon : bon appétit · bon marché · une bonne idée<br>/bɔn‿apeti · bɔ̃ maʁʃe · yn bɔn ide/	enjoy your meal · cheap · a good idea	fr-en
+le temps : de temps en temps · à temps · Quel temps fait-il ?<br>/də tɑ̃z‿ɑ̃ tɑ̃ · a tɑ̃ · kɛl tɑ̃ fɛtil/	from time to time · in time · What is the weather like?	fr-en
+long : un long voyage · tout le long de la rue · à la longue<br>/œ̃ lɔ̃ vwajaʒ · tu lə lɔ̃ də la ʁy · a la lɔ̃ɡ/	a long journey · all along the street · in the long run	fr-en
+le vent : il fait du vent · un coup de vent · dans le vent<br>/il fɛ dy vɑ̃ · œ̃ ku də vɑ̃ · dɑ̃ lə vɑ̃/	it is windy · a gust of wind · trendy	fr-en
+le pont : le Pont-Neuf · faire le pont · sous les ponts de Paris<br>/lə pɔ̃ nœf · fɛʁ lə pɔ̃ · su le pɔ̃ də paʁi/	the Pont-Neuf · to take a long weekend · under the bridges of Paris	fr-en
+l’enfant : un enfant sage · un jeu d’enfant · attendre un enfant<br>/œ̃n‿ɑ̃fɑ̃ saʒ · œ̃ ʒø dɑ̃fɑ̃ · atɑ̃dʁ œ̃n‿ɑ̃fɑ̃/	a well-behaved child · child’s play · to be expecting a baby	fr-en
+la chanson : une chanson d’amour · une chanson française · C’est toujours la même chanson.<br>/yn ʃɑ̃sɔ̃ damuʁ · yn ʃɑ̃sɔ̃ fʁɑ̃sɛz · sɛ tuʒuʁ la mɛm ʃɑ̃sɔ̃/	a love song · a French song · It is always the same old story.	fr-en
+le nom : le nom de famille · au nom de · un petit nom<br>/lə nɔ̃ də famij · o nɔ̃ də · œ̃ pəti nɔ̃/	the surname · in the name of · a pet name	fr-en
+le monde : tout le monde · le monde entier · Il y a du monde.<br>/tu lə mɔ̃d · lə mɔ̃d ɑ̃tje · il j a dy mɔ̃d/	everyone · the whole world · There are a lot of people.	fr-en
+le temps, le printemps : le printemps arrive · au printemps · le temps passe<br>/lə pʁɛ̃tɑ̃ aʁiv · o pʁɛ̃tɑ̃ · lə tɑ̃ pas/	spring is coming · in spring · time passes	fr-en
+Tout le monde chante ensemble.<br>/tu lə mɔ̃d ʃɑ̃t ɑ̃sɑ̃bl/	Everyone sings together.	fr-en
+Le pompier compte les enfants.<br>/lə pɔ̃pje kɔ̃t lez‿ɑ̃fɑ̃/	The firefighter counts the children.	fr-en
+Mon pantalon blanc est dans la chambre.<br>/mɔ̃ pɑ̃talɔ̃ blɑ̃ ɛ dɑ̃ la ʃɑ̃bʁ/	My white trousers are in the bedroom.	fr-en
+De temps en temps, nous mangeons sous le pont.<br>/də tɑ̃z‿ɑ̃ tɑ̃, nu mɑ̃ʒɔ̃ su lə pɔ̃/	From time to time we eat under the bridge.	fr-en
+Ma tante a cent ans.<br>/ma tɑ̃t a sɑ̃t‿ɑ̃/	My aunt is a hundred years old.	fr-en
+Le vent tombe, le temps est bon.<br>/lə vɑ̃ tɔ̃b, lə tɑ̃ ɛ bɔ̃/	The wind drops, the weather is good.	fr-en
+Attention au vent sur le pont !<br>/atɑ̃sjɔ̃ o vɑ̃ syʁ lə pɔ̃/	Mind the wind on the bridge!	fr-en
+En novembre, l’ombre est longue.<br>/ɑ̃ nɔvɑ̃bʁ, lɔ̃bʁ ɛ lɔ̃ɡ/	In November the shadow is long.	fr-en
+Ils vont au champ avec un grand chien blanc.<br>/il vɔ̃ o ʃɑ̃ avɛk œ̃ ɡʁɑ̃ ʃjɛ̃ blɑ̃/	They go to the field with a big white dog.	fr-en
+Le dimanche, nous entendons les chansons de l’oncle Simon.<br>/lə dimɑ̃ʃ, nuz‿ɑ̃tɑ̃dɔ̃ le ʃɑ̃sɔ̃ də lɔ̃kl simɔ̃/	On Sundays we hear Uncle Simon’s songs.	fr-en
+le ruban<br>/lə ʁybɑ̃/	the ribbon	fr-en
+la langue<br>/la lɑ̃ɡ/	the tongue, the language	fr-en
+la danse<br>/la dɑ̃s/	the dance	fr-en
+lentement<br>/lɑ̃tmɑ̃/	slowly	fr-en
+le marchand<br>/lə maʁʃɑ̃/	the merchant, the shopkeeper	fr-en
+le dentiste<br>/lə dɑ̃tist/	the dentist	fr-en
+le savon<br>/lə savɔ̃/	the soap	fr-en
+le poumon<br>/lə pumɔ̃/	the lung	fr-en
+le citron<br>/lə sitʁɔ̃/	the lemon	fr-en
+le mouton<br>/lə mutɔ̃/	the sheep	fr-en
+le bonbon<br>/lə bɔ̃bɔ̃/	the sweet	fr-en
+l’avion<br>/lavjɔ̃/	the plane	fr-en
+le camion<br>/lə kamjɔ̃/	the lorry	fr-en
+le balcon<br>/lə balkɔ̃/	the balcony	fr-en
+la montre<br>/la mɔ̃tʁ/	the watch	fr-en
+le tronc<br>/lə tʁɔ̃/	the trunk of a tree	fr-en
+Le pain est r________ et le vin est bl________.<br>(AI exercise: fill in the word with the right nasal vowel)	/lə pɛ̃ ɛ [ʁɔ̃] e lə vɛ̃ ɛ [blɑ̃]/<br>The bread is round and the wine is white.	exercise
+Mon ________ a un manteau ________.<br>(AI exercise: fill in the word with the right nasal vowel)	/mɔ̃n‿[ɔ̃kl] a œ̃ mɑ̃to [blɑ̃]/<br>My uncle has a white coat.	exercise
+Il y a du ________ sur le ________.<br>(AI exercise: fill in the word with the right nasal vowel)	/il j a dy [vɑ̃] syʁ lə [pɔ̃]/<br>There is wind on the bridge.	exercise
+Les ________ chantent une ________.<br>(AI exercise: fill in the word with the right nasal vowel)	/lez‿[ɑ̃fɑ̃] ʃɑ̃t yn [ʃɑ̃sɔ̃]/<br>The children sing a song.	exercise
+Le garçon ________ a ________ ans.<br>(AI exercise: fill in the word with the right nasal vowel)	/lə ɡaʁsɔ̃ [blɔ̃] a [ɔ̃z] ɑ̃/<br>The blond boy is eleven.	exercise
+Ma ________ est ________.<br>(AI exercise: fill in the word with the right nasal vowel)	/ma [tɑ̃t] ɛ [lɑ̃t]/<br>My aunt is slow.	exercise
+le melon<br>/lə məlɔ̃/	the melon	fr-en
+le plancher<br>/lə plɑ̃ʃe/	the floor, the floorboards	fr-en
+le bouton<br>/lə butɔ̃/	the button	fr-en
+la tente<br>/la tɑ̃t/	the tent	fr-en
+le talon<br>/lə talɔ̃/	the heel	fr-en
+la tempête<br>/la tɑ̃pɛt/	the storm	fr-en
+le compagnon<br>/lə kɔ̃paɲɔ̃/	the companion	fr-en
+l’ambulance<br>/lɑ̃bylɑ̃s/	the ambulance	fr-en
+le canton<br>/lə kɑ̃tɔ̃/	the canton	fr-en
+la tension<br>/la tɑ̃sjɔ̃/	the tension, the blood pressure	fr-en

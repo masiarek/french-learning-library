@@ -1,0 +1,291 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+is	est<br>/ɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+but	mais<br>/mɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+(he, she) lifts; lift!	lève<br>/lɛv/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+to be	être<br>/ɛtʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+(he, she) calls; call!	appelle<br>/apɛl/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+and – is	et – est<br>/e/ · /ɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+my (plural) – but	mes – mais<br>/me/ · /mɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the (plural) – the milk	les – le lait<br>/le/ · /lə lɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the meadow – near	le pré – près<br>/lə pʁe/ · /pʁɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the fairy – the fact	la fée – le fait<br>/la fe/ · /lə fɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the summer – he was	l’été – il était<br>/lete/ · /il etɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+gone – he was going	allé – il allait<br>/ale/ · /il alɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the die – the canopy	le dé – le dais<br>/lə de/ · /lə dɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the tea – the pillowcase	le thé – la taie<br>/lə te/ · /la tɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the handle; the handful – the wrist	la poignée – le poignet<br>/la pwaɲe/ · /lə pwaɲɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+she	elle<br>/ɛl/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+beautiful	belle<br>/bɛl/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+this, feminine	cette<br>/sɛt/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+with	avec<br>/avɛk/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the salt	le sel<br>/lə sɛl/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the sea	la mer<br>/la mɛʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the earth, the ground	la terre<br>/la tɛʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the glass	le verre<br>/lə vɛʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the winter	l’hiver<br>/livɛʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the chief, the chef	le chef<br>/lə ʃɛf/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the letter	la lettre<br>/la lɛtʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+he throws	il jette<br>/il ʒɛt/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+I call, you call, we call	j’appelle, tu appelles, nous appelons<br>/ʒapɛl, ty apɛl, nuz‿aplɔ̃/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+I lift, we lift	je lève, nous levons<br>/ʒə lɛv, nu ləvɔ̃/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the father, the mother, the brother	le père, la mère, le frère<br>/lə pɛʁ, la mɛʁ, lə fʁɛʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+very	très<br>/tʁɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+after	après<br>/apʁɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the room; the coin; the play	la pièce<br>/la pjɛs/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the cream	la crème<br>/la kʁɛm/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the success	le succès<br>/lə syksɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the party, the feast	la fête<br>/la fɛt/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the head	la tête<br>/la tɛt/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+same; even	même<br>/mɛm/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the dream	le rêve<br>/lə ʁɛv/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the forest	la forêt<br>/la fɔʁɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+ready	prêt<br>/pʁɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the milk	le lait<br>/lə lɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+to do, to make	faire<br>/fɛʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the chair	la chaise<br>/la ʃɛz/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the house	la maison<br>/la mɛzɔ̃/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the week	la semaine<br>/la səmɛn/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+never	jamais<br>/ʒamɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+true	vrai<br>/vʁɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+French, English	français, anglais<br>/fʁɑ̃sɛ, ɑ̃ɡlɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+I love, I like	j’aime<br>/ʒɛm/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the snow	la neige<br>/la nɛʒ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+sixteen, thirteen	seize, treize<br>/sɛz, tʁɛz/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the queen	la reine<br>/la ʁɛn/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the Seine	la Seine<br>/la sɛn/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+beige	beige<br>/bɛʒ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the chicken	le poulet<br>/lə pulɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the toy	le jouet<br>/lə ʒwɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the object	l’objet<br>/lɔbʒɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the ballet	le ballet<br>/lə balɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the ticket	le ticket<br>/lə tikɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the interest	l’intérêt<br>/lɛ̃teʁɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the stop	l’arrêt<br>/laʁɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+She is beautiful, but she is very strict.	Elle est belle, mais elle est très sévère.<br>/ɛl ɛ bɛl, mɛ ɛl ɛ tʁɛ sevɛʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+My name is Hélène and I love the sea.	Je m’appelle Hélène et j’aime la mer.<br>/ʒə mapɛl elɛn e ʒɛm la mɛʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+My father lifts his head.	Mon père lève la tête.<br>/mɔ̃ pɛʁ lɛv la tɛt/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+It is very cold in winter.	Il fait très froid en hiver.<br>/il fɛ tʁɛ fʁwa ɑ̃n‿ivɛʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+The milk is on the chair.	Le lait est sur la chaise.<br>/lə lɛ ɛ syʁ la ʃɛz/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+To be or not to be.	Être ou ne pas être.<br>/ɛtʁ u nə pa ɛtʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+It is my mother’s party.	C’est la fête de ma mère.<br>/sɛ la fɛt də ma mɛʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+My brothers are ready, but not my sisters.	Mes frères sont prêts, mais pas mes sœurs.<br>/me fʁɛʁ sɔ̃ pʁɛ, mɛ pa me sœʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+You call the chef after the snow.	Tu appelles le chef après la neige.<br>/ty apɛl lə ʃɛf apʁɛ la nɛʒ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+It was four in the afternoon and the weather was fine.	Il était seize heures et il faisait beau.<br>/il etɛ sɛz‿œʁ e il fəzɛ bo/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+that’s all · it is time · isn’t it?	est : c’est tout · il est l’heure · n’est-ce pas ?<br>/sɛ tu · il ɛ lœʁ · nɛs pa/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+yes, of course · of course not · honestly!	mais : mais oui · mais non · non mais !<br>/mɛ wi · mɛ nɔ̃ · nɔ̃ mɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+get up · he raises his hand · the sun rises	lève : lève-toi · il lève la main · le soleil se lève<br>/lɛv twa · il lɛv la mɛ̃ · lə sɔlɛj sə lɛv/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+maybe · to be late · to agree	être : peut-être · être en retard · être d’accord<br>/pøtɛtʁ · ɛtʁ ɑ̃ ʁətaʁ · ɛtʁ dakɔʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+my name is · what is that called? · she calls the doctor	appelle : je m’appelle · comment ça s’appelle ? · elle appelle le médecin<br>/ʒə mapɛl · kɔmɑ̃ sa sapɛl · ɛl apɛl lə medsɛ̃/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+My mother is ready, but my father is still dreaming.	Ma mère est prête, mais mon père rêve encore.<br>/ma mɛʁ ɛ pʁɛt, mɛ mɔ̃ pɛʁ ʁɛv ɑ̃kɔʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+This week it is snowing on the forest.	Cette semaine, il neige sur la forêt.<br>/sɛt səmɛn, il nɛʒ syʁ la fɔʁɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+The chicken is on the table, with the salt.	Le poulet est sur la table, avec le sel.<br>/lə pulɛ ɛ syʁ la tabl, avɛk lə sɛl/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+She throws the letter into the sea.	Elle jette la lettre dans la mer.<br>/ɛl ʒɛt la lɛtʁ dɑ̃ la mɛʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+Thirteen, sixteen: the queen’s numbers.	Treize, seize : les chiffres de la reine.<br>/tʁɛz, sɛz : le ʃifʁ də la ʁɛn/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+I do not know if it is true.	Je ne sais pas si c’est vrai.<br>/ʒə nə sɛ pa si sɛ vʁɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+After the party even the chef was tired.	Après la fête, même le chef était fatigué.<br>/apʁɛ la fɛt, mɛm lə ʃɛf etɛ fatiɡe/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+Hélène’s brother is called Pierre.	Le frère d’Hélène s’appelle Pierre.<br>/lə fʁɛʁ delɛn sapɛl pjɛʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the window	la fenêtre<br>/la fənɛtʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the strawberry	la fraise<br>/la fʁɛz/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the lip	la lèvre<br>/la lɛvʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the rule, the ruler	la règle<br>/la ʁɛɡl/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the metre	le mètre<br>/lə mɛtʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the animal, the beast	la bête<br>/la bɛt/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the peach; fishing	la pêche<br>/la pɛʃ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the sorrow, the trouble	la peine<br>/la pɛn/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the wing	l’aile<br>/lɛl/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the wool	la laine<br>/la lɛn/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the dessert	le dessert<br>/lə desɛʁ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the jacket	la veste<br>/la vɛst/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the restaurant	le restaurant<br>/lə ʁɛstoʁɑ̃/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the problem	le problème<br>/lə pʁɔblɛm/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the library	la bibliothèque<br>/la biblijɔtɛk/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the nose	le nez<br>/lə ne/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the coffee	le café<br>/lə kafe/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+at the home of	chez<br>/ʃe/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+to speak	parler<br>/paʁle/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+he was speaking	il parlait<br>/il paʁlɛ/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the foot	le pied<br>/lə pje/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the room	la pièce<br>/la pjɛs/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the school	l’école<br>/lekɔl/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+the pupil	l’élève<br>/lelɛv/	french pronunciation soneouvert en-fr	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA
+Say: She is beautiful, but she is very strict.	Elle est belle, mais elle est très sévère. /ɛl ɛ bɛl, mɛ ɛl ɛ tʁɛ sevɛʁ/	french pronunciation soneouvert challenge say	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+Say: My name is Hélène and I love the sea.	Je m’appelle Hélène et j’aime la mer. /ʒə mapɛl elɛn e ʒɛm la mɛʁ/	french pronunciation soneouvert challenge say	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+Say: To be or not to be.	Être ou ne pas être. /ɛtʁ u nə pa ɛtʁ/	french pronunciation soneouvert challenge say	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+Say: My brothers are ready, but not my sisters.	Mes frères sont prêts, mais pas mes sœurs. /me fʁɛʁ sɔ̃ pʁɛ, mɛ pa me sœʁ/	french pronunciation soneouvert challenge say	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+Say: Get up! Raise your hand!	Lève-toi ! Lève la main ! /lɛv twa/ /lɛv la mɛ̃/	french pronunciation soneouvert challenge say	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+The five words of the video, with IPA	est /ɛ/, mais /mɛ/, lève /lɛv/, être /ɛtʁ/, appelle /apɛl/	french pronunciation soneouvert challenge words	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+et or est: which is /e/ and which /ɛ/?	et /e/ (and), est /ɛ/ (is): il est grand et blond /il ɛ ɡʁɑ̃ e blɔ̃/	french pronunciation soneouvert challenge sound	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+mes or mais: which is /e/ and which /ɛ/?	mes /me/ (my), mais /mɛ/ (but); the same pair as les /le/ and le lait /lə lɛ/	french pronunciation soneouvert challenge sound	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+Why appelle /apɛl/ but appelons /aplɔ̃/?	A doubled l closes the syllable and opens the e to /ɛ/; before a single l plus a vowel the e is /ə/ and drops: j’appelle, nous appelons; the same with lève /lɛv/ and levons /ləvɔ̃/	french pronunciation soneouvert challenge sound	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+Which letters make /ɛ/ in lève, être, mais, neige, elle?	è, ê, ai, ei, and e before a consonant that is said (the ll of elle)	french pronunciation soneouvert challenge sound	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+Read the IPA: /lɛ/, /le/, /fɛ/, /fe/	le lait, les, le fait, la fée	french pronunciation soneouvert challenge sound	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+Read aloud, then check: fête, tête, même, rêve	/fɛt/ /tɛt/ /mɛm/ /ʁɛv/	french pronunciation soneouvert challenge sound	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+-et at the end of a word: poulet, jouet, ticket	/pulɛ/, /ʒwɛ/, /tikɛ/: /ɛ/, and the t is silent	french pronunciation soneouvert challenge sound	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+Which has /e/, not /ɛ/: j’ai, j’aime, jamais?	j’ai /ʒe/; j’aime /ʒɛm/ and jamais /ʒamɛ/ have /ɛ/	french pronunciation soneouvert challenge sound	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+Je m’appelle … : the tu, il and nous forms	tu t’appelles /ty tapɛl/, il s’appelle /il sapɛl/, nous nous appelons /nu nuz‿aplɔ̃/	french pronunciation soneouvert challenge grammar	French::Pronunciation (EN-FR)::Le son [ɛ] — français, anglais, IPA::Challenges
+Let’s practise the sounds /ɑ̃/ and /ɔ̃/ together!	Pratiquons ensemble les sons [ã] et [ɔ̃] !<br>/pʁatikɔ̃ ɑ̃sɑ̃bl le sɔ̃ ɑ̃ e ɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+Improve your French pronunciation.	Améliorez votre prononciation française.<br>/ameljɔʁe vɔtʁ pʁɔnɔ̃sjasjɔ̃ fʁɑ̃sɛz/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+Practise the sounds /ɑ̃/ and /ɔ̃/ with me!	Pratiquez avec moi les sons [ã] et [ɔ̃] !<br>/pʁatike avɛk mwa le sɔ̃ ɑ̃ e ɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+Repeat these words several times in a row!	Répétez ces mots plusieurs fois de suite !<br>/ʁepete se mo plyzjœʁ fwa də sɥit/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+See you very soon for a new French lesson!	À très bientôt pour une nouvelle leçon de français !<br>/a tʁɛ bjɛ̃to puʁ yn nuvɛl ləsɔ̃ də fʁɑ̃sɛ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+white – blond	blanc – blond<br>/blɑ̃/ · /blɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+bench – good	banc – bon<br>/bɑ̃/ · /bɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+slow – long	lent – long<br>/lɑ̃/ · /lɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+without – his, her, its; sound	sans – son<br>/sɑ̃/ · /sɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+wind – (they) go	vent – vont<br>/vɑ̃/ · /vɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+time, weather – your	temps – ton<br>/tɑ̃/ · /tɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+tooth – whose, of which	dent – dont<br>/dɑ̃/ · /dɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+row, rank – round	rang – rond<br>/ʁɑ̃/ · /ʁɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+year – one, we	an – on<br>/ɑ̃/ · /ɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+frank; a franc – forehead	franc – front<br>/fʁɑ̃/ · /fʁɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+plan – lead, the metal	plan – plomb<br>/plɑ̃/ · /plɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+glove – hinge	gant – gond<br>/ɡɑ̃/ · /ɡɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+aunt – shearing, mowing	tante – tonte<br>/tɑ̃t/ · /tɔ̃t/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+to hang – to lay an egg	pendre – pondre<br>/pɑ̃dʁ/ · /pɔ̃dʁ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+tender; to hold out – to mow, to shear	tendre – tondre<br>/tɑ̃dʁ/ · /tɔ̃dʁ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+to split – to melt	fendre – fondre<br>/fɑ̃dʁ/ · /fɔ̃dʁ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+to tidy away – to gnaw	ranger – ronger<br>/ʁɑ̃ʒe/ · /ʁɔ̃ʒe/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+in	dans<br>/dɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+big, tall	grand<br>/ɡʁɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the child	l’enfant<br>/lɑ̃fɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the bedroom	la chambre<br>/la ʃɑ̃bʁ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the time, the weather	le temps<br>/lə tɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+a hundred	cent<br>/sɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+France	la France<br>/la fʁɑ̃s/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+to sing	chanter<br>/ʃɑ̃te/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+to eat	manger<br>/mɑ̃ʒe/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+spring	le printemps<br>/lə pʁɛ̃tɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+together	ensemble<br>/ɑ̃sɑ̃bl/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+how	comment<br>/kɔmɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the wind	le vent<br>/lə vɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the lamp	la lampe<br>/la lɑ̃p/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+November, December	novembre, décembre<br>/nɔvɑ̃bʁ, desɑ̃bʁ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+mum	maman<br>/mamɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+during	pendant<br>/pɑ̃dɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the leg	la jambe<br>/la ʒɑ̃b/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the field	le champ<br>/lə ʃɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+Sunday	le dimanche<br>/lə dimɑ̃ʃ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+good	bon<br>/bɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+no	non<br>/nɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the name	le nom<br>/lə nɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+my, your, his or her	mon, ton, son<br>/mɔ̃, tɔ̃, sɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the bridge	le pont<br>/lə pɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+round	rond<br>/ʁɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+long	long<br>/lɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the house	la maison<br>/la mɛzɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the boy	le garçon<br>/lə ɡaʁsɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+hello	bonjour<br>/bɔ̃ʒuʁ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the world	le monde<br>/lə mɔ̃d/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+eleven	onze<br>/ɔ̃z/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the uncle	l’oncle<br>/lɔ̃kl/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the shade, the shadow	l’ombre<br>/lɔ̃bʁ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the firefighter	le pompier<br>/lə pɔ̃pje/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+to fall	tomber<br>/tɔ̃be/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the number	le nombre<br>/lə nɔ̃bʁ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+to count	compter<br>/kɔ̃te/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the mountain	la montagne<br>/la mɔ̃taɲ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the answer	la réponse<br>/la ʁepɔ̃s/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the song	la chanson<br>/la ʃɑ̃sɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the trousers	le pantalon<br>/lə pɑ̃talɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the ham	le jambon<br>/lə ʒɑ̃bɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the chin	le menton<br>/lə mɑ̃tɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the mushroom	le champignon<br>/lə ʃɑ̃piɲɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+attention	l’attention<br>/latɑ̃sjɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+we sing	nous chantons<br>/nu ʃɑ̃tɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+we eat	nous mangeons<br>/nu mɑ̃ʒɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+we begin	nous commençons<br>/nu kɔmɑ̃sɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+we hear	nous entendons<br>/nuz‿ɑ̃tɑ̃dɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+a good white wine; the four nasal vowels in a row	un bon vin blanc<br>/œ̃ bɔ̃ vɛ̃ blɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+a big round loaf	un grand pain rond<br>/œ̃ ɡʁɑ̃ pɛ̃ ʁɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+My uncle has a white coat.	Mon oncle a un manteau blanc.<br>/mɔ̃n‿ɔ̃kl a œ̃ mɑ̃to blɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+The children sing a song.	Les enfants chantent une chanson.<br>/lez‿ɑ̃fɑ̃ ʃɑ̃t yn ʃɑ̃sɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+There is wind on the bridge.	Il y a du vent sur le pont.<br>/il j a dy vɑ̃ syʁ lə pɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+We go up to the bedroom.	Nous montons dans la chambre.<br>/nu mɔ̃tɔ̃ dɑ̃ la ʃɑ̃bʁ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+Your trousers are too long.	Ton pantalon est trop long.<br>/tɔ̃ pɑ̃talɔ̃ ɛ tʁo lɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+The blond boy is eleven.	Le garçon blond a onze ans.<br>/lə ɡaʁsɔ̃ blɔ̃ a ɔ̃z ɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+What is your uncle’s name?	Comment s’appelle ton oncle ?<br>/kɔmɑ̃ sapɛl tɔ̃n‿ɔ̃kl/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+During spring the weather is good.	Pendant le printemps, le temps est bon.<br>/pɑ̃dɑ̃ lə pʁɛ̃tɑ̃, lə tɑ̃ ɛ bɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+The bread is round and the wine is white.	Le pain est rond et le vin est blanc.<br>/lə pɛ̃ ɛ ʁɔ̃ e lə vɛ̃ ɛ blɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+Simon falls on the bench.	Simon tombe sur le banc.<br>/simɔ̃ tɔ̃b syʁ lə bɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+good, masculine and feminine	bon, bonne<br>/bɔ̃, bɔn/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+a year, as a count and as a span	un an, une année<br>/œ̃n‿ɑ̃, yn ane/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+Simon, Simone	Simon, Simone<br>/simɔ̃, simɔn/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+John, Jane	Jean, Jeanne<br>/ʒɑ̃, ʒan/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the peasant, masculine and feminine	le paysan, la paysanne<br>/lə peizɑ̃, la peizan/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the name, to name	le nom, nommer<br>/lə nɔ̃, nɔme/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+a good friend	un bon ami<br>/œ̃ bɔn‿ami/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the woman, the wife	la femme<br>/la fam/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+obviously	évidemment<br>/evidamɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+autumn	l’automne<br>/lotɔn/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+sir, Mr	monsieur<br>/məsjø/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the exam	l’examen<br>/lɛɡzamɛ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the enemy	l’ennemi<br>/lɛnmi/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+a white wine · a sleepless night · a blank cheque	blanc : un vin blanc · une nuit blanche · un chèque en blanc<br>/œ̃ vɛ̃ blɑ̃ · yn nɥi blɑ̃ʃ · œ̃ ʃɛk ɑ̃ blɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+blond hair · a lager · ash blond	blond : les cheveux blonds · une bière blonde · un blond cendré<br>/le ʃəvø blɔ̃ · yn bjɛʁ blɔ̃d · œ̃ blɔ̃ sɑ̃dʁe/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+enjoy your meal · cheap · a good idea	bon : bon appétit · bon marché · une bonne idée<br>/bɔn‿apeti · bɔ̃ maʁʃe · yn bɔn ide/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+from time to time · in time · What is the weather like?	le temps : de temps en temps · à temps · Quel temps fait-il ?<br>/də tɑ̃z‿ɑ̃ tɑ̃ · a tɑ̃ · kɛl tɑ̃ fɛtil/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+a long journey · all along the street · in the long run	long : un long voyage · tout le long de la rue · à la longue<br>/œ̃ lɔ̃ vwajaʒ · tu lə lɔ̃ də la ʁy · a la lɔ̃ɡ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+it is windy · a gust of wind · trendy	le vent : il fait du vent · un coup de vent · dans le vent<br>/il fɛ dy vɑ̃ · œ̃ ku də vɑ̃ · dɑ̃ lə vɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the Pont-Neuf · to take a long weekend · under the bridges of Paris	le pont : le Pont-Neuf · faire le pont · sous les ponts de Paris<br>/lə pɔ̃ nœf · fɛʁ lə pɔ̃ · su le pɔ̃ də paʁi/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+a well-behaved child · child’s play · to be expecting a baby	l’enfant : un enfant sage · un jeu d’enfant · attendre un enfant<br>/œ̃n‿ɑ̃fɑ̃ saʒ · œ̃ ʒø dɑ̃fɑ̃ · atɑ̃dʁ œ̃n‿ɑ̃fɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+a love song · a French song · It is always the same old story.	la chanson : une chanson d’amour · une chanson française · C’est toujours la même chanson.<br>/yn ʃɑ̃sɔ̃ damuʁ · yn ʃɑ̃sɔ̃ fʁɑ̃sɛz · sɛ tuʒuʁ la mɛm ʃɑ̃sɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the surname · in the name of · a pet name	le nom : le nom de famille · au nom de · un petit nom<br>/lə nɔ̃ də famij · o nɔ̃ də · œ̃ pəti nɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+everyone · the whole world · There are a lot of people.	le monde : tout le monde · le monde entier · Il y a du monde.<br>/tu lə mɔ̃d · lə mɔ̃d ɑ̃tje · il j a dy mɔ̃d/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+spring is coming · in spring · time passes	le temps, le printemps : le printemps arrive · au printemps · le temps passe<br>/lə pʁɛ̃tɑ̃ aʁiv · o pʁɛ̃tɑ̃ · lə tɑ̃ pas/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+Everyone sings together.	Tout le monde chante ensemble.<br>/tu lə mɔ̃d ʃɑ̃t ɑ̃sɑ̃bl/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+The firefighter counts the children.	Le pompier compte les enfants.<br>/lə pɔ̃pje kɔ̃t lez‿ɑ̃fɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+My white trousers are in the bedroom.	Mon pantalon blanc est dans la chambre.<br>/mɔ̃ pɑ̃talɔ̃ blɑ̃ ɛ dɑ̃ la ʃɑ̃bʁ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+From time to time we eat under the bridge.	De temps en temps, nous mangeons sous le pont.<br>/də tɑ̃z‿ɑ̃ tɑ̃, nu mɑ̃ʒɔ̃ su lə pɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+My aunt is a hundred years old.	Ma tante a cent ans.<br>/ma tɑ̃t a sɑ̃t‿ɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+The wind drops, the weather is good.	Le vent tombe, le temps est bon.<br>/lə vɑ̃ tɔ̃b, lə tɑ̃ ɛ bɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+Mind the wind on the bridge!	Attention au vent sur le pont !<br>/atɑ̃sjɔ̃ o vɑ̃ syʁ lə pɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+In November the shadow is long.	En novembre, l’ombre est longue.<br>/ɑ̃ nɔvɑ̃bʁ, lɔ̃bʁ ɛ lɔ̃ɡ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+They go to the field with a big white dog.	Ils vont au champ avec un grand chien blanc.<br>/il vɔ̃ o ʃɑ̃ avɛk œ̃ ɡʁɑ̃ ʃjɛ̃ blɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+On Sundays we hear Uncle Simon’s songs.	Le dimanche, nous entendons les chansons de l’oncle Simon.<br>/lə dimɑ̃ʃ, nuz‿ɑ̃tɑ̃dɔ̃ le ʃɑ̃sɔ̃ də lɔ̃kl simɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the ribbon	le ruban<br>/lə ʁybɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the tongue, the language	la langue<br>/la lɑ̃ɡ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the dance	la danse<br>/la dɑ̃s/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+slowly	lentement<br>/lɑ̃tmɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the merchant, the shopkeeper	le marchand<br>/lə maʁʃɑ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the dentist	le dentiste<br>/lə dɑ̃tist/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the soap	le savon<br>/lə savɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the lung	le poumon<br>/lə pumɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the lemon	le citron<br>/lə sitʁɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the sheep	le mouton<br>/lə mutɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the sweet	le bonbon<br>/lə bɔ̃bɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the plane	l’avion<br>/lavjɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the lorry	le camion<br>/lə kamjɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the balcony	le balcon<br>/lə balkɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the watch	la montre<br>/la mɔ̃tʁ/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the trunk of a tree	le tronc<br>/lə tʁɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the melon	le melon<br>/lə məlɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the floor, the floorboards	le plancher<br>/lə plɑ̃ʃe/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the button	le bouton<br>/lə butɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the tent	la tente<br>/la tɑ̃t/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the heel	le talon<br>/lə talɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the storm	la tempête<br>/la tɑ̃pɛt/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the companion	le compagnon<br>/lə kɔ̃paɲɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the ambulance	l’ambulance<br>/lɑ̃bylɑ̃s/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the canton	le canton<br>/lə kɑ̃tɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+the tension, the blood pressure	la tension<br>/la tɑ̃sjɔ̃/	french pronunciation sonsanon en-fr	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA
+Say: a good white wine	un bon vin blanc /œ̃ bɔ̃ vɛ̃ blɑ̃/ (the four nasal vowels in a row)	french pronunciation sonsanon challenge say	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+Say: a big round loaf	un grand pain rond /œ̃ ɡʁɑ̃ pɛ̃ ʁɔ̃/	french pronunciation sonsanon challenge say	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+Say: My uncle has a white coat.	Mon oncle a un manteau blanc. /mɔ̃n‿ɔ̃kl a œ̃ mɑ̃to blɑ̃/	french pronunciation sonsanon challenge say	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+Say: The blond boy is eleven.	Le garçon blond a onze ans. /lə ɡaʁsɔ̃ blɔ̃ a ɔ̃z ɑ̃/	french pronunciation sonsanon challenge say	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+Say: From time to time we eat under the bridge.	De temps en temps, nous mangeons sous le pont. /də tɑ̃z‿ɑ̃ tɑ̃, nu mɑ̃ʒɔ̃ su lə pɔ̃/	french pronunciation sonsanon challenge say	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+Which spellings give /ɑ̃/, and which /ɔ̃/?	an, am, en, em → /ɑ̃/ (blanc, chambre, enfant, temps); on, om → /ɔ̃/ (bon, nom, ombre); the m spellings come before b and p	french pronunciation sonsanon challenge sound	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+Why is bonne /bɔn/ when bon is /bɔ̃/?	A doubled n or m, or a vowel after, undoes the nasal: bon /bɔ̃/, bonne /bɔn/, un bon ami /œ̃ bɔn‿ami/; the same for an /ɑ̃/ and année /ane/	french pronunciation sonsanon challenge sound	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+Read aloud, then check: blanc, blond, banc, bon	/blɑ̃/ /blɔ̃/ /bɑ̃/ /bɔ̃/	french pronunciation sonsanon challenge sound	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+The other half of the pair: vent (wind)	vont /vɔ̃/ (they go); vent is /vɑ̃/	french pronunciation sonsanon challenge words	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+Read the IPA: /tɑ̃/, /tɔ̃/, /dɑ̃/, /dɔ̃/	temps, ton, dent, dont	french pronunciation sonsanon challenge sound	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+Which of these has no nasal vowel: femme, chambre, jambe?	femme /fam/; chambre /ʃɑ̃bʁ/ and jambe /ʒɑ̃b/ keep it	french pronunciation sonsanon challenge sound	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+How is en read in examen?	/ɛ̃/, an exception: /ɛɡzamɛ̃/; also agenda /aʒɛ̃da/	french pronunciation sonsanon challenge sound	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+Three words with both sounds	chanson /ʃɑ̃sɔ̃/, pantalon /pɑ̃talɔ̃/, jambon /ʒɑ̃bɔ̃/	french pronunciation sonsanon challenge words	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+Anne writes [ã]; what does Le Robert write?	/ɑ̃/, the same sound; Szypowska's book writes ã too, and õ for /ɔ̃/	french pronunciation sonsanon challenge notation	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+Chanter and manger in the nous form, with IPA	nous chantons /nu ʃɑ̃tɔ̃/, nous mangeons /nu mɑ̃ʒɔ̃/: /ɑ̃/ then /ɔ̃/	french pronunciation sonsanon challenge grammar	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges
+The feminine of bon, blanc, long, rond, blond	bonne /bɔn/, blanche /blɑ̃ʃ/, longue /lɔ̃ɡ/, ronde /ʁɔ̃d/, blonde /blɔ̃d/: the nasal stays except in bonne	french pronunciation sonsanon challenge grammar	French::Pronunciation (EN-FR)::Les sons [ɑ̃] et [ɔ̃] — français, anglais, IPA::Challenges

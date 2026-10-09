@@ -106,6 +106,12 @@ NAV_ORDER: dict[str, list[str]] = {
         "lecon_05_dialogue",
         "lecon_06_en_visite",
     ],
+    # The pronunciation videos, one page each, in the order the owner sent them.
+    "04_Pronunciation": [
+        "README.md",
+        "sons_an_on",
+        "son_e_ouvert",
+    ],
 }
 
 
