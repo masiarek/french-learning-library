@@ -1,0 +1,18 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::sur — on, upon, on top of::Challenges
+#tags:french 1000words sur challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: I’m on the internet.	Je suis sur internet. /ʒə sɥi syʁ ɛ̃tɛʁnɛt/	say
+Say: Who is in the photo?	Qui est sur la photo ? /ki ɛ syʁ la fɔto/	say
+Say: Count on me!	Compte sur moi ! /kɔ̃t syʁ mwa/	say
+Say: The window looks onto the street.	La fenêtre donne sur la rue. /la fənɛtʁ dɔn syʁ la ʁy/	say
+Say: Are you sure? Of course!	Tu es sûr ? Bien sûr ! /ty ɛ syʁ, bjɛ̃ syʁ/	say
+Three places where English says in or at and French says sur	sur la photo /syʁ la fɔto/ in the photo, sur internet /syʁ ɛ̃tɛʁnɛt/ on the internet, la clé est sur la porte /la kle ɛ syʁ la pɔʁt/ the key is in the door	grammar
+Nine out of ten, every other day: with sur	neuf sur dix /nœf syʁ dis/, un jour sur deux /œ̃ ʒuʁ syʁ dø/	grammar
+sur and sûr: how do they differ?	Said the same, /syʁ/; sûr with the circumflex is sure (bien sûr), sur without is on; the sentence tells them apart	words
+The opposite of sur, and the neighbour	sous /su/ under, dans /dɑ̃/ in: le chat est sur le lit, le chien est sous la table	words
+Read aloud, then check: sur, sous, tu, tout, pur, pour	/syʁ/ /su/ /ty/ /tu/ /pyʁ/ /puʁ/: the pair /y/ and /u/	sound
+How is /y/ made?	Lips rounded as for /u/, tongue forward as for /i/; say sous /su/ then sur /syʁ/ keeping the lips still	sound

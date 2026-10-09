@@ -1,0 +1,64 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::venir — to come
+#tags:french 1000words venir fr-en
+#columns:Front	Back	Tags
+#tags column:3
+venir<br>/vəniʁ/	(v.) to come	fr-en
+viens<br>/vjɛ̃/	(I, you) come: the je and tu form, irregular	fr-en
+vienne<br>/vjɛn/	(that I) come: the subjunctive, irregular	fr-en
+Venez immédiatement !<br>/vəne imedjatmɑ̃/	Come here immediately!	fr-en
+je viens<br>/ʒə vjɛ̃/	I come, I am coming	fr-en
+tu viens<br>/ty vjɛ̃/	you come	fr-en
+il vient, elle vient<br>/il vjɛ̃, ɛl vjɛ̃/	he comes, she comes	fr-en
+nous venons<br>/nu vənɔ̃/	we come	fr-en
+vous venez<br>/vu vəne/	you come (plural, or polite)	fr-en
+ils viennent, elles viennent<br>/il vjɛn, ɛl vjɛn/	they come	fr-en
+je suis venu, je suis venue<br>/ʒə sɥi vəny/	I came (masculine, feminine)	fr-en
+je venais<br>/ʒə vənɛ/	I was coming, I used to come	fr-en
+je viendrai<br>/ʒə vjɛ̃dʁe/	I will come	fr-en
+je viendrais<br>/ʒə vjɛ̃dʁɛ/	I would come	fr-en
+que je vienne, que nous venions<br>/kə ʒə vjɛn, kə nu vənjɔ̃/	that I come, that we come (subjunctive)	fr-en
+Viens ! Venons ! Venez !<br>/vjɛ̃, vənɔ̃, vəne/	Come! Let’s come! Come! (imperative)	fr-en
+Je viens de manger.<br>/ʒə vjɛ̃ də mɑ̃ʒe/	I have just eaten.	fr-en
+Il vient de partir.<br>/il vjɛ̃ də paʁtiʁ/	He has just left.	fr-en
+Nous venons d’arriver.<br>/nu vənɔ̃ daʁive/	We have just arrived.	fr-en
+Elle venait de se réveiller.<br>/ɛl vənɛ də sə ʁeveje/	She had just woken up.	fr-en
+Je viens de Pologne.<br>/ʒə vjɛ̃ də pɔlɔɲ/	I come from Poland.	fr-en
+Il vient de Paris.<br>/il vjɛ̃ də paʁi/	He is from Paris.	fr-en
+Elle vient du Canada.<br>/ɛl vjɛ̃ dy kanada/	She is from Canada.	fr-en
+Nous venons des États-Unis.<br>/nu vənɔ̃ dez‿etazyni/	We are from the United States.	fr-en
+venir voir quelqu’un<br>/vəniʁ vwaʁ kɛlkœ̃/	to come and see someone	fr-en
+venir chercher<br>/vəniʁ ʃɛʁʃe/	to come and get, to pick up	fr-en
+faire venir<br>/fɛʁ vəniʁ/	to send for	fr-en
+Viens ici !<br>/vjɛ̃ isi/	Come here!	fr-en
+Ça vient ?<br>/sa vjɛ̃/	Is it coming? Hurry up!	fr-en
+les années à venir<br>/lez‿ane a vəniʁ/	the years to come	fr-en
+Où veux-tu en venir ?<br>/u vø ty ɑ̃ vəniʁ/	What are you getting at?	fr-en
+tenir, je tiens, nous tenons<br>/təniʁ, ʒə tjɛ̃, nu tənɔ̃/	to hold, I hold, we hold	fr-en
+devenir, je deviens<br>/dəvniʁ, ʒə dəvjɛ̃/	to become, I become	fr-en
+revenir, je reviens<br>/ʁəvniʁ, ʒə ʁəvjɛ̃/	to come back, I come back	fr-en
+se souvenir, je me souviens<br>/sə suvniʁ, ʒə mə suvjɛ̃/	to remember, I remember	fr-en
+prévenir, je préviens<br>/pʁevniʁ, ʒə pʁevjɛ̃/	to warn, I warn	fr-en
+l’avenir<br>/lavniʁ/	the future	fr-en
+Bienvenue !<br>/bjɛ̃vny/	Welcome!	fr-en
+Je viens tout de suite.<br>/ʒə vjɛ̃ tu də sɥit/	I am coming right away.	fr-en
+Tu viens avec nous ?<br>/ty vjɛ̃ avɛk nu/	Are you coming with us?	fr-en
+Il vient à Varsovie tous les ans.<br>/il vjɛ̃ a vaʁsɔvi tu lez‿ɑ̃/	He comes to Warsaw every year.	fr-en
+Nous venons de finir la leçon.<br>/nu vənɔ̃ də finiʁ la ləsɔ̃/	We have just finished the lesson.	fr-en
+Vous venez d’où ?<br>/vu vəne du/	Where are you from?	fr-en
+Mes amis viennent dîner ce soir.<br>/mez‿ami vjɛn dine sə swaʁ/	My friends are coming to dinner tonight.	fr-en
+Elle est venue me voir hier.<br>/ɛl ɛ vəny mə vwaʁ jɛʁ/	She came to see me yesterday.	fr-en
+Je viendrai dormir chez toi.<br>/ʒə vjɛ̃dʁe dɔʁmiʁ ʃe twa/	I will come and sleep at your place.	fr-en
+Il faut que tu viennes immédiatement.<br>/il fo kə ty vjɛn imedjatmɑ̃/	You must come immediately.	fr-en
+Viens, on va dormir.<br>/vjɛ̃, ɔ̃ va dɔʁmiʁ/	Come on, we are going to sleep.	fr-en
+Je ________ de Pologne.<br>(AI exercise: fill in the form of venir)	/ʒə [vjɛ̃] də pɔlɔɲ/<br>I come from Poland.	exercise
+Nous ________ de manger.<br>(AI exercise: fill in the form of venir)	/nu [vənɔ̃] də mɑ̃ʒe/<br>We have just eaten.	exercise
+Ils ________ demain.<br>(AI exercise: fill in the form of venir)	/il [vjɛn] dəmɛ̃/<br>They are coming tomorrow.	exercise
+________ ici !<br>(AI exercise: fill in the form of venir)	/[vjɛ̃] isi/<br>Come here! (to a friend)	exercise
+Il faut que tu ________.<br>(AI exercise: fill in the form of venir)	/il fo kə ty [vjɛn]/<br>You must come.	exercise
+Elle est ________ hier.<br>(AI exercise: fill in the form of venir)	/ɛl ɛ [vəny] jɛʁ/<br>She came yesterday.	exercise
+il vient<br>/il vjɛ̃/	he comes: the nasal alone	fr-en
+ils viennent<br>/il vjɛn/	they come: the n is said	fr-en
+que tu viennes<br>/kə ty vjɛn/	that you come	fr-en

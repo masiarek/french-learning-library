@@ -1,0 +1,47 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::devoir — must, to have to; to owe
+#tags:french 1000words devoir en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(v.) must, to have to, should; to owe	devoir<br>/dəvwaʁ/	en-fr
+(I, you) must, have to; owe: the je and tu form, irregular	dois<br>/dwa/	en-fr
+had to; owed: the past participle, irregular	dû<br>/dy/	en-fr
+You have to be more careful!	Tu dois être plus prudent !<br>/ty dwa ɛtʁ ply pʁydɑ̃/	en-fr
+I must, I have to; I owe	je dois<br>/ʒə dwa/	en-fr
+you must	tu dois<br>/ty dwa/	en-fr
+he must, she must, one must	il doit, elle doit, on doit<br>/il dwa, ɛl dwa, ɔ̃ dwa/	en-fr
+we must	nous devons<br>/nu dəvɔ̃/	en-fr
+you must (plural, or polite)	vous devez<br>/vu dəve/	en-fr
+they must	ils doivent, elles doivent<br>/il dwav, ɛl dwav/	en-fr
+I had to; I must have	j’ai dû<br>/ʒe dy/	en-fr
+I had to, I was supposed to (imperfect)	je devais<br>/ʒə dəvɛ/	en-fr
+I will have to	je devrai<br>/ʒə dəvʁe/	en-fr
+I should, I ought to	je devrais<br>/ʒə dəvʁɛ/	en-fr
+I should have	j’aurais dû<br>/ʒoʁɛ dy/	en-fr
+that I must, that we must (subjunctive)	que je doive, que nous devions<br>/kə ʒə dwav, kə nu dəvjɔ̃/	en-fr
+to have to do something	devoir faire quelque chose<br>/dəvwaʁ fɛʁ kɛlkə ʃoz/	en-fr
+It must be …	Ça doit être …<br>/sa dwa ɛtʁ/	en-fr
+There must be …	Il doit y avoir …<br>/il dwa i avwaʁ/	en-fr
+How much do I owe you?	Combien je vous dois ?<br>/kɔ̃bjɛ̃ ʒə vu dwa/	en-fr
+I owe you an explanation.	Je vous dois une explication.<br>/ʒə vu dwa yn‿ɛksplikasjɔ̃/	en-fr
+as is proper	comme il se doit<br>/kɔm il sə dwa/	en-fr
+the duty; the homework	le devoir, les devoirs<br>/lə dəvwaʁ, le dəvwaʁ/	en-fr
+to do one’s homework	faire ses devoirs<br>/fɛʁ se dəvwaʁ/	en-fr
+I have to leave now.	Je dois partir maintenant.<br>/ʒə dwa paʁtiʁ mɛ̃tnɑ̃/	en-fr
+You have to learn a thousand words.	Tu dois apprendre mille mots.<br>/ty dwa apʁɑ̃dʁ mil mo/	en-fr
+He must be tired.	Il doit être fatigué.<br>/il dwa ɛtʁ fatiɡe/	en-fr
+We have to speak French.	Nous devons parler français.<br>/nu dəvɔ̃ paʁle fʁɑ̃sɛ/	en-fr
+You must answer in French.	Vous devez répondre en français.<br>/vu dəve ʁepɔ̃dʁ ɑ̃ fʁɑ̃sɛ/	en-fr
+They have to work tomorrow.	Ils doivent travailler demain.<br>/il dwav tʁavaje dəmɛ̃/	en-fr
+I owe you ten euros.	Je te dois dix euros.<br>/ʒə tə dwa diz‿øʁo/	en-fr
+She owes him her life.	Elle lui doit la vie.<br>/ɛl lɥi dwa la vi/	en-fr
+I had to wait an hour.	J’ai dû attendre une heure.<br>/ʒe dy atɑ̃dʁ yn œʁ/	en-fr
+You should sleep.	Tu devrais dormir.<br>/ty dəvʁɛ dɔʁmiʁ/	en-fr
+He was supposed to come, but he is ill.	Il devait venir, mais il est malade.<br>/il dəvɛ vəniʁ, mɛ il ɛ malad/	en-fr
+You should have told me.	Tu aurais dû me le dire.<br>/ty oʁɛ dy mə lə diʁ/	en-fr
+I owe Marie ten euros: owe.	Je dois dix euros à Marie.<br>/ʒə dwa diz‿øʁo a maʁi/	en-fr
+I have to go to sleep: must.	Je dois aller dormir.<br>/ʒə dwa ale dɔʁmiʁ/	en-fr
+It must be noon: must, a probability.	Il doit être midi.<br>/il dwa ɛtʁ midi/	en-fr
+We owe him a lot: owe.	On lui doit beaucoup.<br>/ɔ̃ lɥi dwa boku/	en-fr

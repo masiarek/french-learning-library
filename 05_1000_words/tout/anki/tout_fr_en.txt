@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::tout — all, every; the whole
+#tags:french 1000words tout fr-en
+#columns:Front	Back	Tags
+#tags column:3
+tout<br>/tu/	(adj.) all, every; (n.m.) whole, entirety, total	fr-en
+Tout homme est mortel.<br>/tut‿ɔm ɛ mɔʁtɛl/	Every man is mortal.	fr-en
+tout le monde<br>/tu lə mɔ̃d/	everybody	fr-en
+tout le temps<br>/tu lə tɑ̃/	all the time	fr-en
+toute la journée<br>/tut la ʒuʁne/	all day long	fr-en
+toute la nuit<br>/tut la nɥi/	all night	fr-en
+tous les jours<br>/tu le ʒuʁ/	every day	fr-en
+tous mes amis<br>/tu mez‿ami/	all my friends	fr-en
+toutes les femmes<br>/tut le fam/	all the women	fr-en
+toutes les deux heures<br>/tut le døz‿œʁ/	every two hours	fr-en
+tous les deux<br>/tu le dø/	both	fr-en
+Ils sont tous là.<br>/il sɔ̃ tus la/	They are all here.	fr-en
+Merci à tous !<br>/mɛʁsi a tus/	Thank you all!	fr-en
+Nous sommes tous d’accord.<br>/nu sɔm tus dakɔʁ/	We all agree.	fr-en
+tout petit<br>/tu pəti/	very small	fr-en
+tout près<br>/tu pʁɛ/	very near	fr-en
+tout seul, toute seule<br>/tu sœl, tut sœl/	all alone (masculine, feminine)	fr-en
+tout droit<br>/tu dʁwa/	straight ahead	fr-en
+tout doucement<br>/tu dusmɑ̃/	very gently	fr-en
+C’est tout.<br>/sɛ tu/	That’s all.	fr-en
+pas du tout<br>/pa dy tu/	not at all	fr-en
+tout à fait<br>/tut‿a fɛ/	quite, exactly	fr-en
+tout de suite<br>/tu də sɥit/	right away	fr-en
+tout à l’heure<br>/tut‿a lœʁ/	a moment ago; in a moment	fr-en
+tout à coup<br>/tut‿a ku/	suddenly	fr-en
+en tout cas<br>/ɑ̃ tu ka/	in any case	fr-en
+après tout<br>/apʁɛ tu/	after all	fr-en
+malgré tout<br>/malɡʁe tu/	in spite of everything	fr-en
+Tout va bien.<br>/tu va bjɛ̃/	Everything is fine.	fr-en
+le tout<br>/lə tu/	the whole, the lot	fr-en
+Tout est prêt.<br>/tut‿ɛ pʁɛ/	Everything is ready.	fr-en
+Tous mes amis dorment.<br>/tu mez‿ami dɔʁm/	All my friends are sleeping.	fr-en
+Je travaille toute la journée.<br>/ʒə tʁavaj tut la ʒuʁne/	I work all day.	fr-en
+Elle a tout compris.<br>/ɛl a tu kɔ̃pʁi/	She understood everything.	fr-en
+Tout le monde doit dormir.<br>/tu lə mɔ̃d dwa dɔʁmiʁ/	Everybody has to sleep.	fr-en
+Nous venons tous les jours.<br>/nu vənɔ̃ tu le ʒuʁ/	We come every day.	fr-en
+Ils sont tous sur internet.<br>/il sɔ̃ tus syʁ ɛ̃tɛʁnɛt/	They are all on the internet.	fr-en
+Toutes les chambres sont prêtes.<br>/tut le ʃɑ̃bʁ sɔ̃ pʁɛt/	All the rooms are ready.	fr-en
+Il est tout petit.<br>/il ɛ tu pəti/	He is very small.	fr-en
+Elle est toute seule.<br>/ɛl ɛ tut sœl/	She is all alone.	fr-en
+C’est tout pour aujourd’hui.<br>/sɛ tu puʁ oʒuʁdɥi/	That’s all for today.	fr-en
+________ le monde est là.<br>(AI exercise: tout, toute, tous or toutes?)	/[tu] lə mɔ̃d ɛ la/<br>Everybody is here.	exercise
+________ la famille dort.<br>(AI exercise: tout, toute, tous or toutes?)	/[tut] la famij dɔʁ/<br>The whole family is sleeping.	exercise
+________ les jours, je lis.<br>(AI exercise: tout, toute, tous or toutes?)	/[tu] le ʒuʁ, ʒə li/<br>Every day I read.	exercise
+________ les filles sont venues.<br>(AI exercise: tout, toute, tous or toutes?)	/[tut] le fij sɔ̃ vəny/<br>All the girls came.	exercise
+Ils sont ________ là.<br>(AI exercise: tout, toute, tous or toutes?)	/il sɔ̃ [tus] la/<br>They are all here.	exercise
+Elle est ________ seule.<br>(AI exercise: tout, toute, tous or toutes?)	/ɛl ɛ [tut] sœl/<br>She is all alone.	exercise
+tous les soirs<br>/tu le swaʁ/	every evening	fr-en
+Bonsoir à tous !<br>/bɔ̃swaʁ a tus/	Good evening, everyone!	fr-en
+tous les enfants<br>/tu lez‿ɑ̃fɑ̃/	all the children	fr-en
+Ils dorment tous.<br>/il dɔʁm tus/	They are all sleeping.	fr-en

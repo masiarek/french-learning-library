@@ -1,0 +1,72 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::être — to be; a being
+#tags:french 1000words etre fr-en
+#columns:Front	Back	Tags
+#tags column:3
+être<br>/ɛtʁ/	(v.) to be; (n.m.) being, creature	fr-en
+sommes<br>/sɔm/	(we) are: the nous form, irregular	fr-en
+fus<br>/fy/	(I, you) was, were: the passé simple, irregular	fr-en
+soyez<br>/swaje/	be! (to several people); (that you) be: the imperative and the subjunctive, irregular	fr-en
+Mère Nature est généreuse.<br>/mɛʁ natyʁ ɛ ʒeneʁøz/	Mother Nature is generous.	fr-en
+je suis<br>/ʒə sɥi/	I am	fr-en
+tu es<br>/ty ɛ/	you are	fr-en
+il est, elle est, c’est<br>/il ɛ, ɛl ɛ, sɛ/	he is, she is, it is	fr-en
+nous sommes<br>/nu sɔm/	we are	fr-en
+vous êtes<br>/vuz‿ɛt/	you are (plural, or polite)	fr-en
+ils sont, elles sont, ce sont<br>/il sɔ̃, ɛl sɔ̃, sə sɔ̃/	they are	fr-en
+j’ai été<br>/ʒe ete/	I was, I have been	fr-en
+j’étais<br>/ʒetɛ/	I was (imperfect)	fr-en
+je serai<br>/ʒə səʁe/	I will be	fr-en
+je serais<br>/ʒə səʁɛ/	I would be	fr-en
+que je sois, que nous soyons, que vous soyez<br>/kə ʒə swa, kə nu swajɔ̃, kə vu swaje/	that I be, that we be, that you be (subjunctive)	fr-en
+Sois ! Soyons ! Soyez !<br>/swa, swajɔ̃, swaje/	Be! Let’s be! Be! (imperative)	fr-en
+je fus, il fut<br>/ʒə fy, il fy/	I was, he was (passé simple, in books)	fr-en
+Je suis allé à Paris.<br>/ʒə sɥi(z)‿ale a paʁi/	I went to Paris.	fr-en
+Elle est venue hier.<br>/ɛl ɛ vəny jɛʁ/	She came yesterday.	fr-en
+Ils sont partis tôt.<br>/il sɔ̃ paʁti to/	They left early.	fr-en
+Je me suis levé à sept heures.<br>/ʒə mə sɥi ləve a sɛt‿œʁ/	I got up at seven.	fr-en
+J’ai faim. J’ai soif.<br>/ʒe fɛ̃, ʒe swaf/	I am hungry. I am thirsty.	fr-en
+J’ai froid. J’ai chaud.<br>/ʒe fʁwa, ʒe ʃo/	I am cold. I am hot.	fr-en
+J’ai vingt ans.<br>/ʒe vɛ̃t‿ɑ̃/	I am twenty.	fr-en
+J’ai raison. Tu as tort.<br>/ʒe ʁɛzɔ̃, ty a tɔʁ/	I am right. You are wrong.	fr-en
+J’ai sommeil.<br>/ʒe sɔmɛj/	I am sleepy.	fr-en
+être en train de<br>/ɛtʁ ɑ̃ tʁɛ̃ də/	to be in the middle of (doing)	fr-en
+être d’accord<br>/ɛtʁ dakɔʁ/	to agree	fr-en
+être en retard, être à l’heure<br>/ɛtʁ ɑ̃ ʁətaʁ, ɛtʁ a lœʁ/	to be late, to be on time	fr-en
+être sur le point de<br>/ɛtʁ syʁ lə pwɛ̃ də/	to be about to	fr-en
+C’est ça.<br>/sɛ sa/	That’s it.	fr-en
+N’est-ce pas ?<br>/nɛs pa/	Isn’t it?	fr-en
+Qu’est-ce que c’est ?<br>/kɛs kə sɛ/	What is it?	fr-en
+peut-être<br>/pøtɛtʁ/	maybe	fr-en
+un être humain<br>/œ̃n‿ɛtʁ ymɛ̃/	a human being	fr-en
+un être cher<br>/œ̃n‿ɛtʁ ʃɛʁ/	a loved one	fr-en
+le bien-être<br>/lə bjɛ̃nɛtʁ/	well-being	fr-en
+Je suis polonais.<br>/ʒə sɥi pɔlɔnɛ/	I am Polish.	fr-en
+Tu es prêt ?<br>/ty ɛ pʁɛ/	Are you ready?	fr-en
+Il est médecin.<br>/il ɛ medsɛ̃/	He is a doctor.	fr-en
+Nous sommes à Paris.<br>/nu sɔm a paʁi/	We are in Paris.	fr-en
+Vous êtes très gentils.<br>/vuz‿ɛt tʁɛ ʒɑ̃ti/	You are very kind.	fr-en
+Elles sont fatiguées.<br>/ɛl sɔ̃ fatiɡe/	They are tired.	fr-en
+C’est tout.<br>/sɛ tu/	That’s all.	fr-en
+Je suis sur internet.<br>/ʒə sɥi syʁ ɛ̃tɛʁnɛt/	I am on the internet.	fr-en
+Il est tard, je dois être au lit.<br>/il ɛ taʁ, ʒə dwa ɛtʁ o li/	It is late, I must be in bed.	fr-en
+J’ai été malade toute la semaine.<br>/ʒe ete malad tut la səmɛn/	I was ill all week.	fr-en
+Sois sage !<br>/swa saʒ/	Be good!	fr-en
+Soyez les bienvenus !<br>/swaje le bjɛ̃vny/	Welcome! (to several people)	fr-en
+Il faut que tu sois à l’heure.<br>/il fo kə ty swa a lœʁ/	You must be on time.	fr-en
+Tous les hommes sont mortels.<br>/tu lez‿ɔm sɔ̃ mɔʁtɛl/	All men are mortal.	fr-en
+Je ________ polonais.<br>(AI exercise: fill in the form of être)	/ʒə [sɥi] pɔlɔnɛ/<br>I am Polish.	exercise
+Tu ________ prêt ?<br>(AI exercise: fill in the form of être)	/ty [ɛ] pʁɛ/<br>Are you ready?	exercise
+Nous ________ à Paris.<br>(AI exercise: fill in the form of être)	/nu [sɔm] a paʁi/<br>We are in Paris.	exercise
+Vous ________ très gentils.<br>(AI exercise: fill in the form of être)	/vuz‿[ɛt] tʁɛ ʒɑ̃ti/<br>You are very kind.	exercise
+Ils ________ fatigués.<br>(AI exercise: fill in the form of être)	/il [sɔ̃] fatiɡe/<br>They are tired.	exercise
+Hier, j’________ malade.<br>(AI exercise: fill in the form of être)	/jɛʁ, ʒ[etɛ] malad/<br>Yesterday I was ill.	exercise
+________ sage !<br>(AI exercise: fill in the form of être)	/[swa] saʒ/<br>Be good!	exercise
+Il faut que vous ________ là.<br>(AI exercise: fill in the form of être)	/il fo kə vu [swaje] la/<br>You must be there.	exercise
+J’________ faim.<br>(AI exercise: être or avoir?)	/ʒ[e] fɛ̃/<br>I am hungry.	exercise
+Je ________ fatigué.<br>(AI exercise: être or avoir?)	/ʒə [sɥi] fatiɡe/<br>I am tired.	exercise
+Il ________ vingt ans.<br>(AI exercise: être or avoir?)	/il [a] vɛ̃t‿ɑ̃/<br>He is twenty.	exercise
+Elle ________ médecin.<br>(AI exercise: être or avoir?)	/ɛl [ɛ] medsɛ̃/<br>She is a doctor.	exercise
+Nous ________ froid.<br>(AI exercise: être or avoir?)	/nuz‿[avɔ̃] fʁwa/<br>We are cold.	exercise

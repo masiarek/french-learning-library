@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges
+#tags:french 1000words aller challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: I have to go to sleep.	Je dois aller dormir. /ʒə dwa ale dɔʁmiʁ/	say
+Say: How are you? (polite)	Comment allez-vous ? /kɔmɑ̃t‿ale vu/	say
+Say: I am well, thank you.	Je vais bien, merci. /ʒə vɛ bjɛ̃, mɛʁsi/	say
+Say: We are going to leave tomorrow.	Nous allons partir demain. /nuz‿alɔ̃ paʁtiʁ dəmɛ̃/	say
+Say: Go on! Let’s go!	Vas-y ! Allons-y ! /vazi, alɔ̃zi/	say
+The present of aller, all six forms	je vais, tu vas, il va, nous allons, vous allez, ils vont /ʒə vɛ, ty va, il va, nuz‿alɔ̃, vuz‿ale, il vɔ̃/	grammar
+The three irregular forms the app flags, and what they are	vais /vɛ/ the je present, irai /iʁe/ the future, aille /aj/ the subjunctive: three Latin verbs in one	grammar
+Which auxiliary does aller take, and what follows?	Être, and the participle agrees: je suis allé, elle est allée, ils sont allés /ʒə sɥi(z)‿ale, ɛl ɛ(t)‿ale, il sɔ̃(t)‿ale/, all alike to the ear	grammar
+The near future: how is it built?	Aller in the present plus an infinitive: je vais manger /ʒə vɛ mɑ̃ʒe/ I am going to eat; its mirror is venir de, the recent past	grammar
+Why vas-y with an s, when the imperative is va?	The s comes back before y for the liaison: vas-y /vazi/; alone it is va /va/	grammar
+I am well: être or aller?	Aller: je vais bien /ʒə vɛ bjɛ̃/; être is for places and qualities, je suis à Paris, je suis prêt	grammar
+Four third-person plurals in -ont	ils vont, ils sont, ils ont, ils font /vɔ̃, sɔ̃, ɔ̃, fɔ̃/	words

@@ -1,0 +1,61 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(prep.) on, upon; on top of	sur<br>/syʁ/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+I’m on the internet.	Je suis sur internet.<br>/ʒə sɥi syʁ ɛ̃tɛʁnɛt/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+on the table	sur la table<br>/syʁ la tabl/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+on the bed	sur le lit<br>/syʁ lə li/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+on the wall	sur le mur<br>/syʁ lə myʁ/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+on the road	sur la route<br>/syʁ la ʁut/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+on the beach	sur la plage<br>/syʁ la plaʒ/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+on the internet	sur internet<br>/syʁ ɛ̃tɛʁnɛt/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+in the photo	sur la photo<br>/syʁ la fɔto/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+on the map	sur la carte<br>/syʁ la kaʁt/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+on page ten	sur la page dix<br>/syʁ la paʒ dis/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+on my phone	sur mon téléphone<br>/syʁ mɔ̃ telefɔn/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+The key is in the door.	La clé est sur la porte.<br>/la kle ɛ syʁ la pɔʁt/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+a book about Paris	un livre sur Paris<br>/œ̃ livʁ syʁ paʁi/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+a lesson on sounds	une leçon sur les sons<br>/yn ləsɔ̃ syʁ le sɔ̃/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+nine out of ten	neuf sur dix<br>/nœf syʁ dis/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+every other time, one time in two	une fois sur deux<br>/yn fwa syʁ dø/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+every other day	un jour sur deux<br>/œ̃ ʒuʁ syʁ dø/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+of course	bien sûr<br>/bjɛ̃ syʁ/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+on the spot, on site	sur place<br>/syʁ plas/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+about to	sur le point de<br>/syʁ lə pwɛ̃ də/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+made to measure	sur mesure<br>/syʁ məzyʁ/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+at once	sur-le-champ<br>/syʁ lə ʃɑ̃/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+to count on someone	compter sur quelqu’un<br>/kɔ̃te syʁ kɛlkœ̃/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+to look onto (of a window)	donner sur<br>/dɔne syʁ/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+on the left, on the right	sur la gauche, sur la droite<br>/syʁ la ɡoʃ, syʁ la dʁwat/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+on – under	sur – sous<br>/syʁ/ · /su/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+on – sure	sur – sûr<br>/syʁ/ · /syʁ/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+known – under	su – sous<br>/sy/ · /su/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+you – all	tu – tout<br>/ty/ · /tu/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+pure – for	pur – pour<br>/pyʁ/ · /puʁ/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+street – wheel	rue – roue<br>/ʁy/ · /ʁu/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+seen – you	vu – vous<br>/vy/ · /vu/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+The cat is on the bed, the dog is under the table.	Le chat est sur le lit, le chien est sous la table.<br>/lə ʃa ɛ syʁ lə li, lə ʃjɛ̃ ɛ su la tabl/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+The book is on the table.	Le livre est sur la table.<br>/lə livʁ ɛ syʁ la tabl/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+I am on the internet all day.	Je suis sur internet toute la journée.<br>/ʒə sɥi syʁ ɛ̃tɛʁnɛt tut la ʒuʁne/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+Who is in the photo?	Qui est sur la photo ?<br>/ki ɛ syʁ la fɔto/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+Count on me!	Compte sur moi !<br>/kɔ̃t syʁ mwa/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+The window looks onto the street.	La fenêtre donne sur la rue.<br>/la fənɛtʁ dɔn syʁ la ʁy/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+He is sleeping on the sofa.	Il dort sur le canapé.<br>/il dɔʁ syʁ lə kanape/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+I read an article about France.	J’ai lu un article sur la France.<br>/ʒe ly œ̃n‿aʁtikl syʁ la fʁɑ̃s/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+One French person in two has a cat.	Un Français sur deux a un chat.<br>/œ̃ fʁɑ̃sɛ syʁ dø a œ̃ ʃa/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+We are about to leave.	Nous sommes sur le point de partir.<br>/nu sɔm syʁ lə pwɛ̃ də paʁtiʁ/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+Are you sure? Of course!	Tu es sûr ? Bien sûr !<br>/ty ɛ syʁ, bjɛ̃ syʁ/	french 1000words sur en-fr	French::1000 words (EN-FR)::sur — on, upon, on top of
+Say: I’m on the internet.	Je suis sur internet. /ʒə sɥi syʁ ɛ̃tɛʁnɛt/	french 1000words sur challenge say	French::1000 words (EN-FR)::sur — on, upon, on top of::Challenges
+Say: Who is in the photo?	Qui est sur la photo ? /ki ɛ syʁ la fɔto/	french 1000words sur challenge say	French::1000 words (EN-FR)::sur — on, upon, on top of::Challenges
+Say: Count on me!	Compte sur moi ! /kɔ̃t syʁ mwa/	french 1000words sur challenge say	French::1000 words (EN-FR)::sur — on, upon, on top of::Challenges
+Say: The window looks onto the street.	La fenêtre donne sur la rue. /la fənɛtʁ dɔn syʁ la ʁy/	french 1000words sur challenge say	French::1000 words (EN-FR)::sur — on, upon, on top of::Challenges
+Say: Are you sure? Of course!	Tu es sûr ? Bien sûr ! /ty ɛ syʁ, bjɛ̃ syʁ/	french 1000words sur challenge say	French::1000 words (EN-FR)::sur — on, upon, on top of::Challenges
+Three places where English says in or at and French says sur	sur la photo /syʁ la fɔto/ in the photo, sur internet /syʁ ɛ̃tɛʁnɛt/ on the internet, la clé est sur la porte /la kle ɛ syʁ la pɔʁt/ the key is in the door	french 1000words sur challenge grammar	French::1000 words (EN-FR)::sur — on, upon, on top of::Challenges
+Nine out of ten, every other day: with sur	neuf sur dix /nœf syʁ dis/, un jour sur deux /œ̃ ʒuʁ syʁ dø/	french 1000words sur challenge grammar	French::1000 words (EN-FR)::sur — on, upon, on top of::Challenges
+sur and sûr: how do they differ?	Said the same, /syʁ/; sûr with the circumflex is sure (bien sûr), sur without is on; the sentence tells them apart	french 1000words sur challenge words	French::1000 words (EN-FR)::sur — on, upon, on top of::Challenges
+The opposite of sur, and the neighbour	sous /su/ under, dans /dɑ̃/ in: le chat est sur le lit, le chien est sous la table	french 1000words sur challenge words	French::1000 words (EN-FR)::sur — on, upon, on top of::Challenges
+Read aloud, then check: sur, sous, tu, tout, pur, pour	/syʁ/ /su/ /ty/ /tu/ /pyʁ/ /puʁ/: the pair /y/ and /u/	french 1000words sur challenge sound	French::1000 words (EN-FR)::sur — on, upon, on top of::Challenges
+How is /y/ made?	Lips rounded as for /u/, tongue forward as for /i/; say sous /su/ then sur /syʁ/ keeping the lips still	french 1000words sur challenge sound	French::1000 words (EN-FR)::sur — on, upon, on top of::Challenges

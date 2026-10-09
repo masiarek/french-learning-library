@@ -1,0 +1,69 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::aller — to go; to be (feeling)
+#tags:french 1000words aller fr-en
+#columns:Front	Back	Tags
+#tags column:3
+aller<br>/ale/	(v.) to go (somewhere); to be (feeling)	fr-en
+vais<br>/vɛ/	(I) go: the je form, irregular	fr-en
+irai<br>/iʁe/	(I) will go: the future, irregular	fr-en
+aille<br>/aj/	(that I) go: the subjunctive, irregular	fr-en
+Je dois aller dormir.<br>/ʒə dwa ale dɔʁmiʁ/	I have to go to sleep.	fr-en
+je vais<br>/ʒə vɛ/	I go, I am going	fr-en
+tu vas<br>/ty va/	you go	fr-en
+il va, elle va, on va<br>/il va, ɛl va, ɔ̃ va/	he goes, she goes, one goes	fr-en
+nous allons<br>/nuz‿alɔ̃/	we go	fr-en
+vous allez<br>/vuz‿ale/	you go (plural, or polite)	fr-en
+ils vont, elles vont<br>/il vɔ̃, ɛl vɔ̃/	they go	fr-en
+je suis allé, je suis allée<br>/ʒə sɥi(z)‿ale/	I went (masculine, feminine)	fr-en
+j’allais<br>/ʒalɛ/	I was going, I used to go	fr-en
+j’irai<br>/ʒiʁe/	I will go	fr-en
+j’irais<br>/ʒiʁɛ/	I would go	fr-en
+que j’aille, que nous allions<br>/kə ʒaj, kə nuz‿aljɔ̃/	that I go, that we go (subjunctive)	fr-en
+Va ! Allons ! Allez !<br>/va, alɔ̃, ale/	Go! Let’s go! Go! (imperative)	fr-en
+Vas-y ! Allons-y ! Allez-y !<br>/vazi, alɔ̃zi, alezi/	Go on! Let’s go! Go ahead!	fr-en
+Je vais manger.<br>/ʒə vɛ mɑ̃ʒe/	I am going to eat.	fr-en
+Tu vas voir.<br>/ty va vwaʁ/	You will see.	fr-en
+Il va pleuvoir.<br>/il va pløvwaʁ/	It is going to rain.	fr-en
+Nous allons partir demain.<br>/nuz‿alɔ̃ paʁtiʁ dəmɛ̃/	We are going to leave tomorrow.	fr-en
+Qu’est-ce que vous allez faire ?<br>/kɛs kə vuz‿ale fɛʁ/	What are you going to do?	fr-en
+Comment allez-vous ?<br>/kɔmɑ̃t‿ale vu/	How are you? (polite, or to several people)	fr-en
+Comment vas-tu ?<br>/kɔmɑ̃ va ty/	How are you? (to a friend)	fr-en
+Comment ça va ? Ça va ?<br>/kɔmɑ̃ sa va, sa va/	How is it going? All right?	fr-en
+Je vais bien, merci.<br>/ʒə vɛ bjɛ̃, mɛʁsi/	I am well, thank you.	fr-en
+Ça va mal.<br>/sa va mal/	Things are going badly.	fr-en
+Il va mieux.<br>/il va mjø/	He is better.	fr-en
+Cette robe te va bien.<br>/sɛt ʁɔb tə va bjɛ̃/	That dress suits you.	fr-en
+aller à Paris, aller en France<br>/ale a paʁi, ale ɑ̃ fʁɑ̃s/	to go to Paris, to go to France	fr-en
+aller à pied, aller en voiture<br>/ale a pje, ale ɑ̃ vwatyʁ/	to go on foot, to go by car	fr-en
+aller chercher<br>/ale ʃɛʁʃe/	to go and get, to fetch	fr-en
+aller voir quelqu’un<br>/ale vwaʁ kɛlkœ̃/	to go and see someone	fr-en
+s’en aller<br>/sɑ̃n‿ale/	to go away, to leave	fr-en
+Je m’en vais.<br>/ʒə mɑ̃ vɛ/	I am off.	fr-en
+On y va ?<br>/ɔ̃n‿i va/	Shall we go?	fr-en
+Allez !<br>/ale/	Come on!	fr-en
+Ça va aller.<br>/sa va ale/	It will be all right.	fr-en
+un aller simple, un aller-retour<br>/œ̃n‿ale sɛ̃pl, œ̃n‿ale ʁətuʁ/	a one-way ticket, a return ticket	fr-en
+Je vais à l’école tous les jours.<br>/ʒə vɛ a lekɔl tu le ʒuʁ/	I go to school every day.	fr-en
+Tu vas où ?<br>/ty va u/	Where are you going?	fr-en
+Elle va au travail à vélo.<br>/ɛl va o tʁavaj a velo/	She goes to work by bike.	fr-en
+Nous allons au cinéma ce soir.<br>/nuz‿alɔ̃ o sinema sə swaʁ/	We are going to the cinema tonight.	fr-en
+Vous allez bien ?<br>/vuz‿ale bjɛ̃/	Are you well?	fr-en
+Ils vont à Varsovie en train.<br>/il vɔ̃ a vaʁsɔvi ɑ̃ tʁɛ̃/	They are going to Warsaw by train.	fr-en
+Je suis allé à Paris l’année dernière.<br>/ʒə sɥi(z)‿ale a paʁi lane dɛʁnjɛʁ/	I went to Paris last year.	fr-en
+J’irai te voir dimanche.<br>/ʒiʁe tə vwaʁ dimɑ̃ʃ/	I will come and see you on Sunday.	fr-en
+Il faut que j’aille dormir.<br>/il fo kə ʒaj dɔʁmiʁ/	I must go to sleep.	fr-en
+Va dormir, il est tard !<br>/va dɔʁmiʁ, il ɛ taʁ/	Go to sleep, it is late!	fr-en
+Je vais apprendre mille mots.<br>/ʒə vɛ apʁɑ̃dʁ mil mo/	I am going to learn a thousand words.	fr-en
+Je ________ bien, merci.<br>(AI exercise: fill in the form of aller)	/ʒə [vɛ] bjɛ̃, mɛʁsi/<br>I am well, thank you.	exercise
+Tu ________ où ?<br>(AI exercise: fill in the form of aller)	/ty [va] u/<br>Where are you going?	exercise
+Nous ________ à la maison.<br>(AI exercise: fill in the form of aller)	/nuz‿[alɔ̃] a la mɛzɔ̃/<br>We are going home.	exercise
+Ils ________ au cinéma.<br>(AI exercise: fill in the form of aller)	/il [vɔ̃] o sinema/<br>They are going to the cinema.	exercise
+Demain, j’________ à Paris.<br>(AI exercise: fill in the form of aller)	/dəmɛ̃, ʒ[iʁe] a paʁi/<br>Tomorrow I will go to Paris.	exercise
+Il faut que j’________ dormir.<br>(AI exercise: fill in the form of aller)	/il fo kə ʒ[aj] dɔʁmiʁ/<br>I must go to sleep.	exercise
+Comment ________-vous ?<br>(AI exercise: fill in the form of aller)	/kɔmɑ̃t‿[ale] vu/<br>How are you?	exercise
+Je vais bien.<br>/ʒə vɛ bjɛ̃/	I am well: aller, because it is health.	fr-en
+Je suis à Paris.<br>/ʒə sɥi a paʁi/	I am in Paris: être, because it is a place.	fr-en
+Ça va mieux ?<br>/sa va mjø/	Is it going better: aller.	fr-en
+Vous êtes prêts ?<br>/vuz‿ɛt pʁɛ/	Are you ready: être.	fr-en

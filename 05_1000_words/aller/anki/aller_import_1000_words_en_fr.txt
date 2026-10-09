@@ -1,0 +1,73 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(v.) to go (somewhere); to be (feeling)	aller<br>/ale/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+(I) go: the je form, irregular	vais<br>/vɛ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+(I) will go: the future, irregular	irai<br>/iʁe/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+(that I) go: the subjunctive, irregular	aille<br>/aj/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I have to go to sleep.	Je dois aller dormir.<br>/ʒə dwa ale dɔʁmiʁ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I go, I am going	je vais<br>/ʒə vɛ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+you go	tu vas<br>/ty va/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+he goes, she goes, one goes	il va, elle va, on va<br>/il va, ɛl va, ɔ̃ va/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+we go	nous allons<br>/nuz‿alɔ̃/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+you go (plural, or polite)	vous allez<br>/vuz‿ale/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+they go	ils vont, elles vont<br>/il vɔ̃, ɛl vɔ̃/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I went (masculine, feminine)	je suis allé, je suis allée<br>/ʒə sɥi(z)‿ale/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I was going, I used to go	j’allais<br>/ʒalɛ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I will go	j’irai<br>/ʒiʁe/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I would go	j’irais<br>/ʒiʁɛ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+that I go, that we go (subjunctive)	que j’aille, que nous allions<br>/kə ʒaj, kə nuz‿aljɔ̃/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+Go! Let’s go! Go! (imperative)	Va ! Allons ! Allez !<br>/va, alɔ̃, ale/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+Go on! Let’s go! Go ahead!	Vas-y ! Allons-y ! Allez-y !<br>/vazi, alɔ̃zi, alezi/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I am going to eat.	Je vais manger.<br>/ʒə vɛ mɑ̃ʒe/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+You will see.	Tu vas voir.<br>/ty va vwaʁ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+It is going to rain.	Il va pleuvoir.<br>/il va pløvwaʁ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+We are going to leave tomorrow.	Nous allons partir demain.<br>/nuz‿alɔ̃ paʁtiʁ dəmɛ̃/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+What are you going to do?	Qu’est-ce que vous allez faire ?<br>/kɛs kə vuz‿ale fɛʁ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+How are you? (polite, or to several people)	Comment allez-vous ?<br>/kɔmɑ̃t‿ale vu/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+How are you? (to a friend)	Comment vas-tu ?<br>/kɔmɑ̃ va ty/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+How is it going? All right?	Comment ça va ? Ça va ?<br>/kɔmɑ̃ sa va, sa va/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I am well, thank you.	Je vais bien, merci.<br>/ʒə vɛ bjɛ̃, mɛʁsi/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+Things are going badly.	Ça va mal.<br>/sa va mal/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+He is better.	Il va mieux.<br>/il va mjø/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+That dress suits you.	Cette robe te va bien.<br>/sɛt ʁɔb tə va bjɛ̃/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+to go to Paris, to go to France	aller à Paris, aller en France<br>/ale a paʁi, ale ɑ̃ fʁɑ̃s/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+to go on foot, to go by car	aller à pied, aller en voiture<br>/ale a pje, ale ɑ̃ vwatyʁ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+to go and get, to fetch	aller chercher<br>/ale ʃɛʁʃe/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+to go and see someone	aller voir quelqu’un<br>/ale vwaʁ kɛlkœ̃/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+to go away, to leave	s’en aller<br>/sɑ̃n‿ale/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I am off.	Je m’en vais.<br>/ʒə mɑ̃ vɛ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+Shall we go?	On y va ?<br>/ɔ̃n‿i va/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+Come on!	Allez !<br>/ale/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+It will be all right.	Ça va aller.<br>/sa va ale/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+a one-way ticket, a return ticket	un aller simple, un aller-retour<br>/œ̃n‿ale sɛ̃pl, œ̃n‿ale ʁətuʁ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I go to school every day.	Je vais à l’école tous les jours.<br>/ʒə vɛ a lekɔl tu le ʒuʁ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+Where are you going?	Tu vas où ?<br>/ty va u/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+She goes to work by bike.	Elle va au travail à vélo.<br>/ɛl va o tʁavaj a velo/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+We are going to the cinema tonight.	Nous allons au cinéma ce soir.<br>/nuz‿alɔ̃ o sinema sə swaʁ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+Are you well?	Vous allez bien ?<br>/vuz‿ale bjɛ̃/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+They are going to Warsaw by train.	Ils vont à Varsovie en train.<br>/il vɔ̃ a vaʁsɔvi ɑ̃ tʁɛ̃/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I went to Paris last year.	Je suis allé à Paris l’année dernière.<br>/ʒə sɥi(z)‿ale a paʁi lane dɛʁnjɛʁ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I will come and see you on Sunday.	J’irai te voir dimanche.<br>/ʒiʁe tə vwaʁ dimɑ̃ʃ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I must go to sleep.	Il faut que j’aille dormir.<br>/il fo kə ʒaj dɔʁmiʁ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+Go to sleep, it is late!	Va dormir, il est tard !<br>/va dɔʁmiʁ, il ɛ taʁ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I am going to learn a thousand words.	Je vais apprendre mille mots.<br>/ʒə vɛ apʁɑ̃dʁ mil mo/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I am well: aller, because it is health.	Je vais bien.<br>/ʒə vɛ bjɛ̃/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+I am in Paris: être, because it is a place.	Je suis à Paris.<br>/ʒə sɥi a paʁi/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+Is it going better: aller.	Ça va mieux ?<br>/sa va mjø/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+Are you ready: être.	Vous êtes prêts ?<br>/vuz‿ɛt pʁɛ/	french 1000words aller en-fr	French::1000 words (EN-FR)::aller — to go; to be (feeling)
+Say: I have to go to sleep.	Je dois aller dormir. /ʒə dwa ale dɔʁmiʁ/	french 1000words aller challenge say	French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges
+Say: How are you? (polite)	Comment allez-vous ? /kɔmɑ̃t‿ale vu/	french 1000words aller challenge say	French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges
+Say: I am well, thank you.	Je vais bien, merci. /ʒə vɛ bjɛ̃, mɛʁsi/	french 1000words aller challenge say	French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges
+Say: We are going to leave tomorrow.	Nous allons partir demain. /nuz‿alɔ̃ paʁtiʁ dəmɛ̃/	french 1000words aller challenge say	French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges
+Say: Go on! Let’s go!	Vas-y ! Allons-y ! /vazi, alɔ̃zi/	french 1000words aller challenge say	French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges
+The present of aller, all six forms	je vais, tu vas, il va, nous allons, vous allez, ils vont /ʒə vɛ, ty va, il va, nuz‿alɔ̃, vuz‿ale, il vɔ̃/	french 1000words aller challenge grammar	French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges
+The three irregular forms the app flags, and what they are	vais /vɛ/ the je present, irai /iʁe/ the future, aille /aj/ the subjunctive: three Latin verbs in one	french 1000words aller challenge grammar	French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges
+Which auxiliary does aller take, and what follows?	Être, and the participle agrees: je suis allé, elle est allée, ils sont allés /ʒə sɥi(z)‿ale, ɛl ɛ(t)‿ale, il sɔ̃(t)‿ale/, all alike to the ear	french 1000words aller challenge grammar	French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges
+The near future: how is it built?	Aller in the present plus an infinitive: je vais manger /ʒə vɛ mɑ̃ʒe/ I am going to eat; its mirror is venir de, the recent past	french 1000words aller challenge grammar	French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges
+Why vas-y with an s, when the imperative is va?	The s comes back before y for the liaison: vas-y /vazi/; alone it is va /va/	french 1000words aller challenge grammar	French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges
+I am well: être or aller?	Aller: je vais bien /ʒə vɛ bjɛ̃/; être is for places and qualities, je suis à Paris, je suis prêt	french 1000words aller challenge grammar	French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges
+Four third-person plurals in -ont	ils vont, ils sont, ils ont, ils font /vɔ̃, sɔ̃, ɔ̃, fɔ̃/	french 1000words aller challenge words	French::1000 words (EN-FR)::aller — to go; to be (feeling)::Challenges

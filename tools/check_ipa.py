@@ -3,7 +3,8 @@
 
     python3 tools/check_ipa.py        # fail if any IPA cell holds a symbol that is not a French phoneme
 
-The lesson pages of 02_Yosser_teacher, 03_Szypowska and 04_Pronunciation are tables of French,
+The lesson pages of 02_Yosser_teacher, 03_Szypowska, 04_Pronunciation and
+05_1000_words are tables of French,
 English (with Polish below) and IPA, written by hand. This tool reads every
 IPA cell on those pages, splits it into symbols of Le Robert's French
 inventory, longest match first, and fails on anything else: a stray Latin
@@ -19,7 +20,7 @@ import unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-CHAPTERS = ("02_Yosser_teacher", "03_Szypowska", "04_Pronunciation")
+CHAPTERS = ("02_Yosser_teacher", "03_Szypowska", "04_Pronunciation", "05_1000_words")
 
 
 def nfd(s: str) -> str:

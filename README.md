@@ -48,6 +48,13 @@ The examples are **stdlib-only, on purpose**. If you have `python3`, you can run
 | [Le son ɛ](04_Pronunciation/son_e_ouvert/README.md) | The open *e* of *est, mais, lève, être, appelle*: /e/ against /ɛ/, *e* before a consonant that is said, *è, ê, ai, ei*, and the endings *-et, -êt* |
 | [The best resources: audio and IPA together](04_Pronunciation/resources/README.md) | Where a native voice and the IPA come together: dictionaries, minimal-pair decks, articulation videos, course books, feedback, AI assistants, each with a verdict and how sure it is |
 
+[**05_1000_words/**](05_1000_words/README.md) — *A thousand words from the owner's vocabulary app, one page each*
+
+| Page | What it teaches |
+|---|---|
+| [The word index](05_1000_words/README.md) | Every word so far, numbered in the order it arrived, with its IPA and the grammar its page holds; the first seven are *devoir, tout, dormir, aller, sur, venir, être* |
+| A word's page, such as [être](05_1000_words/etre/README.md) | The app's entry with IPA on every line, then the grammar the word needs (its conjugation, its forms, where it parts from English), set phrases, my own examples and exercises with the answers, and two Anki decks |
+
 ## Other ways in
 
 - [Topic map](TOPICS.md): every page by subject.

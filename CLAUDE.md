@@ -37,7 +37,7 @@ House rules for writing pages are in [CONTRIBUTING.md](CONTRIBUTING.md):
 - a link to a folder points at its `README.md`;
 - sidebar reading order lives in `NAV_ORDER` in `mkdocs_hooks.py`;
 - **no Polish or German summary sections** here, unlike the sibling libraries: the owner had them removed from every page on 2026-10-07. Polish appears only where it is content, below the English in a lesson table;
-- **no program on a source-chapter page** (`02_Yosser_teacher`, `03_Szypowska`, `04_Pronunciation`): the owner asked for none on 2026-10-07. Their tables are checked by `tools/check_ipa.py` in CI instead, and a new lesson there is a page with the lesson's rules, its table, an **AI section** (notes on particular words, each word of the lesson in two or three set phrases, the lesson's words in new sentences, a few new words, new exercises with answers, all in the same table format) and two Anki decks.
+- **no program on a source-chapter page** (`02_Yosser_teacher`, `03_Szypowska`, `04_Pronunciation`, `05_1000_words`): the owner asked for none on 2026-10-07. Their tables are checked by `tools/check_ipa.py` in CI instead, and a new lesson there is a page with the lesson's rules, its table, an **AI section** (notes on particular words, each word of the lesson in two or three set phrases, the lesson's words in new sentences, a few new words, new exercises with answers, all in the same table format) and two Anki decks. A word page in `05_1000_words` has the same shape with the app's entry as its table and the grammar, phrases, examples and exercises in the AI section; the chapter page numbers the words in order of arrival.
 
 ## Navigation: the owner's preference
 
@@ -56,6 +56,8 @@ python3 tools/anki_from_tables.py 03_Szypowska --check
 python3 tools/combine_anki.py 03_Szypowska --check
 python3 tools/anki_from_tables.py 04_Pronunciation --check
 python3 tools/combine_anki.py 04_Pronunciation --check
+python3 tools/anki_from_tables.py 05_1000_words --check
+python3 tools/combine_anki.py 05_1000_words --check
 ```
 
-All nine are what CI runs. After changing a lesson table in `02_Yosser_teacher`, `03_Szypowska` or `04_Pronunciation`, regenerate its decks and the chapter's set files with `python3 tools/anki_from_tables.py <chapter> && python3 tools/combine_anki.py <chapter>`; the challenge decks, `<lesson>/anki/<lesson>_challenges.txt`, are written by hand, and their `#deck:` header puts them under the to-French set. The decks come in six sets, one file each, and never mix: Szypowska (FR-PL), Szypowska (PL-FR), Yosser (FR-EN), Yosser (EN-FR), Pronunciation (FR-EN), Pronunciation (EN-FR); the owner asked for the first four by name, and a new source gets a pair of its own.
+All eleven are what CI runs. After changing a lesson table in `02_Yosser_teacher`, `03_Szypowska`, `04_Pronunciation` or `05_1000_words`, regenerate its decks and the chapter's set files with `python3 tools/anki_from_tables.py <chapter> && python3 tools/combine_anki.py <chapter>`; the challenge decks, `<lesson>/anki/<lesson>_challenges.txt`, are written by hand, and their `#deck:` header puts them under the to-French set. The decks come in eight sets, one file each, and never mix: Szypowska (FR-PL), Szypowska (PL-FR), Yosser (FR-EN), Yosser (EN-FR), Pronunciation (FR-EN), Pronunciation (EN-FR), 1000 words (FR-EN), 1000 words (EN-FR); the owner asked for the first four by name, and a new source gets a pair of its own.

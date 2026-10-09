@@ -12,9 +12,11 @@ What exists, and what is deliberately not written yet. A topic listed here has *
 
 **[04_Pronunciation](04_Pronunciation/README.md)** — the pronunciation Shorts of Parlez-vous French, one page per video: the sound, the spelling rules behind it, the video's words from a screenshot and a drill written here, in French, English and IPA, with Anki decks of its own. No program, like the other source chapters; CI checks the tables' IPA. Two pages so far, [the nasal vowels ɑ̃ and ɔ̃](04_Pronunciation/sons_an_on/README.md) and [the open e ɛ](04_Pronunciation/son_e_ouvert/README.md), and a reading guide, [the best resources: audio and IPA together](04_Pronunciation/resources/README.md).
 
+**[05_1000_words](05_1000_words/README.md)** — the thousand words of the owner's vocabulary app, one page per word: the app's entry with IPA added, then the grammar the word needs, set phrases, my own examples and exercises, in French, English and IPA, with Anki decks of its own. No program, like the other source chapters; CI checks the tables' IPA. The chapter page numbers the words as they arrive; seven so far, [devoir](05_1000_words/devoir/README.md), [tout](05_1000_words/tout/README.md), [dormir](05_1000_words/dormir/README.md), [aller](05_1000_words/aller/README.md), [sur](05_1000_words/sur/README.md), [venir](05_1000_words/venir/README.md) and [être](05_1000_words/etre/README.md).
+
 ## The rules
 
-A **lesson** needs an argument and a program that demonstrates it, except in the three source chapters, whose pages are tables for the owner's own learning and carry no program. In a language library the program is usually a check on text: a transcription read symbol by symbol, a spelling rule applied to a word list and its exceptions counted, a conjugation table generated and compared with the dictionary's. A claim no program can check, such as how a vowel sounds, names its source and says how sure it is. A topic that fits neither stays here.
+A **lesson** needs an argument and a program that demonstrates it, except in the four source chapters, whose pages are tables for the owner's own learning and carry no program. In a language library the program is usually a check on text: a transcription read symbol by symbol, a spelling rule applied to a word list and its exceptions counted, a conjugation table generated and compared with the dictionary's. A claim no program can check, such as how a vowel sounds, names its source and says how sure it is. A topic that fits neither stays here.
 
 ## Lessons with an obvious program, not yet written
 

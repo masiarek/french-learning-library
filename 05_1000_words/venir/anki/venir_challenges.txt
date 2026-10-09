@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::venir — to come::Challenges
+#tags:french 1000words venir challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: Come here immediately!	Venez immédiatement ! /vəne imedjatmɑ̃/	say
+Say: I come from Poland.	Je viens de Pologne. /ʒə vjɛ̃ də pɔlɔɲ/	say
+Say: I have just eaten.	Je viens de manger. /ʒə vjɛ̃ də mɑ̃ʒe/	say
+Say: My friends are coming to dinner tonight.	Mes amis viennent dîner ce soir. /mez‿ami vjɛn dine sə swaʁ/	say
+Say: Where are you from?	D’où venez-vous ? /du vəne vu/	say
+The present of venir, all six forms	je viens, tu viens, il vient, nous venons, vous venez, ils viennent /ʒə vjɛ̃, ty vjɛ̃, il vjɛ̃, nu vənɔ̃, vu vəne, il vjɛn/	grammar
+vient or viennent: what happens to the nasal?	vient /vjɛ̃/ ends in the nasal vowel; viennent /vjɛn/ has an oral vowel and the n said, because a vowel follows in the spelling (denasalisation)	sound
+The recent past: how is it built?	Venir in the present, de, and an infinitive: je viens de finir /ʒə vjɛ̃ də finiʁ/ I have just finished; the mirror of aller plus infinitive	grammar
+Which auxiliary does venir take?	Être, with agreement: je suis venu, elle est venue /ʒə sɥi vəny, ɛl ɛ vəny/	grammar
+The future of venir	je viendrai /ʒə vjɛ̃dʁe/, on the stem viendr-; the conditional je viendrais /ʒə vjɛ̃dʁɛ/	grammar
+Four verbs of the family of venir, with the je form	tenir, je tiens /tjɛ̃/; devenir, je deviens /dəvjɛ̃/; revenir, je reviens /ʁəvjɛ̃/; se souvenir, je me souviens /suvjɛ̃/	words
+Venir or aller: I am coming to your place	Venir, movement towards the listener: je viens chez toi /ʒə vjɛ̃ ʃe twa/; je vais chez Marie is movement away	grammar
