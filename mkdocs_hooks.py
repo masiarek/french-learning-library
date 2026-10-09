@@ -59,6 +59,7 @@ log = logging.getLogger("mkdocs.hooks.topic_map")
 CHAPTER_LABELS = {
     "02_Yosser_teacher": "Yosser (teacher)",
     "03_Szypowska": "Szypowska (Polish material)",
+    "05_1000_words": "1000 words",
 }
 
 # Words the naive title-caser gets wrong.
@@ -112,6 +113,12 @@ NAV_ORDER: dict[str, list[str]] = {
         "sons_an_on",
         "son_e_ouvert",
         "resources",
+    ],
+    # The thousand words of the owner's vocabulary app, one page per word. Only
+    # the chapter page is listed: the word pages sort A to Z after it, as a
+    # dictionary does, and the chapter page numbers them in order of arrival.
+    "05_1000_words": [
+        "README.md",
     ],
 }
 

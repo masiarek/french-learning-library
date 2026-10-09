@@ -1,0 +1,57 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::dormir — to sleep
+#tags:french 1000words dormir fr-en
+#columns:Front	Back	Tags
+#tags column:3
+dormir<br>/dɔʁmiʁ/	(v.) to sleep	fr-en
+As-tu bien dormi ?<br>/aty bjɛ̃ dɔʁmi/	Did you sleep well?	fr-en
+je dors<br>/ʒə dɔʁ/	I sleep, I am sleeping	fr-en
+tu dors<br>/ty dɔʁ/	you sleep	fr-en
+il dort, elle dort<br>/il dɔʁ, ɛl dɔʁ/	he sleeps, she sleeps	fr-en
+nous dormons<br>/nu dɔʁmɔ̃/	we sleep	fr-en
+vous dormez<br>/vu dɔʁme/	you sleep (plural, or polite)	fr-en
+ils dorment, elles dorment<br>/il dɔʁm, ɛl dɔʁm/	they sleep	fr-en
+j’ai dormi<br>/ʒe dɔʁmi/	I slept, I have slept	fr-en
+je dormais<br>/ʒə dɔʁmɛ/	I was sleeping, I used to sleep	fr-en
+je dormirai<br>/ʒə dɔʁmiʁe/	I will sleep	fr-en
+je dormirais<br>/ʒə dɔʁmiʁɛ/	I would sleep	fr-en
+que je dorme<br>/kə ʒə dɔʁm/	that I sleep (subjunctive)	fr-en
+Dors ! Dormons ! Dormez !<br>/dɔʁ, dɔʁmɔ̃, dɔʁme/	Sleep! Let’s sleep! Sleep! (imperative)	fr-en
+partir, je pars, nous partons<br>/paʁtiʁ, ʒə paʁ, nu paʁtɔ̃/	to leave, I leave, we leave	fr-en
+sortir, je sors, nous sortons<br>/sɔʁtiʁ, ʒə sɔʁ, nu sɔʁtɔ̃/	to go out, I go out, we go out	fr-en
+sentir, je sens, nous sentons<br>/sɑ̃tiʁ, ʒə sɑ̃, nu sɑ̃tɔ̃/	to feel, to smell; I feel, we feel	fr-en
+servir, je sers, nous servons<br>/sɛʁviʁ, ʒə sɛʁ, nu sɛʁvɔ̃/	to serve, I serve, we serve	fr-en
+mentir, je mens, nous mentons<br>/mɑ̃tiʁ, ʒə mɑ̃, nu mɑ̃tɔ̃/	to lie, I lie, we lie	fr-en
+dormir bien, dormir mal<br>/dɔʁmiʁ bjɛ̃, dɔʁmiʁ mal/	to sleep well, to sleep badly	fr-en
+Dors bien ! Bonne nuit !<br>/dɔʁ bjɛ̃, bɔn nɥi/	Sleep well! Good night!	fr-en
+dormir comme un bébé<br>/dɔʁmiʁ kɔm œ̃ bebe/	to sleep like a baby	fr-en
+dormir comme un loir<br>/dɔʁmiʁ kɔm œ̃ lwaʁ/	to sleep like a log (literally, like a dormouse)	fr-en
+dormir debout<br>/dɔʁmiʁ dəbu/	to be asleep on one’s feet	fr-en
+une histoire à dormir debout<br>/yn‿istwaʁ a dɔʁmiʁ dəbu/	a cock-and-bull story	fr-en
+aller dormir<br>/ale dɔʁmiʁ/	to go to bed, to go to sleep	fr-en
+s’endormir<br>/sɑ̃dɔʁmiʁ/	to fall asleep	fr-en
+avoir sommeil<br>/avwaʁ sɔmɛj/	to be sleepy	fr-en
+faire la grasse matinée<br>/fɛʁ la ɡʁas matine/	to sleep in	fr-en
+faire la sieste<br>/fɛʁ la sjɛst/	to take a nap	fr-en
+Je dors huit heures par nuit.<br>/ʒə dɔʁ ɥit‿œʁ paʁ nɥi/	I sleep eight hours a night.	fr-en
+Tu dors encore ?<br>/ty dɔʁ ɑ̃kɔʁ/	Are you still sleeping?	fr-en
+Le bébé dort dans sa chambre.<br>/lə bebe dɔʁ dɑ̃ sa ʃɑ̃bʁ/	The baby is sleeping in his room.	fr-en
+Nous dormons à l’hôtel ce soir.<br>/nu dɔʁmɔ̃ a lotɛl sə swaʁ/	We are sleeping at the hotel tonight.	fr-en
+Vous dormez trop peu.<br>/vu dɔʁme tʁo pø/	You sleep too little.	fr-en
+Les enfants dorment déjà.<br>/lez‿ɑ̃fɑ̃ dɔʁm deʒa/	The children are already asleep.	fr-en
+J’ai mal dormi cette nuit.<br>/ʒe mal dɔʁmi sɛt nɥi/	I slept badly last night.	fr-en
+Je dois aller dormir.<br>/ʒə dwa ale dɔʁmiʁ/	I have to go to sleep.	fr-en
+Il s’est endormi devant la télé.<br>/il sɛ(t)‿ɑ̃dɔʁmi dəvɑ̃ la tele/	He fell asleep in front of the TV.	fr-en
+Je n’ai pas dormi de la nuit.<br>/ʒə ne pa dɔʁmi də la nɥi/	I didn’t sleep all night.	fr-en
+Chut, tout le monde dort !<br>/ʃyt, tu lə mɔ̃d dɔʁ/	Hush, everybody is sleeping!	fr-en
+Je ________ bien.<br>(AI exercise: fill in the form of dormir)	/ʒə [dɔʁ] bjɛ̃/<br>I sleep well.	exercise
+Nous ________ tard le dimanche.<br>(AI exercise: fill in the form of dormir)	/nu [dɔʁmɔ̃] taʁ lə dimɑ̃ʃ/<br>We sleep late on Sundays.	exercise
+Les chats ________ beaucoup.<br>(AI exercise: fill in the form of dormir)	/le ʃa [dɔʁm] boku/<br>Cats sleep a lot.	exercise
+As-tu bien ________ ?<br>(AI exercise: fill in the form of dormir)	/aty bjɛ̃ [dɔʁmi]/<br>Did you sleep well?	exercise
+Hier, je ________ quand tu as appelé.<br>(AI exercise: fill in the form of dormir)	/jɛʁ, ʒə [dɔʁmɛ] kɑ̃ ty a aple/<br>Yesterday I was sleeping when you called.	exercise
+partir → je pars<br>/paʁtiʁ, ʒə paʁ/	to leave → I leave	fr-en
+sortir → je sors<br>/sɔʁtiʁ, ʒə sɔʁ/	to go out → I go out	fr-en
+sentir → je sens<br>/sɑ̃tiʁ, ʒə sɑ̃/	to feel → I feel	fr-en
+servir → je sers<br>/sɛʁviʁ, ʒə sɛʁ/	to serve → I serve	fr-en

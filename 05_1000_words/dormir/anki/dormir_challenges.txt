@@ -1,0 +1,18 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::dormir — to sleep::Challenges
+#tags:french 1000words dormir challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: Did you sleep well?	As-tu bien dormi ? /aty bjɛ̃ dɔʁmi/	say
+Say: I have to go to sleep.	Je dois aller dormir. /ʒə dwa ale dɔʁmiʁ/	say
+Say: The children are already asleep.	Les enfants dorment déjà. /lez‿ɑ̃fɑ̃ dɔʁm deʒa/	say
+Say: Sleep well! Good night!	Dors bien ! Bonne nuit ! /dɔʁ bjɛ̃, bɔn nɥi/	say
+Say: He fell asleep in front of the TV.	Il s’est endormi devant la télé. /il sɛ(t)‿ɑ̃dɔʁmi dəvɑ̃ la tele/	say
+The present of dormir, all six forms	je dors, tu dors, il dort, nous dormons, vous dormez, ils dorment /ʒə dɔʁ, ty dɔʁ, il dɔʁ, nu dɔʁmɔ̃, vu dɔʁme, il dɔʁm/	grammar
+Why je dors and not je dormis?	Dormir follows partir, not finir: the singular of the present drops the stem’s last consonant (dors, dort /dɔʁ/) and the plural keeps it (dormons /dɔʁmɔ̃/); finir inserts -ss- instead (nous finissons)	grammar
+Five verbs that conjugate like dormir, with the je form	partir, je pars /paʁ/; sortir, je sors /sɔʁ/; sentir, je sens /sɑ̃/; servir, je sers /sɛʁ/; mentir, je mens /mɑ̃/	grammar
+Where does bien go in a compound tense?	Between the auxiliary and the participle: j’ai bien dormi /ʒe bjɛ̃ dɔʁmi/, as-tu bien dormi ?	grammar
+To fall asleep, to be sleepy, to sleep in	s’endormir /sɑ̃dɔʁmiʁ/, avoir sommeil /avwaʁ sɔmɛj/, faire la grasse matinée /fɛʁ la ɡʁas matine/	words
+A cock-and-bull story, in French	une histoire à dormir debout /yn‿istwaʁ a dɔʁmiʁ dəbu/, a story to sleep standing up	words

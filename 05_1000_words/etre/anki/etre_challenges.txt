@@ -1,0 +1,20 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::être — to be; a being::Challenges
+#tags:french 1000words etre challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: Mother Nature is generous.	Mère Nature est généreuse. /mɛʁ natyʁ ɛ ʒeneʁøz/	say
+Say: We are in Paris.	Nous sommes à Paris. /nu sɔm a paʁi/	say
+Say: You are very kind.	Vous êtes très gentils. /vuz‿ɛt tʁɛ ʒɑ̃ti/	say
+Say: Welcome! (to several people)	Soyez les bienvenus ! /swaje le bjɛ̃vny/	say
+Say: I am hungry and I am cold.	J’ai faim et j’ai froid. /ʒe fɛ̃ e ʒe fʁwa/	say
+The present of être, all six forms	je suis, tu es, il est, nous sommes, vous êtes, ils sont /ʒə sɥi, ty ɛ, il ɛ, nu sɔm, vuz‿ɛt, il sɔ̃/	grammar
+The three irregular forms the app flags, and what they are	sommes /sɔm/ the nous present, fus /fy/ the passé simple of books, soyez /swaje/ the vous imperative and subjunctive	grammar
+Where is fus used?	In books and history only: je fus, il fut /fy/; a learner reads it and never needs to say it	grammar
+The past participle of être, and its twin	été /ete/, with avoir: j’ai été /ʒe ete/; spelled and said like l’été, the summer	grammar
+Which verbs take être as their auxiliary?	The verbs of movement and change (aller, venir, partir, arriver, naître, mourir) and every reflexive verb: je suis allé, je me suis levé /ʒə sɥi(z)‿ale, ʒə mə sɥi ləve/	grammar
+I am twenty, I am hungry: être?	No, avoir: j’ai vingt ans /ʒe vɛ̃t‿ɑ̃/, j’ai faim /ʒe fɛ̃/; and for health, aller: je vais bien	grammar
+Il est médecin or c’est un médecin?	Both; after il est the profession has no article, after c’est it has one: /il ɛ medsɛ̃/, /sɛt‿œ̃ medsɛ̃/	grammar
+sont and son: how do they sound?	The same, /sɔ̃/: ils sont, son frère; the sentence tells them apart	sound

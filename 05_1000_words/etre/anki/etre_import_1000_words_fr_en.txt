@@ -1,0 +1,71 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+être<br>/ɛtʁ/	(v.) to be; (n.m.) being, creature	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+sommes<br>/sɔm/	(we) are: the nous form, irregular	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+fus<br>/fy/	(I, you) was, were: the passé simple, irregular	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+soyez<br>/swaje/	be! (to several people); (that you) be: the imperative and the subjunctive, irregular	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Mère Nature est généreuse.<br>/mɛʁ natyʁ ɛ ʒeneʁøz/	Mother Nature is generous.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+je suis<br>/ʒə sɥi/	I am	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+tu es<br>/ty ɛ/	you are	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+il est, elle est, c’est<br>/il ɛ, ɛl ɛ, sɛ/	he is, she is, it is	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+nous sommes<br>/nu sɔm/	we are	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+vous êtes<br>/vuz‿ɛt/	you are (plural, or polite)	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+ils sont, elles sont, ce sont<br>/il sɔ̃, ɛl sɔ̃, sə sɔ̃/	they are	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+j’ai été<br>/ʒe ete/	I was, I have been	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+j’étais<br>/ʒetɛ/	I was (imperfect)	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+je serai<br>/ʒə səʁe/	I will be	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+je serais<br>/ʒə səʁɛ/	I would be	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+que je sois, que nous soyons, que vous soyez<br>/kə ʒə swa, kə nu swajɔ̃, kə vu swaje/	that I be, that we be, that you be (subjunctive)	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Sois ! Soyons ! Soyez !<br>/swa, swajɔ̃, swaje/	Be! Let’s be! Be! (imperative)	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+je fus, il fut<br>/ʒə fy, il fy/	I was, he was (passé simple, in books)	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Je suis allé à Paris.<br>/ʒə sɥi(z)‿ale a paʁi/	I went to Paris.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Elle est venue hier.<br>/ɛl ɛ vəny jɛʁ/	She came yesterday.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Ils sont partis tôt.<br>/il sɔ̃ paʁti to/	They left early.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Je me suis levé à sept heures.<br>/ʒə mə sɥi ləve a sɛt‿œʁ/	I got up at seven.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+J’ai faim. J’ai soif.<br>/ʒe fɛ̃, ʒe swaf/	I am hungry. I am thirsty.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+J’ai froid. J’ai chaud.<br>/ʒe fʁwa, ʒe ʃo/	I am cold. I am hot.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+J’ai vingt ans.<br>/ʒe vɛ̃t‿ɑ̃/	I am twenty.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+J’ai raison. Tu as tort.<br>/ʒe ʁɛzɔ̃, ty a tɔʁ/	I am right. You are wrong.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+J’ai sommeil.<br>/ʒe sɔmɛj/	I am sleepy.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+être en train de<br>/ɛtʁ ɑ̃ tʁɛ̃ də/	to be in the middle of (doing)	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+être d’accord<br>/ɛtʁ dakɔʁ/	to agree	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+être en retard, être à l’heure<br>/ɛtʁ ɑ̃ ʁətaʁ, ɛtʁ a lœʁ/	to be late, to be on time	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+être sur le point de<br>/ɛtʁ syʁ lə pwɛ̃ də/	to be about to	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+C’est ça.<br>/sɛ sa/	That’s it.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+N’est-ce pas ?<br>/nɛs pa/	Isn’t it?	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Qu’est-ce que c’est ?<br>/kɛs kə sɛ/	What is it?	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+peut-être<br>/pøtɛtʁ/	maybe	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+un être humain<br>/œ̃n‿ɛtʁ ymɛ̃/	a human being	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+un être cher<br>/œ̃n‿ɛtʁ ʃɛʁ/	a loved one	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+le bien-être<br>/lə bjɛ̃nɛtʁ/	well-being	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Je suis polonais.<br>/ʒə sɥi pɔlɔnɛ/	I am Polish.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Tu es prêt ?<br>/ty ɛ pʁɛ/	Are you ready?	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Il est médecin.<br>/il ɛ medsɛ̃/	He is a doctor.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Nous sommes à Paris.<br>/nu sɔm a paʁi/	We are in Paris.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Vous êtes très gentils.<br>/vuz‿ɛt tʁɛ ʒɑ̃ti/	You are very kind.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Elles sont fatiguées.<br>/ɛl sɔ̃ fatiɡe/	They are tired.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+C’est tout.<br>/sɛ tu/	That’s all.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Je suis sur internet.<br>/ʒə sɥi syʁ ɛ̃tɛʁnɛt/	I am on the internet.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Il est tard, je dois être au lit.<br>/il ɛ taʁ, ʒə dwa ɛtʁ o li/	It is late, I must be in bed.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+J’ai été malade toute la semaine.<br>/ʒe ete malad tut la səmɛn/	I was ill all week.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Sois sage !<br>/swa saʒ/	Be good!	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Soyez les bienvenus !<br>/swaje le bjɛ̃vny/	Welcome! (to several people)	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Il faut que tu sois à l’heure.<br>/il fo kə ty swa a lœʁ/	You must be on time.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Tous les hommes sont mortels.<br>/tu lez‿ɔm sɔ̃ mɔʁtɛl/	All men are mortal.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Je ________ polonais.<br>(AI exercise: fill in the form of être)	/ʒə [sɥi] pɔlɔnɛ/<br>I am Polish.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Tu ________ prêt ?<br>(AI exercise: fill in the form of être)	/ty [ɛ] pʁɛ/<br>Are you ready?	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Nous ________ à Paris.<br>(AI exercise: fill in the form of être)	/nu [sɔm] a paʁi/<br>We are in Paris.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Vous ________ très gentils.<br>(AI exercise: fill in the form of être)	/vuz‿[ɛt] tʁɛ ʒɑ̃ti/<br>You are very kind.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Ils ________ fatigués.<br>(AI exercise: fill in the form of être)	/il [sɔ̃] fatiɡe/<br>They are tired.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Hier, j’________ malade.<br>(AI exercise: fill in the form of être)	/jɛʁ, ʒ[etɛ] malad/<br>Yesterday I was ill.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+________ sage !<br>(AI exercise: fill in the form of être)	/[swa] saʒ/<br>Be good!	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Il faut que vous ________ là.<br>(AI exercise: fill in the form of être)	/il fo kə vu [swaje] la/<br>You must be there.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+J’________ faim.<br>(AI exercise: être or avoir?)	/ʒ[e] fɛ̃/<br>I am hungry.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Je ________ fatigué.<br>(AI exercise: être or avoir?)	/ʒə [sɥi] fatiɡe/<br>I am tired.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Il ________ vingt ans.<br>(AI exercise: être or avoir?)	/il [a] vɛ̃t‿ɑ̃/<br>He is twenty.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Elle ________ médecin.<br>(AI exercise: être or avoir?)	/ɛl [ɛ] medsɛ̃/<br>She is a doctor.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Nous ________ froid.<br>(AI exercise: être or avoir?)	/nuz‿[avɔ̃] fʁwa/<br>We are cold.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being

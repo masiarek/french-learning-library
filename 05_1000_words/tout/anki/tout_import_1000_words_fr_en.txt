@@ -1,0 +1,57 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+tout<br>/tu/	(adj.) all, every; (n.m.) whole, entirety, total	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Tout homme est mortel.<br>/tut‿ɔm ɛ mɔʁtɛl/	Every man is mortal.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout le monde<br>/tu lə mɔ̃d/	everybody	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout le temps<br>/tu lə tɑ̃/	all the time	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+toute la journée<br>/tut la ʒuʁne/	all day long	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+toute la nuit<br>/tut la nɥi/	all night	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tous les jours<br>/tu le ʒuʁ/	every day	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tous mes amis<br>/tu mez‿ami/	all my friends	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+toutes les femmes<br>/tut le fam/	all the women	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+toutes les deux heures<br>/tut le døz‿œʁ/	every two hours	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tous les deux<br>/tu le dø/	both	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Ils sont tous là.<br>/il sɔ̃ tus la/	They are all here.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Merci à tous !<br>/mɛʁsi a tus/	Thank you all!	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Nous sommes tous d’accord.<br>/nu sɔm tus dakɔʁ/	We all agree.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout petit<br>/tu pəti/	very small	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout près<br>/tu pʁɛ/	very near	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout seul, toute seule<br>/tu sœl, tut sœl/	all alone (masculine, feminine)	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout droit<br>/tu dʁwa/	straight ahead	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout doucement<br>/tu dusmɑ̃/	very gently	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+C’est tout.<br>/sɛ tu/	That’s all.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+pas du tout<br>/pa dy tu/	not at all	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout à fait<br>/tut‿a fɛ/	quite, exactly	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout de suite<br>/tu də sɥit/	right away	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout à l’heure<br>/tut‿a lœʁ/	a moment ago; in a moment	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout à coup<br>/tut‿a ku/	suddenly	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+en tout cas<br>/ɑ̃ tu ka/	in any case	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+après tout<br>/apʁɛ tu/	after all	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+malgré tout<br>/malɡʁe tu/	in spite of everything	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Tout va bien.<br>/tu va bjɛ̃/	Everything is fine.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+le tout<br>/lə tu/	the whole, the lot	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Tout est prêt.<br>/tut‿ɛ pʁɛ/	Everything is ready.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Tous mes amis dorment.<br>/tu mez‿ami dɔʁm/	All my friends are sleeping.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Je travaille toute la journée.<br>/ʒə tʁavaj tut la ʒuʁne/	I work all day.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Elle a tout compris.<br>/ɛl a tu kɔ̃pʁi/	She understood everything.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Tout le monde doit dormir.<br>/tu lə mɔ̃d dwa dɔʁmiʁ/	Everybody has to sleep.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Nous venons tous les jours.<br>/nu vənɔ̃ tu le ʒuʁ/	We come every day.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Ils sont tous sur internet.<br>/il sɔ̃ tus syʁ ɛ̃tɛʁnɛt/	They are all on the internet.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Toutes les chambres sont prêtes.<br>/tut le ʃɑ̃bʁ sɔ̃ pʁɛt/	All the rooms are ready.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Il est tout petit.<br>/il ɛ tu pəti/	He is very small.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Elle est toute seule.<br>/ɛl ɛ tut sœl/	She is all alone.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+C’est tout pour aujourd’hui.<br>/sɛ tu puʁ oʒuʁdɥi/	That’s all for today.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+________ le monde est là.<br>(AI exercise: tout, toute, tous or toutes?)	/[tu] lə mɔ̃d ɛ la/<br>Everybody is here.	french 1000words tout fr-en exercise	French::1000 words (FR-EN)::tout — all, every; the whole
+________ la famille dort.<br>(AI exercise: tout, toute, tous or toutes?)	/[tut] la famij dɔʁ/<br>The whole family is sleeping.	french 1000words tout fr-en exercise	French::1000 words (FR-EN)::tout — all, every; the whole
+________ les jours, je lis.<br>(AI exercise: tout, toute, tous or toutes?)	/[tu] le ʒuʁ, ʒə li/<br>Every day I read.	french 1000words tout fr-en exercise	French::1000 words (FR-EN)::tout — all, every; the whole
+________ les filles sont venues.<br>(AI exercise: tout, toute, tous or toutes?)	/[tut] le fij sɔ̃ vəny/<br>All the girls came.	french 1000words tout fr-en exercise	French::1000 words (FR-EN)::tout — all, every; the whole
+Ils sont ________ là.<br>(AI exercise: tout, toute, tous or toutes?)	/il sɔ̃ [tus] la/<br>They are all here.	french 1000words tout fr-en exercise	French::1000 words (FR-EN)::tout — all, every; the whole
+Elle est ________ seule.<br>(AI exercise: tout, toute, tous or toutes?)	/ɛl ɛ [tut] sœl/<br>She is all alone.	french 1000words tout fr-en exercise	French::1000 words (FR-EN)::tout — all, every; the whole
+tous les soirs<br>/tu le swaʁ/	every evening	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Bonsoir à tous !<br>/bɔ̃swaʁ a tus/	Good evening, everyone!	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tous les enfants<br>/tu lez‿ɑ̃fɑ̃/	all the children	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Ils dorment tous.<br>/il dɔʁm tus/	They are all sleeping.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole

@@ -1,0 +1,387 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+aller<br>/ale/	(v.) to go (somewhere); to be (feeling)	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+vais<br>/vɛ/	(I) go: the je form, irregular	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+irai<br>/iʁe/	(I) will go: the future, irregular	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+aille<br>/aj/	(that I) go: the subjunctive, irregular	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Je dois aller dormir.<br>/ʒə dwa ale dɔʁmiʁ/	I have to go to sleep.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+je vais<br>/ʒə vɛ/	I go, I am going	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+tu vas<br>/ty va/	you go	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+il va, elle va, on va<br>/il va, ɛl va, ɔ̃ va/	he goes, she goes, one goes	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+nous allons<br>/nuz‿alɔ̃/	we go	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+vous allez<br>/vuz‿ale/	you go (plural, or polite)	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+ils vont, elles vont<br>/il vɔ̃, ɛl vɔ̃/	they go	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+je suis allé, je suis allée<br>/ʒə sɥi(z)‿ale/	I went (masculine, feminine)	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+j’allais<br>/ʒalɛ/	I was going, I used to go	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+j’irai<br>/ʒiʁe/	I will go	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+j’irais<br>/ʒiʁɛ/	I would go	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+que j’aille, que nous allions<br>/kə ʒaj, kə nuz‿aljɔ̃/	that I go, that we go (subjunctive)	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Va ! Allons ! Allez !<br>/va, alɔ̃, ale/	Go! Let’s go! Go! (imperative)	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Vas-y ! Allons-y ! Allez-y !<br>/vazi, alɔ̃zi, alezi/	Go on! Let’s go! Go ahead!	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Je vais manger.<br>/ʒə vɛ mɑ̃ʒe/	I am going to eat.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Tu vas voir.<br>/ty va vwaʁ/	You will see.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Il va pleuvoir.<br>/il va pløvwaʁ/	It is going to rain.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Nous allons partir demain.<br>/nuz‿alɔ̃ paʁtiʁ dəmɛ̃/	We are going to leave tomorrow.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Qu’est-ce que vous allez faire ?<br>/kɛs kə vuz‿ale fɛʁ/	What are you going to do?	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Comment allez-vous ?<br>/kɔmɑ̃t‿ale vu/	How are you? (polite, or to several people)	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Comment vas-tu ?<br>/kɔmɑ̃ va ty/	How are you? (to a friend)	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Comment ça va ? Ça va ?<br>/kɔmɑ̃ sa va, sa va/	How is it going? All right?	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Je vais bien, merci.<br>/ʒə vɛ bjɛ̃, mɛʁsi/	I am well, thank you.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Ça va mal.<br>/sa va mal/	Things are going badly.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Il va mieux.<br>/il va mjø/	He is better.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Cette robe te va bien.<br>/sɛt ʁɔb tə va bjɛ̃/	That dress suits you.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+aller à Paris, aller en France<br>/ale a paʁi, ale ɑ̃ fʁɑ̃s/	to go to Paris, to go to France	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+aller à pied, aller en voiture<br>/ale a pje, ale ɑ̃ vwatyʁ/	to go on foot, to go by car	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+aller chercher<br>/ale ʃɛʁʃe/	to go and get, to fetch	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+aller voir quelqu’un<br>/ale vwaʁ kɛlkœ̃/	to go and see someone	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+s’en aller<br>/sɑ̃n‿ale/	to go away, to leave	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Je m’en vais.<br>/ʒə mɑ̃ vɛ/	I am off.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+On y va ?<br>/ɔ̃n‿i va/	Shall we go?	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Allez !<br>/ale/	Come on!	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Ça va aller.<br>/sa va ale/	It will be all right.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+un aller simple, un aller-retour<br>/œ̃n‿ale sɛ̃pl, œ̃n‿ale ʁətuʁ/	a one-way ticket, a return ticket	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Je vais à l’école tous les jours.<br>/ʒə vɛ a lekɔl tu le ʒuʁ/	I go to school every day.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Tu vas où ?<br>/ty va u/	Where are you going?	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Elle va au travail à vélo.<br>/ɛl va o tʁavaj a velo/	She goes to work by bike.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Nous allons au cinéma ce soir.<br>/nuz‿alɔ̃ o sinema sə swaʁ/	We are going to the cinema tonight.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Vous allez bien ?<br>/vuz‿ale bjɛ̃/	Are you well?	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Ils vont à Varsovie en train.<br>/il vɔ̃ a vaʁsɔvi ɑ̃ tʁɛ̃/	They are going to Warsaw by train.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Je suis allé à Paris l’année dernière.<br>/ʒə sɥi(z)‿ale a paʁi lane dɛʁnjɛʁ/	I went to Paris last year.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+J’irai te voir dimanche.<br>/ʒiʁe tə vwaʁ dimɑ̃ʃ/	I will come and see you on Sunday.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Il faut que j’aille dormir.<br>/il fo kə ʒaj dɔʁmiʁ/	I must go to sleep.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Va dormir, il est tard !<br>/va dɔʁmiʁ, il ɛ taʁ/	Go to sleep, it is late!	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Je vais apprendre mille mots.<br>/ʒə vɛ apʁɑ̃dʁ mil mo/	I am going to learn a thousand words.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Je ________ bien, merci.<br>(AI exercise: fill in the form of aller)	/ʒə [vɛ] bjɛ̃, mɛʁsi/<br>I am well, thank you.	french 1000words aller fr-en exercise	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Tu ________ où ?<br>(AI exercise: fill in the form of aller)	/ty [va] u/<br>Where are you going?	french 1000words aller fr-en exercise	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Nous ________ à la maison.<br>(AI exercise: fill in the form of aller)	/nuz‿[alɔ̃] a la mɛzɔ̃/<br>We are going home.	french 1000words aller fr-en exercise	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Ils ________ au cinéma.<br>(AI exercise: fill in the form of aller)	/il [vɔ̃] o sinema/<br>They are going to the cinema.	french 1000words aller fr-en exercise	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Demain, j’________ à Paris.<br>(AI exercise: fill in the form of aller)	/dəmɛ̃, ʒ[iʁe] a paʁi/<br>Tomorrow I will go to Paris.	french 1000words aller fr-en exercise	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Il faut que j’________ dormir.<br>(AI exercise: fill in the form of aller)	/il fo kə ʒ[aj] dɔʁmiʁ/<br>I must go to sleep.	french 1000words aller fr-en exercise	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Comment ________-vous ?<br>(AI exercise: fill in the form of aller)	/kɔmɑ̃t‿[ale] vu/<br>How are you?	french 1000words aller fr-en exercise	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Je vais bien.<br>/ʒə vɛ bjɛ̃/	I am well: aller, because it is health.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Je suis à Paris.<br>/ʒə sɥi a paʁi/	I am in Paris: être, because it is a place.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Ça va mieux ?<br>/sa va mjø/	Is it going better: aller.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+Vous êtes prêts ?<br>/vuz‿ɛt pʁɛ/	Are you ready: être.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+devoir<br>/dəvwaʁ/	(v.) must, to have to, should; to owe	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+dois<br>/dwa/	(I, you) must, have to; owe: the je and tu form, irregular	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+dû<br>/dy/	had to; owed: the past participle, irregular	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Tu dois être plus prudent !<br>/ty dwa ɛtʁ ply pʁydɑ̃/	You have to be more careful!	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+je dois<br>/ʒə dwa/	I must, I have to; I owe	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+tu dois<br>/ty dwa/	you must	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+il doit, elle doit, on doit<br>/il dwa, ɛl dwa, ɔ̃ dwa/	he must, she must, one must	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+nous devons<br>/nu dəvɔ̃/	we must	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+vous devez<br>/vu dəve/	you must (plural, or polite)	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+ils doivent, elles doivent<br>/il dwav, ɛl dwav/	they must	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+j’ai dû<br>/ʒe dy/	I had to; I must have	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+je devais<br>/ʒə dəvɛ/	I had to, I was supposed to (imperfect)	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+je devrai<br>/ʒə dəvʁe/	I will have to	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+je devrais<br>/ʒə dəvʁɛ/	I should, I ought to	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+j’aurais dû<br>/ʒoʁɛ dy/	I should have	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+que je doive, que nous devions<br>/kə ʒə dwav, kə nu dəvjɔ̃/	that I must, that we must (subjunctive)	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+devoir faire quelque chose<br>/dəvwaʁ fɛʁ kɛlkə ʃoz/	to have to do something	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Ça doit être …<br>/sa dwa ɛtʁ/	It must be …	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Il doit y avoir …<br>/il dwa i avwaʁ/	There must be …	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Combien je vous dois ?<br>/kɔ̃bjɛ̃ ʒə vu dwa/	How much do I owe you?	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Je vous dois une explication.<br>/ʒə vu dwa yn‿ɛksplikasjɔ̃/	I owe you an explanation.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+comme il se doit<br>/kɔm il sə dwa/	as is proper	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+le devoir, les devoirs<br>/lə dəvwaʁ, le dəvwaʁ/	the duty; the homework	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+faire ses devoirs<br>/fɛʁ se dəvwaʁ/	to do one’s homework	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Je dois partir maintenant.<br>/ʒə dwa paʁtiʁ mɛ̃tnɑ̃/	I have to leave now.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Tu dois apprendre mille mots.<br>/ty dwa apʁɑ̃dʁ mil mo/	You have to learn a thousand words.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Il doit être fatigué.<br>/il dwa ɛtʁ fatiɡe/	He must be tired.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Nous devons parler français.<br>/nu dəvɔ̃ paʁle fʁɑ̃sɛ/	We have to speak French.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Vous devez répondre en français.<br>/vu dəve ʁepɔ̃dʁ ɑ̃ fʁɑ̃sɛ/	You must answer in French.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Ils doivent travailler demain.<br>/il dwav tʁavaje dəmɛ̃/	They have to work tomorrow.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Je te dois dix euros.<br>/ʒə tə dwa diz‿øʁo/	I owe you ten euros.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Elle lui doit la vie.<br>/ɛl lɥi dwa la vi/	She owes him her life.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+J’ai dû attendre une heure.<br>/ʒe dy atɑ̃dʁ yn œʁ/	I had to wait an hour.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Tu devrais dormir.<br>/ty dəvʁɛ dɔʁmiʁ/	You should sleep.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Il devait venir, mais il est malade.<br>/il dəvɛ vəniʁ, mɛ il ɛ malad/	He was supposed to come, but he is ill.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Tu aurais dû me le dire.<br>/ty oʁɛ dy mə lə diʁ/	You should have told me.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Tu ________ être plus prudent !<br>(AI exercise: fill in the form of devoir)	/ty [dwa] ɛtʁ ply pʁydɑ̃/<br>You have to be more careful!	french 1000words devoir fr-en exercise	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Nous ________ partir.<br>(AI exercise: fill in the form of devoir)	/nu [dəvɔ̃] paʁtiʁ/<br>We have to leave.	french 1000words devoir fr-en exercise	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Ils ________ travailler.<br>(AI exercise: fill in the form of devoir)	/il [dwav] tʁavaje/<br>They have to work.	french 1000words devoir fr-en exercise	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Je te ________ dix euros.<br>(AI exercise: fill in the form of devoir)	/ʒə tə [dwa] diz‿øʁo/<br>I owe you ten euros.	french 1000words devoir fr-en exercise	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+J’ai ________ attendre.<br>(AI exercise: fill in the form of devoir)	/ʒe [dy] atɑ̃dʁ/<br>I had to wait.	french 1000words devoir fr-en exercise	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Tu ________ dormir.<br>(AI exercise: fill in the form of devoir)	/ty [dəvʁɛ] dɔʁmiʁ/<br>You should sleep.	french 1000words devoir fr-en exercise	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Je dois dix euros à Marie.<br>/ʒə dwa diz‿øʁo a maʁi/	I owe Marie ten euros: owe.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Je dois aller dormir.<br>/ʒə dwa ale dɔʁmiʁ/	I have to go to sleep: must.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+Il doit être midi.<br>/il dwa ɛtʁ midi/	It must be noon: must, a probability.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+On lui doit beaucoup.<br>/ɔ̃ lɥi dwa boku/	We owe him a lot: owe.	french 1000words devoir fr-en	French::1000 words (FR-EN)::devoir — must, to have to; to owe
+dormir<br>/dɔʁmiʁ/	(v.) to sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+As-tu bien dormi ?<br>/aty bjɛ̃ dɔʁmi/	Did you sleep well?	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+je dors<br>/ʒə dɔʁ/	I sleep, I am sleeping	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+tu dors<br>/ty dɔʁ/	you sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+il dort, elle dort<br>/il dɔʁ, ɛl dɔʁ/	he sleeps, she sleeps	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+nous dormons<br>/nu dɔʁmɔ̃/	we sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+vous dormez<br>/vu dɔʁme/	you sleep (plural, or polite)	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+ils dorment, elles dorment<br>/il dɔʁm, ɛl dɔʁm/	they sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+j’ai dormi<br>/ʒe dɔʁmi/	I slept, I have slept	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+je dormais<br>/ʒə dɔʁmɛ/	I was sleeping, I used to sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+je dormirai<br>/ʒə dɔʁmiʁe/	I will sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+je dormirais<br>/ʒə dɔʁmiʁɛ/	I would sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+que je dorme<br>/kə ʒə dɔʁm/	that I sleep (subjunctive)	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Dors ! Dormons ! Dormez !<br>/dɔʁ, dɔʁmɔ̃, dɔʁme/	Sleep! Let’s sleep! Sleep! (imperative)	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+partir, je pars, nous partons<br>/paʁtiʁ, ʒə paʁ, nu paʁtɔ̃/	to leave, I leave, we leave	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+sortir, je sors, nous sortons<br>/sɔʁtiʁ, ʒə sɔʁ, nu sɔʁtɔ̃/	to go out, I go out, we go out	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+sentir, je sens, nous sentons<br>/sɑ̃tiʁ, ʒə sɑ̃, nu sɑ̃tɔ̃/	to feel, to smell; I feel, we feel	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+servir, je sers, nous servons<br>/sɛʁviʁ, ʒə sɛʁ, nu sɛʁvɔ̃/	to serve, I serve, we serve	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+mentir, je mens, nous mentons<br>/mɑ̃tiʁ, ʒə mɑ̃, nu mɑ̃tɔ̃/	to lie, I lie, we lie	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+dormir bien, dormir mal<br>/dɔʁmiʁ bjɛ̃, dɔʁmiʁ mal/	to sleep well, to sleep badly	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Dors bien ! Bonne nuit !<br>/dɔʁ bjɛ̃, bɔn nɥi/	Sleep well! Good night!	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+dormir comme un bébé<br>/dɔʁmiʁ kɔm œ̃ bebe/	to sleep like a baby	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+dormir comme un loir<br>/dɔʁmiʁ kɔm œ̃ lwaʁ/	to sleep like a log (literally, like a dormouse)	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+dormir debout<br>/dɔʁmiʁ dəbu/	to be asleep on one’s feet	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+une histoire à dormir debout<br>/yn‿istwaʁ a dɔʁmiʁ dəbu/	a cock-and-bull story	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+aller dormir<br>/ale dɔʁmiʁ/	to go to bed, to go to sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+s’endormir<br>/sɑ̃dɔʁmiʁ/	to fall asleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+avoir sommeil<br>/avwaʁ sɔmɛj/	to be sleepy	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+faire la grasse matinée<br>/fɛʁ la ɡʁas matine/	to sleep in	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+faire la sieste<br>/fɛʁ la sjɛst/	to take a nap	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Je dors huit heures par nuit.<br>/ʒə dɔʁ ɥit‿œʁ paʁ nɥi/	I sleep eight hours a night.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Tu dors encore ?<br>/ty dɔʁ ɑ̃kɔʁ/	Are you still sleeping?	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Le bébé dort dans sa chambre.<br>/lə bebe dɔʁ dɑ̃ sa ʃɑ̃bʁ/	The baby is sleeping in his room.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Nous dormons à l’hôtel ce soir.<br>/nu dɔʁmɔ̃ a lotɛl sə swaʁ/	We are sleeping at the hotel tonight.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Vous dormez trop peu.<br>/vu dɔʁme tʁo pø/	You sleep too little.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Les enfants dorment déjà.<br>/lez‿ɑ̃fɑ̃ dɔʁm deʒa/	The children are already asleep.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+J’ai mal dormi cette nuit.<br>/ʒe mal dɔʁmi sɛt nɥi/	I slept badly last night.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Je dois aller dormir.<br>/ʒə dwa ale dɔʁmiʁ/	I have to go to sleep.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Il s’est endormi devant la télé.<br>/il sɛ(t)‿ɑ̃dɔʁmi dəvɑ̃ la tele/	He fell asleep in front of the TV.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Je n’ai pas dormi de la nuit.<br>/ʒə ne pa dɔʁmi də la nɥi/	I didn’t sleep all night.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Chut, tout le monde dort !<br>/ʃyt, tu lə mɔ̃d dɔʁ/	Hush, everybody is sleeping!	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Je ________ bien.<br>(AI exercise: fill in the form of dormir)	/ʒə [dɔʁ] bjɛ̃/<br>I sleep well.	french 1000words dormir fr-en exercise	French::1000 words (FR-EN)::dormir — to sleep
+Nous ________ tard le dimanche.<br>(AI exercise: fill in the form of dormir)	/nu [dɔʁmɔ̃] taʁ lə dimɑ̃ʃ/<br>We sleep late on Sundays.	french 1000words dormir fr-en exercise	French::1000 words (FR-EN)::dormir — to sleep
+Les chats ________ beaucoup.<br>(AI exercise: fill in the form of dormir)	/le ʃa [dɔʁm] boku/<br>Cats sleep a lot.	french 1000words dormir fr-en exercise	French::1000 words (FR-EN)::dormir — to sleep
+As-tu bien ________ ?<br>(AI exercise: fill in the form of dormir)	/aty bjɛ̃ [dɔʁmi]/<br>Did you sleep well?	french 1000words dormir fr-en exercise	French::1000 words (FR-EN)::dormir — to sleep
+Hier, je ________ quand tu as appelé.<br>(AI exercise: fill in the form of dormir)	/jɛʁ, ʒə [dɔʁmɛ] kɑ̃ ty a aple/<br>Yesterday I was sleeping when you called.	french 1000words dormir fr-en exercise	French::1000 words (FR-EN)::dormir — to sleep
+partir → je pars<br>/paʁtiʁ, ʒə paʁ/	to leave → I leave	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+sortir → je sors<br>/sɔʁtiʁ, ʒə sɔʁ/	to go out → I go out	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+sentir → je sens<br>/sɑ̃tiʁ, ʒə sɑ̃/	to feel → I feel	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+servir → je sers<br>/sɛʁviʁ, ʒə sɛʁ/	to serve → I serve	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+être<br>/ɛtʁ/	(v.) to be; (n.m.) being, creature	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+sommes<br>/sɔm/	(we) are: the nous form, irregular	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+fus<br>/fy/	(I, you) was, were: the passé simple, irregular	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+soyez<br>/swaje/	be! (to several people); (that you) be: the imperative and the subjunctive, irregular	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Mère Nature est généreuse.<br>/mɛʁ natyʁ ɛ ʒeneʁøz/	Mother Nature is generous.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+je suis<br>/ʒə sɥi/	I am	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+tu es<br>/ty ɛ/	you are	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+il est, elle est, c’est<br>/il ɛ, ɛl ɛ, sɛ/	he is, she is, it is	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+nous sommes<br>/nu sɔm/	we are	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+vous êtes<br>/vuz‿ɛt/	you are (plural, or polite)	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+ils sont, elles sont, ce sont<br>/il sɔ̃, ɛl sɔ̃, sə sɔ̃/	they are	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+j’ai été<br>/ʒe ete/	I was, I have been	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+j’étais<br>/ʒetɛ/	I was (imperfect)	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+je serai<br>/ʒə səʁe/	I will be	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+je serais<br>/ʒə səʁɛ/	I would be	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+que je sois, que nous soyons, que vous soyez<br>/kə ʒə swa, kə nu swajɔ̃, kə vu swaje/	that I be, that we be, that you be (subjunctive)	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Sois ! Soyons ! Soyez !<br>/swa, swajɔ̃, swaje/	Be! Let’s be! Be! (imperative)	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+je fus, il fut<br>/ʒə fy, il fy/	I was, he was (passé simple, in books)	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Je suis allé à Paris.<br>/ʒə sɥi(z)‿ale a paʁi/	I went to Paris.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Elle est venue hier.<br>/ɛl ɛ vəny jɛʁ/	She came yesterday.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Ils sont partis tôt.<br>/il sɔ̃ paʁti to/	They left early.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Je me suis levé à sept heures.<br>/ʒə mə sɥi ləve a sɛt‿œʁ/	I got up at seven.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+J’ai faim. J’ai soif.<br>/ʒe fɛ̃, ʒe swaf/	I am hungry. I am thirsty.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+J’ai froid. J’ai chaud.<br>/ʒe fʁwa, ʒe ʃo/	I am cold. I am hot.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+J’ai vingt ans.<br>/ʒe vɛ̃t‿ɑ̃/	I am twenty.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+J’ai raison. Tu as tort.<br>/ʒe ʁɛzɔ̃, ty a tɔʁ/	I am right. You are wrong.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+J’ai sommeil.<br>/ʒe sɔmɛj/	I am sleepy.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+être en train de<br>/ɛtʁ ɑ̃ tʁɛ̃ də/	to be in the middle of (doing)	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+être d’accord<br>/ɛtʁ dakɔʁ/	to agree	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+être en retard, être à l’heure<br>/ɛtʁ ɑ̃ ʁətaʁ, ɛtʁ a lœʁ/	to be late, to be on time	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+être sur le point de<br>/ɛtʁ syʁ lə pwɛ̃ də/	to be about to	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+C’est ça.<br>/sɛ sa/	That’s it.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+N’est-ce pas ?<br>/nɛs pa/	Isn’t it?	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Qu’est-ce que c’est ?<br>/kɛs kə sɛ/	What is it?	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+peut-être<br>/pøtɛtʁ/	maybe	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+un être humain<br>/œ̃n‿ɛtʁ ymɛ̃/	a human being	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+un être cher<br>/œ̃n‿ɛtʁ ʃɛʁ/	a loved one	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+le bien-être<br>/lə bjɛ̃nɛtʁ/	well-being	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Je suis polonais.<br>/ʒə sɥi pɔlɔnɛ/	I am Polish.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Tu es prêt ?<br>/ty ɛ pʁɛ/	Are you ready?	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Il est médecin.<br>/il ɛ medsɛ̃/	He is a doctor.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Nous sommes à Paris.<br>/nu sɔm a paʁi/	We are in Paris.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Vous êtes très gentils.<br>/vuz‿ɛt tʁɛ ʒɑ̃ti/	You are very kind.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Elles sont fatiguées.<br>/ɛl sɔ̃ fatiɡe/	They are tired.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+C’est tout.<br>/sɛ tu/	That’s all.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Je suis sur internet.<br>/ʒə sɥi syʁ ɛ̃tɛʁnɛt/	I am on the internet.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Il est tard, je dois être au lit.<br>/il ɛ taʁ, ʒə dwa ɛtʁ o li/	It is late, I must be in bed.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+J’ai été malade toute la semaine.<br>/ʒe ete malad tut la səmɛn/	I was ill all week.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Sois sage !<br>/swa saʒ/	Be good!	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Soyez les bienvenus !<br>/swaje le bjɛ̃vny/	Welcome! (to several people)	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Il faut que tu sois à l’heure.<br>/il fo kə ty swa a lœʁ/	You must be on time.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Tous les hommes sont mortels.<br>/tu lez‿ɔm sɔ̃ mɔʁtɛl/	All men are mortal.	french 1000words etre fr-en	French::1000 words (FR-EN)::être — to be; a being
+Je ________ polonais.<br>(AI exercise: fill in the form of être)	/ʒə [sɥi] pɔlɔnɛ/<br>I am Polish.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Tu ________ prêt ?<br>(AI exercise: fill in the form of être)	/ty [ɛ] pʁɛ/<br>Are you ready?	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Nous ________ à Paris.<br>(AI exercise: fill in the form of être)	/nu [sɔm] a paʁi/<br>We are in Paris.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Vous ________ très gentils.<br>(AI exercise: fill in the form of être)	/vuz‿[ɛt] tʁɛ ʒɑ̃ti/<br>You are very kind.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Ils ________ fatigués.<br>(AI exercise: fill in the form of être)	/il [sɔ̃] fatiɡe/<br>They are tired.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Hier, j’________ malade.<br>(AI exercise: fill in the form of être)	/jɛʁ, ʒ[etɛ] malad/<br>Yesterday I was ill.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+________ sage !<br>(AI exercise: fill in the form of être)	/[swa] saʒ/<br>Be good!	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Il faut que vous ________ là.<br>(AI exercise: fill in the form of être)	/il fo kə vu [swaje] la/<br>You must be there.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+J’________ faim.<br>(AI exercise: être or avoir?)	/ʒ[e] fɛ̃/<br>I am hungry.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Je ________ fatigué.<br>(AI exercise: être or avoir?)	/ʒə [sɥi] fatiɡe/<br>I am tired.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Il ________ vingt ans.<br>(AI exercise: être or avoir?)	/il [a] vɛ̃t‿ɑ̃/<br>He is twenty.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Elle ________ médecin.<br>(AI exercise: être or avoir?)	/ɛl [ɛ] medsɛ̃/<br>She is a doctor.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+Nous ________ froid.<br>(AI exercise: être or avoir?)	/nuz‿[avɔ̃] fʁwa/<br>We are cold.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+sur<br>/syʁ/	(prep.) on, upon; on top of	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+Je suis sur internet.<br>/ʒə sɥi syʁ ɛ̃tɛʁnɛt/	I’m on the internet.	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur la table<br>/syʁ la tabl/	on the table	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur le lit<br>/syʁ lə li/	on the bed	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur le mur<br>/syʁ lə myʁ/	on the wall	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur la route<br>/syʁ la ʁut/	on the road	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur la plage<br>/syʁ la plaʒ/	on the beach	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur internet<br>/syʁ ɛ̃tɛʁnɛt/	on the internet	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur la photo<br>/syʁ la fɔto/	in the photo	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur la carte<br>/syʁ la kaʁt/	on the map	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur la page dix<br>/syʁ la paʒ dis/	on page ten	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur mon téléphone<br>/syʁ mɔ̃ telefɔn/	on my phone	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+La clé est sur la porte.<br>/la kle ɛ syʁ la pɔʁt/	The key is in the door.	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+un livre sur Paris<br>/œ̃ livʁ syʁ paʁi/	a book about Paris	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+une leçon sur les sons<br>/yn ləsɔ̃ syʁ le sɔ̃/	a lesson on sounds	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+neuf sur dix<br>/nœf syʁ dis/	nine out of ten	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+une fois sur deux<br>/yn fwa syʁ dø/	every other time, one time in two	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+un jour sur deux<br>/œ̃ ʒuʁ syʁ dø/	every other day	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+bien sûr<br>/bjɛ̃ syʁ/	of course	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur place<br>/syʁ plas/	on the spot, on site	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur le point de<br>/syʁ lə pwɛ̃ də/	about to	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur mesure<br>/syʁ məzyʁ/	made to measure	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur-le-champ<br>/syʁ lə ʃɑ̃/	at once	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+compter sur quelqu’un<br>/kɔ̃te syʁ kɛlkœ̃/	to count on someone	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+donner sur<br>/dɔne syʁ/	to look onto (of a window)	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur la gauche, sur la droite<br>/syʁ la ɡoʃ, syʁ la dʁwat/	on the left, on the right	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur – sous<br>/syʁ/ · /su/	on – under	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+sur – sûr<br>/syʁ/ · /syʁ/	on – sure	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+su – sous<br>/sy/ · /su/	known – under	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+tu – tout<br>/ty/ · /tu/	you – all	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+pur – pour<br>/pyʁ/ · /puʁ/	pure – for	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+rue – roue<br>/ʁy/ · /ʁu/	street – wheel	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+vu – vous<br>/vy/ · /vu/	seen – you	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+Le chat est sur le lit, le chien est sous la table.<br>/lə ʃa ɛ syʁ lə li, lə ʃjɛ̃ ɛ su la tabl/	The cat is on the bed, the dog is under the table.	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+Le livre est sur la table.<br>/lə livʁ ɛ syʁ la tabl/	The book is on the table.	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+Je suis sur internet toute la journée.<br>/ʒə sɥi syʁ ɛ̃tɛʁnɛt tut la ʒuʁne/	I am on the internet all day.	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+Qui est sur la photo ?<br>/ki ɛ syʁ la fɔto/	Who is in the photo?	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+Compte sur moi !<br>/kɔ̃t syʁ mwa/	Count on me!	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+La fenêtre donne sur la rue.<br>/la fənɛtʁ dɔn syʁ la ʁy/	The window looks onto the street.	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+Il dort sur le canapé.<br>/il dɔʁ syʁ lə kanape/	He is sleeping on the sofa.	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+J’ai lu un article sur la France.<br>/ʒe ly œ̃n‿aʁtikl syʁ la fʁɑ̃s/	I read an article about France.	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+Un Français sur deux a un chat.<br>/œ̃ fʁɑ̃sɛ syʁ dø a œ̃ ʃa/	One French person in two has a cat.	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+Nous sommes sur le point de partir.<br>/nu sɔm syʁ lə pwɛ̃ də paʁtiʁ/	We are about to leave.	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+Tu es sûr ? Bien sûr !<br>/ty ɛ syʁ, bjɛ̃ syʁ/	Are you sure? Of course!	french 1000words sur fr-en	French::1000 words (FR-EN)::sur — on, upon, on top of
+Le chat dort ________ le lit.<br>(AI exercise: sur, sous or dans?)	/lə ʃa dɔʁ [syʁ] lə li/<br>The cat is sleeping on the bed.	french 1000words sur fr-en exercise	French::1000 words (FR-EN)::sur — on, upon, on top of
+Le chien est ________ la table.<br>(AI exercise: sur, sous or dans?)	/lə ʃjɛ̃ ɛ [su] la tabl/<br>The dog is under the table.	french 1000words sur fr-en exercise	French::1000 words (FR-EN)::sur — on, upon, on top of
+Les clés sont ________ mon sac.<br>(AI exercise: sur, sous or dans?)	/le kle sɔ̃ [dɑ̃] mɔ̃ sak/<br>The keys are in my bag.	french 1000words sur fr-en exercise	French::1000 words (FR-EN)::sur — on, upon, on top of
+Je suis ________ internet.<br>(AI exercise: sur, sous or dans?)	/ʒə sɥi [syʁ] ɛ̃tɛʁnɛt/<br>I am on the internet.	french 1000words sur fr-en exercise	French::1000 words (FR-EN)::sur — on, upon, on top of
+Il y a une photo ________ le mur.<br>(AI exercise: sur, sous or dans?)	/il j a yn fɔto [syʁ] lə myʁ/<br>There is a photo on the wall.	french 1000words sur fr-en exercise	French::1000 words (FR-EN)::sur — on, upon, on top of
+Qui est ________ la photo ?<br>(AI exercise: sur, sous or dans?)	/ki ɛ [syʁ] la fɔto/<br>Who is in the photo?	french 1000words sur fr-en exercise	French::1000 words (FR-EN)::sur — on, upon, on top of
+tout<br>/tu/	(adj.) all, every; (n.m.) whole, entirety, total	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Tout homme est mortel.<br>/tut‿ɔm ɛ mɔʁtɛl/	Every man is mortal.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout le monde<br>/tu lə mɔ̃d/	everybody	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout le temps<br>/tu lə tɑ̃/	all the time	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+toute la journée<br>/tut la ʒuʁne/	all day long	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+toute la nuit<br>/tut la nɥi/	all night	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tous les jours<br>/tu le ʒuʁ/	every day	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tous mes amis<br>/tu mez‿ami/	all my friends	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+toutes les femmes<br>/tut le fam/	all the women	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+toutes les deux heures<br>/tut le døz‿œʁ/	every two hours	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tous les deux<br>/tu le dø/	both	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Ils sont tous là.<br>/il sɔ̃ tus la/	They are all here.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Merci à tous !<br>/mɛʁsi a tus/	Thank you all!	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Nous sommes tous d’accord.<br>/nu sɔm tus dakɔʁ/	We all agree.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout petit<br>/tu pəti/	very small	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout près<br>/tu pʁɛ/	very near	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout seul, toute seule<br>/tu sœl, tut sœl/	all alone (masculine, feminine)	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout droit<br>/tu dʁwa/	straight ahead	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout doucement<br>/tu dusmɑ̃/	very gently	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+C’est tout.<br>/sɛ tu/	That’s all.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+pas du tout<br>/pa dy tu/	not at all	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout à fait<br>/tut‿a fɛ/	quite, exactly	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout de suite<br>/tu də sɥit/	right away	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout à l’heure<br>/tut‿a lœʁ/	a moment ago; in a moment	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tout à coup<br>/tut‿a ku/	suddenly	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+en tout cas<br>/ɑ̃ tu ka/	in any case	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+après tout<br>/apʁɛ tu/	after all	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+malgré tout<br>/malɡʁe tu/	in spite of everything	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Tout va bien.<br>/tu va bjɛ̃/	Everything is fine.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+le tout<br>/lə tu/	the whole, the lot	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Tout est prêt.<br>/tut‿ɛ pʁɛ/	Everything is ready.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Tous mes amis dorment.<br>/tu mez‿ami dɔʁm/	All my friends are sleeping.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Je travaille toute la journée.<br>/ʒə tʁavaj tut la ʒuʁne/	I work all day.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Elle a tout compris.<br>/ɛl a tu kɔ̃pʁi/	She understood everything.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Tout le monde doit dormir.<br>/tu lə mɔ̃d dwa dɔʁmiʁ/	Everybody has to sleep.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Nous venons tous les jours.<br>/nu vənɔ̃ tu le ʒuʁ/	We come every day.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Ils sont tous sur internet.<br>/il sɔ̃ tus syʁ ɛ̃tɛʁnɛt/	They are all on the internet.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Toutes les chambres sont prêtes.<br>/tut le ʃɑ̃bʁ sɔ̃ pʁɛt/	All the rooms are ready.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Il est tout petit.<br>/il ɛ tu pəti/	He is very small.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Elle est toute seule.<br>/ɛl ɛ tut sœl/	She is all alone.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+C’est tout pour aujourd’hui.<br>/sɛ tu puʁ oʒuʁdɥi/	That’s all for today.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+________ le monde est là.<br>(AI exercise: tout, toute, tous or toutes?)	/[tu] lə mɔ̃d ɛ la/<br>Everybody is here.	french 1000words tout fr-en exercise	French::1000 words (FR-EN)::tout — all, every; the whole
+________ la famille dort.<br>(AI exercise: tout, toute, tous or toutes?)	/[tut] la famij dɔʁ/<br>The whole family is sleeping.	french 1000words tout fr-en exercise	French::1000 words (FR-EN)::tout — all, every; the whole
+________ les jours, je lis.<br>(AI exercise: tout, toute, tous or toutes?)	/[tu] le ʒuʁ, ʒə li/<br>Every day I read.	french 1000words tout fr-en exercise	French::1000 words (FR-EN)::tout — all, every; the whole
+________ les filles sont venues.<br>(AI exercise: tout, toute, tous or toutes?)	/[tut] le fij sɔ̃ vəny/<br>All the girls came.	french 1000words tout fr-en exercise	French::1000 words (FR-EN)::tout — all, every; the whole
+Ils sont ________ là.<br>(AI exercise: tout, toute, tous or toutes?)	/il sɔ̃ [tus] la/<br>They are all here.	french 1000words tout fr-en exercise	French::1000 words (FR-EN)::tout — all, every; the whole
+Elle est ________ seule.<br>(AI exercise: tout, toute, tous or toutes?)	/ɛl ɛ [tut] sœl/<br>She is all alone.	french 1000words tout fr-en exercise	French::1000 words (FR-EN)::tout — all, every; the whole
+tous les soirs<br>/tu le swaʁ/	every evening	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Bonsoir à tous !<br>/bɔ̃swaʁ a tus/	Good evening, everyone!	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+tous les enfants<br>/tu lez‿ɑ̃fɑ̃/	all the children	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+Ils dorment tous.<br>/il dɔʁm tus/	They are all sleeping.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
+venir<br>/vəniʁ/	(v.) to come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+viens<br>/vjɛ̃/	(I, you) come: the je and tu form, irregular	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+vienne<br>/vjɛn/	(that I) come: the subjunctive, irregular	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Venez immédiatement !<br>/vəne imedjatmɑ̃/	Come here immediately!	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+je viens<br>/ʒə vjɛ̃/	I come, I am coming	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+tu viens<br>/ty vjɛ̃/	you come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+il vient, elle vient<br>/il vjɛ̃, ɛl vjɛ̃/	he comes, she comes	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+nous venons<br>/nu vənɔ̃/	we come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+vous venez<br>/vu vəne/	you come (plural, or polite)	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+ils viennent, elles viennent<br>/il vjɛn, ɛl vjɛn/	they come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+je suis venu, je suis venue<br>/ʒə sɥi vəny/	I came (masculine, feminine)	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+je venais<br>/ʒə vənɛ/	I was coming, I used to come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+je viendrai<br>/ʒə vjɛ̃dʁe/	I will come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+je viendrais<br>/ʒə vjɛ̃dʁɛ/	I would come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+que je vienne, que nous venions<br>/kə ʒə vjɛn, kə nu vənjɔ̃/	that I come, that we come (subjunctive)	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Viens ! Venons ! Venez !<br>/vjɛ̃, vənɔ̃, vəne/	Come! Let’s come! Come! (imperative)	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Je viens de manger.<br>/ʒə vjɛ̃ də mɑ̃ʒe/	I have just eaten.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Il vient de partir.<br>/il vjɛ̃ də paʁtiʁ/	He has just left.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Nous venons d’arriver.<br>/nu vənɔ̃ daʁive/	We have just arrived.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Elle venait de se réveiller.<br>/ɛl vənɛ də sə ʁeveje/	She had just woken up.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Je viens de Pologne.<br>/ʒə vjɛ̃ də pɔlɔɲ/	I come from Poland.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Il vient de Paris.<br>/il vjɛ̃ də paʁi/	He is from Paris.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Elle vient du Canada.<br>/ɛl vjɛ̃ dy kanada/	She is from Canada.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Nous venons des États-Unis.<br>/nu vənɔ̃ dez‿etazyni/	We are from the United States.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+venir voir quelqu’un<br>/vəniʁ vwaʁ kɛlkœ̃/	to come and see someone	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+venir chercher<br>/vəniʁ ʃɛʁʃe/	to come and get, to pick up	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+faire venir<br>/fɛʁ vəniʁ/	to send for	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Viens ici !<br>/vjɛ̃ isi/	Come here!	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Ça vient ?<br>/sa vjɛ̃/	Is it coming? Hurry up!	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+les années à venir<br>/lez‿ane a vəniʁ/	the years to come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Où veux-tu en venir ?<br>/u vø ty ɑ̃ vəniʁ/	What are you getting at?	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+tenir, je tiens, nous tenons<br>/təniʁ, ʒə tjɛ̃, nu tənɔ̃/	to hold, I hold, we hold	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+devenir, je deviens<br>/dəvniʁ, ʒə dəvjɛ̃/	to become, I become	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+revenir, je reviens<br>/ʁəvniʁ, ʒə ʁəvjɛ̃/	to come back, I come back	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+se souvenir, je me souviens<br>/sə suvniʁ, ʒə mə suvjɛ̃/	to remember, I remember	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+prévenir, je préviens<br>/pʁevniʁ, ʒə pʁevjɛ̃/	to warn, I warn	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+l’avenir<br>/lavniʁ/	the future	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Bienvenue !<br>/bjɛ̃vny/	Welcome!	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Je viens tout de suite.<br>/ʒə vjɛ̃ tu də sɥit/	I am coming right away.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Tu viens avec nous ?<br>/ty vjɛ̃ avɛk nu/	Are you coming with us?	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Il vient à Varsovie tous les ans.<br>/il vjɛ̃ a vaʁsɔvi tu lez‿ɑ̃/	He comes to Warsaw every year.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Nous venons de finir la leçon.<br>/nu vənɔ̃ də finiʁ la ləsɔ̃/	We have just finished the lesson.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Vous venez d’où ?<br>/vu vəne du/	Where are you from?	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Mes amis viennent dîner ce soir.<br>/mez‿ami vjɛn dine sə swaʁ/	My friends are coming to dinner tonight.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Elle est venue me voir hier.<br>/ɛl ɛ vəny mə vwaʁ jɛʁ/	She came to see me yesterday.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Je viendrai dormir chez toi.<br>/ʒə vjɛ̃dʁe dɔʁmiʁ ʃe twa/	I will come and sleep at your place.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Il faut que tu viennes immédiatement.<br>/il fo kə ty vjɛn imedjatmɑ̃/	You must come immediately.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Viens, on va dormir.<br>/vjɛ̃, ɔ̃ va dɔʁmiʁ/	Come on, we are going to sleep.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Je ________ de Pologne.<br>(AI exercise: fill in the form of venir)	/ʒə [vjɛ̃] də pɔlɔɲ/<br>I come from Poland.	french 1000words venir fr-en exercise	French::1000 words (FR-EN)::venir — to come
+Nous ________ de manger.<br>(AI exercise: fill in the form of venir)	/nu [vənɔ̃] də mɑ̃ʒe/<br>We have just eaten.	french 1000words venir fr-en exercise	French::1000 words (FR-EN)::venir — to come
+Ils ________ demain.<br>(AI exercise: fill in the form of venir)	/il [vjɛn] dəmɛ̃/<br>They are coming tomorrow.	french 1000words venir fr-en exercise	French::1000 words (FR-EN)::venir — to come
+________ ici !<br>(AI exercise: fill in the form of venir)	/[vjɛ̃] isi/<br>Come here! (to a friend)	french 1000words venir fr-en exercise	French::1000 words (FR-EN)::venir — to come
+Il faut que tu ________.<br>(AI exercise: fill in the form of venir)	/il fo kə ty [vjɛn]/<br>You must come.	french 1000words venir fr-en exercise	French::1000 words (FR-EN)::venir — to come
+Elle est ________ hier.<br>(AI exercise: fill in the form of venir)	/ɛl ɛ [vəny] jɛʁ/<br>She came yesterday.	french 1000words venir fr-en exercise	French::1000 words (FR-EN)::venir — to come
+il vient<br>/il vjɛ̃/	he comes: the nasal alone	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+ils viennent<br>/il vjɛn/	they come: the n is said	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+que tu viennes<br>/kə ty vjɛn/	that you come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come

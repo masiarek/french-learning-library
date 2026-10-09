@@ -1,0 +1,18 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::devoir — must, to have to; to owe::Challenges
+#tags:french 1000words devoir challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: You have to be more careful!	Tu dois être plus prudent ! /ty dwa ɛtʁ ply pʁydɑ̃/	say
+Say: I owe you ten euros.	Je te dois dix euros. /ʒə tə dwa diz‿øʁo/	say
+Say: You should sleep.	Tu devrais dormir. /ty dəvʁɛ dɔʁmiʁ/	say
+Say: I had to wait an hour.	J’ai dû attendre une heure. /ʒe dy atɑ̃dʁ yn œʁ/	say
+Say: How much do I owe you?	Combien je vous dois ? /kɔ̃bjɛ̃ ʒə vu dwa/	say
+The present of devoir, all six forms	je dois, tu dois, il doit, nous devons, vous devez, ils doivent /ʒə dwa, ty dwa, il dwa, nu dəvɔ̃, vu dəve, il dwav/	grammar
+Why dû with a circumflex?	To tell it from du, the contracted article (le lit du garçon): dû /dy/ had to, du /dy/ of the; the feminine due and plurals dus, dues drop the accent	grammar
+How do you say should in French?	With the conditional of devoir: je devrais /ʒə dəvʁɛ/ I should; and should have is j’aurais dû /ʒoʁɛ dy/	grammar
+Il doit être malade: which must is this?	Probability, he must be ill; devoir covers both must of obligation (tu dois partir) and must of probability	grammar
+Two senses of devoir in one sentence each	Je dois partir /ʒə dwa paʁtiʁ/ I have to leave; je te dois dix euros /ʒə tə dwa diz‿øʁo/ I owe you ten euros	words
+The noun that looks like the verb	le devoir /lə dəvwaʁ/ duty, les devoirs /le dəvwaʁ/ homework: faire ses devoirs	words

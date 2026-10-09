@@ -1,0 +1,62 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::aller — to go; to be (feeling)
+#tags:french 1000words aller en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(v.) to go (somewhere); to be (feeling)	aller<br>/ale/	en-fr
+(I) go: the je form, irregular	vais<br>/vɛ/	en-fr
+(I) will go: the future, irregular	irai<br>/iʁe/	en-fr
+(that I) go: the subjunctive, irregular	aille<br>/aj/	en-fr
+I have to go to sleep.	Je dois aller dormir.<br>/ʒə dwa ale dɔʁmiʁ/	en-fr
+I go, I am going	je vais<br>/ʒə vɛ/	en-fr
+you go	tu vas<br>/ty va/	en-fr
+he goes, she goes, one goes	il va, elle va, on va<br>/il va, ɛl va, ɔ̃ va/	en-fr
+we go	nous allons<br>/nuz‿alɔ̃/	en-fr
+you go (plural, or polite)	vous allez<br>/vuz‿ale/	en-fr
+they go	ils vont, elles vont<br>/il vɔ̃, ɛl vɔ̃/	en-fr
+I went (masculine, feminine)	je suis allé, je suis allée<br>/ʒə sɥi(z)‿ale/	en-fr
+I was going, I used to go	j’allais<br>/ʒalɛ/	en-fr
+I will go	j’irai<br>/ʒiʁe/	en-fr
+I would go	j’irais<br>/ʒiʁɛ/	en-fr
+that I go, that we go (subjunctive)	que j’aille, que nous allions<br>/kə ʒaj, kə nuz‿aljɔ̃/	en-fr
+Go! Let’s go! Go! (imperative)	Va ! Allons ! Allez !<br>/va, alɔ̃, ale/	en-fr
+Go on! Let’s go! Go ahead!	Vas-y ! Allons-y ! Allez-y !<br>/vazi, alɔ̃zi, alezi/	en-fr
+I am going to eat.	Je vais manger.<br>/ʒə vɛ mɑ̃ʒe/	en-fr
+You will see.	Tu vas voir.<br>/ty va vwaʁ/	en-fr
+It is going to rain.	Il va pleuvoir.<br>/il va pløvwaʁ/	en-fr
+We are going to leave tomorrow.	Nous allons partir demain.<br>/nuz‿alɔ̃ paʁtiʁ dəmɛ̃/	en-fr
+What are you going to do?	Qu’est-ce que vous allez faire ?<br>/kɛs kə vuz‿ale fɛʁ/	en-fr
+How are you? (polite, or to several people)	Comment allez-vous ?<br>/kɔmɑ̃t‿ale vu/	en-fr
+How are you? (to a friend)	Comment vas-tu ?<br>/kɔmɑ̃ va ty/	en-fr
+How is it going? All right?	Comment ça va ? Ça va ?<br>/kɔmɑ̃ sa va, sa va/	en-fr
+I am well, thank you.	Je vais bien, merci.<br>/ʒə vɛ bjɛ̃, mɛʁsi/	en-fr
+Things are going badly.	Ça va mal.<br>/sa va mal/	en-fr
+He is better.	Il va mieux.<br>/il va mjø/	en-fr
+That dress suits you.	Cette robe te va bien.<br>/sɛt ʁɔb tə va bjɛ̃/	en-fr
+to go to Paris, to go to France	aller à Paris, aller en France<br>/ale a paʁi, ale ɑ̃ fʁɑ̃s/	en-fr
+to go on foot, to go by car	aller à pied, aller en voiture<br>/ale a pje, ale ɑ̃ vwatyʁ/	en-fr
+to go and get, to fetch	aller chercher<br>/ale ʃɛʁʃe/	en-fr
+to go and see someone	aller voir quelqu’un<br>/ale vwaʁ kɛlkœ̃/	en-fr
+to go away, to leave	s’en aller<br>/sɑ̃n‿ale/	en-fr
+I am off.	Je m’en vais.<br>/ʒə mɑ̃ vɛ/	en-fr
+Shall we go?	On y va ?<br>/ɔ̃n‿i va/	en-fr
+Come on!	Allez !<br>/ale/	en-fr
+It will be all right.	Ça va aller.<br>/sa va ale/	en-fr
+a one-way ticket, a return ticket	un aller simple, un aller-retour<br>/œ̃n‿ale sɛ̃pl, œ̃n‿ale ʁətuʁ/	en-fr
+I go to school every day.	Je vais à l’école tous les jours.<br>/ʒə vɛ a lekɔl tu le ʒuʁ/	en-fr
+Where are you going?	Tu vas où ?<br>/ty va u/	en-fr
+She goes to work by bike.	Elle va au travail à vélo.<br>/ɛl va o tʁavaj a velo/	en-fr
+We are going to the cinema tonight.	Nous allons au cinéma ce soir.<br>/nuz‿alɔ̃ o sinema sə swaʁ/	en-fr
+Are you well?	Vous allez bien ?<br>/vuz‿ale bjɛ̃/	en-fr
+They are going to Warsaw by train.	Ils vont à Varsovie en train.<br>/il vɔ̃ a vaʁsɔvi ɑ̃ tʁɛ̃/	en-fr
+I went to Paris last year.	Je suis allé à Paris l’année dernière.<br>/ʒə sɥi(z)‿ale a paʁi lane dɛʁnjɛʁ/	en-fr
+I will come and see you on Sunday.	J’irai te voir dimanche.<br>/ʒiʁe tə vwaʁ dimɑ̃ʃ/	en-fr
+I must go to sleep.	Il faut que j’aille dormir.<br>/il fo kə ʒaj dɔʁmiʁ/	en-fr
+Go to sleep, it is late!	Va dormir, il est tard !<br>/va dɔʁmiʁ, il ɛ taʁ/	en-fr
+I am going to learn a thousand words.	Je vais apprendre mille mots.<br>/ʒə vɛ apʁɑ̃dʁ mil mo/	en-fr
+I am well: aller, because it is health.	Je vais bien.<br>/ʒə vɛ bjɛ̃/	en-fr
+I am in Paris: être, because it is a place.	Je suis à Paris.<br>/ʒə sɥi a paʁi/	en-fr
+Is it going better: aller.	Ça va mieux ?<br>/sa va mjø/	en-fr
+Are you ready: être.	Vous êtes prêts ?<br>/vuz‿ɛt pʁɛ/	en-fr

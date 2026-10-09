@@ -1,0 +1,56 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+dormir<br>/dɔʁmiʁ/	(v.) to sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+As-tu bien dormi ?<br>/aty bjɛ̃ dɔʁmi/	Did you sleep well?	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+je dors<br>/ʒə dɔʁ/	I sleep, I am sleeping	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+tu dors<br>/ty dɔʁ/	you sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+il dort, elle dort<br>/il dɔʁ, ɛl dɔʁ/	he sleeps, she sleeps	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+nous dormons<br>/nu dɔʁmɔ̃/	we sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+vous dormez<br>/vu dɔʁme/	you sleep (plural, or polite)	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+ils dorment, elles dorment<br>/il dɔʁm, ɛl dɔʁm/	they sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+j’ai dormi<br>/ʒe dɔʁmi/	I slept, I have slept	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+je dormais<br>/ʒə dɔʁmɛ/	I was sleeping, I used to sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+je dormirai<br>/ʒə dɔʁmiʁe/	I will sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+je dormirais<br>/ʒə dɔʁmiʁɛ/	I would sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+que je dorme<br>/kə ʒə dɔʁm/	that I sleep (subjunctive)	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Dors ! Dormons ! Dormez !<br>/dɔʁ, dɔʁmɔ̃, dɔʁme/	Sleep! Let’s sleep! Sleep! (imperative)	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+partir, je pars, nous partons<br>/paʁtiʁ, ʒə paʁ, nu paʁtɔ̃/	to leave, I leave, we leave	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+sortir, je sors, nous sortons<br>/sɔʁtiʁ, ʒə sɔʁ, nu sɔʁtɔ̃/	to go out, I go out, we go out	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+sentir, je sens, nous sentons<br>/sɑ̃tiʁ, ʒə sɑ̃, nu sɑ̃tɔ̃/	to feel, to smell; I feel, we feel	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+servir, je sers, nous servons<br>/sɛʁviʁ, ʒə sɛʁ, nu sɛʁvɔ̃/	to serve, I serve, we serve	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+mentir, je mens, nous mentons<br>/mɑ̃tiʁ, ʒə mɑ̃, nu mɑ̃tɔ̃/	to lie, I lie, we lie	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+dormir bien, dormir mal<br>/dɔʁmiʁ bjɛ̃, dɔʁmiʁ mal/	to sleep well, to sleep badly	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Dors bien ! Bonne nuit !<br>/dɔʁ bjɛ̃, bɔn nɥi/	Sleep well! Good night!	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+dormir comme un bébé<br>/dɔʁmiʁ kɔm œ̃ bebe/	to sleep like a baby	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+dormir comme un loir<br>/dɔʁmiʁ kɔm œ̃ lwaʁ/	to sleep like a log (literally, like a dormouse)	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+dormir debout<br>/dɔʁmiʁ dəbu/	to be asleep on one’s feet	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+une histoire à dormir debout<br>/yn‿istwaʁ a dɔʁmiʁ dəbu/	a cock-and-bull story	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+aller dormir<br>/ale dɔʁmiʁ/	to go to bed, to go to sleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+s’endormir<br>/sɑ̃dɔʁmiʁ/	to fall asleep	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+avoir sommeil<br>/avwaʁ sɔmɛj/	to be sleepy	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+faire la grasse matinée<br>/fɛʁ la ɡʁas matine/	to sleep in	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+faire la sieste<br>/fɛʁ la sjɛst/	to take a nap	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Je dors huit heures par nuit.<br>/ʒə dɔʁ ɥit‿œʁ paʁ nɥi/	I sleep eight hours a night.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Tu dors encore ?<br>/ty dɔʁ ɑ̃kɔʁ/	Are you still sleeping?	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Le bébé dort dans sa chambre.<br>/lə bebe dɔʁ dɑ̃ sa ʃɑ̃bʁ/	The baby is sleeping in his room.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Nous dormons à l’hôtel ce soir.<br>/nu dɔʁmɔ̃ a lotɛl sə swaʁ/	We are sleeping at the hotel tonight.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Vous dormez trop peu.<br>/vu dɔʁme tʁo pø/	You sleep too little.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Les enfants dorment déjà.<br>/lez‿ɑ̃fɑ̃ dɔʁm deʒa/	The children are already asleep.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+J’ai mal dormi cette nuit.<br>/ʒe mal dɔʁmi sɛt nɥi/	I slept badly last night.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Je dois aller dormir.<br>/ʒə dwa ale dɔʁmiʁ/	I have to go to sleep.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Il s’est endormi devant la télé.<br>/il sɛ(t)‿ɑ̃dɔʁmi dəvɑ̃ la tele/	He fell asleep in front of the TV.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Je n’ai pas dormi de la nuit.<br>/ʒə ne pa dɔʁmi də la nɥi/	I didn’t sleep all night.	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Chut, tout le monde dort !<br>/ʃyt, tu lə mɔ̃d dɔʁ/	Hush, everybody is sleeping!	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+Je ________ bien.<br>(AI exercise: fill in the form of dormir)	/ʒə [dɔʁ] bjɛ̃/<br>I sleep well.	french 1000words dormir fr-en exercise	French::1000 words (FR-EN)::dormir — to sleep
+Nous ________ tard le dimanche.<br>(AI exercise: fill in the form of dormir)	/nu [dɔʁmɔ̃] taʁ lə dimɑ̃ʃ/<br>We sleep late on Sundays.	french 1000words dormir fr-en exercise	French::1000 words (FR-EN)::dormir — to sleep
+Les chats ________ beaucoup.<br>(AI exercise: fill in the form of dormir)	/le ʃa [dɔʁm] boku/<br>Cats sleep a lot.	french 1000words dormir fr-en exercise	French::1000 words (FR-EN)::dormir — to sleep
+As-tu bien ________ ?<br>(AI exercise: fill in the form of dormir)	/aty bjɛ̃ [dɔʁmi]/<br>Did you sleep well?	french 1000words dormir fr-en exercise	French::1000 words (FR-EN)::dormir — to sleep
+Hier, je ________ quand tu as appelé.<br>(AI exercise: fill in the form of dormir)	/jɛʁ, ʒə [dɔʁmɛ] kɑ̃ ty a aple/<br>Yesterday I was sleeping when you called.	french 1000words dormir fr-en exercise	French::1000 words (FR-EN)::dormir — to sleep
+partir → je pars<br>/paʁtiʁ, ʒə paʁ/	to leave → I leave	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+sortir → je sors<br>/sɔʁtiʁ, ʒə sɔʁ/	to go out → I go out	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+sentir → je sens<br>/sɑ̃tiʁ, ʒə sɑ̃/	to feel → I feel	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep
+servir → je sers<br>/sɛʁviʁ, ʒə sɛʁ/	to serve → I serve	french 1000words dormir fr-en	French::1000 words (FR-EN)::dormir — to sleep

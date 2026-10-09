@@ -1,0 +1,52 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::dormir — to sleep
+#tags:french 1000words dormir en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(v.) to sleep	dormir<br>/dɔʁmiʁ/	en-fr
+Did you sleep well?	As-tu bien dormi ?<br>/aty bjɛ̃ dɔʁmi/	en-fr
+I sleep, I am sleeping	je dors<br>/ʒə dɔʁ/	en-fr
+you sleep	tu dors<br>/ty dɔʁ/	en-fr
+he sleeps, she sleeps	il dort, elle dort<br>/il dɔʁ, ɛl dɔʁ/	en-fr
+we sleep	nous dormons<br>/nu dɔʁmɔ̃/	en-fr
+you sleep (plural, or polite)	vous dormez<br>/vu dɔʁme/	en-fr
+they sleep	ils dorment, elles dorment<br>/il dɔʁm, ɛl dɔʁm/	en-fr
+I slept, I have slept	j’ai dormi<br>/ʒe dɔʁmi/	en-fr
+I was sleeping, I used to sleep	je dormais<br>/ʒə dɔʁmɛ/	en-fr
+I will sleep	je dormirai<br>/ʒə dɔʁmiʁe/	en-fr
+I would sleep	je dormirais<br>/ʒə dɔʁmiʁɛ/	en-fr
+that I sleep (subjunctive)	que je dorme<br>/kə ʒə dɔʁm/	en-fr
+Sleep! Let’s sleep! Sleep! (imperative)	Dors ! Dormons ! Dormez !<br>/dɔʁ, dɔʁmɔ̃, dɔʁme/	en-fr
+to leave, I leave, we leave	partir, je pars, nous partons<br>/paʁtiʁ, ʒə paʁ, nu paʁtɔ̃/	en-fr
+to go out, I go out, we go out	sortir, je sors, nous sortons<br>/sɔʁtiʁ, ʒə sɔʁ, nu sɔʁtɔ̃/	en-fr
+to feel, to smell; I feel, we feel	sentir, je sens, nous sentons<br>/sɑ̃tiʁ, ʒə sɑ̃, nu sɑ̃tɔ̃/	en-fr
+to serve, I serve, we serve	servir, je sers, nous servons<br>/sɛʁviʁ, ʒə sɛʁ, nu sɛʁvɔ̃/	en-fr
+to lie, I lie, we lie	mentir, je mens, nous mentons<br>/mɑ̃tiʁ, ʒə mɑ̃, nu mɑ̃tɔ̃/	en-fr
+to sleep well, to sleep badly	dormir bien, dormir mal<br>/dɔʁmiʁ bjɛ̃, dɔʁmiʁ mal/	en-fr
+Sleep well! Good night!	Dors bien ! Bonne nuit !<br>/dɔʁ bjɛ̃, bɔn nɥi/	en-fr
+to sleep like a baby	dormir comme un bébé<br>/dɔʁmiʁ kɔm œ̃ bebe/	en-fr
+to sleep like a log (literally, like a dormouse)	dormir comme un loir<br>/dɔʁmiʁ kɔm œ̃ lwaʁ/	en-fr
+to be asleep on one’s feet	dormir debout<br>/dɔʁmiʁ dəbu/	en-fr
+a cock-and-bull story	une histoire à dormir debout<br>/yn‿istwaʁ a dɔʁmiʁ dəbu/	en-fr
+to go to bed, to go to sleep	aller dormir<br>/ale dɔʁmiʁ/	en-fr
+to fall asleep	s’endormir<br>/sɑ̃dɔʁmiʁ/	en-fr
+to be sleepy	avoir sommeil<br>/avwaʁ sɔmɛj/	en-fr
+to sleep in	faire la grasse matinée<br>/fɛʁ la ɡʁas matine/	en-fr
+to take a nap	faire la sieste<br>/fɛʁ la sjɛst/	en-fr
+I sleep eight hours a night.	Je dors huit heures par nuit.<br>/ʒə dɔʁ ɥit‿œʁ paʁ nɥi/	en-fr
+Are you still sleeping?	Tu dors encore ?<br>/ty dɔʁ ɑ̃kɔʁ/	en-fr
+The baby is sleeping in his room.	Le bébé dort dans sa chambre.<br>/lə bebe dɔʁ dɑ̃ sa ʃɑ̃bʁ/	en-fr
+We are sleeping at the hotel tonight.	Nous dormons à l’hôtel ce soir.<br>/nu dɔʁmɔ̃ a lotɛl sə swaʁ/	en-fr
+You sleep too little.	Vous dormez trop peu.<br>/vu dɔʁme tʁo pø/	en-fr
+The children are already asleep.	Les enfants dorment déjà.<br>/lez‿ɑ̃fɑ̃ dɔʁm deʒa/	en-fr
+I slept badly last night.	J’ai mal dormi cette nuit.<br>/ʒe mal dɔʁmi sɛt nɥi/	en-fr
+I have to go to sleep.	Je dois aller dormir.<br>/ʒə dwa ale dɔʁmiʁ/	en-fr
+He fell asleep in front of the TV.	Il s’est endormi devant la télé.<br>/il sɛ(t)‿ɑ̃dɔʁmi dəvɑ̃ la tele/	en-fr
+I didn’t sleep all night.	Je n’ai pas dormi de la nuit.<br>/ʒə ne pa dɔʁmi də la nɥi/	en-fr
+Hush, everybody is sleeping!	Chut, tout le monde dort !<br>/ʃyt, tu lə mɔ̃d dɔʁ/	en-fr
+to leave → I leave	partir → je pars<br>/paʁtiʁ, ʒə paʁ/	en-fr
+to go out → I go out	sortir → je sors<br>/sɔʁtiʁ, ʒə sɔʁ/	en-fr
+to feel → I feel	sentir → je sens<br>/sɑ̃tiʁ, ʒə sɑ̃/	en-fr
+to serve → I serve	servir → je sers<br>/sɛʁviʁ, ʒə sɛʁ/	en-fr

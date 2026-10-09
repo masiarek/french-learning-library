@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::venir — to come
+#tags:french 1000words venir en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(v.) to come	venir<br>/vəniʁ/	en-fr
+(I, you) come: the je and tu form, irregular	viens<br>/vjɛ̃/	en-fr
+(that I) come: the subjunctive, irregular	vienne<br>/vjɛn/	en-fr
+Come here immediately!	Venez immédiatement !<br>/vəne imedjatmɑ̃/	en-fr
+I come, I am coming	je viens<br>/ʒə vjɛ̃/	en-fr
+you come	tu viens<br>/ty vjɛ̃/	en-fr
+he comes, she comes	il vient, elle vient<br>/il vjɛ̃, ɛl vjɛ̃/	en-fr
+we come	nous venons<br>/nu vənɔ̃/	en-fr
+you come (plural, or polite)	vous venez<br>/vu vəne/	en-fr
+they come	ils viennent, elles viennent<br>/il vjɛn, ɛl vjɛn/	en-fr
+I came (masculine, feminine)	je suis venu, je suis venue<br>/ʒə sɥi vəny/	en-fr
+I was coming, I used to come	je venais<br>/ʒə vənɛ/	en-fr
+I will come	je viendrai<br>/ʒə vjɛ̃dʁe/	en-fr
+I would come	je viendrais<br>/ʒə vjɛ̃dʁɛ/	en-fr
+that I come, that we come (subjunctive)	que je vienne, que nous venions<br>/kə ʒə vjɛn, kə nu vənjɔ̃/	en-fr
+Come! Let’s come! Come! (imperative)	Viens ! Venons ! Venez !<br>/vjɛ̃, vənɔ̃, vəne/	en-fr
+I have just eaten.	Je viens de manger.<br>/ʒə vjɛ̃ də mɑ̃ʒe/	en-fr
+He has just left.	Il vient de partir.<br>/il vjɛ̃ də paʁtiʁ/	en-fr
+We have just arrived.	Nous venons d’arriver.<br>/nu vənɔ̃ daʁive/	en-fr
+She had just woken up.	Elle venait de se réveiller.<br>/ɛl vənɛ də sə ʁeveje/	en-fr
+I come from Poland.	Je viens de Pologne.<br>/ʒə vjɛ̃ də pɔlɔɲ/	en-fr
+He is from Paris.	Il vient de Paris.<br>/il vjɛ̃ də paʁi/	en-fr
+She is from Canada.	Elle vient du Canada.<br>/ɛl vjɛ̃ dy kanada/	en-fr
+We are from the United States.	Nous venons des États-Unis.<br>/nu vənɔ̃ dez‿etazyni/	en-fr
+to come and see someone	venir voir quelqu’un<br>/vəniʁ vwaʁ kɛlkœ̃/	en-fr
+to come and get, to pick up	venir chercher<br>/vəniʁ ʃɛʁʃe/	en-fr
+to send for	faire venir<br>/fɛʁ vəniʁ/	en-fr
+Come here!	Viens ici !<br>/vjɛ̃ isi/	en-fr
+Is it coming? Hurry up!	Ça vient ?<br>/sa vjɛ̃/	en-fr
+the years to come	les années à venir<br>/lez‿ane a vəniʁ/	en-fr
+What are you getting at?	Où veux-tu en venir ?<br>/u vø ty ɑ̃ vəniʁ/	en-fr
+to hold, I hold, we hold	tenir, je tiens, nous tenons<br>/təniʁ, ʒə tjɛ̃, nu tənɔ̃/	en-fr
+to become, I become	devenir, je deviens<br>/dəvniʁ, ʒə dəvjɛ̃/	en-fr
+to come back, I come back	revenir, je reviens<br>/ʁəvniʁ, ʒə ʁəvjɛ̃/	en-fr
+to remember, I remember	se souvenir, je me souviens<br>/sə suvniʁ, ʒə mə suvjɛ̃/	en-fr
+to warn, I warn	prévenir, je préviens<br>/pʁevniʁ, ʒə pʁevjɛ̃/	en-fr
+the future	l’avenir<br>/lavniʁ/	en-fr
+Welcome!	Bienvenue !<br>/bjɛ̃vny/	en-fr
+I am coming right away.	Je viens tout de suite.<br>/ʒə vjɛ̃ tu də sɥit/	en-fr
+Are you coming with us?	Tu viens avec nous ?<br>/ty vjɛ̃ avɛk nu/	en-fr
+He comes to Warsaw every year.	Il vient à Varsovie tous les ans.<br>/il vjɛ̃ a vaʁsɔvi tu lez‿ɑ̃/	en-fr
+We have just finished the lesson.	Nous venons de finir la leçon.<br>/nu vənɔ̃ də finiʁ la ləsɔ̃/	en-fr
+Where are you from?	Vous venez d’où ?<br>/vu vəne du/	en-fr
+My friends are coming to dinner tonight.	Mes amis viennent dîner ce soir.<br>/mez‿ami vjɛn dine sə swaʁ/	en-fr
+She came to see me yesterday.	Elle est venue me voir hier.<br>/ɛl ɛ vəny mə vwaʁ jɛʁ/	en-fr
+I will come and sleep at your place.	Je viendrai dormir chez toi.<br>/ʒə vjɛ̃dʁe dɔʁmiʁ ʃe twa/	en-fr
+You must come immediately.	Il faut que tu viennes immédiatement.<br>/il fo kə ty vjɛn imedjatmɑ̃/	en-fr
+Come on, we are going to sleep.	Viens, on va dormir.<br>/vjɛ̃, ɔ̃ va dɔʁmiʁ/	en-fr
+he comes: the nasal alone	il vient<br>/il vjɛ̃/	en-fr
+they come: the n is said	ils viennent<br>/il vjɛn/	en-fr
+that you come	que tu viennes<br>/kə ty vjɛn/	en-fr

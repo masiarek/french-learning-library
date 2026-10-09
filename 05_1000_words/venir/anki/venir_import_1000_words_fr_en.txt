@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+venir<br>/vəniʁ/	(v.) to come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+viens<br>/vjɛ̃/	(I, you) come: the je and tu form, irregular	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+vienne<br>/vjɛn/	(that I) come: the subjunctive, irregular	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Venez immédiatement !<br>/vəne imedjatmɑ̃/	Come here immediately!	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+je viens<br>/ʒə vjɛ̃/	I come, I am coming	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+tu viens<br>/ty vjɛ̃/	you come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+il vient, elle vient<br>/il vjɛ̃, ɛl vjɛ̃/	he comes, she comes	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+nous venons<br>/nu vənɔ̃/	we come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+vous venez<br>/vu vəne/	you come (plural, or polite)	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+ils viennent, elles viennent<br>/il vjɛn, ɛl vjɛn/	they come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+je suis venu, je suis venue<br>/ʒə sɥi vəny/	I came (masculine, feminine)	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+je venais<br>/ʒə vənɛ/	I was coming, I used to come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+je viendrai<br>/ʒə vjɛ̃dʁe/	I will come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+je viendrais<br>/ʒə vjɛ̃dʁɛ/	I would come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+que je vienne, que nous venions<br>/kə ʒə vjɛn, kə nu vənjɔ̃/	that I come, that we come (subjunctive)	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Viens ! Venons ! Venez !<br>/vjɛ̃, vənɔ̃, vəne/	Come! Let’s come! Come! (imperative)	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Je viens de manger.<br>/ʒə vjɛ̃ də mɑ̃ʒe/	I have just eaten.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Il vient de partir.<br>/il vjɛ̃ də paʁtiʁ/	He has just left.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Nous venons d’arriver.<br>/nu vənɔ̃ daʁive/	We have just arrived.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Elle venait de se réveiller.<br>/ɛl vənɛ də sə ʁeveje/	She had just woken up.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Je viens de Pologne.<br>/ʒə vjɛ̃ də pɔlɔɲ/	I come from Poland.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Il vient de Paris.<br>/il vjɛ̃ də paʁi/	He is from Paris.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Elle vient du Canada.<br>/ɛl vjɛ̃ dy kanada/	She is from Canada.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Nous venons des États-Unis.<br>/nu vənɔ̃ dez‿etazyni/	We are from the United States.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+venir voir quelqu’un<br>/vəniʁ vwaʁ kɛlkœ̃/	to come and see someone	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+venir chercher<br>/vəniʁ ʃɛʁʃe/	to come and get, to pick up	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+faire venir<br>/fɛʁ vəniʁ/	to send for	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Viens ici !<br>/vjɛ̃ isi/	Come here!	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Ça vient ?<br>/sa vjɛ̃/	Is it coming? Hurry up!	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+les années à venir<br>/lez‿ane a vəniʁ/	the years to come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Où veux-tu en venir ?<br>/u vø ty ɑ̃ vəniʁ/	What are you getting at?	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+tenir, je tiens, nous tenons<br>/təniʁ, ʒə tjɛ̃, nu tənɔ̃/	to hold, I hold, we hold	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+devenir, je deviens<br>/dəvniʁ, ʒə dəvjɛ̃/	to become, I become	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+revenir, je reviens<br>/ʁəvniʁ, ʒə ʁəvjɛ̃/	to come back, I come back	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+se souvenir, je me souviens<br>/sə suvniʁ, ʒə mə suvjɛ̃/	to remember, I remember	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+prévenir, je préviens<br>/pʁevniʁ, ʒə pʁevjɛ̃/	to warn, I warn	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+l’avenir<br>/lavniʁ/	the future	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Bienvenue !<br>/bjɛ̃vny/	Welcome!	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Je viens tout de suite.<br>/ʒə vjɛ̃ tu də sɥit/	I am coming right away.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Tu viens avec nous ?<br>/ty vjɛ̃ avɛk nu/	Are you coming with us?	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Il vient à Varsovie tous les ans.<br>/il vjɛ̃ a vaʁsɔvi tu lez‿ɑ̃/	He comes to Warsaw every year.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Nous venons de finir la leçon.<br>/nu vənɔ̃ də finiʁ la ləsɔ̃/	We have just finished the lesson.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Vous venez d’où ?<br>/vu vəne du/	Where are you from?	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Mes amis viennent dîner ce soir.<br>/mez‿ami vjɛn dine sə swaʁ/	My friends are coming to dinner tonight.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Elle est venue me voir hier.<br>/ɛl ɛ vəny mə vwaʁ jɛʁ/	She came to see me yesterday.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Je viendrai dormir chez toi.<br>/ʒə vjɛ̃dʁe dɔʁmiʁ ʃe twa/	I will come and sleep at your place.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Il faut que tu viennes immédiatement.<br>/il fo kə ty vjɛn imedjatmɑ̃/	You must come immediately.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Viens, on va dormir.<br>/vjɛ̃, ɔ̃ va dɔʁmiʁ/	Come on, we are going to sleep.	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+Je ________ de Pologne.<br>(AI exercise: fill in the form of venir)	/ʒə [vjɛ̃] də pɔlɔɲ/<br>I come from Poland.	french 1000words venir fr-en exercise	French::1000 words (FR-EN)::venir — to come
+Nous ________ de manger.<br>(AI exercise: fill in the form of venir)	/nu [vənɔ̃] də mɑ̃ʒe/<br>We have just eaten.	french 1000words venir fr-en exercise	French::1000 words (FR-EN)::venir — to come
+Ils ________ demain.<br>(AI exercise: fill in the form of venir)	/il [vjɛn] dəmɛ̃/<br>They are coming tomorrow.	french 1000words venir fr-en exercise	French::1000 words (FR-EN)::venir — to come
+________ ici !<br>(AI exercise: fill in the form of venir)	/[vjɛ̃] isi/<br>Come here! (to a friend)	french 1000words venir fr-en exercise	French::1000 words (FR-EN)::venir — to come
+Il faut que tu ________.<br>(AI exercise: fill in the form of venir)	/il fo kə ty [vjɛn]/<br>You must come.	french 1000words venir fr-en exercise	French::1000 words (FR-EN)::venir — to come
+Elle est ________ hier.<br>(AI exercise: fill in the form of venir)	/ɛl ɛ [vəny] jɛʁ/<br>She came yesterday.	french 1000words venir fr-en exercise	French::1000 words (FR-EN)::venir — to come
+il vient<br>/il vjɛ̃/	he comes: the nasal alone	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+ils viennent<br>/il vjɛn/	they come: the n is said	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come
+que tu viennes<br>/kə ty vjɛn/	that you come	french 1000words venir fr-en	French::1000 words (FR-EN)::venir — to come

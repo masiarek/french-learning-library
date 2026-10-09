@@ -1,0 +1,57 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(v.) must, to have to, should; to owe	devoir<br>/dəvwaʁ/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+(I, you) must, have to; owe: the je and tu form, irregular	dois<br>/dwa/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+had to; owed: the past participle, irregular	dû<br>/dy/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+You have to be more careful!	Tu dois être plus prudent !<br>/ty dwa ɛtʁ ply pʁydɑ̃/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+I must, I have to; I owe	je dois<br>/ʒə dwa/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+you must	tu dois<br>/ty dwa/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+he must, she must, one must	il doit, elle doit, on doit<br>/il dwa, ɛl dwa, ɔ̃ dwa/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+we must	nous devons<br>/nu dəvɔ̃/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+you must (plural, or polite)	vous devez<br>/vu dəve/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+they must	ils doivent, elles doivent<br>/il dwav, ɛl dwav/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+I had to; I must have	j’ai dû<br>/ʒe dy/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+I had to, I was supposed to (imperfect)	je devais<br>/ʒə dəvɛ/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+I will have to	je devrai<br>/ʒə dəvʁe/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+I should, I ought to	je devrais<br>/ʒə dəvʁɛ/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+I should have	j’aurais dû<br>/ʒoʁɛ dy/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+that I must, that we must (subjunctive)	que je doive, que nous devions<br>/kə ʒə dwav, kə nu dəvjɔ̃/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+to have to do something	devoir faire quelque chose<br>/dəvwaʁ fɛʁ kɛlkə ʃoz/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+It must be …	Ça doit être …<br>/sa dwa ɛtʁ/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+There must be …	Il doit y avoir …<br>/il dwa i avwaʁ/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+How much do I owe you?	Combien je vous dois ?<br>/kɔ̃bjɛ̃ ʒə vu dwa/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+I owe you an explanation.	Je vous dois une explication.<br>/ʒə vu dwa yn‿ɛksplikasjɔ̃/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+as is proper	comme il se doit<br>/kɔm il sə dwa/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+the duty; the homework	le devoir, les devoirs<br>/lə dəvwaʁ, le dəvwaʁ/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+to do one’s homework	faire ses devoirs<br>/fɛʁ se dəvwaʁ/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+I have to leave now.	Je dois partir maintenant.<br>/ʒə dwa paʁtiʁ mɛ̃tnɑ̃/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+You have to learn a thousand words.	Tu dois apprendre mille mots.<br>/ty dwa apʁɑ̃dʁ mil mo/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+He must be tired.	Il doit être fatigué.<br>/il dwa ɛtʁ fatiɡe/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+We have to speak French.	Nous devons parler français.<br>/nu dəvɔ̃ paʁle fʁɑ̃sɛ/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+You must answer in French.	Vous devez répondre en français.<br>/vu dəve ʁepɔ̃dʁ ɑ̃ fʁɑ̃sɛ/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+They have to work tomorrow.	Ils doivent travailler demain.<br>/il dwav tʁavaje dəmɛ̃/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+I owe you ten euros.	Je te dois dix euros.<br>/ʒə tə dwa diz‿øʁo/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+She owes him her life.	Elle lui doit la vie.<br>/ɛl lɥi dwa la vi/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+I had to wait an hour.	J’ai dû attendre une heure.<br>/ʒe dy atɑ̃dʁ yn œʁ/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+You should sleep.	Tu devrais dormir.<br>/ty dəvʁɛ dɔʁmiʁ/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+He was supposed to come, but he is ill.	Il devait venir, mais il est malade.<br>/il dəvɛ vəniʁ, mɛ il ɛ malad/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+You should have told me.	Tu aurais dû me le dire.<br>/ty oʁɛ dy mə lə diʁ/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+I owe Marie ten euros: owe.	Je dois dix euros à Marie.<br>/ʒə dwa diz‿øʁo a maʁi/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+I have to go to sleep: must.	Je dois aller dormir.<br>/ʒə dwa ale dɔʁmiʁ/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+It must be noon: must, a probability.	Il doit être midi.<br>/il dwa ɛtʁ midi/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+We owe him a lot: owe.	On lui doit beaucoup.<br>/ɔ̃ lɥi dwa boku/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
+Say: You have to be more careful!	Tu dois être plus prudent ! /ty dwa ɛtʁ ply pʁydɑ̃/	french 1000words devoir challenge say	French::1000 words (EN-FR)::devoir — must, to have to; to owe::Challenges
+Say: I owe you ten euros.	Je te dois dix euros. /ʒə tə dwa diz‿øʁo/	french 1000words devoir challenge say	French::1000 words (EN-FR)::devoir — must, to have to; to owe::Challenges
+Say: You should sleep.	Tu devrais dormir. /ty dəvʁɛ dɔʁmiʁ/	french 1000words devoir challenge say	French::1000 words (EN-FR)::devoir — must, to have to; to owe::Challenges
+Say: I had to wait an hour.	J’ai dû attendre une heure. /ʒe dy atɑ̃dʁ yn œʁ/	french 1000words devoir challenge say	French::1000 words (EN-FR)::devoir — must, to have to; to owe::Challenges
+Say: How much do I owe you?	Combien je vous dois ? /kɔ̃bjɛ̃ ʒə vu dwa/	french 1000words devoir challenge say	French::1000 words (EN-FR)::devoir — must, to have to; to owe::Challenges
+The present of devoir, all six forms	je dois, tu dois, il doit, nous devons, vous devez, ils doivent /ʒə dwa, ty dwa, il dwa, nu dəvɔ̃, vu dəve, il dwav/	french 1000words devoir challenge grammar	French::1000 words (EN-FR)::devoir — must, to have to; to owe::Challenges
+Why dû with a circumflex?	To tell it from du, the contracted article (le lit du garçon): dû /dy/ had to, du /dy/ of the; the feminine due and plurals dus, dues drop the accent	french 1000words devoir challenge grammar	French::1000 words (EN-FR)::devoir — must, to have to; to owe::Challenges
+How do you say should in French?	With the conditional of devoir: je devrais /ʒə dəvʁɛ/ I should; and should have is j’aurais dû /ʒoʁɛ dy/	french 1000words devoir challenge grammar	French::1000 words (EN-FR)::devoir — must, to have to; to owe::Challenges
+Il doit être malade: which must is this?	Probability, he must be ill; devoir covers both must of obligation (tu dois partir) and must of probability	french 1000words devoir challenge grammar	French::1000 words (EN-FR)::devoir — must, to have to; to owe::Challenges
+Two senses of devoir in one sentence each	Je dois partir /ʒə dwa paʁtiʁ/ I have to leave; je te dois dix euros /ʒə tə dwa diz‿øʁo/ I owe you ten euros	french 1000words devoir challenge words	French::1000 words (EN-FR)::devoir — must, to have to; to owe::Challenges
+The noun that looks like the verb	le devoir /lə dəvwaʁ/ duty, les devoirs /le dəvwaʁ/ homework: faire ses devoirs	french 1000words devoir challenge words	French::1000 words (EN-FR)::devoir — must, to have to; to owe::Challenges

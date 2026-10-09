@@ -1,0 +1,59 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::être — to be; a being
+#tags:french 1000words etre en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(v.) to be; (n.m.) being, creature	être<br>/ɛtʁ/	en-fr
+(we) are: the nous form, irregular	sommes<br>/sɔm/	en-fr
+(I, you) was, were: the passé simple, irregular	fus<br>/fy/	en-fr
+be! (to several people); (that you) be: the imperative and the subjunctive, irregular	soyez<br>/swaje/	en-fr
+Mother Nature is generous.	Mère Nature est généreuse.<br>/mɛʁ natyʁ ɛ ʒeneʁøz/	en-fr
+I am	je suis<br>/ʒə sɥi/	en-fr
+you are	tu es<br>/ty ɛ/	en-fr
+he is, she is, it is	il est, elle est, c’est<br>/il ɛ, ɛl ɛ, sɛ/	en-fr
+we are	nous sommes<br>/nu sɔm/	en-fr
+you are (plural, or polite)	vous êtes<br>/vuz‿ɛt/	en-fr
+they are	ils sont, elles sont, ce sont<br>/il sɔ̃, ɛl sɔ̃, sə sɔ̃/	en-fr
+I was, I have been	j’ai été<br>/ʒe ete/	en-fr
+I was (imperfect)	j’étais<br>/ʒetɛ/	en-fr
+I will be	je serai<br>/ʒə səʁe/	en-fr
+I would be	je serais<br>/ʒə səʁɛ/	en-fr
+that I be, that we be, that you be (subjunctive)	que je sois, que nous soyons, que vous soyez<br>/kə ʒə swa, kə nu swajɔ̃, kə vu swaje/	en-fr
+Be! Let’s be! Be! (imperative)	Sois ! Soyons ! Soyez !<br>/swa, swajɔ̃, swaje/	en-fr
+I was, he was (passé simple, in books)	je fus, il fut<br>/ʒə fy, il fy/	en-fr
+I went to Paris.	Je suis allé à Paris.<br>/ʒə sɥi(z)‿ale a paʁi/	en-fr
+She came yesterday.	Elle est venue hier.<br>/ɛl ɛ vəny jɛʁ/	en-fr
+They left early.	Ils sont partis tôt.<br>/il sɔ̃ paʁti to/	en-fr
+I got up at seven.	Je me suis levé à sept heures.<br>/ʒə mə sɥi ləve a sɛt‿œʁ/	en-fr
+I am hungry. I am thirsty.	J’ai faim. J’ai soif.<br>/ʒe fɛ̃, ʒe swaf/	en-fr
+I am cold. I am hot.	J’ai froid. J’ai chaud.<br>/ʒe fʁwa, ʒe ʃo/	en-fr
+I am twenty.	J’ai vingt ans.<br>/ʒe vɛ̃t‿ɑ̃/	en-fr
+I am right. You are wrong.	J’ai raison. Tu as tort.<br>/ʒe ʁɛzɔ̃, ty a tɔʁ/	en-fr
+I am sleepy.	J’ai sommeil.<br>/ʒe sɔmɛj/	en-fr
+to be in the middle of (doing)	être en train de<br>/ɛtʁ ɑ̃ tʁɛ̃ də/	en-fr
+to agree	être d’accord<br>/ɛtʁ dakɔʁ/	en-fr
+to be late, to be on time	être en retard, être à l’heure<br>/ɛtʁ ɑ̃ ʁətaʁ, ɛtʁ a lœʁ/	en-fr
+to be about to	être sur le point de<br>/ɛtʁ syʁ lə pwɛ̃ də/	en-fr
+That’s it.	C’est ça.<br>/sɛ sa/	en-fr
+Isn’t it?	N’est-ce pas ?<br>/nɛs pa/	en-fr
+What is it?	Qu’est-ce que c’est ?<br>/kɛs kə sɛ/	en-fr
+maybe	peut-être<br>/pøtɛtʁ/	en-fr
+a human being	un être humain<br>/œ̃n‿ɛtʁ ymɛ̃/	en-fr
+a loved one	un être cher<br>/œ̃n‿ɛtʁ ʃɛʁ/	en-fr
+well-being	le bien-être<br>/lə bjɛ̃nɛtʁ/	en-fr
+I am Polish.	Je suis polonais.<br>/ʒə sɥi pɔlɔnɛ/	en-fr
+Are you ready?	Tu es prêt ?<br>/ty ɛ pʁɛ/	en-fr
+He is a doctor.	Il est médecin.<br>/il ɛ medsɛ̃/	en-fr
+We are in Paris.	Nous sommes à Paris.<br>/nu sɔm a paʁi/	en-fr
+You are very kind.	Vous êtes très gentils.<br>/vuz‿ɛt tʁɛ ʒɑ̃ti/	en-fr
+They are tired.	Elles sont fatiguées.<br>/ɛl sɔ̃ fatiɡe/	en-fr
+That’s all.	C’est tout.<br>/sɛ tu/	en-fr
+I am on the internet.	Je suis sur internet.<br>/ʒə sɥi syʁ ɛ̃tɛʁnɛt/	en-fr
+It is late, I must be in bed.	Il est tard, je dois être au lit.<br>/il ɛ taʁ, ʒə dwa ɛtʁ o li/	en-fr
+I was ill all week.	J’ai été malade toute la semaine.<br>/ʒe ete malad tut la səmɛn/	en-fr
+Be good!	Sois sage !<br>/swa saʒ/	en-fr
+Welcome! (to several people)	Soyez les bienvenus !<br>/swaje le bjɛ̃vny/	en-fr
+You must be on time.	Il faut que tu sois à l’heure.<br>/il fo kə ty swa a lœʁ/	en-fr
+All men are mortal.	Tous les hommes sont mortels.<br>/tu lez‿ɔm sɔ̃ mɔʁtɛl/	en-fr

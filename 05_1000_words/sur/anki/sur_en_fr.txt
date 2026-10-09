@@ -1,0 +1,51 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::sur — on, upon, on top of
+#tags:french 1000words sur en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(prep.) on, upon; on top of	sur<br>/syʁ/	en-fr
+I’m on the internet.	Je suis sur internet.<br>/ʒə sɥi syʁ ɛ̃tɛʁnɛt/	en-fr
+on the table	sur la table<br>/syʁ la tabl/	en-fr
+on the bed	sur le lit<br>/syʁ lə li/	en-fr
+on the wall	sur le mur<br>/syʁ lə myʁ/	en-fr
+on the road	sur la route<br>/syʁ la ʁut/	en-fr
+on the beach	sur la plage<br>/syʁ la plaʒ/	en-fr
+on the internet	sur internet<br>/syʁ ɛ̃tɛʁnɛt/	en-fr
+in the photo	sur la photo<br>/syʁ la fɔto/	en-fr
+on the map	sur la carte<br>/syʁ la kaʁt/	en-fr
+on page ten	sur la page dix<br>/syʁ la paʒ dis/	en-fr
+on my phone	sur mon téléphone<br>/syʁ mɔ̃ telefɔn/	en-fr
+The key is in the door.	La clé est sur la porte.<br>/la kle ɛ syʁ la pɔʁt/	en-fr
+a book about Paris	un livre sur Paris<br>/œ̃ livʁ syʁ paʁi/	en-fr
+a lesson on sounds	une leçon sur les sons<br>/yn ləsɔ̃ syʁ le sɔ̃/	en-fr
+nine out of ten	neuf sur dix<br>/nœf syʁ dis/	en-fr
+every other time, one time in two	une fois sur deux<br>/yn fwa syʁ dø/	en-fr
+every other day	un jour sur deux<br>/œ̃ ʒuʁ syʁ dø/	en-fr
+of course	bien sûr<br>/bjɛ̃ syʁ/	en-fr
+on the spot, on site	sur place<br>/syʁ plas/	en-fr
+about to	sur le point de<br>/syʁ lə pwɛ̃ də/	en-fr
+made to measure	sur mesure<br>/syʁ məzyʁ/	en-fr
+at once	sur-le-champ<br>/syʁ lə ʃɑ̃/	en-fr
+to count on someone	compter sur quelqu’un<br>/kɔ̃te syʁ kɛlkœ̃/	en-fr
+to look onto (of a window)	donner sur<br>/dɔne syʁ/	en-fr
+on the left, on the right	sur la gauche, sur la droite<br>/syʁ la ɡoʃ, syʁ la dʁwat/	en-fr
+on – under	sur – sous<br>/syʁ/ · /su/	en-fr
+on – sure	sur – sûr<br>/syʁ/ · /syʁ/	en-fr
+known – under	su – sous<br>/sy/ · /su/	en-fr
+you – all	tu – tout<br>/ty/ · /tu/	en-fr
+pure – for	pur – pour<br>/pyʁ/ · /puʁ/	en-fr
+street – wheel	rue – roue<br>/ʁy/ · /ʁu/	en-fr
+seen – you	vu – vous<br>/vy/ · /vu/	en-fr
+The cat is on the bed, the dog is under the table.	Le chat est sur le lit, le chien est sous la table.<br>/lə ʃa ɛ syʁ lə li, lə ʃjɛ̃ ɛ su la tabl/	en-fr
+The book is on the table.	Le livre est sur la table.<br>/lə livʁ ɛ syʁ la tabl/	en-fr
+I am on the internet all day.	Je suis sur internet toute la journée.<br>/ʒə sɥi syʁ ɛ̃tɛʁnɛt tut la ʒuʁne/	en-fr
+Who is in the photo?	Qui est sur la photo ?<br>/ki ɛ syʁ la fɔto/	en-fr
+Count on me!	Compte sur moi !<br>/kɔ̃t syʁ mwa/	en-fr
+The window looks onto the street.	La fenêtre donne sur la rue.<br>/la fənɛtʁ dɔn syʁ la ʁy/	en-fr
+He is sleeping on the sofa.	Il dort sur le canapé.<br>/il dɔʁ syʁ lə kanape/	en-fr
+I read an article about France.	J’ai lu un article sur la France.<br>/ʒe ly œ̃n‿aʁtikl syʁ la fʁɑ̃s/	en-fr
+One French person in two has a cat.	Un Français sur deux a un chat.<br>/œ̃ fʁɑ̃sɛ syʁ dø a œ̃ ʃa/	en-fr
+We are about to leave.	Nous sommes sur le point de partir.<br>/nu sɔm syʁ lə pwɛ̃ də paʁtiʁ/	en-fr
+Are you sure? Of course!	Tu es sûr ? Bien sûr !<br>/ty ɛ syʁ, bjɛ̃ syʁ/	en-fr

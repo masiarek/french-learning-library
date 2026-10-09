@@ -9,8 +9,8 @@ IPA. Every row with a transcription gives one card in each direction. In the
 chapter of the Polish textbook the directions are FR-PL (the French with its
 IPA on the front, the Polish and the English on the back) and PL-FR (the book's Polish
 on the front, the French with its IPA and the English on the back); in the
-teacher's chapter and the chapter of the pronunciation videos, which have no
-Polish, FR-EN and EN-FR. An exercise row
+teacher's chapter, the chapter of the pronunciation videos and the chapter of
+the thousand words, which have no Polish, FR-EN and EN-FR. An exercise row
 gives one card, in the French-front deck: a sentence with a blank, or the
 book's sentence with the instruction of its section, on the front, and the
 answer on the back. Heading rows, in bold, name the sections; the page's H1
@@ -33,6 +33,7 @@ CHAPTERS = {
     "02_Yosser_teacher": ("Yosser", "FR-EN", "EN-FR", False),
     "03_Szypowska": ("Szypowska", "FR-PL", "PL-FR", True),
     "04_Pronunciation": ("Pronunciation", "FR-EN", "EN-FR", False),
+    "05_1000_words": ("1000 words", "FR-EN", "EN-FR", False),
 }
 
 
@@ -116,7 +117,8 @@ def deck_text(name: str, direction: str, title: str, lesson_tag: str, items) -> 
         "#html:true",
         "#notetype:Basic",
         f"#deck:French::{name} ({direction})::{title}",
-        f"#tags:french {name.lower()} {lesson_tag} {direction.lower()}",
+        # A set name with a space, "1000 words", is one tag, not two.
+        f"#tags:french {re.sub(r'\W+', '', name.lower())} {lesson_tag} {direction.lower()}",
         "#columns:Front\tBack\tTags",
         "#tags column:3",
     ]
