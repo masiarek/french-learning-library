@@ -111,6 +111,7 @@ NAV_ORDER: dict[str, list[str]] = {
         "README.md",
         "sons_an_on",
         "son_e_ouvert",
+        "resources",
     ],
 }
 

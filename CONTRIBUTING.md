@@ -36,7 +36,7 @@ How a sound is made, what a dictionary gives, whether a form is current: name th
 
 ## The source chapters have no programs
 
-`02_Yosser_teacher`, `03_Szypowska` and `04_Pronunciation` are the owner's own courses and videos, kept as tables. A lesson there is a page with the lesson's rules in a few bullets, one table, and an AI section at the end (notes on words and expressions, each word of the lesson in set phrases, the lesson's words in new sentences, new words, new exercises with answers, in the same table format), plus two Anki decks; no program, no output block. `tools/check_ipa.py` checks every transcription in those tables against Le Robert's inventory in CI.
+`02_Yosser_teacher`, `03_Szypowska` and `04_Pronunciation` are the owner's own courses and videos, kept as tables. A lesson there is a page with the lesson's rules in a few bullets, one table, and an AI section at the end (notes on words and expressions, each word of the lesson in set phrases, the lesson's words in new sentences, new words, new exercises with answers, in the same table format), plus two Anki decks; no program, no output block. `tools/check_ipa.py` checks every transcription in those tables against Le Robert's inventory in CI. A guide page inside a source chapter, such as the Pronunciation chapter's resources page, writes its lists as four-column tables, which the deck generator and the IPA checker ignore (both read three-cell rows only); a three-column French table on such a page still makes cards.
 
 ## No summary sections
 

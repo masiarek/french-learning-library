@@ -141,7 +141,7 @@ def main() -> None:
         parts = lesson.name.split("_")
         # lecon_03_… and lesson_01_… tag as lecon03 and lesson01; a folder
         # named for its idea, sons_an_on, tags as its name run together.
-        lesson_tag = parts[0] + parts[1] if parts[1].isdigit() else lesson.name.replace("_", "")
+        lesson_tag = parts[0] + parts[1] if len(parts) > 1 and parts[1].isdigit() else lesson.name.replace("_", "")
         fr, to_fr = cards(rows, polish)
         for direction, items in ((d_fr, fr), (d_to, to_fr)):
             text = deck_text(name, direction, title, lesson_tag, items)

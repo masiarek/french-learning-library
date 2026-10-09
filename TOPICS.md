@@ -13,6 +13,7 @@
     - **Drills from the videos** · from [Pronunciation](04_Pronunciation/README.md)
         - [Les sons ɑ̃ et ɔ̃](04_Pronunciation/sons_an_on/README.md) — the nasal vowels of blanc and blond, an, am, en, em against on, om, minimal pairs, both sounds in one word, where the nasal goes away, Anne's [ã] as Le Robert's /ɑ̃/
         - [Le son ɛ](04_Pronunciation/son_e_ouvert/README.md) — the open e of est, mais, lève, être, appelle; /e/ against /ɛ/; e before a consonant that is said; è, ê, ai, ei; the endings -et and -êt
+        - [The best resources: audio and IPA together](04_Pronunciation/resources/README.md) — dictionaries with a voice and the IPA, minimal-pair decks, Seeing Speech, Phonétique progressive, the 500 exercices, Speechling, Praat, AI assistants, the words of pronunciation
 - **Lessons from a source, kept whole**
     - **The teacher's worksheets** · from [Yosser (teacher)](02_Yosser_teacher/README.md)
         - [Lesson 1: La maison — français, anglais, IPA](02_Yosser_teacher/lesson_01_la_maison/README.md) — the rooms of a house, the furniture, il y a, the prepositions of place, vrai ou faux, the Corrigé; every line in French, English and IPA, liaison marked
