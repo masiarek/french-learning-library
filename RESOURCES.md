@@ -2,7 +2,7 @@
 
 **Level:** reference · for choosing what to read next
 
-**One line:** The dictionaries and books behind the pages, with what each is good for.
+**One line:** The dictionaries and books behind the pages, with what each is good for. For pronunciation alone, the guide [The best resources: audio and IPA together](04_Pronunciation/resources/README.md) sorts them by job, with a verdict each.
 
 | Resource | Good for | Used in |
 |---|---|---|

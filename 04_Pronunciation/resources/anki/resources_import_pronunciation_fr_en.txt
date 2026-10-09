@@ -1,0 +1,36 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+la prononciation<br>/la pʁɔnɔ̃sjasjɔ̃/	the pronunciation	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+prononcer<br>/pʁɔnɔ̃se/	to pronounce	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+la phonétique<br>/la fɔnetik/	phonetics	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+le son<br>/lə sɔ̃/	the sound	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+la voyelle<br>/la vwajɛl/	the vowel	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+la consonne<br>/la kɔ̃sɔn/	the consonant	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+la voyelle nasale<br>/la vwajɛl nazal/	the nasal vowel	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+la syllabe<br>/la silab/	the syllable	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+l’accent<br>/laksɑ̃/	the accent; the stress	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+la liaison<br>/la ljɛzɔ̃/	the liaison	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+l’enchaînement<br>/lɑ̃ʃɛnmɑ̃/	the linking of a final consonant to the next vowel	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+le e muet<br>/lə ə mɥɛ/	the mute e	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+la paire minimale<br>/la pɛʁ minimal/	the minimal pair	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+la transcription<br>/la tʁɑ̃skʁipsjɔ̃/	the transcription	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+l’alphabet phonétique international<br>/lalfabɛ fɔnetik ɛ̃tɛʁnasjɔnal/	the International Phonetic Alphabet	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+le dictionnaire<br>/lə diksjɔnɛʁ/	the dictionary	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+le locuteur natif, la locutrice native<br>/lə lɔkytœʁ natif, la lɔkytʁis nativ/	the native speaker	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+l’enregistrement<br>/lɑ̃ʁəʒistʁəmɑ̃/	the recording	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+écouter<br>/ekute/	to listen	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+répéter<br>/ʁepete/	to repeat	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+s’enregistrer<br>/sɑ̃ʁəʒistʁe/	to record oneself	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+la bouche<br>/la buʃ/	the mouth	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+les lèvres<br>/le lɛvʁ/	the lips	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+la langue<br>/la lɑ̃ɡ/	the tongue; the language	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+le nez<br>/lə ne/	the nose	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+la gorge<br>/la ɡɔʁʒ/	the throat	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+l’oreille<br>/lɔʁɛj/	the ear	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+Comment ça se prononce ?<br>/kɔmɑ̃ sa sə pʁɔnɔ̃s/	How is that pronounced?	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+Vous pouvez répéter, s’il vous plaît ?<br>/vu puve ʁepete, sil vu plɛ/	Can you repeat, please?	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+Parlez plus lentement, s’il vous plaît.<br>/paʁle ply lɑ̃tmɑ̃, sil vu plɛ/	Speak more slowly, please.	french pronunciation resources fr-en	French::Pronunciation (FR-EN)::The best resources: audio and IPA together

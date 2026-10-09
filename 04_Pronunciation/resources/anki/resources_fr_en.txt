@@ -1,0 +1,37 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Pronunciation (FR-EN)::The best resources: audio and IPA together
+#tags:french pronunciation resources fr-en
+#columns:Front	Back	Tags
+#tags column:3
+la prononciation<br>/la pʁɔnɔ̃sjasjɔ̃/	the pronunciation	fr-en
+prononcer<br>/pʁɔnɔ̃se/	to pronounce	fr-en
+la phonétique<br>/la fɔnetik/	phonetics	fr-en
+le son<br>/lə sɔ̃/	the sound	fr-en
+la voyelle<br>/la vwajɛl/	the vowel	fr-en
+la consonne<br>/la kɔ̃sɔn/	the consonant	fr-en
+la voyelle nasale<br>/la vwajɛl nazal/	the nasal vowel	fr-en
+la syllabe<br>/la silab/	the syllable	fr-en
+l’accent<br>/laksɑ̃/	the accent; the stress	fr-en
+la liaison<br>/la ljɛzɔ̃/	the liaison	fr-en
+l’enchaînement<br>/lɑ̃ʃɛnmɑ̃/	the linking of a final consonant to the next vowel	fr-en
+le e muet<br>/lə ə mɥɛ/	the mute e	fr-en
+la paire minimale<br>/la pɛʁ minimal/	the minimal pair	fr-en
+la transcription<br>/la tʁɑ̃skʁipsjɔ̃/	the transcription	fr-en
+l’alphabet phonétique international<br>/lalfabɛ fɔnetik ɛ̃tɛʁnasjɔnal/	the International Phonetic Alphabet	fr-en
+le dictionnaire<br>/lə diksjɔnɛʁ/	the dictionary	fr-en
+le locuteur natif, la locutrice native<br>/lə lɔkytœʁ natif, la lɔkytʁis nativ/	the native speaker	fr-en
+l’enregistrement<br>/lɑ̃ʁəʒistʁəmɑ̃/	the recording	fr-en
+écouter<br>/ekute/	to listen	fr-en
+répéter<br>/ʁepete/	to repeat	fr-en
+s’enregistrer<br>/sɑ̃ʁəʒistʁe/	to record oneself	fr-en
+la bouche<br>/la buʃ/	the mouth	fr-en
+les lèvres<br>/le lɛvʁ/	the lips	fr-en
+la langue<br>/la lɑ̃ɡ/	the tongue; the language	fr-en
+le nez<br>/lə ne/	the nose	fr-en
+la gorge<br>/la ɡɔʁʒ/	the throat	fr-en
+l’oreille<br>/lɔʁɛj/	the ear	fr-en
+Comment ça se prononce ?<br>/kɔmɑ̃ sa sə pʁɔnɔ̃s/	How is that pronounced?	fr-en
+Vous pouvez répéter, s’il vous plaît ?<br>/vu puve ʁepete, sil vu plɛ/	Can you repeat, please?	fr-en
+Parlez plus lentement, s’il vous plaît.<br>/paʁle ply lɑ̃tmɑ̃, sil vu plɛ/	Speak more slowly, please.	fr-en

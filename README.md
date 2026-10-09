@@ -46,6 +46,7 @@ The examples are **stdlib-only, on purpose**. If you have `python3`, you can run
 |---|---|
 | [Les sons ɑ̃ et ɔ̃](04_Pronunciation/sons_an_on/README.md) | The nasal vowels of *blanc* and *blond*: the spellings behind them, minimal pairs, both sounds in one word, and where the nasal goes away, in French, English and IPA |
 | [Le son ɛ](04_Pronunciation/son_e_ouvert/README.md) | The open *e* of *est, mais, lève, être, appelle*: /e/ against /ɛ/, *e* before a consonant that is said, *è, ê, ai, ei*, and the endings *-et, -êt* |
+| [The best resources: audio and IPA together](04_Pronunciation/resources/README.md) | Where a native voice and the IPA come together: dictionaries, minimal-pair decks, articulation videos, course books, feedback, AI assistants, each with a verdict and how sure it is |
 
 ## Other ways in
 
