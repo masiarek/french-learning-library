@@ -4,7 +4,6 @@
 
 Conventions: on the [chapter page](../README.md).
 
-- The source is a screenshot of the owner’s vocabulary app: the headword with its article, one definition, a feminine noun, no irregular forms, a drawing of a mother with two children, and one example sentence without its translation, which is supplied below. The IPA is Le Robert’s key, from memory. Everything under the AI heading is mine.
 - *une mère* /yn mɛʁ/: the grave accent makes the open /ɛ/ and the final *e* is silent, so *mère* sounds exactly like *la mer* /la mɛʁ/ the sea and *le maire* /lə mɛʁ/ the mayor. *Le père* /lə pɛʁ/ and *le frère* /lə fʁɛʁ/ rhyme with it; the three are on the Pronunciation page on /ɛ/.
 - The app gives a noun with its article, and the pages keep it: *une* /yn/ says the noun is feminine, the one thing about a French noun that has to be learned with it. *La mère* /la mɛʁ/ with the definite article; *les mères* /le mɛʁ/ in the plural, where only the article changes in sound.
 - The example, *Sa mère est française* /sa mɛʁ ɛ fʁɑ̃sɛz/, carries two points of grammar. *Sa* is *his* or *her*: a French possessive agrees with the noun owned, *mère*, feminine, not with the owner, unlike English *his, her*, Polish *jego, jej* and German *sein, ihr*. And *française* is the feminine of *français* /fʁɑ̃sɛ/: the written *-e* makes the final consonant sound, /fʁɑ̃sɛz/, as *généreux, généreuse* on the page of *être*. An adjective of nationality takes no capital; the noun does, *une Française* /yn fʁɑ̃sɛz/ a Frenchwoman.
@@ -19,8 +18,6 @@ Conventions: on the [chapter page](../README.md).
 | Sa mère est française. | His mother is French. Her mother is French. | /sa mɛʁ ɛ fʁɑ̃sɛz/ |
 
 ## AI section: grammar, phrases, examples, exercises
-
-Mine, not the app’s. The possessives first, since the example turns on *sa*, then the family, the adjectives of nationality, the set phrases, the words that sound like *mère*, my own sentences, and exercises with the answers.
 
 - **The possessive adjectives.** *Mon, ma, mes* /mɔ̃, ma, me/ my; *ton, ta, tes* /tɔ̃, ta, te/ your; *son, sa, ses* /sɔ̃, sa, se/ his, her, its; *notre, nos* /nɔtʁ, no/ our; *votre, vos* /vɔtʁ, vo/ your; *leur, leurs* /lœʁ/ their. The form follows the noun: *mon père* /mɔ̃ pɛʁ/, *ma mère* /ma mɛʁ/, *mes parents* /me paʁɑ̃/. Before a vowel the feminine *ma, ta, sa* become *mon, ton, son* for the sound: *mon amie* /mɔ̃n‿ami/ my friend, *son école* /sɔ̃n‿ekɔl/ his or her school.
 - **Sa mère is his or hers.** *Pierre et sa mère* /pjɛʁ e sa mɛʁ/ Pierre and his mother, *Marie et sa mère* /maʁi e sa mɛʁ/ Marie and her mother: the sentence decides, and to insist French adds *à lui, à elle*, *sa mère à elle* /sa mɛʁ a ɛl/ her own mother.

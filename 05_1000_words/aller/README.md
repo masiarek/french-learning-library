@@ -4,7 +4,6 @@
 
 Conventions: on the [chapter page](../README.md).
 
-- The source is a screenshot of the owner’s vocabulary app: the headword, two definitions, three irregular forms and one example sentence. The IPA is Le Robert’s key, from memory. Everything under the AI heading is mine.
 - *aller* /ale/: two syllables, /a/ and /e/, the double *l* one /l/, and the *-er* ending /e/ as in every *-er* infinitive, *parler* /paʁle/, *appeler* /aple/. Before a vowel the *nous* and *vous* forms take the liaison: *nous allons* /nuz‿alɔ̃/, *vous allez* /vuz‿ale/.
 - The most irregular verb of the language after *être*, because it is three Latin verbs in one: *je vais, tu vas, il va, ils vont* /ʒə vɛ, ty va, il va, il vɔ̃/ from one, *nous allons, vous allez* /nuz‿alɔ̃, vuz‿ale/ and the infinitive from another, the future and conditional *j’irai, j’irais* /ʒiʁe, ʒiʁɛ/ from a third. The subjunctive *que j’aille* /kə ʒaj/ is the app’s third flagged form. The three sources are textbook knowledge, from memory.
 - Compound tenses with *être*, and the participle agrees with the subject: *je suis allé* /ʒə sɥi(z)‿ale/, *elle est allée* /ɛl ɛ(t)‿ale/, *ils sont allés* /il sɔ̃(t)‿ale/, all alike to the ear.
@@ -24,8 +23,6 @@ Conventions: on the [chapter page](../README.md).
 | Je dois aller dormir. | I have to go to sleep. | /ʒə dwa ale dɔʁmiʁ/ |
 
 ## AI section: grammar, phrases, examples, exercises
-
-Mine, not the app’s. The conjugation first, then the near future, the second sense, the set phrases, my own sentences, and exercises with the answers.
 
 - **Three stems in the present.** *v-* in *vais, vas, va, vont* /vɛ, va, va, vɔ̃/, *all-* in *allons, allez* /alɔ̃, ale/. Only *je vais* has /ɛ/; *tu vas* and *il va* are both /va/. *Vont* /vɔ̃/ rhymes with *sont, ont, font* /sɔ̃, ɔ̃, fɔ̃/, the four third-person plurals in *-ont*.
 - **The future stem *ir-*.** *J’irai, tu iras, il ira, nous irons, vous irez, ils iront* /ʒiʁe, ty iʁa, il iʁa, nuz‿iʁɔ̃, vuz‿iʁe, ilz‿iʁɔ̃/; the conditional *j’irais* /ʒiʁɛ/ I would go.

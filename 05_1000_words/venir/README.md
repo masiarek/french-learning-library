@@ -4,7 +4,6 @@
 
 Conventions: on the [chapter page](../README.md).
 
-- The source is a screenshot of the owner’s vocabulary app: the headword, one definition, two irregular forms and one example sentence. The IPA is Le Robert’s key, from memory. Everything under the AI heading is mine.
 - *venir* /vəniʁ/: the first syllable has /ə/, which fast speech drops, /vniʁ/. The stressed stem is *vien-* /vjɛ̃/ with the nasal /ɛ̃/, and before an ending that starts with a vowel the nasal gives way to /jɛn/: *ils viennent* /il vjɛn/, *que je vienne* /kə ʒə vjɛn/, the denasalisation the Pronunciation chapter shows in *bon, bonne*.
 - Two stems, as in *devoir*: *vien-* in the singular and the third person plural, *je viens, tu viens, il vient, ils viennent* /ʒə vjɛ̃, ty vjɛ̃, il vjɛ̃, il vjɛn/, and *ven-* /vən/ with *nous* and *vous*, *nous venons, vous venez* /nu vənɔ̃, vu vəne/. The three singular forms sound alike, /vjɛ̃/; the app flags *viens* and *vienne*.
 - Compound tenses with *être*, the participle agreeing: *je suis venu* /ʒə sɥi vəny/, *elle est venue* /ɛl ɛ vəny/. Future and conditional on the stem *viendr-*: *je viendrai* /ʒə vjɛ̃dʁe/ I will come, *je viendrais* /ʒə vjɛ̃dʁɛ/ I would come.
@@ -22,8 +21,6 @@ Conventions: on the [chapter page](../README.md).
 | Venez immédiatement ! | Come here immediately! | /vəne imedjatmɑ̃/ |
 
 ## AI section: grammar, phrases, examples, exercises
-
-Mine, not the app’s. The conjugation first, then the recent past and the question of origin, the set phrases, the family of *venir*, my own sentences, and exercises with the answers.
 
 - **The nasal and its loss.** The singular forms end in the nasal vowel /ɛ̃/ with no consonant after it: *viens, vient* /vjɛ̃/. Where the spelling doubles the *n*, *viennent, vienne*, the vowel is oral and the /n/ is said: /vjɛn/. The same pair in *tenir*: *il tient* /il tjɛ̃/, *ils tiennent* /il tjɛn/.
 - **The recent past.** *Venir* in the present, *de*, and an infinitive: *je viens de finir* /ʒə vjɛ̃ də finiʁ/ I have just finished. In the imperfect it is *had just*: *il venait de partir* /il vənɛ də paʁtiʁ/ he had just left. English has no one-word tense for it; French uses it constantly.

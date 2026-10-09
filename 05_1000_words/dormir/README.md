@@ -4,7 +4,6 @@
 
 Conventions: on the [chapter page](../README.md).
 
-- The source is a screenshot of the owner’s vocabulary app: the headword, one definition, no irregular forms flagged, a drawing of a sleeping child, and one example sentence without its translation, which is supplied below. The IPA is Le Robert’s key, from memory. Everything under the AI heading is mine.
 - *dormir* /dɔʁmiʁ/: the open /ɔ/ before /ʁ/, two uvular /ʁ/, and the ending *-ir* /iʁ/ with its *r* said, as in *finir* /finiʁ/ and *partir* /paʁtiʁ/.
 - An *-ir* verb of the *partir* kind, not the *finir* kind. In the singular of the present the stem loses its last consonant, and the three forms sound alike: *je dors, tu dors, il dort* /ʒə dɔʁ, ty dɔʁ, il dɔʁ/. The consonant comes back in the plural: *nous dormons, vous dormez, ils dorment* /nu dɔʁmɔ̃, vu dɔʁme, il dɔʁm/. *Finir* instead inserts *-ss-*: *je finis, nous finissons* /ʒə fini, nu finisɔ̃/.
 - The past participle is *dormi* /dɔʁmi/, with *avoir*: *j’ai dormi* /ʒe dɔʁmi/ I slept. The app’s example is a question by inversion, *As-tu bien dormi ?* /aty bjɛ̃ dɔʁmi/ did you sleep well?, with the short adverb *bien* /bjɛ̃/ between the auxiliary and the participle, where French puts it.
@@ -19,8 +18,6 @@ Conventions: on the [chapter page](../README.md).
 | As-tu bien dormi ? | Did you sleep well? | /aty bjɛ̃ dɔʁmi/ |
 
 ## AI section: grammar, phrases, examples, exercises
-
-Mine, not the app’s. The conjugation first, then the verbs that follow the same pattern, the set phrases, my own sentences, and exercises with the answers.
 
 - **The pattern.** Infinitive in *-ir*, singular present without the stem’s last consonant, plural with it, participle in *-i*: *dormir, je dors, nous dormons, dormi* /dɔʁmiʁ, ʒə dɔʁ, nu dɔʁmɔ̃, dɔʁmi/. The same for *partir* /paʁtiʁ/ to leave, *sortir* /sɔʁtiʁ/ to go out, *sentir* /sɑ̃tiʁ/ to feel or smell, *servir* /sɛʁviʁ/ to serve, *mentir* /mɑ̃tiʁ/ to lie. Grammars call these the third group; the owner can treat them as one family of six.
 - **Future and conditional** keep the whole infinitive: *je dormirai* /ʒə dɔʁmiʁe/, *je dormirais* /ʒə dɔʁmiʁɛ/, as every regular verb does.
