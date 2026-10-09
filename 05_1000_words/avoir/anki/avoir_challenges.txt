@@ -1,0 +1,20 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
+#tags:french 1000words avoir challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: Jules has three mobile phones.	Jules a trois téléphones portables. /ʒyl a tʁwa telefɔn pɔʁtabl/	say
+Say: I am hungry, I have to eat.	J’ai faim, je dois manger. /ʒe fɛ̃, ʒə dwa mɑ̃ʒe/	say
+Say: There is no milk.	Il n’y a pas de lait. /il nja pa də lɛ/	say
+Say: Do you have children?	Vous avez des enfants ? /vuz‿ave dez‿ɑ̃fɑ̃/	say
+Say: Do not be afraid! (to several people)	N’ayez pas peur ! /nɛje pa pœʁ/	say
+The present of avoir, all six forms	j’ai, tu as, il a, nous avons, vous avez, ils ont /ʒe, ty a, il a, nuz‿avɔ̃, vuz‿ave, ilz‿ɔ̃/	grammar
+ils ont or ils sont: what is the difference in sound?	The /z/ of the liaison: ils ont /ilz‿ɔ̃/ they have, ils sont /il sɔ̃/ they are	sound
+How is eu, the participle, pronounced?	/y/, not /ø/: j’ai eu /ʒe y/ I had; the one common word where the letters eu are /y/	sound
+The three irregular forms the app flags	ont /ɔ̃/ the ils present, ayez /ɛje/ the vous imperative and subjunctive, eu /y/ the past participle	grammar
+Five things one has in French and is in English	avoir faim /fɛ̃/, soif /swaf/, froid /fʁwa/, peur /pœʁ/, vingt ans /vɛ̃t‿ɑ̃/: hungry, thirsty, cold, afraid, twenty	words
+There is, there are, and three years ago	il y a /il j a/ for both; il y a trois ans /il j a tʁwaz‿ɑ̃/	grammar
+J’ai un chat; and in the negative?	Je n’ai pas de chat /ʒə ne pa də ʃa/: after a negative avoir, un, une, des become de	grammar
+a or à: which is the verb?	a without the accent is the verb (il a), à with the accent is the preposition to, at; both /a/	words

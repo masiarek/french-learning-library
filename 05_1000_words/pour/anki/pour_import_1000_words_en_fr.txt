@@ -1,0 +1,60 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(prep.) for; to (in order to)	pour<br>/puʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+This film is for children.	Ce film est pour les enfants.<br>/sə film ɛ puʁ lez‿ɑ̃fɑ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for me, for you	pour moi, pour toi<br>/puʁ mwa, puʁ twa/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for him, for her	pour lui, pour elle<br>/puʁ lɥi, puʁ ɛl/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for us, for you	pour nous, pour vous<br>/puʁ nu, puʁ vu/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for them (men, women)	pour eux, pour elles<br>/puʁ ø, puʁ ɛl/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+A present for you.	Un cadeau pour toi.<br>/œ̃ kado puʁ twa/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+a children’s book	un livre pour enfants<br>/œ̃ livʁ puʁ ɑ̃fɑ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+the train to Paris	le train pour Paris<br>/lə tʁɛ̃ puʁ paʁi/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for two weeks	pour deux semaines<br>/puʁ dø səmɛn/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for tomorrow	pour demain<br>/puʁ dəmɛ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for dinner	pour le dîner<br>/puʁ lə dine/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+I work to live.	Je travaille pour vivre.<br>/ʒə tʁavaj puʁ vivʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+He came to see you.	Il est venu pour te voir.<br>/il ɛ vəny puʁ tə vwaʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+How do I get to the station, please?	Pour aller à la gare, s’il vous plaît ?<br>/puʁ ale a la ɡaʁ, sil vu plɛ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+I have to sleep to be in good shape.	Je dois dormir pour être en forme.<br>/ʒə dwa dɔʁmiʁ puʁ ɛtʁ ɑ̃ fɔʁm/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+I speak slowly so that you understand.	Je parle lentement pour que tu comprennes.<br>/ʒə paʁl lɑ̃tmɑ̃ puʁ kə ty kɔ̃pʁɛn/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+I am leaving for two weeks.	Je pars pour deux semaines.<br>/ʒə paʁ puʁ dø səmɛn/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+I slept for two hours.	J’ai dormi pendant deux heures.<br>/ʒe dɔʁmi pɑ̃dɑ̃ døz‿œʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+The book is written by Marie.	Le livre est écrit par Marie.<br>/lə livʁ ɛ(t)‿ekʁi paʁ maʁi/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+per cent	pour cent<br>/puʁ sɑ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for the moment, for now	pour le moment, pour l’instant<br>/puʁ lə mɔmɑ̃, puʁ lɛ̃stɑ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+forever	pour toujours<br>/puʁ tuʒuʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for the first time	pour la première fois<br>/puʁ la pʁəmjɛʁ fwa/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for good	pour de bon<br>/puʁ də bɔ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for nothing	pour rien<br>/puʁ ʁjɛ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+thank you for the present	merci pour le cadeau<br>/mɛʁsi puʁ lə kado/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+That is why …	C’est pour ça que …<br>/sɛ puʁ sa kə/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+for or against	pour ou contre<br>/puʁ u kɔ̃tʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+the pros and cons	le pour et le contre<br>/lə puʁ e lə kɔ̃tʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+Why? Because …	Pourquoi ? Parce que …<br>/puʁkwa, paʁs kə/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+It is for you.	C’est pour toi.<br>/sɛ puʁ twa/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+This book is for my mother.	Ce livre est pour ma mère.<br>/sə livʁ ɛ puʁ ma mɛʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+I have a present for you.	J’ai un cadeau pour vous.<br>/ʒe œ̃ kado puʁ vu/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+The train to Warsaw leaves at eight.	Le train pour Varsovie part à huit heures.<br>/lə tʁɛ̃ puʁ vaʁsɔvi paʁ a ɥit‿œʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+I come to learn French.	Je viens pour apprendre le français.<br>/ʒə vjɛ̃ puʁ apʁɑ̃dʁ lə fʁɑ̃sɛ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+He is sleeping to be in good shape tomorrow.	Il dort pour être en forme demain.<br>/il dɔʁ puʁ ɛtʁ ɑ̃ fɔʁm dəmɛ̃/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+We are leaving for three days.	Nous partons pour trois jours.<br>/nu paʁtɔ̃ puʁ tʁwa ʒuʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+Thank you for everything!	Merci pour tout !<br>/mɛʁsi puʁ tu/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+That is why I have to leave.	C’est pour ça que je dois partir.<br>/sɛ puʁ sa kə ʒə dwa paʁtiʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+Are you for or against?	Tu es pour ou contre ?<br>/ty ɛ puʁ u kɔ̃tʁ/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+This film is for children, not for them.	Ce film est pour les enfants, pas pour eux.<br>/sə film ɛ puʁ lez‿ɑ̃fɑ̃, pa puʁ ø/	french 1000words pour en-fr	French::1000 words (EN-FR)::pour — for; to
+Say: This film is for children.	Ce film est pour les enfants. /sə film ɛ puʁ lez‿ɑ̃fɑ̃/	french 1000words pour challenge say	French::1000 words (EN-FR)::pour — for; to::Challenges
+Say: It is for you.	C’est pour toi. /sɛ puʁ twa/	french 1000words pour challenge say	French::1000 words (EN-FR)::pour — for; to::Challenges
+Say: I work to live.	Je travaille pour vivre. /ʒə tʁavaj puʁ vivʁ/	french 1000words pour challenge say	French::1000 words (EN-FR)::pour — for; to::Challenges
+Say: How do I get to the station, please?	Pour aller à la gare, s’il vous plaît ? /puʁ ale a la ɡaʁ, sil vu plɛ/	french 1000words pour challenge say	French::1000 words (EN-FR)::pour — for; to::Challenges
+Say: Thank you for everything!	Merci pour tout ! /mɛʁsi puʁ tu/	french 1000words pour challenge say	French::1000 words (EN-FR)::pour — for; to::Challenges
+The stressed pronouns, in order	moi, toi, lui, elle, nous, vous, eux, elles /mwa, twa, lɥi, ɛl, nu, vu, ø, ɛl/: after a preposition and for emphasis	french 1000words pour challenge grammar	French::1000 words (EN-FR)::pour — for; to::Challenges
+For two weeks (planned) and for two hours (passed): which preposition?	pour deux semaines /puʁ dø səmɛn/ for a plan; pendant deux heures /pɑ̃dɑ̃ døz‿œʁ/ for a time that passed	french 1000words pour challenge grammar	French::1000 words (EN-FR)::pour — for; to::Challenges
+Written by Marie: pour or par?	par: écrit par Marie /ekʁi paʁ maʁi/; par is the agent, pour the purpose or the beneficiary	french 1000words pour challenge grammar	French::1000 words (EN-FR)::pour — for; to::Challenges
+pour que: which mood follows?	The subjunctive: pour que tu viennes /puʁ kə ty vjɛn/, pour que tu comprennes /puʁ kə ty kɔ̃pʁɛn/	french 1000words pour challenge grammar	French::1000 words (EN-FR)::pour — for; to::Challenges
+Thank you for the present, thank you for coming	merci pour le cadeau /mɛʁsi puʁ lə kado/ with a noun; merci d’être venu /mɛʁsi dɛtʁ vəny/ with an infinitive	french 1000words pour challenge words	French::1000 words (EN-FR)::pour — for; to::Challenges
+pour or pur: which vowel?	pour /puʁ/ with /u/, pur /pyʁ/ with the front rounded /y/	french 1000words pour challenge sound	French::1000 words (EN-FR)::pour — for; to::Challenges
+Why les enfants in ce film est pour les enfants?	French keeps the article for a kind where English drops it: pour les enfants, for children; with the liaison /lez‿ɑ̃fɑ̃/	french 1000words pour challenge grammar	French::1000 words (EN-FR)::pour — for; to::Challenges

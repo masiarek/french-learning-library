@@ -1,0 +1,76 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+avoir<br>/avwaʁ/	(v.) to have, to own; to have done (the auxiliary)	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+ont<br>/ɔ̃/	(they) have: the ils form, irregular	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+ayez<br>/ɛje/	have! (to several people); (that you) have: the imperative and the subjunctive, irregular	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+eu<br>/y/	had: the past participle, irregular, said /y/	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Jules a trois téléphones portables.<br>/ʒyl a tʁwa telefɔn pɔʁtabl/	Jules has three mobile phones.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+j’ai<br>/ʒe/	I have	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+tu as<br>/ty a/	you have	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+il a, elle a, on a<br>/il a, ɛl a, ɔ̃n‿a/	he has, she has, one has	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+nous avons<br>/nuz‿avɔ̃/	we have	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+vous avez<br>/vuz‿ave/	you have (plural, or polite)	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+ils ont, elles ont<br>/ilz‿ɔ̃, ɛlz‿ɔ̃/	they have	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+j’ai eu<br>/ʒe y/	I had, I have had	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+j’avais<br>/ʒavɛ/	I had (imperfect)	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+j’aurai<br>/ʒoʁe/	I will have	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+j’aurais<br>/ʒoʁɛ/	I would have	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+que j’aie, que nous ayons, que vous ayez<br>/kə ʒɛ, kə nuz‿ɛjɔ̃, kə vuz‿ɛje/	that I have, that we have, that you have (subjunctive)	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Aie ! Ayons ! Ayez !<br>/ɛ, ɛjɔ̃, ɛje/	Have! Let’s have! Have! (imperative)	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+il eut<br>/il y/	he had (passé simple, in books)	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+J’ai dormi.<br>/ʒe dɔʁmi/	I slept.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Tu as bien dormi ?<br>/ty a bjɛ̃ dɔʁmi/	Did you sleep well?	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Il a dû partir.<br>/il a dy paʁtiʁ/	He had to leave.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Nous avons été malades.<br>/nuz‿avɔ̃ ete malad/	We were ill.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Ils ont eu peur.<br>/ilz‿ɔ̃ y pœʁ/	They were afraid.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+avoir faim, avoir soif<br>/avwaʁ fɛ̃, avwaʁ swaf/	to be hungry, to be thirsty	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+avoir chaud, avoir froid<br>/avwaʁ ʃo, avwaʁ fʁwa/	to be hot, to be cold	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+avoir peur<br>/avwaʁ pœʁ/	to be afraid	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+avoir raison, avoir tort<br>/avwaʁ ʁɛzɔ̃, avwaʁ tɔʁ/	to be right, to be wrong	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+avoir sommeil<br>/avwaʁ sɔmɛj/	to be sleepy	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+avoir vingt ans<br>/avwaʁ vɛ̃t‿ɑ̃/	to be twenty	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+avoir besoin de<br>/avwaʁ bəzwɛ̃ də/	to need	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+avoir envie de<br>/avwaʁ ɑ̃vi də/	to feel like, to want	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+avoir mal à la tête<br>/avwaʁ mal a la tɛt/	to have a headache	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+avoir de la chance<br>/avwaʁ də la ʃɑ̃s/	to be lucky	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+avoir l’air fatigué<br>/avwaʁ lɛʁ fatiɡe/	to look tired	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+avoir lieu<br>/avwaʁ ljø/	to take place	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Il y a un chat sur le lit.<br>/il j a œ̃ ʃa syʁ lə li/	There is a cat on the bed.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Il y a trois chambres.<br>/il j a tʁwa ʃɑ̃bʁ/	There are three bedrooms.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Il n’y a pas de problème.<br>/il nja pa də pʁɔblɛm/	There is no problem.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Il y a trois ans.<br>/il j a tʁwaz‿ɑ̃/	Three years ago.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Qu’est-ce qu’il y a ?<br>/kɛs kil j a/	What is the matter?	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Je n’ai pas de chat.<br>/ʒə ne pa də ʃa/	I have no cat.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Il n’a pas d’argent.<br>/il na pa daʁʒɑ̃/	He has no money.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Nous n’avons pas le temps.<br>/nu navɔ̃ pa lə tɑ̃/	We do not have the time.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Tu n’as pas faim ?<br>/ty na pa fɛ̃/	Aren’t you hungry?	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+a – à<br>/a/ · /a/	has – to, at	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+ont – on<br>/ɔ̃/ · /ɔ̃/	(they) have – one, we	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+ils ont – ils sont<br>/ilz‿ɔ̃/ · /il sɔ̃/	they have – they are	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+j’ai – et<br>/ʒe/ · /e/	I have – and	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+J’ai un frère et une sœur.<br>/ʒe œ̃ fʁɛʁ e yn sœʁ/	I have a brother and a sister.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Tu as l’heure ?<br>/ty a lœʁ/	Do you have the time?	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Elle a les yeux bleus.<br>/ɛl a lez‿jø blø/	She has blue eyes.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Nous avons une maison à Varsovie.<br>/nuz‿avɔ̃ yn mɛzɔ̃ a vaʁsɔvi/	We have a house in Warsaw.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Vous avez des enfants ?<br>/vuz‿ave dez‿ɑ̃fɑ̃/	Do you have children?	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Ils ont trois téléphones.<br>/ilz‿ɔ̃ tʁwa telefɔn/	They have three phones.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+J’ai eu peur.<br>/ʒe y pœʁ/	I was afraid.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+J’ai faim, je dois manger.<br>/ʒe fɛ̃, ʒə dwa mɑ̃ʒe/	I am hungry, I have to eat.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Sa mère a quarante ans.<br>/sa mɛʁ a kaʁɑ̃t ɑ̃/	His mother is forty.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Tu as raison.<br>/ty a ʁɛzɔ̃/	You are right.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Il n’y a pas de lait.<br>/il nja pa də lɛ/	There is no milk.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+N’ayez pas peur !<br>/nɛje pa pœʁ/	Do not be afraid!	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+J’________ un chat.<br>(AI exercise: fill in the form of avoir)	/ʒ[e] œ̃ ʃa/<br>I have a cat.	french 1000words avoir fr-en exercise	French::1000 words (FR-EN)::avoir — to have; to have done
+Tu ________ faim ?<br>(AI exercise: fill in the form of avoir)	/ty [a] fɛ̃/<br>Are you hungry?	french 1000words avoir fr-en exercise	French::1000 words (FR-EN)::avoir — to have; to have done
+Nous ________ froid.<br>(AI exercise: fill in the form of avoir)	/nuz‿[avɔ̃] fʁwa/<br>We are cold.	french 1000words avoir fr-en exercise	French::1000 words (FR-EN)::avoir — to have; to have done
+Ils ________ trois enfants.<br>(AI exercise: fill in the form of avoir)	/ilz‿[ɔ̃] tʁwaz‿ɑ̃fɑ̃/<br>They have three children.	french 1000words avoir fr-en exercise	French::1000 words (FR-EN)::avoir — to have; to have done
+J’ai ________ peur hier.<br>(AI exercise: fill in the form of avoir)	/ʒe [y] pœʁ jɛʁ/<br>I was afraid yesterday.	french 1000words avoir fr-en exercise	French::1000 words (FR-EN)::avoir — to have; to have done
+Il y ________ un problème.<br>(AI exercise: fill in the form of avoir)	/il j [a] œ̃ pʁɔblɛm/<br>There is a problem.	french 1000words avoir fr-en exercise	French::1000 words (FR-EN)::avoir — to have; to have done
+Ils ont faim.<br>/ilz‿ɔ̃ fɛ̃/	They are hungry: avoir, with the /z/.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Ils sont fatigués.<br>/il sɔ̃ fatiɡe/	They are tired: être, no /z/.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Ils ont vingt ans.<br>/ilz‿ɔ̃ vɛ̃t‿ɑ̃/	They are twenty: avoir.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+Ils sont à Paris.<br>/il sɔ̃ a paʁi/	They are in Paris: être.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done

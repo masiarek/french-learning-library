@@ -1,0 +1,20 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une mère — a mother::Challenges
+#tags:french 1000words mere challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: His mother is French.	Sa mère est française. /sa mɛʁ ɛ fʁɑ̃sɛz/	say
+Say: Marie’s mother is still sleeping.	La mère de Marie dort encore. /la mɛʁ də maʁi dɔʁ ɑ̃kɔʁ/	say
+Say: I have to call my mother.	Je dois appeler ma mère. /ʒə dwa aple ma mɛʁ/	say
+Say: My grandmother is eighty.	Ma grand-mère a quatre-vingts ans. /ma ɡʁɑ̃mɛʁ a katʁəvɛ̃z‿ɑ̃/	say
+Say: Happy Mother’s Day, mum!	Bonne fête, maman ! /bɔn fɛt, mamɑ̃/	say
+Sa mère: his mother or her mother?	Either: the possessive agrees with the noun owned (mère, feminine), not with the owner; Pierre et sa mère, Marie et sa mère /sa mɛʁ/	grammar
+The possessives for my, your (tu), his or her, before père, mère, parents	mon, ma, mes /mɔ̃, ma, me/; ton, ta, tes /tɔ̃, ta, te/; son, sa, ses /sɔ̃, sa, se/	grammar
+Why mon amie and not ma amie?	Before a vowel the feminine ma, ta, sa become mon, ton, son for the sound: mon amie /mɔ̃n‿ami/, son école /sɔ̃n‿ekɔl/	grammar
+Marie’s mother, in French	la mère de Marie /la mɛʁ də maʁi/: possession with de, French has no ’s	grammar
+français → française: what changes in sound?	The final consonant is said: /fʁɑ̃sɛ/ → /fʁɑ̃sɛz/; the same for polonais, polonaise /pɔlɔnɛ, pɔlɔnɛz/	sound
+Three words that sound like mère	la mer /la mɛʁ/ the sea, le maire /lə mɛʁ/ the mayor; and le père /lə pɛʁ/ rhymes	sound
+The family in pairs: father and mother, son and daughter, brother and sister	le père, la mère /lə pɛʁ, la mɛʁ/; le fils, la fille /lə fis, la fij/; le frère, la sœur /lə fʁɛʁ, la sœʁ/	words
+Grandmother, mother-in-law, mother tongue	la grand-mère /la ɡʁɑ̃mɛʁ/, la belle-mère /la bɛlmɛʁ/, la langue maternelle /la lɑ̃ɡ matɛʁnɛl/	words

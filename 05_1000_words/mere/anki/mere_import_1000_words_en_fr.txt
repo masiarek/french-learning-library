@@ -1,0 +1,73 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(n.f.) mother	une mère<br>/yn mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+His mother is French. Her mother is French.	Sa mère est française.<br>/sa mɛʁ ɛ fʁɑ̃sɛz/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+my father, my mother, my parents	mon père, ma mère, mes parents<br>/mɔ̃ pɛʁ, ma mɛʁ, me paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+your father, your mother, your parents	ton père, ta mère, tes parents<br>/tɔ̃ pɛʁ, ta mɛʁ, te paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+his or her father, mother, parents	son père, sa mère, ses parents<br>/sɔ̃ pɛʁ, sa mɛʁ, se paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+our mother, our parents	notre mère, nos parents<br>/nɔtʁ mɛʁ, no paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+your mother, your parents (plural, or polite)	votre mère, vos parents<br>/vɔtʁ mɛʁ, vo paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+their mother, their parents	leur mère, leurs parents<br>/lœʁ mɛʁ, lœʁ paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+my friend (a woman), his or her school: mon, son before a vowel	mon amie, son école<br>/mɔ̃n‿ami, sɔ̃n‿ekɔl/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Pierre and his mother	Pierre et sa mère<br>/pjɛʁ e sa mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Marie and her mother	Marie et sa mère<br>/maʁi e sa mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Marie’s mother	la mère de Marie<br>/la mɛʁ də maʁi/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the father, the mother, the parents	le père, la mère, les parents<br>/lə pɛʁ, la mɛʁ, le paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the son, the daughter, the children	le fils, la fille, les enfants<br>/lə fis, la fij, lez‿ɑ̃fɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the brother, the sister	le frère, la sœur<br>/lə fʁɛʁ, la sœʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the grandfather, the grandmother, the grandparents	le grand-père, la grand-mère, les grands-parents<br>/lə ɡʁɑ̃pɛʁ, la ɡʁɑ̃mɛʁ, le ɡʁɑ̃paʁɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the father-in-law or stepfather, the mother-in-law or stepmother	le beau-père, la belle-mère<br>/lə bopɛʁ, la bɛlmɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the husband, the wife	le mari, la femme<br>/lə maʁi, la fam/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the uncle, the aunt	l’oncle, la tante<br>/lɔ̃kl, la tɑ̃t/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the cousin (a man, a woman)	le cousin, la cousine<br>/lə kuzɛ̃, la kuzin/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+mum, dad	maman, papa<br>/mamɑ̃, papa/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+French (masculine, feminine)	français, française<br>/fʁɑ̃sɛ, fʁɑ̃sɛz/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Polish	polonais, polonaise<br>/pɔlɔnɛ, pɔlɔnɛz/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+English	anglais, anglaise<br>/ɑ̃ɡlɛ, ɑ̃ɡlɛz/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+German	allemand, allemande<br>/almɑ̃, almɑ̃d/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+American	américain, américaine<br>/ameʁikɛ̃, ameʁikɛn/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Italian	italien, italienne<br>/italjɛ̃, italjɛn/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+a Frenchwoman, a Pole: the noun takes a capital	une Française, un Polonais<br>/yn fʁɑ̃sɛz, œ̃ pɔlɔnɛ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Mother’s Day	la fête des mères<br>/la fɛt de mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+a mother of a family	une mère de famille<br>/yn mɛʁ də famij/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+a single mother	une mère célibataire<br>/yn mɛʁ selibatɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+a mother hen, an overprotective mother	une mère poule<br>/yn mɛʁ pul/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the mother tongue	la langue maternelle<br>/la lɑ̃ɡ matɛʁnɛl/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+motherly love	l’amour maternel<br>/lamuʁ matɛʁnɛl/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the head office	la maison mère<br>/la mɛzɔ̃ mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Mother Nature	Mère Nature<br>/mɛʁ natyʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+to become a mother	devenir mère<br>/dəvniʁ mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+from mother to daughter	de mère en fille<br>/də mɛʁ ɑ̃ fij/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Happy Mother’s Day, mum!	Bonne fête, maman !<br>/bɔn fɛt, mamɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the mother – the sea – the mayor	la mère – la mer – le maire<br>/la mɛʁ/ · /la mɛʁ/ · /lə mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the mother – the pond	la mère – la mare<br>/la mɛʁ/ · /la maʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the mother – the blackberry	la mère – la mûre<br>/la mɛʁ/ · /la myʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+the father – the pair	le père – la paire<br>/lə pɛʁ/ · /la pɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+My mother’s name is Anne.	Ma mère s’appelle Anne.<br>/ma mɛʁ sapɛl an/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+His mother is French and his father is Polish.	Sa mère est française et son père est polonais.<br>/sa mɛʁ ɛ fʁɑ̃sɛz e sɔ̃ pɛʁ ɛ pɔlɔnɛ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Marie’s mother is still sleeping.	La mère de Marie dort encore.<br>/la mɛʁ də maʁi dɔʁ ɑ̃kɔʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+We are going to my mother’s on Sunday.	Nous allons chez ma mère dimanche.<br>/nuz‿alɔ̃ ʃe ma mɛʁ dimɑ̃ʃ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+I have to call my mother.	Je dois appeler ma mère.<br>/ʒə dwa aple ma mɛʁ/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+All mothers are tired.	Toutes les mères sont fatiguées.<br>/tut le mɛʁ sɔ̃ fatiɡe/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Her mother comes from Warsaw.	Sa mère vient de Varsovie.<br>/sa mɛʁ vjɛ̃ də vaʁsɔvi/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+My grandmother is eighty.	Ma grand-mère a quatre-vingts ans.<br>/ma ɡʁɑ̃mɛʁ a katʁəvɛ̃z‿ɑ̃/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+She is my friend’s mother.	C’est la mère de mon ami.<br>/sɛ la mɛʁ də mɔ̃n‿ami/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+His mother is in the photo.	Sa mère est sur la photo.<br>/sa mɛʁ ɛ syʁ la fɔto/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Mum, I am here!	Maman, je suis là !<br>/mamɑ̃, ʒə sɥi la/	french 1000words mere en-fr	French::1000 words (EN-FR)::une mère — a mother
+Say: His mother is French.	Sa mère est française. /sa mɛʁ ɛ fʁɑ̃sɛz/	french 1000words mere challenge say	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Say: Marie’s mother is still sleeping.	La mère de Marie dort encore. /la mɛʁ də maʁi dɔʁ ɑ̃kɔʁ/	french 1000words mere challenge say	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Say: I have to call my mother.	Je dois appeler ma mère. /ʒə dwa aple ma mɛʁ/	french 1000words mere challenge say	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Say: My grandmother is eighty.	Ma grand-mère a quatre-vingts ans. /ma ɡʁɑ̃mɛʁ a katʁəvɛ̃z‿ɑ̃/	french 1000words mere challenge say	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Say: Happy Mother’s Day, mum!	Bonne fête, maman ! /bɔn fɛt, mamɑ̃/	french 1000words mere challenge say	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Sa mère: his mother or her mother?	Either: the possessive agrees with the noun owned (mère, feminine), not with the owner; Pierre et sa mère, Marie et sa mère /sa mɛʁ/	french 1000words mere challenge grammar	French::1000 words (EN-FR)::une mère — a mother::Challenges
+The possessives for my, your (tu), his or her, before père, mère, parents	mon, ma, mes /mɔ̃, ma, me/; ton, ta, tes /tɔ̃, ta, te/; son, sa, ses /sɔ̃, sa, se/	french 1000words mere challenge grammar	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Why mon amie and not ma amie?	Before a vowel the feminine ma, ta, sa become mon, ton, son for the sound: mon amie /mɔ̃n‿ami/, son école /sɔ̃n‿ekɔl/	french 1000words mere challenge grammar	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Marie’s mother, in French	la mère de Marie /la mɛʁ də maʁi/: possession with de, French has no ’s	french 1000words mere challenge grammar	French::1000 words (EN-FR)::une mère — a mother::Challenges
+français → française: what changes in sound?	The final consonant is said: /fʁɑ̃sɛ/ → /fʁɑ̃sɛz/; the same for polonais, polonaise /pɔlɔnɛ, pɔlɔnɛz/	french 1000words mere challenge sound	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Three words that sound like mère	la mer /la mɛʁ/ the sea, le maire /lə mɛʁ/ the mayor; and le père /lə pɛʁ/ rhymes	french 1000words mere challenge sound	French::1000 words (EN-FR)::une mère — a mother::Challenges
+The family in pairs: father and mother, son and daughter, brother and sister	le père, la mère /lə pɛʁ, la mɛʁ/; le fils, la fille /lə fis, la fij/; le frère, la sœur /lə fʁɛʁ, la sœʁ/	french 1000words mere challenge words	French::1000 words (EN-FR)::une mère — a mother::Challenges
+Grandmother, mother-in-law, mother tongue	la grand-mère /la ɡʁɑ̃mɛʁ/, la belle-mère /la bɛlmɛʁ/, la langue maternelle /la lɑ̃ɡ matɛʁnɛl/	french 1000words mere challenge words	French::1000 words (EN-FR)::une mère — a mother::Challenges

@@ -1,0 +1,59 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::pour — for; to
+#tags:french 1000words pour fr-en
+#columns:Front	Back	Tags
+#tags column:3
+pour<br>/puʁ/	(prep.) for; to (in order to)	fr-en
+Ce film est pour les enfants.<br>/sə film ɛ puʁ lez‿ɑ̃fɑ̃/	This film is for children.	fr-en
+pour moi, pour toi<br>/puʁ mwa, puʁ twa/	for me, for you	fr-en
+pour lui, pour elle<br>/puʁ lɥi, puʁ ɛl/	for him, for her	fr-en
+pour nous, pour vous<br>/puʁ nu, puʁ vu/	for us, for you	fr-en
+pour eux, pour elles<br>/puʁ ø, puʁ ɛl/	for them (men, women)	fr-en
+Un cadeau pour toi.<br>/œ̃ kado puʁ twa/	A present for you.	fr-en
+un livre pour enfants<br>/œ̃ livʁ puʁ ɑ̃fɑ̃/	a children’s book	fr-en
+le train pour Paris<br>/lə tʁɛ̃ puʁ paʁi/	the train to Paris	fr-en
+pour deux semaines<br>/puʁ dø səmɛn/	for two weeks	fr-en
+pour demain<br>/puʁ dəmɛ̃/	for tomorrow	fr-en
+pour le dîner<br>/puʁ lə dine/	for dinner	fr-en
+Je travaille pour vivre.<br>/ʒə tʁavaj puʁ vivʁ/	I work to live.	fr-en
+Il est venu pour te voir.<br>/il ɛ vəny puʁ tə vwaʁ/	He came to see you.	fr-en
+Pour aller à la gare, s’il vous plaît ?<br>/puʁ ale a la ɡaʁ, sil vu plɛ/	How do I get to the station, please?	fr-en
+Je dois dormir pour être en forme.<br>/ʒə dwa dɔʁmiʁ puʁ ɛtʁ ɑ̃ fɔʁm/	I have to sleep to be in good shape.	fr-en
+Je parle lentement pour que tu comprennes.<br>/ʒə paʁl lɑ̃tmɑ̃ puʁ kə ty kɔ̃pʁɛn/	I speak slowly so that you understand.	fr-en
+Je pars pour deux semaines.<br>/ʒə paʁ puʁ dø səmɛn/	I am leaving for two weeks.	fr-en
+J’ai dormi pendant deux heures.<br>/ʒe dɔʁmi pɑ̃dɑ̃ døz‿œʁ/	I slept for two hours.	fr-en
+Le livre est écrit par Marie.<br>/lə livʁ ɛ(t)‿ekʁi paʁ maʁi/	The book is written by Marie.	fr-en
+pour cent<br>/puʁ sɑ̃/	per cent	fr-en
+pour le moment, pour l’instant<br>/puʁ lə mɔmɑ̃, puʁ lɛ̃stɑ̃/	for the moment, for now	fr-en
+pour toujours<br>/puʁ tuʒuʁ/	forever	fr-en
+pour la première fois<br>/puʁ la pʁəmjɛʁ fwa/	for the first time	fr-en
+pour de bon<br>/puʁ də bɔ̃/	for good	fr-en
+pour rien<br>/puʁ ʁjɛ̃/	for nothing	fr-en
+merci pour le cadeau<br>/mɛʁsi puʁ lə kado/	thank you for the present	fr-en
+C’est pour ça que …<br>/sɛ puʁ sa kə/	That is why …	fr-en
+pour ou contre<br>/puʁ u kɔ̃tʁ/	for or against	fr-en
+le pour et le contre<br>/lə puʁ e lə kɔ̃tʁ/	the pros and cons	fr-en
+Pourquoi ? Parce que …<br>/puʁkwa, paʁs kə/	Why? Because …	fr-en
+C’est pour toi.<br>/sɛ puʁ twa/	It is for you.	fr-en
+Ce livre est pour ma mère.<br>/sə livʁ ɛ puʁ ma mɛʁ/	This book is for my mother.	fr-en
+J’ai un cadeau pour vous.<br>/ʒe œ̃ kado puʁ vu/	I have a present for you.	fr-en
+Le train pour Varsovie part à huit heures.<br>/lə tʁɛ̃ puʁ vaʁsɔvi paʁ a ɥit‿œʁ/	The train to Warsaw leaves at eight.	fr-en
+Je viens pour apprendre le français.<br>/ʒə vjɛ̃ puʁ apʁɑ̃dʁ lə fʁɑ̃sɛ/	I come to learn French.	fr-en
+Il dort pour être en forme demain.<br>/il dɔʁ puʁ ɛtʁ ɑ̃ fɔʁm dəmɛ̃/	He is sleeping to be in good shape tomorrow.	fr-en
+Nous partons pour trois jours.<br>/nu paʁtɔ̃ puʁ tʁwa ʒuʁ/	We are leaving for three days.	fr-en
+Merci pour tout !<br>/mɛʁsi puʁ tu/	Thank you for everything!	fr-en
+C’est pour ça que je dois partir.<br>/sɛ puʁ sa kə ʒə dwa paʁtiʁ/	That is why I have to leave.	fr-en
+Tu es pour ou contre ?<br>/ty ɛ puʁ u kɔ̃tʁ/	Are you for or against?	fr-en
+Ce film est pour les enfants, pas pour eux.<br>/sə film ɛ puʁ lez‿ɑ̃fɑ̃, pa puʁ ø/	This film is for children, not for them.	fr-en
+Je pars ________ deux semaines.<br>(AI exercise: pour, pendant or par?)	/ʒə paʁ [puʁ] dø səmɛn/<br>I am leaving for two weeks.	exercise
+J’ai dormi ________ deux heures.<br>(AI exercise: pour, pendant or par?)	/ʒe dɔʁmi [pɑ̃dɑ̃] døz‿œʁ/<br>I slept for two hours.	exercise
+Ce film est ________ les enfants.<br>(AI exercise: pour, pendant or par?)	/sə film ɛ [puʁ] lez‿ɑ̃fɑ̃/<br>This film is for children.	exercise
+Le livre est écrit ________ Marie.<br>(AI exercise: pour, pendant or par?)	/lə livʁ ɛ(t)‿ekʁi [paʁ] maʁi/<br>The book is written by Marie.	exercise
+Je travaille ________ vivre.<br>(AI exercise: pour, pendant or par?)	/ʒə tʁavaj [puʁ] vivʁ/<br>I work to live.	exercise
+Ce cadeau est pour ________.<br>(AI exercise: the stressed pronoun after pour)	/sə kado ɛ puʁ [mwa]/<br>This present is for me.	exercise
+Le livre est pour ________.<br>(AI exercise: the stressed pronoun after pour)	/lə livʁ ɛ puʁ [twa]/<br>The book is for you. (to a friend)	exercise
+La lettre est pour ________.<br>(AI exercise: the stressed pronoun after pour)	/la lɛtʁ ɛ puʁ [lɥi]/<br>The letter is for him.	exercise
+Ces fleurs sont pour ________.<br>(AI exercise: the stressed pronoun after pour)	/se flœʁ sɔ̃ puʁ [ɛl]/<br>These flowers are for her.	exercise
+Le film est pour ________.<br>(AI exercise: the stressed pronoun after pour)	/lə film ɛ puʁ [ø]/<br>The film is for them. (men)	exercise
