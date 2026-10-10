@@ -1,0 +1,81 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(adj.) pretty, nice, lovely	joli, jolie<br>/ʒɔli, ʒɔli/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+My bedroom is small but pretty.	Ma chambre est petite mais jolie.<br>/ma ʃɑ̃bʁ ɛ pətit mɛ ʒɔli/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+a pretty garden	un joli jardin<br>/œ̃ ʒɔli ʒaʁdɛ̃/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+a pretty house	une jolie maison<br>/yn ʒɔli mɛzɔ̃/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+pretty gardens	de jolis jardins<br>/də ʒɔli ʒaʁdɛ̃/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+pretty houses	de jolies maisons<br>/də ʒɔli mɛzɔ̃/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+The garden is pretty.	Le jardin est joli.<br>/lə ʒaʁdɛ̃ ɛ ʒɔli/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+The bedroom is pretty.	La chambre est jolie.<br>/la ʃɑ̃bʁ ɛ ʒɔli/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+The gardens are pretty.	Les jardins sont jolis.<br>/le ʒaʁdɛ̃ sɔ̃ ʒɔli/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+The bedrooms are pretty.	Les chambres sont jolies.<br>/le ʃɑ̃bʁ sɔ̃ ʒɔli/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+true; blue; tired: the same silent agreement	vrai, vraie; bleu, bleue; fatigué, fatiguée<br>/vʁɛ, blø, fatiɡe/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+a pretty flat: no liaison, no consonant to say	un joli appartement<br>/œ̃ ʒɔli apaʁtəmɑ̃/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+a pretty picture	une jolie image<br>/yn ʒɔli imaʒ/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+pretty children	de jolis enfants<br>/də ʒɔliz‿ɑ̃fɑ̃/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+pretty pictures	de jolies images<br>/də ʒɔliz‿imaʒ/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+pretty flats	de jolis appartements<br>/də ʒɔliz‿apaʁtəmɑ̃/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+a pretty girl, a beautiful woman	une jolie fille, une belle femme<br>/yn ʒɔli fij, yn bɛl fam/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+a handsome man: never joli	un bel homme<br>/œ̃ bɛl ɔm/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+a pretty village, a beautiful city	un joli village, une belle ville<br>/œ̃ ʒɔli vilaʒ, yn bɛl vil/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+a pretty dress, a fine coat	une jolie robe, un beau manteau<br>/yn ʒɔli ʁɔb, œ̃ bo mɑ̃to/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+The weather is fine: never joli	Il fait beau.<br>/il fɛ bo/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+a pretty voice, a pretty name	une jolie voix, un joli nom<br>/yn ʒɔli vwa, œ̃ ʒɔli nɔ̃/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+cute	mignon, mignonne<br>/miɲɔ̃, miɲɔn/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+charming	charmant, charmante<br>/ʃaʁmɑ̃, ʃaʁmɑ̃t/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+lovely, ravishing	ravissant, ravissante<br>/ʁavisɑ̃, ʁavisɑ̃t/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+ugly; ugly in everyday speech; ugly, also naughty: the opposites	laid, laide; moche; vilain, vilaine<br>/lɛ, lɛd, mɔʃ, vilɛ̃, vilɛn/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+prettier than	plus joli que<br>/ply ʒɔli kə/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+less pretty than	moins joli que<br>/mwɛ̃ ʒɔli kə/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+as pretty as	aussi joli que<br>/osi ʒɔli kə/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+the prettiest	le plus joli, la plus jolie<br>/lə ply ʒɔli, la ply ʒɔli/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+This dress is prettier than the other one.	Cette robe est plus jolie que l'autre.<br>/sɛt ʁɔb ɛ ply ʒɔli kə lotʁ/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+It is the prettiest bedroom in the house.	C'est la plus jolie chambre de la maison.<br>/sɛ la ply ʒɔli ʃɑ̃bʁ də la mɛzɔ̃/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+very pretty, really pretty	très joli, vraiment joli<br>/tʁɛ ʒɔli, vʁɛmɑ̃ ʒɔli/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+That's pretty!	C'est joli !<br>/sɛ ʒɔli/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+You have a nice place.	C'est joli chez vous.<br>/sɛ ʒɔli ʃe vu/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+as pretty as a picture	joli comme un cœur<br>/ʒɔli kɔm œ̃ kœʁ/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+pretty enough to eat	jolie à croquer<br>/ʒɔli a kʁɔke/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+a tidy sum	une jolie somme<br>/yn ʒɔli sɔm/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+a clever move, a nice shot	un joli coup<br>/œ̃ ʒɔli ku/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+a nice success	un joli succès<br>/œ̃ ʒɔli syksɛ/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+A fine mess! (ironic)	C'est du joli !<br>/sɛ dy ʒɔli/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+It is not very nice. (familiar)	Ce n'est pas joli joli.<br>/sə nɛ pa ʒɔli ʒɔli/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+to play the charmer	faire le joli cœur<br>/fɛʁ lə ʒɔli kœʁ/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+pretty flowers	de jolies fleurs<br>/də ʒɔli flœʁ/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+prettily; pretty, as in pretty expensive	joliment<br>/ʒɔlimɑ̃/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+pretty expensive	joliment cher<br>/ʒɔlimɑ̃ ʃɛʁ/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+to embellish	enjoliver<br>/ɑ̃ʒɔlive/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+a hubcap	un enjoliveur<br>/œ̃n‿ɑ̃ʒɔlivœʁ/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+prettiness	la joliesse<br>/la ʒɔljɛs/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+pretty, four spellings: one sound	joli – jolie – jolis – jolies<br>/ʒɔli/ · /ʒɔli/ · /ʒɔli/ · /ʒɔli/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+agreement you cannot hear – agreement you can	joli – petit, petite<br>/ʒɔli, ʒɔli/ · /pəti, pətit/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+pretty – the name: /ɔ/ against /y/	joli – Julie<br>/ʒɔli/ · /ʒyli/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+pretty – turned yellow: open /ɔ/ against closed /o/	joli – jauni<br>/ʒɔli/ · /ʒoni/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+What a pretty house!	Quelle jolie maison !<br>/kɛl ʒɔli mɛzɔ̃/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+There are pretty flowers in the garden.	Il y a de jolies fleurs dans le jardin.<br>/il j a də ʒɔli flœʁ dɑ̃ lə ʒaʁdɛ̃/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+My mother is wearing a pretty blue dress.	Ma mère porte une jolie robe bleue.<br>/ma mɛʁ pɔʁt yn ʒɔli ʁɔb blø/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+It is a pretty little village.	C'est un joli petit village.<br>/sɛt‿œ̃ ʒɔli pəti vilaʒ/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+They bought a pretty flat.	Ils ont acheté un joli appartement.<br>/ilz‿ɔ̃ aʃte œ̃ ʒɔli apaʁtəmɑ̃/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+The living room is pretty and comfortable.	Le salon est joli et confortable.<br>/lə salɔ̃ ɛ ʒɔli e kɔ̃fɔʁtabl/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+She has a pretty voice.	Elle a une jolie voix.<br>/ɛl a yn ʒɔli vwa/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+You have a nice place!	C'est joli chez vous !<br>/sɛ ʒɔli ʃe vu/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+This lamp is pretty but pretty expensive.	Cette lampe est jolie mais joliment chère.<br>/sɛt lɑ̃p ɛ ʒɔli mɛ ʒɔlimɑ̃ ʃɛʁ/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+The small bedrooms are the prettiest.	Les petites chambres sont les plus jolies.<br>/le pətit ʃɑ̃bʁ sɔ̃ le ply ʒɔli/	french 1000words joli en-fr	French::1000 words (EN-FR)::joli — pretty
+Say: My bedroom is small but pretty.	Ma chambre est petite mais jolie. /ma ʃɑ̃bʁ ɛ pətit mɛ ʒɔli/	french 1000words joli challenge say	French::1000 words (EN-FR)::joli — pretty::Challenges
+Say: What a pretty house!	Quelle jolie maison ! /kɛl ʒɔli mɛzɔ̃/	french 1000words joli challenge say	French::1000 words (EN-FR)::joli — pretty::Challenges
+Say: There are pretty flowers in the garden.	Il y a de jolies fleurs dans le jardin. /il j a də ʒɔli flœʁ dɑ̃ lə ʒaʁdɛ̃/	french 1000words joli challenge say	French::1000 words (EN-FR)::joli — pretty::Challenges
+Say: You have a nice place!	C’est joli chez vous ! /sɛ ʒɔli ʃe vu/	french 1000words joli challenge say	French::1000 words (EN-FR)::joli — pretty::Challenges
+Say: It is a pretty little village.	C’est un joli petit village. /sɛt‿œ̃ ʒɔli pəti vilaʒ/	french 1000words joli challenge say	French::1000 words (EN-FR)::joli — pretty::Challenges
+The four forms of joli, with IPA	joli, jolie, jolis, jolies, all /ʒɔli/: four spellings, one sound; only the plural before a vowel is heard, de jolis enfants /də ʒɔliz‿ɑ̃fɑ̃/	french 1000words joli challenge grammar	French::1000 words (EN-FR)::joli — pretty::Challenges
+Why is jolie said like joli but petite not like petit?	The feminine -e makes a final consonant sound; joli ends in a vowel, so there is nothing to wake: joli, jolie /ʒɔli/ against petit, petite /pəti, pətit/	french 1000words joli challenge sound	French::1000 words (EN-FR)::joli — pretty::Challenges
+Joli or beau: a pretty girl, a handsome man, fine weather	une jolie fille /yn ʒɔli fij/, un bel homme /œ̃ bɛl ɔm/, il fait beau /il fɛ bo/: joli is for the small and charming, beau for men, weather and the grand	french 1000words joli challenge words	French::1000 words (EN-FR)::joli — pretty::Challenges
+A tidy sum, a clever move, a fine mess (ironic)	une jolie somme /yn ʒɔli sɔm/, un joli coup /œ̃ ʒɔli ku/, c’est du joli ! /sɛ dy ʒɔli/	french 1000words joli challenge words	French::1000 words (EN-FR)::joli — pretty::Challenges
+Pretty expensive, in everyday French	joliment cher /ʒɔlimɑ̃ ʃɛʁ/: joliment slides from prettily to pretty, as English pretty does	french 1000words joli challenge words	French::1000 words (EN-FR)::joli — pretty::Challenges
+Read aloud, then check: joli, Julie, jauni	/ʒɔli/ pretty, /ʒyli/ the name, /ʒoni/ turned yellow: /ɔ/, /y/, /o/	french 1000words joli challenge sound	French::1000 words (EN-FR)::joli — pretty::Challenges
+Pretty houses: why de and not des?	Before a plural adjective that precedes its noun, careful French writes de: de jolies maisons /də ʒɔli mɛzɔ̃/	french 1000words joli challenge grammar	French::1000 words (EN-FR)::joli — pretty::Challenges

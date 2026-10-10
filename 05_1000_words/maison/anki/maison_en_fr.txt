@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une maison — a house
+#tags:french 1000words maison en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(n.f.) house, home	une maison<br>/yn mɛzɔ̃/	en-fr
+I live in a big house with my family.	J'habite dans une grande maison avec ma famille.<br>/ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/	en-fr
+I live, you live, he lives	j'habite, tu habites, il habite<br>/ʒabit, ty abit, il abit/	en-fr
+we live, you live, they live	nous habitons, vous habitez, ils habitent<br>/nuz‿abitɔ̃, vuz‿abite, ilz‿abit/	en-fr
+I lived, I have lived	j'ai habité<br>/ʒe abite/	en-fr
+Where do you live?	Où habites-tu ? Où habitez-vous ?<br>/u abit ty, u abite vu/	en-fr
+I live in a house, in a flat.	J'habite dans une maison, dans un appartement.<br>/ʒabit dɑ̃z‿yn mɛzɔ̃, dɑ̃z‿œ̃n‿apaʁtəmɑ̃/	en-fr
+I live in Paris, in France, in Poland.	J'habite à Paris, en France, en Pologne.<br>/ʒabit a paʁi, ɑ̃ fʁɑ̃s, ɑ̃ pɔlɔɲ/	en-fr
+to be at home	être à la maison<br>/ɛtʁ a la mɛzɔ̃/	en-fr
+to stay at home	rester à la maison<br>/ʁɛste a la mɛzɔ̃/	en-fr
+to go home, to come home	rentrer à la maison<br>/ʁɑ̃tʁe a la mɛzɔ̃/	en-fr
+to work from home	travailler à la maison<br>/tʁavaje a la mɛzɔ̃/	en-fr
+at my place, at your place, at our place	chez moi, chez toi, chez nous<br>/ʃe mwa, ʃe twa, ʃe nu/	en-fr
+home-made, a home-made tart	fait maison, une tarte maison<br>/fɛ mɛzɔ̃, yn taʁt mɛzɔ̃/	en-fr
+There is nobody at home.	Il n'y a personne à la maison.<br>/il nj a pɛʁsɔn a la mɛzɔ̃/	en-fr
+a house	une maison<br>/yn mɛzɔ̃/	en-fr
+a block of flats, a building	un immeuble<br>/œ̃n‿imœbl/	en-fr
+a flat, a one-room flat	un appartement, un studio<br>/œ̃n‿apaʁtəmɑ̃, œ̃ stydjo/	en-fr
+a detached house, a small suburban house	une villa, un pavillon<br>/yn vila, œ̃ pavijɔ̃/	en-fr
+a chalet, a farmhouse	un chalet, une ferme<br>/œ̃ ʃalɛ, yn fɛʁm/	en-fr
+a house in the country	une maison de campagne<br>/yn mɛzɔ̃ də kɑ̃paɲ/	en-fr
+a little house	une maisonnette<br>/yn mɛzɔnɛt/	en-fr
+a council flat	un HLM<br>/œ̃n‿aʃɛlɛm/	en-fr
+the roof, the walls	le toit, les murs<br>/lə twa, le myʁ/	en-fr
+the front door, the windows	la porte d'entrée, les fenêtres<br>/la pɔʁt dɑ̃tʁe, le fənɛtʁ/	en-fr
+the ground floor, the first floor	le rez-de-chaussée, le premier étage<br>/lə ʁedʃose, lə pʁəmjɛʁ‿etaʒ/	en-fr
+the stairs, the corridor, the hall	l'escalier, le couloir, l'entrée<br>/lɛskalje, lə kulwaʁ, lɑ̃tʁe/	en-fr
+the cellar, the attic	la cave, le grenier<br>/la kav, lə ɡʁənje/	en-fr
+the garage, the garden, the yard	le garage, le jardin, la cour<br>/lə ɡaʁaʒ, lə ʒaʁdɛ̃, la kuʁ/	en-fr
+the balcony, the terrace	le balcon, la terrasse<br>/lə balkɔ̃, la tɛʁas/	en-fr
+the neighbours	les voisins<br>/le vwazɛ̃/	en-fr
+to buy a house, to sell a house	acheter une maison, vendre une maison<br>/aʃte yn mɛzɔ̃, vɑ̃dʁ yn mɛzɔ̃/	en-fr
+to rent a house (as the tenant or as the owner)	louer une maison<br>/lwe yn mɛzɔ̃/	en-fr
+to build a house	construire une maison<br>/kɔ̃stʁɥiʁ yn mɛzɔ̃/	en-fr
+to move house, to move in	déménager, emménager<br>/demenaʒe, ɑ̃menaʒe/	en-fr
+the owner, the tenant, the rent	le propriétaire, le locataire, le loyer<br>/lə pʁɔpʁijetɛʁ, lə lɔkatɛʁ, lə lwaje/	en-fr
+a publishing house	une maison d'édition<br>/yn mɛzɔ̃ dedisjɔ̃/	en-fr
+an old people's home	une maison de retraite<br>/yn mɛzɔ̃ də ʁətʁɛt/	en-fr
+the youth centre	la maison des jeunes<br>/la mɛzɔ̃ de ʒœn/	en-fr
+the White House	la Maison Blanche<br>/la mɛzɔ̃ blɑ̃ʃ/	en-fr
+the host, the hostess	le maître de maison, la maîtresse de maison<br>/lə mɛtʁ də mɛzɔ̃, la mɛtʁɛs də mɛzɔ̃/	en-fr
+a housewife	une femme au foyer<br>/yn fam o fwaje/	en-fr
+the house – the reason – the season: the same -aison	la maison – la raison – la saison<br>/la mɛzɔ̃/ · /la ʁɛzɔ̃/ · /la sɛzɔ̃/	en-fr
+the house – the liaison of this library's tables	la maison – la liaison<br>/la mɛzɔ̃/ · /la ljɛzɔ̃/	en-fr
+the house – the houses – my houses: the plural is silent	la maison – les maisons – mes maisons<br>/la mɛzɔ̃/ · /le mɛzɔ̃/ · /me mɛzɔ̃/	en-fr
+I live in a small house with a garden.	J'habite dans une petite maison avec un jardin.<br>/ʒabit dɑ̃z‿yn pətit mɛzɔ̃ avɛk œ̃ ʒaʁdɛ̃/	en-fr
+Our house has three bedrooms and two bathrooms.	Notre maison a trois chambres et deux salles de bains.<br>/nɔtʁ mɛzɔ̃ a tʁwa ʃɑ̃bʁ e dø sal də bɛ̃/	en-fr
+I go home at six.	Je rentre à la maison à six heures.<br>/ʒə ʁɑ̃tʁ a la mɛzɔ̃ a siz‿œʁ/	en-fr
+Tonight we are staying at home.	Ce soir, nous restons à la maison.<br>/sə swaʁ, nu ʁɛstɔ̃ a la mɛzɔ̃/	en-fr
+My mother works from home on Fridays.	Ma mère travaille à la maison le vendredi.<br>/ma mɛʁ tʁavaj a la mɛzɔ̃ lə vɑ̃dʁədi/	en-fr
+The car is in front of the house and the garden is behind.	La voiture est devant la maison et le jardin est derrière.<br>/la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃ e lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ/	en-fr
+My grandparents live in an old house in the country.	Mes grands-parents habitent dans une vieille maison à la campagne.<br>/me ɡʁɑ̃paʁɑ̃ abit dɑ̃z‿yn vjɛj mɛzɔ̃ a la kɑ̃paɲ/	en-fr
+They have bought a house near Paris.	Ils ont acheté une maison près de Paris.<br>/ilz‿ɔ̃ aʃte yn mɛzɔ̃ pʁɛ də paʁi/	en-fr
+We are moving in June to a bigger house.	Nous déménageons en juin dans une maison plus grande.<br>/nu demenaʒɔ̃ ɑ̃ ʒɥɛ̃ dɑ̃z‿yn mɛzɔ̃ ply ɡʁɑ̃d/	en-fr
+Adam does not live in a flat, he lives in a house.	Adam n'habite pas dans un appartement, il habite dans une maison.<br>/adam nabit pa dɑ̃z‿œ̃n‿apaʁtəmɑ̃, il abit dɑ̃z‿yn mɛzɔ̃/	en-fr
+Everything is home-made in this restaurant.	Tout est fait maison dans ce restaurant.<br>/tut‿ɛ fɛ mɛzɔ̃ dɑ̃ sə ʁɛstoʁɑ̃/	en-fr

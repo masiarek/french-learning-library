@@ -1,0 +1,76 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(n.f.) bedroom, room	une chambre<br>/yn ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+There are three bedrooms in the house.	Il y a trois chambres dans la maison.<br>/il j a tʁwa ʃɑ̃bʁ dɑ̃ la mɛzɔ̃/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a bedroom	une chambre à coucher<br>/yn ʃɑ̃bʁ a kuʃe/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a child's room	une chambre d'enfant<br>/yn ʃɑ̃bʁ dɑ̃fɑ̃/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a spare room, a guest room	une chambre d'amis<br>/yn ʃɑ̃bʁ dami/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+the parents' bedroom	la chambre des parents<br>/la ʃɑ̃bʁ de paʁɑ̃/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a hotel room	une chambre d'hôtel<br>/yn ʃɑ̃bʁ dotɛl/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a bed and breakfast room	une chambre d'hôtes<br>/yn ʃɑ̃bʁ dot/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a maid's room, an attic room	une chambre de bonne<br>/yn ʃɑ̃bʁ də bɔn/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a student room	une chambre d'étudiant<br>/yn ʃɑ̃bʁ detydjɑ̃/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+to book a room	réserver une chambre<br>/ʁezɛʁve yn ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+I would like a room for two.	Je voudrais une chambre pour deux personnes.<br>/ʒə vudʁɛ yn ʃɑ̃bʁ puʁ dø pɛʁsɔn/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a single room, a double room	une chambre simple, une chambre double<br>/yn ʃɑ̃bʁ sɛ̃pl, yn ʃɑ̃bʁ dubl/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a twin room, a double room	une chambre à deux lits, une chambre avec un grand lit<br>/yn ʃɑ̃bʁ a dø li, yn ʃɑ̃bʁ avɛk œ̃ ɡʁɑ̃ li/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a room with a bathroom	une chambre avec salle de bains<br>/yn ʃɑ̃bʁ avɛk sal də bɛ̃/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a room with a sea view	une chambre avec vue sur la mer<br>/yn ʃɑ̃bʁ avɛk vy syʁ la mɛʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+for one night, for two nights	pour une nuit, pour deux nuits<br>/puʁ yn nɥi, puʁ dø nɥi/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+room number twelve	la chambre numéro douze<br>/la ʃɑ̃bʁ nymeʁo duz/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+the room key	la clé de la chambre<br>/la kle də la ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+the chambermaid, room service	la femme de chambre, le service en chambre<br>/la fam də ʃɑ̃bʁ, lə sɛʁvis ɑ̃ ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+Breakfast is served in the room.	Le petit déjeuner est servi dans la chambre.<br>/lə pəti deʒœne ɛ sɛʁvi dɑ̃ la ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a bed, a bedside table, a lamp	un lit, une table de nuit, une lampe<br>/œ̃ li, yn tabl də nɥi, yn lɑ̃p/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a wardrobe, a desk, a chair	une armoire, un bureau, une chaise<br>/yn aʁmwaʁ, œ̃ byʁo, yn ʃɛz/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a rug, curtains	un tapis, des rideaux<br>/œ̃ tapi, de ʁido/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+the bedroom door, the bedroom window	la porte, la fenêtre de la chambre<br>/la pɔʁt, la fənɛtʁ də la ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+on the first floor, on the ground floor	au premier étage, au rez-de-chaussée<br>/o pʁəmjɛʁ‿etaʒ, o ʁedʃose/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+to tidy one's room	ranger sa chambre<br>/ʁɑ̃ʒe sa ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+Go to your room!	Va dans ta chambre !<br>/va dɑ̃ ta ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+to stay in one's room	rester dans sa chambre<br>/ʁɛste dɑ̃ sa ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+to share a room	partager une chambre<br>/paʁtaʒe yn ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+to rent a room	louer une chambre<br>/lwe yn ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a messy room, a tidy room	une chambre en désordre, une chambre bien rangée<br>/yn ʃɑ̃bʁ ɑ̃ dezɔʁdʁ, yn ʃɑ̃bʁ bjɛ̃ ʁɑ̃ʒe/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a roommate, a flatmate	un camarade de chambre, un colocataire<br>/œ̃ kamaʁad də ʃɑ̃bʁ, œ̃ kɔlɔkatɛʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a dressing gown	une robe de chambre<br>/yn ʁɔb də ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+chamber music	la musique de chambre<br>/la myzik də ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+the Chamber of Deputies	la Chambre des députés<br>/la ʃɑ̃bʁ de depyte/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+the Chamber of Commerce	la Chambre de commerce<br>/la ʃɑ̃bʁ də kɔmɛʁs/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+an inner tube	une chambre à air<br>/yn ʃɑ̃bʁ a ɛʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a cold room	une chambre froide<br>/yn ʃɑ̃bʁ fʁwad/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+to bring a wine to room temperature	chambrer un vin<br>/ʃɑ̃bʁe œ̃ vɛ̃/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+to tease someone (familiar)	chambrer quelqu'un<br>/ʃɑ̃bʁe kɛlkœ̃/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a bedroom; a hotel room	une chambre<br>/yn ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a room; a three-room flat	une pièce, un appartement de trois pièces<br>/yn pjɛs, œ̃n‿apaʁtəmɑ̃ də tʁwa pjɛs/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+a large or shared room: the bathroom, the dining room	une salle, la salle de bains, la salle à manger<br>/yn sal, la sal də bɛ̃, la sal a mɑ̃ʒe/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+the bedroom – amber	la chambre – l'ambre<br>/la ʃɑ̃bʁ/ · /lɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+the bedroom – the leg – the ham: am before b is /ɑ̃/	la chambre – la jambe – le jambon<br>/la ʃɑ̃bʁ/ · /la ʒɑ̃b/ · /lə ʒɑ̃bɔ̃/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+one, some, three: the noun does not change in sound	une chambre – des chambres – trois chambres<br>/yn ʃɑ̃bʁ/ · /de ʃɑ̃bʁ/ · /tʁwa ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+My bedroom is small but pretty.	Ma chambre est petite mais jolie.<br>/ma ʃɑ̃bʁ ɛ pətit mɛ ʒɔli/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+In my bedroom there is a bed, a desk and a wardrobe.	Dans ma chambre, il y a un lit, un bureau et une armoire.<br>/dɑ̃ ma ʃɑ̃bʁ, il j a œ̃ li, œ̃ byʁo e yn aʁmwaʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+The children's room is on the first floor.	La chambre des enfants est au premier étage.<br>/la ʃɑ̃bʁ dez‿ɑ̃fɑ̃ ɛ o pʁəmjɛʁ‿etaʒ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+Tidy your room before going out!	Range ta chambre avant de sortir !<br>/ʁɑ̃ʒ ta ʃɑ̃bʁ avɑ̃ də sɔʁtiʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+I would like to book a room for two nights.	Je voudrais réserver une chambre pour deux nuits.<br>/ʒə vudʁɛ ʁezɛʁve yn ʃɑ̃bʁ puʁ dø nɥi/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+We have a room with a sea view.	Nous avons une chambre avec vue sur la mer.<br>/nuz‿avɔ̃ yn ʃɑ̃bʁ avɛk vy syʁ la mɛʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+The two brothers share a room.	Les deux frères partagent une chambre.<br>/le dø fʁɛʁ paʁtaʒ yn ʃɑ̃bʁ/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+He is sleeping in the spare room.	Il dort dans la chambre d'amis.<br>/il dɔʁ dɑ̃ la ʃɑ̃bʁ dami/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+My bedroom window looks onto the garden.	La fenêtre de ma chambre donne sur le jardin.<br>/la fənɛtʁ də ma ʃɑ̃bʁ dɔn syʁ lə ʒaʁdɛ̃/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+She rents a room in a private home in Paris.	Elle loue une chambre chez l'habitant à Paris.<br>/ɛl lu yn ʃɑ̃bʁ ʃe labitɑ̃ a paʁi/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+The house has three bedrooms and two bathrooms.	La maison a trois chambres et deux salles de bains.<br>/la mɛzɔ̃ a tʁwa ʃɑ̃bʁ e dø sal də bɛ̃/	french 1000words chambre en-fr	French::1000 words (EN-FR)::une chambre — a bedroom
+Say: There are three bedrooms in the house.	Il y a trois chambres dans la maison. /il j a tʁwa ʃɑ̃bʁ dɑ̃ la mɛzɔ̃/	french 1000words chambre challenge say	French::1000 words (EN-FR)::une chambre — a bedroom::Challenges
+Say: My bedroom is small but pretty.	Ma chambre est petite mais jolie. /ma ʃɑ̃bʁ ɛ pətit mɛ ʒɔli/	french 1000words chambre challenge say	French::1000 words (EN-FR)::une chambre — a bedroom::Challenges
+Say: Tidy your room before going out!	Range ta chambre avant de sortir ! /ʁɑ̃ʒ ta ʃɑ̃bʁ avɑ̃ də sɔʁtiʁ/	french 1000words chambre challenge say	French::1000 words (EN-FR)::une chambre — a bedroom::Challenges
+Say: I would like to book a room for two nights.	Je voudrais réserver une chambre pour deux nuits. /ʒə vudʁɛ ʁezɛʁve yn ʃɑ̃bʁ puʁ dø nɥi/	french 1000words chambre challenge say	French::1000 words (EN-FR)::une chambre — a bedroom::Challenges
+Say: The two brothers share a room.	Les deux frères partagent une chambre. /le dø fʁɛʁ paʁtaʒ yn ʃɑ̃bʁ/	french 1000words chambre challenge say	French::1000 words (EN-FR)::une chambre — a bedroom::Challenges
+Why am and not an in chambre?	the nasal /ɑ̃/ is spelled with m before b, as in jambe, jambon: /ʃɑ̃bʁ/, one syllable, the -e silent	french 1000words chambre challenge sound	French::1000 words (EN-FR)::une chambre — a bedroom::Challenges
+Chambre, pièce or salle?	une chambre /ʃɑ̃bʁ/ is the bedroom (or a hotel room); une pièce /pjɛs/ any room, counted; une salle /sal/ a large or shared room	french 1000words chambre challenge words	French::1000 words (EN-FR)::une chambre — a bedroom::Challenges
+A twin room, a double room, a room with a sea view	une chambre à deux lits /yn ʃɑ̃bʁ a dø li/, une chambre avec un grand lit /avɛk œ̃ ɡʁɑ̃ li/, une chambre avec vue sur la mer /avɛk vy syʁ la mɛʁ/	french 1000words chambre challenge words	French::1000 words (EN-FR)::une chambre — a bedroom::Challenges
+A spare room, a bed and breakfast, a hotel room	une chambre d’amis /yn ʃɑ̃bʁ dami/, une chambre d’hôtes /yn ʃɑ̃bʁ dot/, une chambre d’hôtel /yn ʃɑ̃bʁ dotɛl/	french 1000words chambre challenge words	French::1000 words (EN-FR)::une chambre — a bedroom::Challenges
+Go to your room!	Va dans ta chambre ! /va dɑ̃ ta ʃɑ̃bʁ/: dans, not à	french 1000words chambre challenge grammar	French::1000 words (EN-FR)::une chambre — a bedroom::Challenges
+A dressing gown, chamber music, an inner tube	une robe de chambre /yn ʁɔb də ʃɑ̃bʁ/, la musique de chambre /la myzik də ʃɑ̃bʁ/, une chambre à air /yn ʃɑ̃bʁ a ɛʁ/	french 1000words chambre challenge words	French::1000 words (EN-FR)::une chambre — a bedroom::Challenges
+One bedroom, three bedrooms: what changes in sound?	nothing in the noun: une chambre /yn ʃɑ̃bʁ/, trois chambres /tʁwa ʃɑ̃bʁ/; the plural -s is silent	french 1000words chambre challenge grammar	French::1000 words (EN-FR)::une chambre — a bedroom::Challenges

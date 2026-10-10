@@ -1,0 +1,50 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::beaucoup — a lot
+#tags:french 1000words beaucoup en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(adv.) a lot, much, many; very much	beaucoup<br>/boku/	en-fr
+I like my house a lot.	J'aime beaucoup ma maison.<br>/ʒɛm boku ma mɛzɔ̃/	en-fr
+I like it a lot.	J'aime beaucoup.<br>/ʒɛm boku/	en-fr
+He works a lot.	Il travaille beaucoup.<br>/il tʁavaj boku/	en-fr
+She reads a lot.	Elle lit beaucoup.<br>/ɛl li boku/	en-fr
+We travel a lot.	Nous voyageons beaucoup.<br>/nu vwajaʒɔ̃ boku/	en-fr
+Thank you very much.	Merci beaucoup.<br>/mɛʁsi boku/	en-fr
+It rained a lot.	Il a beaucoup plu.<br>/il a boku ply/	en-fr
+many books	beaucoup de livres<br>/boku də livʁ/	en-fr
+a lot of time	beaucoup de temps<br>/boku də tɑ̃/	en-fr
+many friends	beaucoup d'amis<br>/boku dami/	en-fr
+a lot of money	beaucoup d'argent<br>/boku daʁʒɑ̃/	en-fr
+a lot of people	beaucoup de monde<br>/boku də mɔ̃d/	en-fr
+a lot of work	beaucoup de travail<br>/boku də tʁavaj/	en-fr
+many of the books on this list	beaucoup des livres de cette liste<br>/boku de livʁ də sɛt list/	en-fr
+I have a lot of them.	J'en ai beaucoup.<br>/ʒɑ̃n‿e boku/	en-fr
+He eats a lot. – He is very fat.	Il mange beaucoup. – Il est très gros.<br>/il mɑ̃ʒ boku/ · /il ɛ tʁɛ ɡʁo/	en-fr
+I like it a lot. – It is very good.	J'aime beaucoup. – C'est très bon.<br>/ʒɛm boku/ · /sɛ tʁɛ bɔ̃/	en-fr
+She sings very well.	Elle chante très bien.<br>/ɛl ʃɑ̃t tʁɛ bjɛ̃/	en-fr
+I am very hungry. I am very cold.	J'ai très faim. J'ai très froid.<br>/ʒe tʁɛ fɛ̃, ʒe tʁɛ fʁwa/	en-fr
+a little salt	un peu de sel<br>/œ̃ pø də sɛl/	en-fr
+few people	peu de gens<br>/pø də ʒɑ̃/	en-fr
+enough room	assez de place<br>/ase də plas/	en-fr
+too much noise	trop de bruit<br>/tʁo də bʁɥi/	en-fr
+so many things	tant de choses<br>/tɑ̃ də ʃoz/	en-fr
+loads of things	plein de choses<br>/plɛ̃ də ʃoz/	en-fr
+How many bedrooms?	Combien de chambres ?<br>/kɔ̃bjɛ̃ də ʃɑ̃bʁ/	en-fr
+not at all – a little – enough – a lot – too much	pas du tout – un peu – assez – beaucoup – trop<br>/pa dy tu/ · /œ̃ pø/ · /ase/ · /boku/ · /tʁo/	en-fr
+much bigger	beaucoup plus grand<br>/boku ply ɡʁɑ̃/	en-fr
+much cheaper	beaucoup moins cher<br>/boku mwɛ̃ ʃɛʁ/	en-fr
+much better	beaucoup mieux<br>/boku mjø/	en-fr
+far too much	beaucoup trop<br>/boku tʁo/	en-fr
+by far	de beaucoup<br>/də boku/	en-fr
+not much, not many	pas beaucoup<br>/pa boku/	en-fr
+Thank you very much for the flowers!	Merci beaucoup pour les fleurs !<br>/mɛʁsi boku puʁ le flœʁ/	en-fr
+There are a lot of books on the desk.	Il y a beaucoup de livres sur le bureau.<br>/il j a boku də livʁ syʁ lə byʁo/	en-fr
+We have many friends in Paris.	Nous avons beaucoup d'amis à Paris.<br>/nuz‿avɔ̃ boku dami a paʁi/	en-fr
+She works a lot and sleeps little.	Elle travaille beaucoup et dort peu.<br>/ɛl tʁavaj boku e dɔʁ pø/	en-fr
+There are a lot of people in the living room.	Il y a beaucoup de monde dans le salon.<br>/il j a boku də mɔ̃d dɑ̃ lə salɔ̃/	en-fr
+I don't have much time.	Je n'ai pas beaucoup de temps.<br>/ʒə ne pa boku də tɑ̃/	en-fr
+This house is much bigger than ours.	Cette maison est beaucoup plus grande que la nôtre.<br>/sɛt mɛzɔ̃ ɛ boku ply ɡʁɑ̃d kə la notʁ/	en-fr
+Do you read a lot? Yes, enormously.	Tu lis beaucoup ? Oui, énormément.<br>/ty li boku, wi, enɔʁmemɑ̃/	en-fr
+It is far too expensive.	C'est beaucoup trop cher.<br>/sɛ boku tʁo ʃɛʁ/	en-fr

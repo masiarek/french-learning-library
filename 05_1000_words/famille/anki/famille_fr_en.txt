@@ -1,0 +1,81 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::une famille — a family
+#tags:french 1000words famille fr-en
+#columns:Front	Back	Tags
+#tags column:3
+une famille<br>/yn famij/	(n.f.) family	fr-en
+Toute la famille est à table.<br>/tut la famij ɛ(t)‿a tabl/	The whole family is at the table.	fr-en
+les grands-parents, le grand-père, la grand-mère<br>/le ɡʁɑ̃paʁɑ̃, lə ɡʁɑ̃pɛʁ, la ɡʁɑ̃mɛʁ/	the grandparents, the grandfather, the grandmother	fr-en
+l'oncle, la tante<br>/lɔ̃kl, la tɑ̃t/	the uncle, the aunt	fr-en
+le neveu, la nièce<br>/lə nəvø, la njɛs/	the nephew, the niece	fr-en
+le cousin, la cousine<br>/lə kuzɛ̃, la kuzin/	the cousin (a man, a woman)	fr-en
+le mari, la femme<br>/lə maʁi, la fam/	the husband, the wife	fr-en
+mon mari, ma femme<br>/mɔ̃ maʁi, ma fam/	my husband, my wife	fr-en
+le petit-fils, la petite-fille, les petits-enfants<br>/lə pətifis, la pətitfij, le pətiz‿ɑ̃fɑ̃/	the grandson, the granddaughter, the grandchildren	fr-en
+le beau-frère, la belle-sœur<br>/lə bofʁɛʁ, la bɛlsœʁ/	the brother-in-law, the sister-in-law	fr-en
+le gendre, la belle-fille<br>/lə ʒɑ̃dʁ, la bɛlfij/	the son-in-law, the daughter-in-law or stepdaughter	fr-en
+l'aîné, l'aînée<br>/lene, lene/	the eldest (a boy, a girl)	fr-en
+le cadet, la cadette<br>/lə kadɛ, la kadɛt/	the younger one	fr-en
+le benjamin, la benjamine<br>/lə bɛ̃ʒamɛ̃, la bɛ̃ʒamin/	the youngest	fr-en
+les jumeaux, les jumelles<br>/le ʒymo, le ʒymɛl/	twins (boys, girls)	fr-en
+un enfant unique<br>/œ̃n‿ɑ̃fɑ̃ ynik/	an only child	fr-en
+un parent, un parent éloigné, les proches<br>/œ̃ paʁɑ̃, œ̃ paʁɑ̃ elwaɲe, le pʁɔʃ/	a parent or a relative, a distant relative, the close family	fr-en
+une grande famille, une petite famille<br>/yn ɡʁɑ̃d famij, yn pətit famij/	a big family, a small family	fr-en
+une famille nombreuse<br>/yn famij nɔ̃bʁøz/	a large family, three children or more	fr-en
+une famille d'accueil<br>/yn famij dakœj/	a host family, a foster family	fr-en
+une famille recomposée<br>/yn famij ʁəkɔ̃poze/	a blended family	fr-en
+une famille monoparentale<br>/yn famij mɔnopaʁɑ̃tal/	a single-parent family	fr-en
+la famille royale<br>/la famij ʁwajal/	the royal family	fr-en
+la famille Lefèvre, les Lefèvre<br>/la famij ləfɛvʁ, le ləfɛvʁ/	the Lefèvre family, the Lefèvres: no plural -s on a surname	fr-en
+familial, familiale<br>/familjal/	family (as an adjective)	fr-en
+une réunion familiale<br>/yn ʁeynjɔ̃ familjal/	a family gathering	fr-en
+les allocations familiales<br>/lez‿alɔkasjɔ̃ familjal/	child benefit	fr-en
+familier, familière<br>/familje, familjɛʁ/	familiar; colloquial	fr-en
+un mot familier<br>/œ̃ mo familje/	a colloquial word	fr-en
+se familiariser avec<br>/sə familjaʁize avɛk/	to get used to	fr-en
+la parenté<br>/la paʁɑ̃te/	kinship	fr-en
+en famille, dîner en famille<br>/ɑ̃ famij, dine ɑ̃ famij/	as a family, to have dinner as a family	fr-en
+passer Noël en famille<br>/pase nɔɛl ɑ̃ famij/	to spend Christmas with the family	fr-en
+avec ma famille, toute la famille<br>/avɛk ma famij, tut la famij/	with my family, the whole family	fr-en
+un nom de famille, un prénom<br>/œ̃ nɔ̃ də famij, œ̃ pʁenɔ̃/	a surname, a first name	fr-en
+une photo de famille<br>/yn fɔto də famij/	a family photo	fr-en
+un repas de famille, une fête de famille<br>/œ̃ ʁəpa də famij, yn fɛt də famij/	a family meal, a family celebration	fr-en
+la vie de famille<br>/la vi də famij/	family life	fr-en
+un arbre généalogique<br>/œ̃n‿aʁbʁ ʒenealɔʒik/	a family tree	fr-en
+un air de famille<br>/œ̃n‿ɛʁ də famij/	a family likeness	fr-en
+fonder une famille<br>/fɔ̃de yn famij/	to start a family	fr-en
+avoir de la famille à Paris<br>/avwaʁ də la famij a paʁi/	to have relatives in Paris	fr-en
+C'est de famille.<br>/sɛ də famij/	It runs in the family.	fr-en
+Tel père, tel fils.<br>/tɛl pɛʁ, tɛl fis/	Like father, like son.	fr-en
+le chef de famille<br>/lə ʃɛf də famij/	the head of the family	fr-en
+Comment va la famille ?<br>/kɔmɑ̃ va la famij/	How is the family?	fr-en
+Bonjour à toute la famille !<br>/bɔ̃ʒuʁ a tut la famij/	Hello to the whole family!	fr-en
+On choisit ses amis, pas sa famille.<br>/ɔ̃ ʃwazi sez‿ami, pa sa famij/	You choose your friends, not your family.	fr-en
+J'habite dans une grande maison avec ma famille.<br>/ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/	I live in a big house with my family.	fr-en
+la famille, la fille, gentille, la vanille, une bille<br>/la famij, la fij, ʒɑ̃tij, la vanij, yn bij/	the family, the daughter, kind, the vanilla, a marble: -ille is /ij/	fr-en
+la ville, mille, tranquille, Lille<br>/la vil, mil, tʁɑ̃kil, lil/	the town, a thousand, calm, Lille: -ille is /il/	fr-en
+Ma famille habite dans une grande maison.<br>/ma famij abit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃/	My family lives in a big house.	fr-en
+Nous dînons en famille le dimanche.<br>/nu dinɔ̃ ɑ̃ famij lə dimɑ̃ʃ/	We have dinner as a family on Sundays.	fr-en
+Ma famille est polonaise.<br>/ma famij ɛ pɔlɔnɛz/	My family is Polish.	fr-en
+Mon oncle et ma tante ont une famille nombreuse.<br>/mɔ̃n‿ɔ̃kl e ma tɑ̃t ɔ̃t‿yn famij nɔ̃bʁøz/	My uncle and my aunt have a large family.	fr-en
+C'est une photo de ma famille.<br>/sɛt‿yn fɔto də ma famij/	It is a photo of my family.	fr-en
+Il a de la famille à Varsovie.<br>/il a də la famij a vaʁsɔvi/	He has relatives in Warsaw.	fr-en
+Quel est votre nom de famille ?<br>/kɛl ɛ vɔtʁ nɔ̃ də famij/	What is your surname?	fr-en
+Ma cousine ressemble à sa mère : c'est de famille.<br>/ma kuzin ʁəsɑ̃bl a sa mɛʁ : sɛ də famij/	My cousin looks like her mother: it runs in the family.	fr-en
+La famille Lefèvre a un appartement à Paris.<br>/la famij ləfɛvʁ a œ̃n‿apaʁtəmɑ̃ a paʁi/	The Lefèvre family has a flat in Paris.	fr-en
+Nous passons Noël en famille.<br>/nu pasɔ̃ nɔɛl ɑ̃ famij/	We spend Christmas with the family.	fr-en
+Mes neveux et mes nièces viennent dimanche.<br>/me nəvø e me njɛs vjɛn dimɑ̃ʃ/	My nephews and my nieces are coming on Sunday.	fr-en
+Le frère de ma mère est mon ________.<br>(AI exercise: who is it?)	/lə fʁɛʁ də ma mɛʁ ɛ mɔ̃n‿[ɔ̃kl]/<br>My mother's brother is my uncle.	exercise
+La fille de mon oncle est ma ________.<br>(AI exercise: who is it?)	/la fij də mɔ̃n‿ɔ̃kl ɛ ma [kuzin]/<br>My uncle's daughter is my cousin.	exercise
+Le fils de ma sœur est mon ________.<br>(AI exercise: who is it?)	/lə fis də ma sœʁ ɛ mɔ̃ [nəvø]/<br>My sister's son is my nephew.	exercise
+La mère de mon père est ma ________.<br>(AI exercise: who is it?)	/la mɛʁ də mɔ̃ pɛʁ ɛ ma [ɡʁɑ̃mɛʁ]/<br>My father's mother is my grandmother.	exercise
+Le mari de ma sœur est mon ________.<br>(AI exercise: who is it?)	/lə maʁi də ma sœʁ ɛ mɔ̃ [bofʁɛʁ]/<br>My sister's husband is my brother-in-law.	exercise
+la famille, la ville<br>/la [famij], la [vil]/	the family, the town	fr-en
+la fille, mille<br>/la [fij], [mil]/	the daughter, a thousand	fr-en
+gentille, tranquille<br>/[ʒɑ̃tij], [tʁɑ̃kil]/	kind, calm	fr-en
+________ famille<br>(AI exercise: un or une?)	/[yn] famij/<br>a family	exercise
+________ oncle<br>(AI exercise: un or une?)	/[œ̃n]‿ɔ̃kl/<br>an uncle	exercise
+________ tante<br>(AI exercise: un or une?)	/[yn] tɑ̃t/<br>an aunt	exercise
+________ neveu<br>(AI exercise: un or une?)	/[œ̃] nəvø/<br>a nephew	exercise

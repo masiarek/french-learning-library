@@ -1,0 +1,83 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(adj.) beautiful, handsome, fine	beau, bel, belle, beaux, belles<br>/bo, bɛl, bɛl, bo, bɛl/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+My house is beautiful and comfortable.	Ma maison est belle et confortable.<br>/ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a beautiful garden	un beau jardin<br>/œ̃ bo ʒaʁdɛ̃/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a beautiful flat	un bel appartement<br>/œ̃ bɛl apaʁtəmɑ̃/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a handsome man	un bel homme<br>/œ̃ bɛl ɔm/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a beautiful house	une belle maison<br>/yn bɛl mɛzɔ̃/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+beautiful gardens	de beaux jardins<br>/də bo ʒaʁdɛ̃/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+beautiful houses	de belles maisons<br>/də bɛl mɛzɔ̃/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+The garden is beautiful.	Le jardin est beau.<br>/lə ʒaʁdɛ̃ ɛ bo/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+The bedroom is beautiful.	La chambre est belle.<br>/la ʃɑ̃bʁ ɛ bɛl/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+The gardens are beautiful.	Les jardins sont beaux.<br>/le ʒaʁdɛ̃ sɔ̃ bo/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+The bedrooms are beautiful.	Les chambres sont belles.<br>/le ʃɑ̃bʁ sɔ̃ bɛl/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a beautiful tree, a beautiful child, a fine summer	un bel arbre, un bel enfant, un bel été<br>/œ̃ bɛl aʁbʁ, œ̃ bɛl ɑ̃fɑ̃, œ̃ bɛl ete/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a fine hotel, a fine age	un bel hôtel, un bel âge<br>/œ̃ bɛl otɛl, œ̃ bɛl ɑʒ/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+beautiful eyes	de beaux yeux<br>/də boz‿jø/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+beautiful pictures	de belles images<br>/də bɛlz‿imaʒ/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+the fine arts	les beaux-arts<br>/le boz‿aʁ/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a new flat, an old man: the same rule	un nouvel appartement, un vieil homme<br>/œ̃ nuvɛl apaʁtəmɑ̃, œ̃ vjɛj ɔm/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a beautiful woman, a handsome man	une belle femme, un bel homme<br>/yn bɛl fam, œ̃ bɛl ɔm/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a pretty girl, a pretty village	une jolie fille, un joli village<br>/yn ʒɔli fij, œ̃ ʒɔli vilaʒ/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+The weather is fine.	Il fait beau.<br>/il fɛ bo/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a fine piece of work	un beau travail<br>/œ̃ bo tʁavaj/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+ugly; ugly in everyday speech: the opposites	laid, laide, moche<br>/lɛ, lɛd, mɔʃ/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+more beautiful than	plus beau que, plus belle que<br>/ply bo kə, ply bɛl kə/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+as beautiful as	aussi beau que<br>/osi bo kə/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+the most beautiful	le plus beau, la plus belle<br>/lə ply bo, la ply bɛl/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+the most beautiful flat in town	le plus bel appartement de la ville<br>/lə ply bɛl apaʁtəmɑ̃ də la vil/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+It is the most beautiful house in the village.	C'est la plus belle maison du village.<br>/sɛ la ply bɛl mɛzɔ̃ dy vilaʒ/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+It is fine. It is very fine.	Il fait beau. Il fait très beau.<br>/il fɛ bo, il fɛ tʁɛ bo/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+It will be fine tomorrow.	Il va faire beau demain.<br>/il va fɛʁ bo dəmɛ̃/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+fine weather	le beau temps<br>/lə bo tɑ̃/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+one fine day	un beau jour<br>/œ̃ bo ʒuʁ/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a beautiful day	une belle journée<br>/yn bɛl ʒuʁne/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+father-in-law or stepfather, mother-in-law or stepmother	le beau-père, la belle-mère<br>/lə bopɛʁ, la bɛlmɛʁ/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+brother-in-law, sister-in-law	le beau-frère, la belle-sœur<br>/lə bofʁɛʁ, la bɛlsœʁ/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+son-in-law or stepson, daughter-in-law or stepdaughter	le beau-fils, la belle-fille<br>/lə bofis, la bɛlfij/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+the parents-in-law	les beaux-parents<br>/le bopaʁɑ̃/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a beautiful girl – a daughter-in-law	une belle fille – une belle-fille<br>/yn bɛl fij/ · /yn bɛlfij/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+What a beautiful garden! What a beautiful house!	Quel beau jardin ! Quelle belle maison !<br>/kɛl bo ʒaʁdɛ̃, kɛl bɛl mɛzɔ̃/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a fine gesture	un beau geste<br>/œ̃ bo ʒɛst/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a tidy sum	une belle somme<br>/yn bɛl sɔm/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+to get dressed up	se faire beau, se faire belle<br>/sə fɛʁ bo, sə fɛʁ bɛl/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+well and truly	bel et bien<br>/bɛl e bjɛ̃/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+more than ever, with renewed vigour	de plus belle<br>/də ply bɛl/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+to do something in vain	avoir beau faire<br>/avwaʁ bo fɛʁ/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+However much I look, I cannot find my keys.	J'ai beau chercher, je ne trouve pas mes clés.<br>/ʒe bo ʃɛʁʃe, ʒə nə tʁuv pa me kle/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+Sleeping Beauty	la Belle au bois dormant<br>/la bɛl o bwa dɔʁmɑ̃/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+Beauty and the Beast	la Belle et la Bête<br>/la bɛl e la bɛt/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+beauty	la beauté<br>/la bote/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a beauty salon	un salon de beauté<br>/œ̃ salɔ̃ də bote/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+to make or become more beautiful	embellir<br>/ɑ̃beliʁ/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+a lot: beau and coup, a fine blow	beaucoup<br>/boku/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+beautiful, singular and plural: the same sound	beau – beaux<br>/bo/ · /bo/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+the masculine before a vowel and the feminine: the same sound	bel – belle<br>/bɛl/ · /bɛl/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+beautiful – good – end – drunk: four vowels	beau – bon – bout – bu<br>/bo/ · /bɔ̃/ · /bu/ · /by/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+The weather is fine today.	Il fait beau aujourd'hui.<br>/il fɛ bo oʒuʁdɥi/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+They have a beautiful flat in Paris.	Ils ont un bel appartement à Paris.<br>/ilz‿ɔ̃ œ̃ bɛl apaʁtəmɑ̃ a paʁi/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+My mother has beautiful eyes.	Ma mère a de beaux yeux.<br>/ma mɛʁ a də boz‿jø/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+What a beautiful garden you have!	Quel beau jardin vous avez !<br>/kɛl bo ʒaʁdɛ̃ vuz‿ave/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+It is the most beautiful bedroom in the house.	C'est la plus belle chambre de la maison.<br>/sɛ la ply bɛl ʃɑ̃bʁ də la mɛzɔ̃/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+You look beautiful in that dress.	Tu es belle dans cette robe.<br>/ty ɛ bɛl dɑ̃ sɛt ʁɔb/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+My mother-in-law is coming on Sunday.	Ma belle-mère vient dimanche.<br>/ma bɛlmɛʁ vjɛ̃ dimɑ̃ʃ/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+The living room is beautiful but small.	Le salon est beau mais petit.<br>/lə salɔ̃ ɛ bo mɛ pəti/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+One fine day, he left.	Un beau jour, il est parti.<br>/œ̃ bo ʒuʁ, il ɛ paʁti/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+There are beautiful flowers in the garden.	Il y a de belles fleurs dans le jardin.<br>/il j a də bɛl flœʁ dɑ̃ lə ʒaʁdɛ̃/	french 1000words beau en-fr	French::1000 words (EN-FR)::beau — beautiful
+Say: My house is beautiful and comfortable.	Ma maison est belle et confortable. /ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/	french 1000words beau challenge say	French::1000 words (EN-FR)::beau — beautiful::Challenges
+Say: The weather is fine today.	Il fait beau aujourd’hui. /il fɛ bo oʒuʁdɥi/	french 1000words beau challenge say	French::1000 words (EN-FR)::beau — beautiful::Challenges
+Say: They have a beautiful flat in Paris.	Ils ont un bel appartement à Paris. /ilz‿ɔ̃ œ̃ bɛl apaʁtəmɑ̃ a paʁi/	french 1000words beau challenge say	French::1000 words (EN-FR)::beau — beautiful::Challenges
+Say: My mother has beautiful eyes.	Ma mère a de beaux yeux. /ma mɛʁ a də boz‿jø/	french 1000words beau challenge say	French::1000 words (EN-FR)::beau — beautiful::Challenges
+Say: It is the most beautiful bedroom in the house.	C’est la plus belle chambre de la maison. /sɛ la ply bɛl ʃɑ̃bʁ də la mɛzɔ̃/	french 1000words beau challenge say	French::1000 words (EN-FR)::beau — beautiful::Challenges
+The five forms of beau, with IPA	beau /bo/, bel /bɛl/, belle /bɛl/, beaux /bo/, belles /bɛl/: five spellings, two sounds	french 1000words beau challenge grammar	French::1000 words (EN-FR)::beau — beautiful::Challenges
+When is the masculine bel used?	Before a masculine noun starting with a vowel or a mute h, in the singular: un bel appartement /œ̃ bɛl apaʁtəmɑ̃/, un bel homme /œ̃ bɛl ɔm/; after être it is beau: cet homme est beau /sɛt‿ɔm ɛ bo/	french 1000words beau challenge grammar	French::1000 words (EN-FR)::beau — beautiful::Challenges
+Beautiful eyes: why de and not des, and what is the liaison?	Before a plural adjective that precedes its noun des becomes de, and the x is said as /z/: de beaux yeux /də boz‿jø/	french 1000words beau challenge grammar	French::1000 words (EN-FR)::beau — beautiful::Challenges
+Beau or joli: a handsome man, fine weather, a pretty village	un bel homme /œ̃ bɛl ɔm/, il fait beau /il fɛ bo/, un joli village /œ̃ ʒɔli vilaʒ/: beau for men and weather, joli for the small and charming	french 1000words beau challenge words	French::1000 words (EN-FR)::beau — beautiful::Challenges
+Mother-in-law, father-in-law, brother-in-law, sister-in-law	la belle-mère /la bɛlmɛʁ/, le beau-père /lə bopɛʁ/, le beau-frère /lə bofʁɛʁ/, la belle-sœur /la bɛlsœʁ/	french 1000words beau challenge words	French::1000 words (EN-FR)::beau — beautiful::Challenges
+A beautiful girl and a daughter-in-law: what tells them apart?	The hyphen: une belle fille /yn bɛl fij/ is beautiful, une belle-fille /yn bɛlfij/ is a daughter-in-law	french 1000words beau challenge words	French::1000 words (EN-FR)::beau — beautiful::Challenges
+Read aloud, then check: beau, bon, bout, bu	/bo/ beautiful, /bɔ̃/ good, /bu/ end, /by/ drunk: four vowels on one consonant	french 1000words beau challenge sound	French::1000 words (EN-FR)::beau — beautiful::Challenges

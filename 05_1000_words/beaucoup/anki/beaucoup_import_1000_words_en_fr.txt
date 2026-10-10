@@ -1,0 +1,61 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(adv.) a lot, much, many; very much	beaucoup<br>/boku/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+I like my house a lot.	J'aime beaucoup ma maison.<br>/ʒɛm boku ma mɛzɔ̃/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+I like it a lot.	J'aime beaucoup.<br>/ʒɛm boku/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+He works a lot.	Il travaille beaucoup.<br>/il tʁavaj boku/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+She reads a lot.	Elle lit beaucoup.<br>/ɛl li boku/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+We travel a lot.	Nous voyageons beaucoup.<br>/nu vwajaʒɔ̃ boku/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+Thank you very much.	Merci beaucoup.<br>/mɛʁsi boku/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+It rained a lot.	Il a beaucoup plu.<br>/il a boku ply/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+many books	beaucoup de livres<br>/boku də livʁ/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+a lot of time	beaucoup de temps<br>/boku də tɑ̃/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+many friends	beaucoup d'amis<br>/boku dami/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+a lot of money	beaucoup d'argent<br>/boku daʁʒɑ̃/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+a lot of people	beaucoup de monde<br>/boku də mɔ̃d/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+a lot of work	beaucoup de travail<br>/boku də tʁavaj/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+many of the books on this list	beaucoup des livres de cette liste<br>/boku de livʁ də sɛt list/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+I have a lot of them.	J'en ai beaucoup.<br>/ʒɑ̃n‿e boku/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+He eats a lot. – He is very fat.	Il mange beaucoup. – Il est très gros.<br>/il mɑ̃ʒ boku/ · /il ɛ tʁɛ ɡʁo/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+I like it a lot. – It is very good.	J'aime beaucoup. – C'est très bon.<br>/ʒɛm boku/ · /sɛ tʁɛ bɔ̃/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+She sings very well.	Elle chante très bien.<br>/ɛl ʃɑ̃t tʁɛ bjɛ̃/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+I am very hungry. I am very cold.	J'ai très faim. J'ai très froid.<br>/ʒe tʁɛ fɛ̃, ʒe tʁɛ fʁwa/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+a little salt	un peu de sel<br>/œ̃ pø də sɛl/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+few people	peu de gens<br>/pø də ʒɑ̃/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+enough room	assez de place<br>/ase də plas/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+too much noise	trop de bruit<br>/tʁo də bʁɥi/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+so many things	tant de choses<br>/tɑ̃ də ʃoz/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+loads of things	plein de choses<br>/plɛ̃ də ʃoz/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+How many bedrooms?	Combien de chambres ?<br>/kɔ̃bjɛ̃ də ʃɑ̃bʁ/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+not at all – a little – enough – a lot – too much	pas du tout – un peu – assez – beaucoup – trop<br>/pa dy tu/ · /œ̃ pø/ · /ase/ · /boku/ · /tʁo/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+much bigger	beaucoup plus grand<br>/boku ply ɡʁɑ̃/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+much cheaper	beaucoup moins cher<br>/boku mwɛ̃ ʃɛʁ/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+much better	beaucoup mieux<br>/boku mjø/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+far too much	beaucoup trop<br>/boku tʁo/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+by far	de beaucoup<br>/də boku/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+not much, not many	pas beaucoup<br>/pa boku/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+Thank you very much for the flowers!	Merci beaucoup pour les fleurs !<br>/mɛʁsi boku puʁ le flœʁ/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+There are a lot of books on the desk.	Il y a beaucoup de livres sur le bureau.<br>/il j a boku də livʁ syʁ lə byʁo/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+We have many friends in Paris.	Nous avons beaucoup d'amis à Paris.<br>/nuz‿avɔ̃ boku dami a paʁi/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+She works a lot and sleeps little.	Elle travaille beaucoup et dort peu.<br>/ɛl tʁavaj boku e dɔʁ pø/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+There are a lot of people in the living room.	Il y a beaucoup de monde dans le salon.<br>/il j a boku də mɔ̃d dɑ̃ lə salɔ̃/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+I don't have much time.	Je n'ai pas beaucoup de temps.<br>/ʒə ne pa boku də tɑ̃/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+This house is much bigger than ours.	Cette maison est beaucoup plus grande que la nôtre.<br>/sɛt mɛzɔ̃ ɛ boku ply ɡʁɑ̃d kə la notʁ/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+Do you read a lot? Yes, enormously.	Tu lis beaucoup ? Oui, énormément.<br>/ty li boku, wi, enɔʁmemɑ̃/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+It is far too expensive.	C'est beaucoup trop cher.<br>/sɛ boku tʁo ʃɛʁ/	french 1000words beaucoup en-fr	French::1000 words (EN-FR)::beaucoup — a lot
+Say: I like my house a lot.	J’aime beaucoup ma maison. /ʒɛm boku ma mɛzɔ̃/	french 1000words beaucoup challenge say	French::1000 words (EN-FR)::beaucoup — a lot::Challenges
+Say: Thank you very much for the flowers!	Merci beaucoup pour les fleurs ! /mɛʁsi boku puʁ le flœʁ/	french 1000words beaucoup challenge say	French::1000 words (EN-FR)::beaucoup — a lot::Challenges
+Say: There are a lot of books on the desk.	Il y a beaucoup de livres sur le bureau. /il j a boku də livʁ syʁ lə byʁo/	french 1000words beaucoup challenge say	French::1000 words (EN-FR)::beaucoup — a lot::Challenges
+Say: I don’t have much time.	Je n’ai pas beaucoup de temps. /ʒə ne pa boku də tɑ̃/	french 1000words beaucoup challenge say	French::1000 words (EN-FR)::beaucoup — a lot::Challenges
+Say: It is far too expensive.	C’est beaucoup trop cher. /sɛ boku tʁo ʃɛʁ/	french 1000words beaucoup challenge say	French::1000 words (EN-FR)::beaucoup — a lot::Challenges
+Very hungry, very big, likes a lot: beaucoup or très?	j’ai très faim /ʒe tʁɛ fɛ̃/, très grand /tʁɛ ɡʁɑ̃/, with an adjective; j’aime beaucoup /ʒɛm boku/, with a verb	french 1000words beaucoup challenge grammar	French::1000 words (EN-FR)::beaucoup — a lot::Challenges
+Many books: what comes between beaucoup and the noun?	de, and no article: beaucoup de livres /boku də livʁ/; beaucoup des livres only for “many of the books”	french 1000words beaucoup challenge grammar	French::1000 words (EN-FR)::beaucoup — a lot::Challenges
+A little, enough, too much, how many: all with de	un peu de /œ̃ pø də/, assez de /ase də/, trop de /tʁo də/, combien de /kɔ̃bjɛ̃ də/	french 1000words beaucoup challenge grammar	French::1000 words (EN-FR)::beaucoup — a lot::Challenges
+A lot of people; I have a lot of them	beaucoup de monde /boku də mɔ̃d/; j’en ai beaucoup /ʒɑ̃n‿e boku/	french 1000words beaucoup challenge words	French::1000 words (EN-FR)::beaucoup — a lot::Challenges
+Much bigger; much better; by far	beaucoup plus grand /boku ply ɡʁɑ̃/; beaucoup mieux /boku mjø/; de beaucoup /də boku/	french 1000words beaucoup challenge words	French::1000 words (EN-FR)::beaucoup — a lot::Challenges
+The two vowels of beaucoup	the closed /o/ of eau and the /u/ of ou: /boku/; the final p is silent	french 1000words beaucoup challenge sound	French::1000 words (EN-FR)::beaucoup — a lot::Challenges
+Where does beaucoup go in “he works a lot”?	after the verb: il travaille beaucoup /il tʁavaj boku/	french 1000words beaucoup challenge grammar	French::1000 words (EN-FR)::beaucoup — a lot::Challenges

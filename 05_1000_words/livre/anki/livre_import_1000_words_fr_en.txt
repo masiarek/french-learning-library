@@ -1,0 +1,78 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+un livre<br>/œ̃ livʁ, la livʁ/	(n.m.) book; la livre (n.f.) the pound	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+Il y a des livres sur le bureau.<br>/il j a de livʁ syʁ lə byʁo/	There are books on the desk.	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+le livre – la livre – il livre<br>/lə livʁ/ · /la livʁ/ · /il livʁ/	the book – the pound – he delivers	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+une livre de beurre, une demi-livre<br>/yn livʁ də bœʁ, yn dəmi livʁ/	a pound of butter, half a pound	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+la livre anglaise, cent livres<br>/la livʁ ɑ̃ɡlɛz, sɑ̃ livʁ/	the pound sterling, a hundred pounds	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+livrer, je livre, nous livrons, livré<br>/livʁe, ʒə livʁ, nu livʁɔ̃, livʁe/	to deliver, I deliver, we deliver, delivered	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+la livraison, le livreur<br>/la livʁɛzɔ̃, lə livʁœʁ/	the delivery, the delivery man	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+je lis, tu lis, il lit<br>/ʒə li, ty li, il li/	I read, you read, he reads	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+nous lisons, vous lisez, ils lisent<br>/nu lizɔ̃, vu lize, il liz/	we read, you read, they read	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+j'ai lu<br>/ʒe ly/	I read, I have read	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+la lecture, le lecteur, la lectrice<br>/la lɛktyʁ, lə lɛktœʁ, la lɛktʁis/	reading, the reader	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+lire un livre<br>/liʁ œ̃ livʁ/	to read a book	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+ouvrir, fermer un livre<br>/uvʁiʁ, fɛʁme œ̃ livʁ/	to open, to close a book	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+feuilleter un livre<br>/fœjte œ̃ livʁ/	to leaf through a book	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+acheter un livre<br>/aʃte œ̃ livʁ/	to buy a book	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+emprunter, prêter, rendre un livre<br>/ɑ̃pʁœ̃te, pʁɛte, ʁɑ̃dʁ œ̃ livʁ/	to borrow, to lend, to give back a book	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+écrire un livre, publier un livre<br>/ekʁiʁ œ̃ livʁ, pyblije œ̃ livʁ/	to write a book, to publish a book	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+offrir un livre<br>/ɔfʁiʁ œ̃ livʁ/	to give a book as a present	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+une librairie, le libraire<br>/yn libʁɛʁi, lə libʁɛʁ/	a bookshop, the bookseller	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+une bibliothèque, le bibliothécaire<br>/yn biblijɔtɛk, lə biblijɔtekɛʁ/	a library, the librarian; a bookcase	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+la bibliothèque municipale<br>/la biblijɔtɛk mynisipal/	the public library	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+acheter un livre à la librairie<br>/aʃte œ̃ livʁ a la libʁɛʁi/	to buy a book at the bookshop	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+emprunter un livre à la bibliothèque<br>/ɑ̃pʁœ̃te œ̃ livʁ a la biblijɔtɛk/	to borrow a book from the library	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+un bouquin, bouquiner<br>/œ̃ bukɛ̃, bukine/	a book, to read (familiar)	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+les bouquinistes<br>/le bukinist/	the second-hand booksellers of the Seine	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+un livre de poche<br>/œ̃ livʁ də pɔʃ/	a paperback	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+un livre de cuisine<br>/œ̃ livʁ də kɥizin/	a cookbook	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+un livre d'images, un livre pour enfants<br>/œ̃ livʁ dimaʒ, œ̃ livʁ puʁ ɑ̃fɑ̃/	a picture book, a children's book	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+un livre d'or<br>/œ̃ livʁ dɔʁ/	a visitors' book	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+un livre numérique, un livre audio<br>/œ̃ livʁ nymeʁik, œ̃ livʁ odjo/	an e-book, an audiobook	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+un manuel, un livre de classe<br>/œ̃ manɥɛl, œ̃ livʁ də klas/	a textbook	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+un roman, un dictionnaire<br>/œ̃ ʁɔmɑ̃, œ̃ diksjɔnɛʁ/	a novel, a dictionary	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+une bande dessinée, une BD<br>/yn bɑ̃d desine, yn bede/	a comic book	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+un cahier<br>/œ̃ kaje/	a notebook	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+la couverture, le titre<br>/la kuvɛʁtyʁ, lə titʁ/	the cover, the title	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+l'auteur, un écrivain<br>/lotœʁ, œ̃n‿ekʁivɛ̃/	the author, a writer	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+une page, un chapitre<br>/yn paʒ, œ̃ ʃapitʁ/	a page, a chapter	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+la table des matières<br>/la tabl de matjɛʁ/	the table of contents	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+le début, la fin<br>/lə deby, la fɛ̃/	the beginning, the end	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+un bon livre, un gros livre<br>/œ̃ bɔ̃ livʁ, œ̃ ɡʁo livʁ/	a good book, a thick book	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+parler comme un livre<br>/paʁle kɔm œ̃ livʁ/	to talk like a book	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+traduire à livre ouvert<br>/tʁadɥiʁ a livʁ uvɛʁ/	to translate at sight	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+un rat de bibliothèque<br>/œ̃ ʁa də biblijɔtɛk/	a bookworm	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+le Salon du livre<br>/lə salɔ̃ dy livʁ/	the book fair	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+C'est un livre qui se lit facilement.<br>/sɛt‿œ̃ livʁ ki sə li fasilmɑ̃/	It is an easy read.	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+le livre – la livre – il livre<br>/lə livʁ/ · /la livʁ/ · /il livʁ/ (2)	the book – the pound – he delivers: one sound	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+le livre – libre<br>/lə livʁ/ · /libʁ/	the book – free: /v/ against /b/	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+le livre – ivre – vivre – le cuivre<br>/lə livʁ/ · /ivʁ/ · /vivʁ/ · /lə kɥivʁ/	the book – drunk – to live – copper: the same /ivʁ/	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+le livre – le lit – il lit<br>/lə livʁ/ · /lə li/ · /il li/	the book – the bed – he reads	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+Sur mon bureau, il y a mes livres et mes cahiers.<br>/syʁ mɔ̃ byʁo, il j a me livʁ e me kaje/	On my desk there are my books and my notebooks.	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+Je lis un livre au lit avant de dormir.<br>/ʒə li œ̃ livʁ o li avɑ̃ də dɔʁmiʁ/	I read a book in bed before sleeping.	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+Ma mère a acheté un livre de cuisine à la librairie.<br>/ma mɛʁ a aʃte œ̃ livʁ də kɥizin a la libʁɛʁi/	My mother bought a cookbook at the bookshop.	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+J'ai emprunté trois livres à la bibliothèque.<br>/ʒe ɑ̃pʁœ̃te tʁwa livʁ a la biblijɔtɛk/	I borrowed three books from the library.	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+Ce livre est très intéressant.<br>/sə livʁ ɛ tʁɛ ɛ̃teʁesɑ̃/	This book is very interesting.	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+Tu peux me prêter ce livre ?<br>/ty pø mə pʁɛte sə livʁ/	Can you lend me this book?	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+Il y a beaucoup de livres dans la bibliothèque du salon.<br>/il j a boku də livʁ dɑ̃ la biblijɔtɛk dy salɔ̃/	There are a lot of books in the bookcase in the living room.	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+Les enfants aiment les livres d'images.<br>/lez‿ɑ̃fɑ̃ ɛm le livʁ dimaʒ/	Children like picture books.	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+Le livreur livre les livres à la maison.<br>/lə livʁœʁ livʁ le livʁ a la mɛzɔ̃/	The delivery man delivers the books to the house.	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+Je voudrais une livre de beurre, s'il vous plaît.<br>/ʒə vudʁɛ yn livʁ də bœʁ, sil vu plɛ/	I would like a pound of butter, please.	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+Ce roman coûte dix livres en Angleterre.<br>/sə ʁɔmɑ̃ kut di livʁ ɑ̃n‿ɑ̃ɡlətɛʁ/	This novel costs ten pounds in England.	french 1000words livre fr-en	French::1000 words (FR-EN)::un livre — a book
+________ livre est sur le bureau.<br>(AI exercise: le livre or la livre?)	/[lə] livʁ ɛ syʁ lə byʁo/<br>The book is on the desk.	french 1000words livre fr-en exercise	French::1000 words (FR-EN)::un livre — a book
+Je voudrais ________ livre de beurre.<br>(AI exercise: le livre or la livre?)	/ʒə vudʁɛ [yn] livʁ də bœʁ/<br>I would like a pound of butter.	french 1000words livre fr-en exercise	French::1000 words (FR-EN)::un livre — a book
+________ livre anglaise est une monnaie.<br>(AI exercise: le livre or la livre?)	/[la] livʁ ɑ̃ɡlɛz ɛt‿yn mɔnɛ/<br>The pound sterling is a currency.	french 1000words livre fr-en exercise	French::1000 words (FR-EN)::un livre — a book
+J'ai lu ________ livre en deux jours.<br>(AI exercise: le livre or la livre?)	/ʒe ly [lə] livʁ ɑ̃ dø ʒuʁ/<br>I read the book in two days.	french 1000words livre fr-en exercise	French::1000 words (FR-EN)::un livre — a book
+J'achète un livre à la ________.<br>(AI exercise: librairie or bibliothèque?)	/ʒaʃɛt œ̃ livʁ a la [libʁɛʁi]/<br>I am buying a book at the bookshop.	french 1000words livre fr-en exercise	French::1000 words (FR-EN)::un livre — a book
+J'emprunte un livre à la ________.<br>(AI exercise: librairie or bibliothèque?)	/ʒɑ̃pʁœ̃t œ̃ livʁ a la [biblijɔtɛk]/<br>I am borrowing a book from the library.	french 1000words livre fr-en exercise	French::1000 words (FR-EN)::un livre — a book
+Les livres sont rangés dans la ________ du salon.<br>(AI exercise: librairie or bibliothèque?)	/le livʁ sɔ̃ ʁɑ̃ʒe dɑ̃ la [biblijɔtɛk] dy salɔ̃/<br>The books are put away in the bookcase in the living room.	french 1000words livre fr-en exercise	French::1000 words (FR-EN)::un livre — a book
+________ livre (à lire)<br>(AI exercise: un or une?)	/[œ̃] livʁ/<br>a book	french 1000words livre fr-en exercise	French::1000 words (FR-EN)::un livre — a book
+________ livre (de beurre)<br>(AI exercise: un or une?)	/[yn] livʁ/<br>a pound	french 1000words livre fr-en exercise	French::1000 words (FR-EN)::un livre — a book
+________ librairie<br>(AI exercise: un or une?)	/[yn] libʁɛʁi/<br>a bookshop	french 1000words livre fr-en exercise	French::1000 words (FR-EN)::un livre — a book
+________ roman<br>(AI exercise: un or une?)	/[œ̃] ʁɔmɑ̃/<br>a novel	french 1000words livre fr-en exercise	French::1000 words (FR-EN)::un livre — a book
+________ page<br>(AI exercise: un or une?)	/[yn] paʒ/<br>a page	french 1000words livre fr-en exercise	French::1000 words (FR-EN)::un livre — a book

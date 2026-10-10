@@ -1,0 +1,60 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::le salon — the living room
+#tags:french 1000words salon en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(n.m.) living room, lounge; also a trade fair and a hair salon	le salon<br>/lə salɔ̃/	en-fr
+There is a sofa in the living room.	Il y a un canapé dans le salon.<br>/il j a œ̃ kanape dɑ̃ lə salɔ̃/	en-fr
+the living room	le salon, le séjour, la salle de séjour<br>/lə salɔ̃, lə seʒuʁ, la sal də seʒuʁ/	en-fr
+the dining room	la salle à manger<br>/la sal a mɑ̃ʒe/	en-fr
+the kitchen	la cuisine<br>/la kɥizin/	en-fr
+the bedroom	la chambre<br>/la ʃɑ̃bʁ/	en-fr
+the bathroom, the toilet	la salle de bains, les toilettes<br>/la sal də bɛ̃, le twalɛt/	en-fr
+the hall, the corridor	l'entrée, le couloir<br>/lɑ̃tʁe, lə kulwaʁ/	en-fr
+a room; a five-room house	une pièce, une maison de cinq pièces<br>/yn pjɛs, yn mɛzɔ̃ də sɛ̃k pjɛs/	en-fr
+a sofa, an armchair	un canapé, un fauteuil<br>/œ̃ kanape, œ̃ fotœj/	en-fr
+a coffee table	une table basse<br>/yn tabl bas/	en-fr
+a television, the TV	une télévision, la télé<br>/yn televizjɔ̃, la tele/	en-fr
+a bookcase, a shelf	une bibliothèque, une étagère<br>/yn biblijɔtɛk, yn etaʒɛʁ/	en-fr
+a lamp, a rug, curtains	une lampe, un tapis, des rideaux<br>/yn lɑ̃p, œ̃ tapi, de ʁido/	en-fr
+a picture, a fireplace, plants	un tableau, une cheminée, des plantes<br>/œ̃ tablo, yn ʃəmine, de plɑ̃t/	en-fr
+a set of garden furniture	un salon de jardin<br>/œ̃ salɔ̃ də ʒaʁdɛ̃/	en-fr
+to be in the living room	être au salon<br>/ɛtʁ o salɔ̃/	en-fr
+to go through to the living room	passer au salon<br>/pase o salɔ̃/	en-fr
+to receive guests in the living room	recevoir des invités au salon<br>/ʁəsəvwaʁ dez‿ɛ̃vite o salɔ̃/	en-fr
+to have coffee in the living room	prendre le café au salon<br>/pʁɑ̃dʁ lə kafe o salɔ̃/	en-fr
+to watch TV in the living room	regarder la télé dans le salon<br>/ʁəɡaʁde la tele dɑ̃ lə salɔ̃/	en-fr
+to tidy the living room	ranger le salon<br>/ʁɑ̃ʒe lə salɔ̃/	en-fr
+the living-room sofa	le canapé du salon<br>/lə kanape dy salɔ̃/	en-fr
+a hairdresser's	un salon de coiffure<br>/œ̃ salɔ̃ də kwafyʁ/	en-fr
+the hairdresser	le coiffeur, la coiffeuse<br>/lə kwafœʁ, la kwaføz/	en-fr
+to go to the hairdresser's	aller chez le coiffeur<br>/ale ʃe lə kwafœʁ/	en-fr
+a tea room	un salon de thé<br>/œ̃ salɔ̃ də te/	en-fr
+a beauty salon	un salon de beauté<br>/œ̃ salɔ̃ də bote/	en-fr
+the book fair	le Salon du livre<br>/lə salɔ̃ dy livʁ/	en-fr
+the motor show	le Salon de l'auto<br>/lə salɔ̃ də loto/	en-fr
+the agricultural show	le Salon de l'agriculture<br>/lə salɔ̃ də laɡʁikyltyʁ/	en-fr
+a trade fair	un salon professionnel<br>/œ̃ salɔ̃ pʁɔfɛsjɔnɛl/	en-fr
+to go to the fair	aller au Salon<br>/ale o salɔ̃/	en-fr
+Let us go through to the living room!	Passons au salon !<br>/pasɔ̃ o salɔ̃/	en-fr
+a big, a small, a bright living room	un grand salon, un petit salon, un salon clair<br>/œ̃ ɡʁɑ̃ salɔ̃, œ̃ pəti salɔ̃, œ̃ salɔ̃ klɛʁ/	en-fr
+a kitchen opening onto the living room	une cuisine ouverte sur le salon<br>/yn kɥizin uvɛʁt syʁ lə salɔ̃/	en-fr
+the literary salons	les salons littéraires<br>/le salɔ̃ liteʁɛʁ/	en-fr
+the last salon where people talk (ironic, of a noisy place)	le dernier salon où l'on cause<br>/lə dɛʁnje salɔ̃ u lɔ̃ koz/	en-fr
+the living room – the room – dirty: la salle and sale sound the same	le salon – la salle – sale<br>/lə salɔ̃/ · /la sal/ · /sal/	en-fr
+the living room – the ball – the heel: the same -on	le salon – le ballon – le talon<br>/lə salɔ̃/ · /lə balɔ̃/ · /lə talɔ̃/	en-fr
+the living room – the salmon	le salon – le saumon<br>/lə salɔ̃/ · /lə somɔ̃/	en-fr
+the living room – the living rooms – we salt (saler): the plural is silent	le salon – les salons – nous salons<br>/lə salɔ̃/ · /le salɔ̃/ · /nu salɔ̃/	en-fr
+In the living room there is a sofa, two armchairs and a coffee table.	Dans le salon, il y a un canapé, deux fauteuils et une table basse.<br>/dɑ̃ lə salɔ̃, il j a œ̃ kanape, dø fotœj e yn tabl bas/	en-fr
+The living room is big and bright.	Le salon est grand et clair.<br>/lə salɔ̃ ɛ ɡʁɑ̃ e klɛʁ/	en-fr
+We watch television in the living room in the evening.	Nous regardons la télévision dans le salon le soir.<br>/nu ʁəɡaʁdɔ̃ la televizjɔ̃ dɑ̃ lə salɔ̃ lə swaʁ/	en-fr
+The guests are in the living room.	Les invités sont au salon.<br>/lez‿ɛ̃vite sɔ̃t‿o salɔ̃/	en-fr
+My mother is at the hairdresser's.	Ma mère est au salon de coiffure.<br>/ma mɛʁ ɛ o salɔ̃ də kwafyʁ/	en-fr
+There is a tea room next to the bookshop.	Il y a un salon de thé à côté de la librairie.<br>/il j a œ̃ salɔ̃ də te a kote də la libʁɛʁi/	en-fr
+The book fair takes place in March.	Le Salon du livre a lieu en mars.<br>/lə salɔ̃ dy livʁ a ljø ɑ̃ maʁs/	en-fr
+In our flat the kitchen opens onto the living room.	Dans notre appartement, la cuisine est ouverte sur le salon.<br>/dɑ̃ nɔtʁ apaʁtəmɑ̃, la kɥizin ɛt‿uvɛʁt syʁ lə salɔ̃/	en-fr
+Tidy the living room before the guests arrive.	Range le salon avant l'arrivée des invités.<br>/ʁɑ̃ʒ lə salɔ̃ avɑ̃ laʁive dez‿ɛ̃vite/	en-fr
+The cat is sleeping in the living room, on the armchair.	Le chat dort dans le salon, sur le fauteuil.<br>/lə ʃa dɔʁ dɑ̃ lə salɔ̃, syʁ lə fotœj/	en-fr
+There is no dining room, we eat in the living room.	Il n'y a pas de salle à manger, nous mangeons dans le salon.<br>/il nj a pa də sal a mɑ̃ʒe, nu mɑ̃ʒɔ̃ dɑ̃ lə salɔ̃/	en-fr

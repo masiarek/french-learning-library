@@ -1,0 +1,76 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(prep.) in, inside, into	dans<br>/dɑ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+There is a bed in my bedroom.	Il y a un lit dans ma chambre.<br>/il j a œ̃ li dɑ̃ ma ʃɑ̃bʁ/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in the house	dans la maison<br>/dɑ̃ la mɛzɔ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in the kitchen	dans la cuisine<br>/dɑ̃ la kɥizin/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in my bedroom	dans ma chambre<br>/dɑ̃ ma ʃɑ̃bʁ/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in the living room	dans le salon<br>/dɑ̃ lə salɔ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in the garden	dans le jardin<br>/dɑ̃ lə ʒaʁdɛ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in the bag, in the box, in the drawer	dans le sac, dans la boîte, dans le tiroir<br>/dɑ̃ lə sak, dɑ̃ la bwat, dɑ̃ lə tiʁwaʁ/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in the street	dans la rue<br>/dɑ̃ la ʁy/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+on the train, on the plane, in the car	dans le train, dans l'avion, dans la voiture<br>/dɑ̃ lə tʁɛ̃, dɑ̃ lavjɔ̃, dɑ̃ la vwatyʁ/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in the water	dans l'eau<br>/dɑ̃ lo/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in the newspaper	dans le journal<br>/dɑ̃ lə ʒuʁnal/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in a place	dans un endroit<br>/dɑ̃z‿œ̃n‿ɑ̃dʁwa/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+at home – inside the house	à la maison – dans la maison<br>/a la mɛzɔ̃/ · /dɑ̃ la mɛzɔ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in bed – in the bed itself	au lit – dans le lit<br>/o li/ · /dɑ̃ lə li/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+at the office – in the office room	au bureau – dans le bureau<br>/o byʁo/ · /dɑ̃ lə byʁo/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+at school – in class – in the classroom	à l'école – en classe – dans la classe<br>/a lekɔl/ · /ɑ̃ klas/ · /dɑ̃ la klas/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in Paris – within Paris	à Paris – dans Paris<br>/a paʁi/ · /dɑ̃ paʁi/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in France, in Poland – in Portugal	en France, en Pologne – au Portugal<br>/ɑ̃ fʁɑ̃s, ɑ̃ pɔlɔɲ/ · /o pɔʁtyɡal/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in town – inside the city	en ville – dans la ville<br>/ɑ̃ vil/ · /dɑ̃ la vil/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in ten minutes, from now	dans dix minutes<br>/dɑ̃ di minyt/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in an hour	dans une heure<br>/dɑ̃z‿yn œʁ/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in two days, in a week	dans deux jours, dans une semaine<br>/dɑ̃ dø ʒuʁ, dɑ̃z‿yn səmɛn/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in a month, in a year	dans un mois, dans un an<br>/dɑ̃z‿œ̃ mwa, dɑ̃z‿œ̃n‿ɑ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in ten minutes, the time it takes	en dix minutes<br>/ɑ̃ di minyt/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+ten minutes ago	il y a dix minutes<br>/il j a di minyt/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in the nineties	dans les années quatre-vingt-dix<br>/dɑ̃ lez‿ane katʁəvɛ̃dis/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+to drink out of a glass	boire dans un verre<br>/bwaʁ dɑ̃z‿œ̃ vɛʁ/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+to take a book out of the bag	prendre un livre dans le sac<br>/pʁɑ̃dʁ œ̃ livʁ dɑ̃ lə sak/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+to read in the paper	lire dans le journal<br>/liʁ dɑ̃ lə ʒuʁnal/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+to eat off a plate	manger dans une assiette<br>/mɑ̃ʒe dɑ̃z‿yn asjɛt/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+to copy out of a book	copier dans un livre<br>/kɔpje dɑ̃z‿œ̃ livʁ/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+He is inside.	Il est dedans.<br>/il ɛ dədɑ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in there	là-dedans<br>/ladədɑ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+outside, outside of	dehors, en dehors de<br>/dəɔʁ, ɑ̃ dəɔʁ də/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in that case	dans ce cas<br>/dɑ̃ sə ka/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+on the whole	dans l'ensemble<br>/dɑ̃ lɑ̃sɑ̃bl/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+basically, deep down	dans le fond<br>/dɑ̃ lə fɔ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+around ten euros	dans les dix euros<br>/dɑ̃ le diz‿øʁo/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+to have one's head in the clouds	être dans la lune<br>/ɛtʁ dɑ̃ la lyn/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+to be in doubt	être dans le doute<br>/ɛtʁ dɑ̃ lə dut/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in – a tooth – of it, from there	dans – dent – d'en<br>/dɑ̃/ · /dɑ̃/ · /dɑ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in – whose, of which: /ɑ̃/ against /ɔ̃/	dans – dont<br>/dɑ̃/ · /dɔ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+the s is said before a vowel, silent before a consonant	dans un – dans le<br>/dɑ̃z‿œ̃/ · /dɑ̃ lə/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+In my house there is a living room and a kitchen.	Dans ma maison, il y a un salon et une cuisine.<br>/dɑ̃ ma mɛzɔ̃, il j a œ̃ salɔ̃ e yn kɥizin/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+The cat is sleeping in the bed.	Le chat dort dans le lit.<br>/lə ʃa dɔʁ dɑ̃ lə li/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+My books are in my bag.	Mes livres sont dans mon sac.<br>/me livʁ sɔ̃ dɑ̃ mɔ̃ sak/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+I'll be back in ten minutes.	Je reviens dans dix minutes.<br>/ʒə ʁəvjɛ̃ dɑ̃ di minyt/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+We go on holiday in a week.	Nous partons en vacances dans une semaine.<br>/nu paʁtɔ̃ ɑ̃ vakɑ̃s dɑ̃z‿yn səmɛn/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+He is drinking out of my glass!	Il boit dans mon verre !<br>/il bwa dɑ̃ mɔ̃ vɛʁ/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+I read that in the paper.	J'ai lu ça dans le journal.<br>/ʒe ly sa dɑ̃ lə ʒuʁnal/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+She lives in a small flat.	Elle habite dans un petit appartement.<br>/ɛl abit dɑ̃z‿œ̃ pətit‿apaʁtəmɑ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+It is cold outside, come inside the house.	Il fait froid dehors, viens dans la maison.<br>/il fɛ fʁwa dəɔʁ, vjɛ̃ dɑ̃ la mɛzɔ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+In that case I am staying at home.	Dans ce cas, je reste à la maison.<br>/dɑ̃ sə ka, ʒə ʁɛst a la mɛzɔ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in the living room (2)	dans le salon<br>/[dɑ̃] lə salɔ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in a living room	dans un salon<br>/[dɑ̃z‿œ̃] salɔ̃/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in an hour (2)	dans une heure<br>/[dɑ̃z‿yn] œʁ/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+in the kitchen (2)	dans la cuisine<br>/[dɑ̃] la kɥizin/	french 1000words dans en-fr	French::1000 words (EN-FR)::dans — in, inside
+Say: There is a bed in my bedroom.	Il y a un lit dans ma chambre. /il j a œ̃ li dɑ̃ ma ʃɑ̃bʁ/	french 1000words dans challenge say	French::1000 words (EN-FR)::dans — in, inside::Challenges
+Say: I’ll be back in ten minutes.	Je reviens dans dix minutes. /ʒə ʁəvjɛ̃ dɑ̃ di minyt/	french 1000words dans challenge say	French::1000 words (EN-FR)::dans — in, inside::Challenges
+Say: He is drinking out of my glass!	Il boit dans mon verre ! /il bwa dɑ̃ mɔ̃ vɛʁ/	french 1000words dans challenge say	French::1000 words (EN-FR)::dans — in, inside::Challenges
+Say: I read that in the paper.	J’ai lu ça dans le journal. /ʒe ly sa dɑ̃ lə ʒuʁnal/	french 1000words dans challenge say	French::1000 words (EN-FR)::dans — in, inside::Challenges
+Say: In that case I am staying at home.	Dans ce cas, je reste à la maison. /dɑ̃ sə ka, ʒə ʁɛst a la mɛzɔ̃/	french 1000words dans challenge say	French::1000 words (EN-FR)::dans — in, inside::Challenges
+When is the s of dans said?	Before a vowel, as /z/, and always: dans un /dɑ̃z‿œ̃/, dans une heure /dɑ̃z‿yn œʁ/; silent before a consonant, dans le /dɑ̃ lə/	french 1000words dans challenge sound	French::1000 words (EN-FR)::dans — in, inside::Challenges
+At home, against inside the house	à la maison /a la mɛzɔ̃/, dans la maison /dɑ̃ la mɛzɔ̃/	french 1000words dans challenge grammar	French::1000 words (EN-FR)::dans — in, inside::Challenges
+In Poland, in Portugal, in Paris: the three prepositions	en Pologne /ɑ̃ pɔlɔɲ/, au Portugal /o pɔʁtyɡal/, à Paris /a paʁi/	french 1000words dans challenge grammar	French::1000 words (EN-FR)::dans — in, inside::Challenges
+In ten minutes from now; in ten minutes of work; ten minutes ago	dans dix minutes /dɑ̃ di minyt/; en dix minutes /ɑ̃ di minyt/; il y a dix minutes /il j a di minyt/	french 1000words dans challenge grammar	French::1000 words (EN-FR)::dans — in, inside::Challenges
+To drink out of a glass, in French	boire dans un verre /bwaʁ dɑ̃z‿œ̃ vɛʁ/: French names the container, not the source	french 1000words dans challenge grammar	French::1000 words (EN-FR)::dans — in, inside::Challenges
+The three words that sound /dɑ̃/	dans (in), dent (tooth), d’en (of it); dont /dɔ̃/ is the other nasal	french 1000words dans challenge words	French::1000 words (EN-FR)::dans — in, inside::Challenges
+Inside, with no noun after it	dedans /dədɑ̃/; là-dedans /ladədɑ̃/ in there; dehors /dəɔʁ/ outside	french 1000words dans challenge words	French::1000 words (EN-FR)::dans — in, inside::Challenges

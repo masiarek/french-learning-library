@@ -1,0 +1,67 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(n.m.) sofa, couch	un canapé<br>/œ̃ kanape/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+There is a sofa in the living room.	Il y a un canapé dans le salon.<br>/il j a œ̃ kanape dɑ̃ lə salɔ̃/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+a two-seater sofa, a three-seater sofa	un canapé deux places, un canapé trois places<br>/œ̃ kanape dø plas, œ̃ kanape tʁwa plas/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+a corner sofa	un canapé d'angle<br>/œ̃ kanape dɑ̃ɡl/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+a sofa bed	un canapé-lit, un canapé convertible<br>/œ̃ kanapeli, œ̃ kanape kɔ̃vɛʁtibl/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+a fold-down sofa bed (familiar)	un clic-clac<br>/œ̃ klikklak/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+a leather sofa	un canapé en cuir<br>/œ̃ kanape ɑ̃ kɥiʁ/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+a fabric sofa, a velvet sofa	un canapé en tissu, un canapé en velours<br>/œ̃ kanape ɑ̃ tisy, œ̃ kanape ɑ̃ vəluʁ/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+an old sofa, a comfortable sofa	un vieux canapé, un canapé confortable<br>/œ̃ vjø kanape, œ̃ kanape kɔ̃fɔʁtabl/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+an armchair	un fauteuil<br>/œ̃ fotœj/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+a divan, a sofa (older words)	un divan, un sofa<br>/œ̃ divɑ̃, œ̃ sɔfa/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+a bench seat	une banquette<br>/yn bɑ̃kɛt/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+a day bed	une méridienne<br>/yn meʁidjɛn/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+a pouffe	un pouf<br>/œ̃ puf/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+a chair, a stool	une chaise, un tabouret<br>/yn ʃɛz, œ̃ tabuʁɛ/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+a cushion, cushions	un coussin, des coussins<br>/œ̃ kusɛ̃, de kusɛ̃/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+a throw	un plaid<br>/œ̃ plɛd/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+the remote control	la télécommande<br>/la telekɔmɑ̃d/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+The cat is sleeping on the sofa.	Le chat dort sur le canapé.<br>/lə ʃa dɔʁ syʁ lə kanape/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+to sit down on the sofa	s'asseoir sur le canapé<br>/saswaʁ syʁ lə kanape/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+to be sitting on the sofa	être assis sur le canapé<br>/ɛtʁ asi syʁ lə kanape/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+to lie down on the sofa	s'allonger sur le canapé<br>/salɔ̃ʒe syʁ lə kanape/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+to flop down on the sofa	s'affaler sur le canapé<br>/safale syʁ lə kanape/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+to have a nap on the sofa	faire la sieste sur le canapé<br>/fɛʁ la sjɛst syʁ lə kanape/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+to sleep on the sofa	dormir sur le canapé<br>/dɔʁmiʁ syʁ lə kanape/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+to watch TV on the sofa	regarder la télé sur le canapé<br>/ʁəɡaʁde la tele syʁ lə kanape/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+to fold out the sofa bed	déplier le canapé<br>/deplije lə kanape/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+I lie down, we lie down, lie down!	je m'allonge, nous nous allongeons, allonge-toi !<br>/ʒə malɔ̃ʒ, nu nuz‿alɔ̃ʒɔ̃, alɔ̃ʒtwa/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+salmon canapés	des canapés au saumon<br>/de kanape o somɔ̃/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+cheese canapés	des canapés au fromage<br>/de kanape o fʁɔmaʒ/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+the aperitif, the pre-dinner drinks	l'apéritif, l'apéro<br>/lapeʁitif, lapeʁo/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+Serve the canapés with the aperitif.	Servez les canapés avec l'apéritif.<br>/sɛʁve le kanape avɛk lapeʁitif/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+on the sofa, in an armchair	sur le canapé, dans un fauteuil<br>/syʁ lə kanape, dɑ̃z‿œ̃ fotœj/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+You are sleeping on the sofa tonight.	Tu dors sur le canapé ce soir.<br>/ty dɔʁ syʁ lə kanape sə swaʁ/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+Move over, make room for me on the sofa.	Pousse-toi, fais-moi une place sur le canapé.<br>/pustwa, fɛmwa yn plas syʁ lə kanape/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+a two-seater sofa for a small living room	un canapé deux places pour un petit salon<br>/œ̃ kanape dø plas puʁ œ̃ pəti salɔ̃/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+the sofa, the coffee, the tea, the baby, the summer: the é is said, /e/	le canapé, le café, le thé, le bébé, l'été<br>/lə kanape, lə kafe, lə te, lə bebe, lete/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+the é said, the final -e silent	le canapé – la table<br>/lə kanape/ · /la tabl/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+In the living room there is a big leather sofa.	Dans le salon, il y a un grand canapé en cuir.<br>/dɑ̃ lə salɔ̃, il j a œ̃ ɡʁɑ̃ kanape ɑ̃ kɥiʁ/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+My mother is sitting on the sofa and reading a book.	Ma mère est assise sur le canapé et lit un livre.<br>/ma mɛʁ ɛ(t)‿asiz syʁ lə kanape e li œ̃ livʁ/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+The cat sleeps on the sofa all day.	Le chat dort sur le canapé toute la journée.<br>/lə ʃa dɔʁ syʁ lə kanape tut la ʒuʁne/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+We watch television on the sofa.	Nous regardons la télévision sur le canapé.<br>/nu ʁəɡaʁdɔ̃ la televizjɔ̃ syʁ lə kanape/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+This sofa is old but very comfortable.	Ce canapé est vieux mais très confortable.<br>/sə kanape ɛ vjø mɛ tʁɛ kɔ̃fɔʁtabl/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+My friends sleep on the sofa bed.	Mes amis dorment sur le canapé-lit.<br>/mez‿ami dɔʁm syʁ lə kanapeli/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+He flops down on the sofa after work.	Il s'affale sur le canapé après le travail.<br>/il safal syʁ lə kanape apʁɛ lə tʁavaj/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+Where is the remote? Under the sofa cushions.	Où est la télécommande ? Sous les coussins du canapé.<br>/u ɛ la telekɔmɑ̃d, su le kusɛ̃ dy kanape/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+We want to buy a corner sofa for the living room.	Nous voulons acheter un canapé d'angle pour le salon.<br>/nu vulɔ̃ aʃte œ̃ kanape dɑ̃ɡl puʁ lə salɔ̃/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+She is making salmon canapés for the aperitif.	Elle prépare des canapés au saumon pour l'apéritif.<br>/ɛl pʁepaʁ de kanape o somɔ̃ puʁ lapeʁitif/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+There is no sofa in my bedroom, only a bed.	Il n'y a pas de canapé dans ma chambre, seulement un lit.<br>/il nj a pa də kanape dɑ̃ ma ʃɑ̃bʁ, sœlmɑ̃ œ̃ li/	french 1000words canape en-fr	French::1000 words (EN-FR)::un canapé — a sofa
+Say: There is a sofa in the living room.	Il y a un canapé dans le salon. /il j a œ̃ kanape dɑ̃ lə salɔ̃/	french 1000words canape challenge say	French::1000 words (EN-FR)::un canapé — a sofa::Challenges
+Say: The cat is sleeping on the sofa.	Le chat dort sur le canapé. /lə ʃa dɔʁ syʁ lə kanape/	french 1000words canape challenge say	French::1000 words (EN-FR)::un canapé — a sofa::Challenges
+Say: My friends sleep on the sofa bed.	Mes amis dorment sur le canapé-lit. /mez‿ami dɔʁm syʁ lə kanapeli/	french 1000words canape challenge say	French::1000 words (EN-FR)::un canapé — a sofa::Challenges
+Say: We want to buy a corner sofa for the living room.	Nous voulons acheter un canapé d’angle pour le salon. /nu vulɔ̃ aʃte œ̃ kanape dɑ̃ɡl puʁ lə salɔ̃/	french 1000words canape challenge say	French::1000 words (EN-FR)::un canapé — a sofa::Challenges
+Say: Move over, make room for me on the sofa.	Pousse-toi, fais-moi une place sur le canapé. /pustwa, fɛmwa yn plas syʁ lə kanape/	french 1000words canape challenge say	French::1000 words (EN-FR)::un canapé — a sofa::Challenges
+The three vowels of canapé	/a/, /a/, /e/: the é is said, /kanape/, where the final -e of table /tabl/ is silent	french 1000words canape challenge sound	French::1000 words (EN-FR)::un canapé — a sofa::Challenges
+On a sofa, in an armchair	sur le canapé /syʁ lə kanape/, dans un fauteuil /dɑ̃z‿œ̃ fotœj/	french 1000words canape challenge grammar	French::1000 words (EN-FR)::un canapé — a sofa::Challenges
+A sofa bed, two ways	un canapé-lit /œ̃ kanapeli/, un canapé convertible /œ̃ kanape kɔ̃vɛʁtibl/; in speech un clic-clac /œ̃ klikklak/	french 1000words canape challenge words	French::1000 words (EN-FR)::un canapé — a sofa::Challenges
+A two-seater, a leather sofa, a corner sofa	un canapé deux places /œ̃ kanape dø plas/, un canapé en cuir /œ̃ kanape ɑ̃ kɥiʁ/, un canapé d’angle /œ̃ kanape dɑ̃ɡl/	french 1000words canape challenge words	French::1000 words (EN-FR)::un canapé — a sofa::Challenges
+To lie down on the sofa, to flop down on it, to have a nap on it	s’allonger sur le canapé /salɔ̃ʒe/, s’affaler sur le canapé /safale/, faire la sieste sur le canapé /fɛʁ la sjɛst/	french 1000words canape challenge words	French::1000 words (EN-FR)::un canapé — a sofa::Challenges
+The other canapé	the party snack: des canapés au saumon /de kanape o somɔ̃/, served pour l’apéritif /puʁ lapeʁitif/	french 1000words canape challenge words	French::1000 words (EN-FR)::un canapé — a sofa::Challenges
+Cushion, throw, remote control	un coussin /œ̃ kusɛ̃/, un plaid /œ̃ plɛd/, la télécommande /la telekɔmɑ̃d/	french 1000words canape challenge words	French::1000 words (EN-FR)::un canapé — a sofa::Challenges

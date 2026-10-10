@@ -1,0 +1,83 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::grand — big, tall
+#tags:french 1000words grand fr-en
+#columns:Front	Back	Tags
+#tags column:3
+grand, grande<br>/ɡʁɑ̃, ɡʁɑ̃d/	(adj.) big, large, tall; great	fr-en
+J'habite dans une grande maison avec ma famille.<br>/ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/	I live in a big house with my family.	fr-en
+un grand jardin<br>/œ̃ ɡʁɑ̃ ʒaʁdɛ̃/	a big garden	fr-en
+une grande maison<br>/yn ɡʁɑ̃d mɛzɔ̃/	a big house	fr-en
+de grands jardins<br>/də ɡʁɑ̃ ʒaʁdɛ̃/	big gardens	fr-en
+de grandes maisons<br>/də ɡʁɑ̃d mɛzɔ̃/	big houses	fr-en
+Le salon est grand.<br>/lə salɔ̃ ɛ ɡʁɑ̃/	The living room is big.	fr-en
+La chambre est grande.<br>/la ʃɑ̃bʁ ɛ ɡʁɑ̃d/	The bedroom is big.	fr-en
+Les jardins sont grands.<br>/le ʒaʁdɛ̃ sɔ̃ ɡʁɑ̃/	The gardens are big.	fr-en
+Les chambres sont grandes.<br>/le ʃɑ̃bʁ sɔ̃ ɡʁɑ̃d/	The bedrooms are big.	fr-en
+un grand homme<br>/œ̃ ɡʁɑ̃t‿ɔm/	a great man	fr-en
+un grand arbre<br>/œ̃ ɡʁɑ̃t‿aʁbʁ/	a big tree	fr-en
+un grand appartement<br>/œ̃ ɡʁɑ̃t‿apaʁtəmɑ̃/	a big flat	fr-en
+un grand ami<br>/œ̃ ɡʁɑ̃t‿ami/	a great friend	fr-en
+de grands arbres<br>/də ɡʁɑ̃z‿aʁbʁ/	big trees	fr-en
+les grands hommes<br>/le ɡʁɑ̃z‿ɔm/	the great men	fr-en
+une grande armoire, une grande amie<br>/yn ɡʁɑ̃d aʁmwaʁ, yn ɡʁɑ̃d ami/	a big wardrobe, a great friend: no liaison needed	fr-en
+un homme grand<br>/œ̃n‿ɔm ɡʁɑ̃/	a tall man	fr-en
+une femme grande<br>/yn fam ɡʁɑ̃d/	a tall woman	fr-en
+une grande femme<br>/yn ɡʁɑ̃d fam/	a great woman; also a tall woman	fr-en
+un gros homme<br>/œ̃ ɡʁoz‿ɔm/	a fat man	fr-en
+Il est grand pour son âge.<br>/il ɛ ɡʁɑ̃ puʁ sɔ̃n‿ɑʒ/	He is tall for his age.	fr-en
+un grand écrivain<br>/œ̃ ɡʁɑ̃t‿ekʁivɛ̃/	a great writer	fr-en
+Alexandre le Grand<br>/alɛksɑ̃dʁ lə ɡʁɑ̃/	Alexander the Great	fr-en
+plus grand que<br>/ply ɡʁɑ̃ kə/	bigger than, taller than	fr-en
+moins grand que<br>/mwɛ̃ ɡʁɑ̃ kə/	smaller than, less tall than	fr-en
+aussi grand que<br>/osi ɡʁɑ̃ kə/	as big as, as tall as	fr-en
+le plus grand, la plus grande<br>/lə ply ɡʁɑ̃, la ply ɡʁɑ̃d/	the biggest, the tallest	fr-en
+Ma sœur est plus grande que moi.<br>/ma sœʁ ɛ ply ɡʁɑ̃d kə mwa/	My sister is taller than me.	fr-en
+Il est aussi grand que son père.<br>/il ɛ osi ɡʁɑ̃ kə sɔ̃ pɛʁ/	He is as tall as his father.	fr-en
+Paris est la plus grande ville de France.<br>/paʁi ɛ la ply ɡʁɑ̃d vil də fʁɑ̃s/	Paris is the biggest city in France.	fr-en
+bon, meilleur, le meilleur<br>/bɔ̃, mɛjœʁ, lə mɛjœʁ/	good, better, the best: the irregular comparative of bon	fr-en
+une grande personne<br>/yn ɡʁɑ̃d pɛʁsɔn/	a grown-up	fr-en
+les grands et les petits<br>/le ɡʁɑ̃ e le pəti/	the big ones and the little ones, the older and the younger children	fr-en
+les grandes vacances<br>/le ɡʁɑ̃d vakɑ̃s/	the summer holidays	fr-en
+mon grand frère, ma grande sœur<br>/mɔ̃ ɡʁɑ̃ fʁɛʁ, ma ɡʁɑ̃d sœʁ/	my big brother, my big sister	fr-en
+un grand lit<br>/œ̃ ɡʁɑ̃ li/	a double bed	fr-en
+un grand magasin<br>/œ̃ ɡʁɑ̃ maɡazɛ̃/	a department store	fr-en
+une grande ville<br>/yn ɡʁɑ̃d vil/	a big city	fr-en
+un grand verre d'eau<br>/œ̃ ɡʁɑ̃ vɛʁ do/	a large glass of water	fr-en
+la porte grande ouverte<br>/la pɔʁt ɡʁɑ̃d uvɛʁt/	the door wide open	fr-en
+au grand air<br>/o ɡʁɑ̃t‿ɛʁ/	in the open air	fr-en
+pas grand-chose<br>/pa ɡʁɑ̃ʃoz/	not much	fr-en
+grand-mère, grand-père, les grands-parents<br>/ɡʁɑ̃mɛʁ, ɡʁɑ̃pɛʁ, le ɡʁɑ̃paʁɑ̃/	grandmother, grandfather, the grandparents	fr-en
+grandir<br>/ɡʁɑ̃diʁ/	to grow, to grow up	fr-en
+il grandit, ils grandissent, il a grandi<br>/il ɡʁɑ̃di, il ɡʁɑ̃dis, il a ɡʁɑ̃di/	he grows, they grow, he has grown	fr-en
+agrandir<br>/aɡʁɑ̃diʁ/	to enlarge, to extend	fr-en
+la grandeur<br>/la ɡʁɑ̃dœʁ/	size; greatness	fr-en
+grandement<br>/ɡʁɑ̃dmɑ̃/	greatly, amply	fr-en
+petit, petite<br>/pəti, pətit/	small: the opposite	fr-en
+grand – grands<br>/ɡʁɑ̃/ · /ɡʁɑ̃/	big, singular and plural: the same sound	fr-en
+grande – grandes<br>/ɡʁɑ̃d/ · /ɡʁɑ̃d/	big, feminine singular and plural: the same sound	fr-en
+grand – grande<br>/ɡʁɑ̃/ · /ɡʁɑ̃d/	the d is heard only in the feminine	fr-en
+grand – quand<br>/ɡʁɑ̃/ · /kɑ̃/	big – when: the same /ɑ̃/, and /t/ in liaison for both	fr-en
+Ma maison est grande, belle et confortable.<br>/ma mɛzɔ̃ ɛ ɡʁɑ̃d, bɛl e kɔ̃fɔʁtabl/	My house is big, beautiful and comfortable.	fr-en
+Il y a un grand lit dans ma chambre.<br>/il j a œ̃ ɡʁɑ̃ li dɑ̃ ma ʃɑ̃bʁ/	There is a double bed in my bedroom.	fr-en
+Le salon est grand mais le jardin est petit.<br>/lə salɔ̃ ɛ ɡʁɑ̃ mɛ lə ʒaʁdɛ̃ ɛ pəti/	The living room is big but the garden is small.	fr-en
+Nous avons une grande cuisine.<br>/nuz‿avɔ̃ yn ɡʁɑ̃d kɥizin/	We have a big kitchen.	fr-en
+Il y a un grand arbre devant la maison.<br>/il j a œ̃ ɡʁɑ̃t‿aʁbʁ dəvɑ̃ la mɛzɔ̃/	There is a big tree in front of the house.	fr-en
+Mon frère est très grand.<br>/mɔ̃ fʁɛʁ ɛ tʁɛ ɡʁɑ̃/	My brother is very tall.	fr-en
+Ma grand-mère habite dans une grande ville.<br>/ma ɡʁɑ̃mɛʁ abit dɑ̃z‿yn ɡʁɑ̃d vil/	My grandmother lives in a big city.	fr-en
+Les enfants grandissent vite.<br>/lez‿ɑ̃fɑ̃ ɡʁɑ̃dis vit/	Children grow up fast.	fr-en
+Nous voulons agrandir la cuisine.<br>/nu vulɔ̃ aɡʁɑ̃diʁ la kɥizin/	We want to extend the kitchen.	fr-en
+Les grandes vacances commencent en juillet.<br>/le ɡʁɑ̃d vakɑ̃s kɔmɑ̃s ɑ̃ ʒɥijɛ/	The summer holidays start in July.	fr-en
+Il n'y a pas grand-chose dans l'armoire.<br>/il nj a pa ɡʁɑ̃ʃoz dɑ̃ laʁmwaʁ/	There is not much in the wardrobe.	fr-en
+une ________ maison<br>(AI exercise: grand, grande, grands or grandes?)	/yn [ɡʁɑ̃d] mɛzɔ̃/<br>a big house	exercise
+un ________ jardin<br>(AI exercise: grand, grande, grands or grandes?)	/œ̃ [ɡʁɑ̃] ʒaʁdɛ̃/<br>a big garden	exercise
+de ________ chambres<br>(AI exercise: grand, grande, grands or grandes?)	/də [ɡʁɑ̃d] ʃɑ̃bʁ/<br>big bedrooms	exercise
+de ________ arbres<br>(AI exercise: grand, grande, grands or grandes?)	/də [ɡʁɑ̃z]‿aʁbʁ/<br>big trees	exercise
+Ma sœur est ________.<br>(AI exercise: grand, grande, grands or grandes?)	/ma sœʁ ɛ [ɡʁɑ̃d]/<br>My sister is tall.	exercise
+Mes frères sont ________.<br>(AI exercise: grand, grande, grands or grandes?)	/me fʁɛʁ sɔ̃ [ɡʁɑ̃]/<br>My brothers are tall.	exercise
+une grande femme<br>/yn ɡʁɑ̃d fam/ (2)	a great woman	fr-en
+les grands magasins<br>/le ɡʁɑ̃ maɡazɛ̃/	the department stores	fr-en
+un homme ________<br>(AI exercise: tall or great? Translate the word order)	/œ̃n‿ɔm [ɡʁɑ̃]/<br>a tall man	exercise
+un ________ homme<br>(AI exercise: tall or great? Translate the word order)	/œ̃ [ɡʁɑ̃t]‿ɔm/<br>a great man	exercise
+une ________ personne<br>(AI exercise: tall or great? Translate the word order)	/yn [ɡʁɑ̃d] pɛʁsɔn/<br>a grown-up	exercise

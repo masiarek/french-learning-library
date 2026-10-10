@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::un canapé — a sofa::Challenges
+#tags:french 1000words canape challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: There is a sofa in the living room.	Il y a un canapé dans le salon. /il j a œ̃ kanape dɑ̃ lə salɔ̃/	say
+Say: The cat is sleeping on the sofa.	Le chat dort sur le canapé. /lə ʃa dɔʁ syʁ lə kanape/	say
+Say: My friends sleep on the sofa bed.	Mes amis dorment sur le canapé-lit. /mez‿ami dɔʁm syʁ lə kanapeli/	say
+Say: We want to buy a corner sofa for the living room.	Nous voulons acheter un canapé d’angle pour le salon. /nu vulɔ̃ aʃte œ̃ kanape dɑ̃ɡl puʁ lə salɔ̃/	say
+Say: Move over, make room for me on the sofa.	Pousse-toi, fais-moi une place sur le canapé. /pustwa, fɛmwa yn plas syʁ lə kanape/	say
+The three vowels of canapé	/a/, /a/, /e/: the é is said, /kanape/, where the final -e of table /tabl/ is silent	sound
+On a sofa, in an armchair	sur le canapé /syʁ lə kanape/, dans un fauteuil /dɑ̃z‿œ̃ fotœj/	grammar
+A sofa bed, two ways	un canapé-lit /œ̃ kanapeli/, un canapé convertible /œ̃ kanape kɔ̃vɛʁtibl/; in speech un clic-clac /œ̃ klikklak/	words
+A two-seater, a leather sofa, a corner sofa	un canapé deux places /œ̃ kanape dø plas/, un canapé en cuir /œ̃ kanape ɑ̃ kɥiʁ/, un canapé d’angle /œ̃ kanape dɑ̃ɡl/	words
+To lie down on the sofa, to flop down on it, to have a nap on it	s’allonger sur le canapé /salɔ̃ʒe/, s’affaler sur le canapé /safale/, faire la sieste sur le canapé /fɛʁ la sjɛst/	words
+The other canapé	the party snack: des canapés au saumon /de kanape o somɔ̃/, served pour l’apéritif /puʁ lapeʁitif/	words
+Cushion, throw, remote control	un coussin /œ̃ kusɛ̃/, un plaid /œ̃ plɛd/, la télécommande /la telekɔmɑ̃d/	words

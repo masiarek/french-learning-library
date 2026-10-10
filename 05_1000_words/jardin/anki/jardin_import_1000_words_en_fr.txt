@@ -1,0 +1,81 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(n.m.) garden; park	un jardin<br>/œ̃ ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+The children are playing in the garden.	Les enfants jouent dans le jardin.<br>/lez‿ɑ̃fɑ̃ ʒu dɑ̃ lə ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a garden, gardens	un jardin, des jardins<br>/œ̃ ʒaʁdɛ̃, de ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+to garden	jardiner<br>/ʒaʁdine/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+gardening, to do some gardening	le jardinage, faire du jardinage<br>/lə ʒaʁdinaʒ, fɛʁ dy ʒaʁdinaʒ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a gardener (a man, a woman)	un jardinier, une jardinière<br>/œ̃ ʒaʁdinje, yn ʒaʁdinjɛʁ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a window box, a planter	une jardinière<br>/yn ʒaʁdinjɛʁ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a garden centre	une jardinerie<br>/yn ʒaʁdinʁi/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+I garden, you garden, he gardens	je jardine, tu jardines, il jardine<br>/ʒə ʒaʁdin, ty ʒaʁdin, il ʒaʁdin/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+we garden, you garden, they garden	nous jardinons, vous jardinez, ils jardinent<br>/nu ʒaʁdinɔ̃, vu ʒaʁdine, il ʒaʁdin/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+I gardened all afternoon	j'ai jardiné tout l'après-midi<br>/ʒe ʒaʁdine tu lapʁɛmidi/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a public garden, a park	un jardin public<br>/œ̃ ʒaʁdɛ̃ pyblik/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a vegetable garden	un jardin potager, un potager<br>/œ̃ ʒaʁdɛ̃ pɔtaʒe, œ̃ pɔtaʒe/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a kindergarten	un jardin d'enfants<br>/œ̃ ʒaʁdɛ̃ dɑ̃fɑ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a botanical garden	un jardin botanique<br>/œ̃ ʒaʁdɛ̃ bɔtanik/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a formal garden, with straight paths and clipped hedges	un jardin à la française<br>/œ̃ ʒaʁdɛ̃ a la fʁɑ̃sɛz/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a landscape garden	un jardin anglais<br>/œ̃ ʒaʁdɛ̃ ɑ̃ɡlɛ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+the Luxembourg Garden, the Jardin des Plantes, two parks of Paris	le Jardin du Luxembourg, le Jardin des Plantes<br>/lə ʒaʁdɛ̃ dy lyksɑ̃buʁ, lə ʒaʁdɛ̃ de plɑ̃t/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a small garden, a big garden, a pretty garden	un petit jardin, un grand jardin, un joli jardin<br>/œ̃ pəti ʒaʁdɛ̃, œ̃ ɡʁɑ̃ ʒaʁdɛ̃, œ̃ ʒɔli ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a park	un parc<br>/œ̃ paʁk/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+the lawn, the grass	la pelouse, l'herbe<br>/la pəluz, lɛʁb/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a tree, trees	un arbre, des arbres<br>/œ̃n‿aʁbʁ, dez‿aʁbʁ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a flower, flowers	une fleur, des fleurs<br>/yn flœʁ, de flœʁ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a hedge, the hedge, the hedges: the h is aspirate, no liaison	une haie, la haie, les haies<br>/yn ɛ, la ɛ, le ɛ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a path	une allée<br>/yn ale/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a bench, a garden chair, a garden table	un banc, une chaise de jardin, une table de jardin<br>/œ̃ bɑ̃, yn ʃɛz də ʒaʁdɛ̃, yn tabl də ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a watering can	un arrosoir<br>/œ̃n‿aʁozwaʁ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+the vegetables	les légumes<br>/le leɡym/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a wall, a gate	un mur, un portail<br>/œ̃ myʁ, œ̃ pɔʁtaj/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+to water the flowers	arroser les fleurs<br>/aʁoze le flœʁ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+to plant a tree	planter un arbre<br>/plɑ̃te œ̃n‿aʁbʁ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+to pick flowers, I pick	cueillir des fleurs, je cueille<br>/kœjiʁ de flœʁ, ʒə kœj/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+to mow the lawn	tondre la pelouse<br>/tɔ̃dʁ la pəluz/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+the flowers grow	les fleurs poussent<br>/le flœʁ pus/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+to play in the garden	jouer dans le jardin<br>/ʒwe dɑ̃ lə ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+in the garden	dans le jardin<br>/dɑ̃ lə ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+in the garden, to go into the garden	au jardin, aller au jardin<br>/o ʒaʁdɛ̃, ale o ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+the vegetables from the garden	les légumes du jardin<br>/le leɡym dy ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+the garden gate	la porte du jardin<br>/la pɔʁt dy ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+at the bottom of the garden	au fond du jardin<br>/o fɔ̃ dy ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+behind the house, in front of the house	derrière la maison, devant la maison<br>/dɛʁjɛʁ la mɛzɔ̃, dəvɑ̃ la mɛzɔ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+to mind one's own small affairs	cultiver son jardin<br>/kyltive sɔ̃ ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+We must cultivate our garden: the last line of Candide	Il faut cultiver notre jardin.<br>/il fo kyltive nɔtʁ ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+a private world	un jardin secret<br>/œ̃ ʒaʁdɛ̃ səkʁɛ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+stage left, stage right	côté jardin, côté cour<br>/kote ʒaʁdɛ̃, kote kuʁ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+to take a dig at someone	jeter une pierre dans le jardin de quelqu'un<br>/ʒəte yn pjɛʁ dɑ̃ lə ʒaʁdɛ̃ də kɛlkœ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+There is also a small garden.	Il y a aussi un petit jardin.<br>/il j a osi œ̃ pəti ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+Is there a garden?	Est-ce qu'il y a un jardin ?<br>/ɛs kil j a œ̃ ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+the garden – to garden	le jardin – jardiner<br>/lə ʒaʁdɛ̃/ · /ʒaʁdine/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+the cousin, a man – a woman	le cousin – la cousine<br>/lə kuzɛ̃/ · /la kuzin/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+the neighbour, a man – a woman	le voisin – la voisine<br>/lə vwazɛ̃/ · /la vwazin/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+the morning, the wine, the bread, the way	le matin, le vin, le pain, le chemin<br>/lə matɛ̃, lə vɛ̃, lə pɛ̃, lə ʃəmɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+There is a small garden behind the house.	Il y a un petit jardin derrière la maison.<br>/il j a œ̃ pəti ʒaʁdɛ̃ dɛʁjɛʁ la mɛzɔ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+My mother is watering the flowers in the garden.	Ma mère arrose les fleurs du jardin.<br>/ma mɛʁ aʁoz le flœʁ dy ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+The cat is sleeping in the sun in the garden.	Le chat dort au soleil dans le jardin.<br>/lə ʃa dɔʁ o sɔlɛj dɑ̃ lə ʒaʁdɛ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+We eat in the garden when the weather is fine.	Nous mangeons dans le jardin quand il fait beau.<br>/nu mɑ̃ʒɔ̃ dɑ̃ lə ʒaʁdɛ̃ kɑ̃t‿il fɛ bo/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+My father gardens on Sundays.	Mon père jardine le dimanche.<br>/mɔ̃ pɛʁ ʒaʁdin lə dimɑ̃ʃ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+There are vegetables in the vegetable garden.	Il y a des légumes dans le potager.<br>/il j a de leɡym dɑ̃ lə pɔtaʒe/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+On Sundays we go to the Luxembourg Garden.	Le dimanche, nous allons au Jardin du Luxembourg.<br>/lə dimɑ̃ʃ, nuz‿alɔ̃ o ʒaʁdɛ̃ dy lyksɑ̃buʁ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+The garden gate is open.	La porte du jardin est ouverte.<br>/la pɔʁt dy ʒaʁdɛ̃ ɛ(t)‿uvɛʁt/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+There is no garden, but there is a balcony.	Il n'y a pas de jardin, mais il y a un balcon.<br>/il nj a pa də ʒaʁdɛ̃, mɛ il j a œ̃ balkɔ̃/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+The neighbours have a big garden with trees.	Les voisins ont un grand jardin avec des arbres.<br>/le vwazɛ̃ ɔ̃t‿œ̃ ɡʁɑ̃ ʒaʁdɛ̃ avɛk dez‿aʁbʁ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+I am picking flowers in the garden for my mother.	Je cueille des fleurs dans le jardin pour ma mère.<br>/ʒə kœj de flœʁ dɑ̃ lə ʒaʁdɛ̃ puʁ ma mɛʁ/	french 1000words jardin en-fr	French::1000 words (EN-FR)::un jardin — a garden
+Say: There is also a small garden.	Il y a aussi un petit jardin. /il j a osi œ̃ pəti ʒaʁdɛ̃/	french 1000words jardin challenge say	French::1000 words (EN-FR)::un jardin — a garden::Challenges
+Say: The garden is behind the house.	Le jardin est derrière la maison. /lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ la mɛzɔ̃/	french 1000words jardin challenge say	French::1000 words (EN-FR)::un jardin — a garden::Challenges
+Say: The children are playing in the garden.	Les enfants jouent dans le jardin. /lez‿ɑ̃fɑ̃ ʒu dɑ̃ lə ʒaʁdɛ̃/	french 1000words jardin challenge say	French::1000 words (EN-FR)::un jardin — a garden::Challenges
+Say: My mother is watering the flowers in the garden.	Ma mère arrose les fleurs du jardin. /ma mɛʁ aʁoz le flœʁ dy ʒaʁdɛ̃/	french 1000words jardin challenge say	French::1000 words (EN-FR)::un jardin — a garden::Challenges
+Say: There is no garden, but there is a balcony.	Il n’y a pas de jardin, mais il y a un balcon. /il nj a pa də ʒaʁdɛ̃, mɛ il j a œ̃ balkɔ̃/	french 1000words jardin challenge say	French::1000 words (EN-FR)::un jardin — a garden::Challenges
+Why is jardin /ʒaʁdɛ̃/ but jardiner /ʒaʁdine/?	At the end of a word -in is the nasal vowel /ɛ̃/ and no n is said; before a vowel the n is said and the vowel turns oral, as in cousin, cousine /kuzɛ̃, kuzin/	french 1000words jardin challenge sound	French::1000 words (EN-FR)::un jardin — a garden::Challenges
+The garden, to garden, gardening, a gardener	le jardin /lə ʒaʁdɛ̃/, jardiner /ʒaʁdine/, le jardinage /lə ʒaʁdinaʒ/, un jardinier /œ̃ ʒaʁdinje/	french 1000words jardin challenge words	French::1000 words (EN-FR)::un jardin — a garden::Challenges
+In the garden, from the garden, at the bottom of the garden	dans le jardin /dɑ̃ lə ʒaʁdɛ̃/, du jardin /dy ʒaʁdɛ̃/, au fond du jardin /o fɔ̃ dy ʒaʁdɛ̃/	french 1000words jardin challenge grammar	French::1000 words (EN-FR)::un jardin — a garden::Challenges
+A park, a vegetable garden, a kindergarten	un jardin public /œ̃ ʒaʁdɛ̃ pyblik/, un potager /œ̃ pɔtaʒe/, un jardin d’enfants /œ̃ ʒaʁdɛ̃ dɑ̃fɑ̃/	french 1000words jardin challenge words	French::1000 words (EN-FR)::un jardin — a garden::Challenges
+The lawn, a tree, a hedge, a watering can	la pelouse /la pəluz/, un arbre /œ̃n‿aʁbʁ/, une haie /yn ɛ/ (aspirate h, no liaison), un arrosoir /œ̃n‿aʁozwaʁ/	french 1000words jardin challenge words	French::1000 words (EN-FR)::un jardin — a garden::Challenges
+To water, to plant, to pick, to mow the lawn	arroser /aʁoze/, planter /plɑ̃te/, cueillir /kœjiʁ/, tondre la pelouse /tɔ̃dʁ la pəluz/	french 1000words jardin challenge words	French::1000 words (EN-FR)::un jardin — a garden::Challenges
+To mind one’s own small affairs, after Voltaire	cultiver son jardin /kyltive sɔ̃ ʒaʁdɛ̃/ (Il faut cultiver notre jardin, the last line of Candide)	french 1000words jardin challenge words	French::1000 words (EN-FR)::un jardin — a garden::Challenges

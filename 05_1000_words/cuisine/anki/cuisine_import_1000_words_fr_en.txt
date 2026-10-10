@@ -1,0 +1,72 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+la cuisine<br>/la kɥizin/	(n.f.) kitchen; cooking, cuisine	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Il y a une table dans la cuisine.<br>/il j a yn tabl dɑ̃ la kɥizin/	There is a table in the kitchen.	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+je cuisine, tu cuisines, il cuisine<br>/ʒə kɥizin, ty kɥizin, il kɥizin/	I cook, you cook, he cooks	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+nous cuisinons, vous cuisinez, ils cuisinent<br>/nu kɥizinɔ̃, vu kɥizine, il kɥizin/	we cook, you cook, they cook	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+j'ai cuisiné<br>/ʒe kɥizine/	I cooked, I have cooked	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+faire la cuisine<br>/fɛʁ la kɥizin/	to do the cooking	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+faire cuire, cuire<br>/fɛʁ kɥiʁ, kɥiʁ/	to cook (something); to cook (of the food)	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Ma mère est dans la cuisine.<br>/ma mɛʁ ɛ dɑ̃ la kɥizin/	My mother is in the kitchen.	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Va à la cuisine chercher du pain.<br>/va a la kɥizin ʃɛʁʃe dy pɛ̃/	Go to the kitchen and get some bread.	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Le chef est en cuisine.<br>/lə ʃɛf ɛt‿ɑ̃ kɥizin/	The chef is in the kitchen (of the restaurant).	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+la table de la cuisine<br>/la tabl də la kɥizin/	the kitchen table	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+un placard de cuisine<br>/œ̃ plakaʁ də kɥizin/	a kitchen cupboard	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+la cuisine française, italienne, polonaise<br>/la kɥizin fʁɑ̃sɛz, italjɛn, pɔlɔnɛz/	French, Italian, Polish cooking	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+la bonne cuisine<br>/la bɔn kɥizin/	good cooking	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+la cuisine maison<br>/la kɥizin mɛzɔ̃/	home cooking	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+la nouvelle cuisine<br>/la nuvɛl kɥizin/	the nouvelle cuisine	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+un livre de cuisine<br>/œ̃ livʁ də kɥizin/	a cookbook	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+une recette de cuisine<br>/yn ʁəsɛt də kɥizin/	a recipe	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+un cours de cuisine<br>/œ̃ kuʁ də kɥizin/	a cooking class	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+aimer la cuisine<br>/eme la kɥizin/	to like cooking, to like good food	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+le cuisinier, la cuisinière<br>/lə kɥizinje, la kɥizinjɛʁ/	the cook (a man, a woman)	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+une cuisinière à gaz, une cuisinière électrique<br>/yn kɥizinjɛʁ a ɡɑz, yn kɥizinjɛʁ elɛktʁik/	a gas cooker, an electric cooker	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+le chef, un chef cuisinier<br>/lə ʃɛf, œ̃ ʃɛf kɥizinje/	the chef	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+un bon cuisinier, une bonne cuisinière<br>/œ̃ bɔ̃ kɥizinje, yn bɔn kɥizinjɛʁ/	a good cook	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+une cuisine équipée<br>/yn kɥizin ekipe/	a fitted kitchen	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+une cuisine américaine, une cuisine ouverte<br>/yn kɥizin ameʁikɛn, yn kɥizin uvɛʁt/	an open-plan kitchen	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+une grande cuisine, une petite cuisine<br>/yn ɡʁɑ̃d kɥizin, yn pətit kɥizin/	a big kitchen, a small kitchen	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+une cuisine moderne<br>/yn kɥizin mɔdɛʁn/	a modern kitchen	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+le four, le frigo, le réfrigérateur<br>/lə fuʁ, lə fʁiɡo, lə ʁefʁiʒeʁatœʁ/	the oven, the fridge	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+l'évier, le lave-vaisselle<br>/levje, lə lavvɛsɛl/	the sink, the dishwasher	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+le placard, le plan de travail<br>/lə plakaʁ, lə plɑ̃ də tʁavaj/	the cupboard, the worktop	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+une casserole, une poêle<br>/yn kasʁɔl, yn pwal/	a saucepan, a frying pan	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+un poêle<br>/œ̃ pwal/	a stove, for heating: masculine	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+la table et les chaises de la cuisine<br>/la tabl e le ʃɛz də la kɥizin/	the kitchen table and chairs	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+un repas, préparer le repas<br>/œ̃ ʁəpa, pʁepaʁe lə ʁəpa/	a meal, to make the meal	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+le petit déjeuner, le déjeuner, le dîner<br>/lə pəti deʒœne, lə deʒœne, lə dine/	breakfast, lunch, dinner	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+faire la vaisselle<br>/fɛʁ la vɛsɛl/	to wash up	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Bon appétit !<br>/bɔn‿apeti/	Enjoy your meal!	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Qu'est-ce qu'on mange ce soir ?<br>/kɛs kɔ̃ mɑ̃ʒ sə swaʁ/	What are we eating tonight?	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+la cuisine – la cousine<br>/la kɥizin/ · /la kuzin/	the kitchen – the cousin: /ɥi/ against /u/	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+la cuisine – la piscine<br>/la kɥizin/ · /la pisin/	the kitchen – the swimming pool: the same -ine	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+la cuisine – le cuir – cuire – huit – lui<br>/la kɥizin/ · /lə kɥiʁ/ · /kɥiʁ/ · /ɥit/ · /lɥi/	the kitchen – leather – to cook – eight – him: the glide /ɥ/	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Dans la cuisine, il y a une table, quatre chaises et un grand frigo.<br>/dɑ̃ la kɥizin, il j a yn tabl, katʁ ʃɛz e œ̃ ɡʁɑ̃ fʁiɡo/	In the kitchen there is a table, four chairs and a big fridge.	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Ma mère fait la cuisine tous les soirs.<br>/ma mɛʁ fɛ la kɥizin tu le swaʁ/	My mother cooks every evening.	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+J'aime la cuisine italienne.<br>/ʒɛm la kɥizin italjɛn/	I like Italian food.	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Qui fait la cuisine chez vous ?<br>/ki fɛ la kɥizin ʃe vu/	Who does the cooking at your place?	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Nous cuisinons ensemble le dimanche.<br>/nu kɥizinɔ̃ ɑ̃sɑ̃bl lə dimɑ̃ʃ/	We cook together on Sundays.	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+La cuisine est petite mais moderne.<br>/la kɥizin ɛ pətit mɛ mɔdɛʁn/	The kitchen is small but modern.	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Mon père est un très bon cuisinier.<br>/mɔ̃ pɛʁ ɛt‿œ̃ tʁɛ bɔ̃ kɥizinje/	My father is a very good cook.	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Les assiettes sont dans le placard de la cuisine.<br>/lez‿asjɛt sɔ̃ dɑ̃ lə plakaʁ də la kɥizin/	The plates are in the kitchen cupboard.	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Le chef est en cuisine, il prépare le dîner.<br>/lə ʃɛf ɛt‿ɑ̃ kɥizin, il pʁepaʁ lə dine/	The chef is in the kitchen, he is making dinner.	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Il y a un livre de cuisine sur la table.<br>/il j a œ̃ livʁ də kɥizin syʁ la tabl/	There is a cookbook on the table.	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Va à la cuisine et mets la table, s'il te plaît.<br>/va a la kɥizin e mɛ la tabl, sil tə plɛ/	Go to the kitchen and lay the table, please.	french 1000words cuisine fr-en	French::1000 words (FR-EN)::la cuisine — the kitchen
+Ma mère est une bonne ________.<br>(AI exercise: cuisine, cuisinier, cuisinière or cuisiner?)	/ma mɛʁ ɛt‿yn bɔn [kɥizinjɛʁ]/<br>My mother is a good cook.	french 1000words cuisine fr-en exercise	French::1000 words (FR-EN)::la cuisine — the kitchen
+Mon père aime ________.<br>(AI exercise: cuisine, cuisinier, cuisinière or cuisiner?)	/mɔ̃ pɛʁ ɛm [kɥizine]/<br>My father likes cooking.	french 1000words cuisine fr-en exercise	French::1000 words (FR-EN)::la cuisine — the kitchen
+Le frigo est dans la ________.<br>(AI exercise: cuisine, cuisinier, cuisinière or cuisiner?)	/lə fʁiɡo ɛ dɑ̃ la [kɥizin]/<br>The fridge is in the kitchen.	french 1000words cuisine fr-en exercise	French::1000 words (FR-EN)::la cuisine — the kitchen
+Le ________ du restaurant est français.<br>(AI exercise: cuisine, cuisinier, cuisinière or cuisiner?)	/lə [kɥizinje] dy ʁɛstoʁɑ̃ ɛ fʁɑ̃sɛ/<br>The restaurant's cook is French.	french 1000words cuisine fr-en exercise	French::1000 words (FR-EN)::la cuisine — the kitchen
+Nous ________ ensemble le samedi.<br>(AI exercise: cuisine, cuisinier, cuisinière or cuisiner?)	/nu [kɥizinɔ̃] ɑ̃sɑ̃bl lə samdi/<br>We cook together on Saturdays.	french 1000words cuisine fr-en exercise	French::1000 words (FR-EN)::la cuisine — the kitchen
+Il y a une table ________ cuisine.<br>(AI exercise: dans la, à la or en?)	/il j a yn tabl [dɑ̃ la] kɥizin/<br>There is a table in the kitchen.	french 1000words cuisine fr-en exercise	French::1000 words (FR-EN)::la cuisine — the kitchen
+Va ________ cuisine chercher un verre.<br>(AI exercise: dans la, à la or en?)	/va [a la] kɥizin ʃɛʁʃe œ̃ vɛʁ/<br>Go to the kitchen and get a glass.	french 1000words cuisine fr-en exercise	French::1000 words (FR-EN)::la cuisine — the kitchen
+Le chef est ________ cuisine.<br>(AI exercise: dans la, à la or en?)	/lə ʃɛf ɛt‿[ɑ̃] kɥizin/<br>The chef is in the kitchen.	french 1000words cuisine fr-en exercise	French::1000 words (FR-EN)::la cuisine — the kitchen
+________ cuisine<br>(AI exercise: un or une?)	/[yn] kɥizin/<br>a kitchen	french 1000words cuisine fr-en exercise	French::1000 words (FR-EN)::la cuisine — the kitchen
+________ four<br>(AI exercise: un or une?)	/[œ̃] fuʁ/<br>an oven	french 1000words cuisine fr-en exercise	French::1000 words (FR-EN)::la cuisine — the kitchen
+________ casserole<br>(AI exercise: un or une?)	/[yn] kasʁɔl/<br>a saucepan	french 1000words cuisine fr-en exercise	French::1000 words (FR-EN)::la cuisine — the kitchen
+________ poêle à frire<br>(AI exercise: un or une?)	/[yn] pwal a fʁiʁ/<br>a frying pan	french 1000words cuisine fr-en exercise	French::1000 words (FR-EN)::la cuisine — the kitchen
+________ repas<br>(AI exercise: un or une?)	/[œ̃] ʁəpa/<br>a meal	french 1000words cuisine fr-en exercise	French::1000 words (FR-EN)::la cuisine — the kitchen

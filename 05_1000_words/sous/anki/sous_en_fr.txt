@@ -1,0 +1,64 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::sous — under
+#tags:french 1000words sous en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(prep.) under, beneath, below	sous<br>/su/	en-fr
+The cat is sleeping under the table.	Le chat dort sous la table.<br>/lə ʃa dɔʁ su la tabl/	en-fr
+under the table	sous la table<br>/su la tabl/	en-fr
+under the bed	sous le lit<br>/su lə li/	en-fr
+under the chair	sous la chaise<br>/su la ʃɛz/	en-fr
+under the sofa	sous le canapé<br>/su lə kanape/	en-fr
+under a tree	sous un arbre<br>/suz‿œ̃n‿aʁbʁ/	en-fr
+under the bridge	sous le pont<br>/su lə pɔ̃/	en-fr
+underground, under water	sous terre, sous l'eau<br>/su tɛʁ, su lo/	en-fr
+below zero	sous zéro<br>/su zeʁo/	en-fr
+in the rain	sous la pluie<br>/su la plɥi/	en-fr
+in the snow	sous la neige<br>/su la nɛʒ/	en-fr
+in the sun	sous le soleil<br>/su lə sɔlɛj/	en-fr
+in the shower	sous la douche<br>/su la duʃ/	en-fr
+under lock and key	sous clé<br>/su kle/	en-fr
+in an envelope	sous enveloppe<br>/suz‿ɑ̃vlɔp/	en-fr
+shortly	sous peu<br>/su pø/	en-fr
+within a week	sous huit jours<br>/su ɥi ʒuʁ/	en-fr
+in the reign of Louis XIV	sous Louis XIV<br>/su lwi katɔʁz/	en-fr
+under the direction of	sous la direction de<br>/su la diʁɛksjɔ̃ də/	en-fr
+under pressure	sous pression<br>/su pʁɛsjɔ̃/	en-fr
+in the form of	sous forme de<br>/su fɔʁm də/	en-fr
+under the name of	sous le nom de<br>/su lə nɔ̃ də/	en-fr
+The cat is underneath.	Le chat est dessous.<br>/lə ʃa ɛ dəsu/	en-fr
+underneath, below	en dessous, en dessous de<br>/ɑ̃ dəsu, ɑ̃ dəsu də/	en-fr
+below the window	au-dessous de la fenêtre<br>/odəsu də la fənɛtʁ/	en-fr
+under there	là-dessous<br>/ladəsu/	en-fr
+the underside, underwear	le dessous, les dessous<br>/lə dəsu, le dəsu/	en-fr
+upside down, in chaos	sens dessus dessous<br>/sɑ̃ dəsy dəsu/	en-fr
+on top – underneath	dessus – dessous<br>/dəsy/ · /dəsu/	en-fr
+the basement	le sous-sol<br>/lə susɔl/	en-fr
+a submarine	un sous-marin<br>/œ̃ sumaʁɛ̃/	en-fr
+the subtitles	les sous-titres<br>/le sutitʁ/	en-fr
+a film in French with subtitles	un film en français avec des sous-titres<br>/œ̃ film ɑ̃ fʁɑ̃sɛ avɛk de sutitʁ/	en-fr
+an undergarment	un sous-vêtement<br>/œ̃ suvɛtmɑ̃/	en-fr
+an insinuation, something implied	un sous-entendu<br>/œ̃ suzɑ̃tɑ̃dy/	en-fr
+to underline	souligner<br>/suliɲe/	en-fr
+to support, to hold up	soutenir<br>/sutniʁ/	en-fr
+under – a penny – drunk	sous – un sou – saoul<br>/su/ · /œ̃ su/ · /su/	en-fr
+under – known: /u/ against /y/	sous – su<br>/su/ · /sy/	en-fr
+under – on	sous – sur<br>/su/ · /syʁ/	en-fr
+the s is said before a vowel, silent before a consonant	sous un – sous le<br>/suz‿œ̃/ · /su lə/	en-fr
+The bag is under the table.	Le sac est sous la table.<br>/lə sak ɛ su la tabl/	en-fr
+My shoes are under the bed.	Mes chaussures sont sous le lit.<br>/me ʃosyʁ sɔ̃ su lə li/	en-fr
+We are walking in the rain.	Nous marchons sous la pluie.<br>/nu maʁʃɔ̃ su la plɥi/	en-fr
+The cat is sleeping under the chair.	Le chat dort sous la chaise.<br>/lə ʃa dɔʁ su la ʃɛz/	en-fr
+I watch French films with subtitles.	Je regarde les films français avec des sous-titres.<br>/ʒə ʁəɡaʁd le film fʁɑ̃sɛ avɛk de sutitʁ/	en-fr
+The cellar is in the basement.	La cave est au sous-sol.<br>/la kav ɛ o susɔl/	en-fr
+He is in the shower.	Il est sous la douche.<br>/il ɛ su la duʃ/	en-fr
+The paper is under the sofa, not on it.	Le journal est sous le canapé, pas dessus.<br>/lə ʒuʁnal ɛ su lə kanape, pa dəsy/	en-fr
+You put the book under another book.	Tu as mis le livre sous un autre livre.<br>/ty a mi lə livʁ suz‿œ̃n‿otʁ livʁ/	en-fr
+Under Louis XIV the court lives at Versailles.	Sous Louis XIV, la cour habite à Versailles.<br>/su lwi katɔʁz, la kuʁ abit a vɛʁsaj/	en-fr
+under	sous<br>/[su]/	en-fr
+known	su<br>/[sy]/	en-fr
+on	sur<br>/[syʁ]/	en-fr
+all	tout<br>/[tu]/	en-fr
+you	tu<br>/[ty]/	en-fr

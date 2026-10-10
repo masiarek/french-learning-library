@@ -1,0 +1,80 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+une famille<br>/yn famij/	(n.f.) family	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+Toute la famille est à table.<br>/tut la famij ɛ(t)‿a tabl/	The whole family is at the table.	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+les grands-parents, le grand-père, la grand-mère<br>/le ɡʁɑ̃paʁɑ̃, lə ɡʁɑ̃pɛʁ, la ɡʁɑ̃mɛʁ/	the grandparents, the grandfather, the grandmother	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+l'oncle, la tante<br>/lɔ̃kl, la tɑ̃t/	the uncle, the aunt	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+le neveu, la nièce<br>/lə nəvø, la njɛs/	the nephew, the niece	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+le cousin, la cousine<br>/lə kuzɛ̃, la kuzin/	the cousin (a man, a woman)	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+le mari, la femme<br>/lə maʁi, la fam/	the husband, the wife	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+mon mari, ma femme<br>/mɔ̃ maʁi, ma fam/	my husband, my wife	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+le petit-fils, la petite-fille, les petits-enfants<br>/lə pətifis, la pətitfij, le pətiz‿ɑ̃fɑ̃/	the grandson, the granddaughter, the grandchildren	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+le beau-frère, la belle-sœur<br>/lə bofʁɛʁ, la bɛlsœʁ/	the brother-in-law, the sister-in-law	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+le gendre, la belle-fille<br>/lə ʒɑ̃dʁ, la bɛlfij/	the son-in-law, the daughter-in-law or stepdaughter	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+l'aîné, l'aînée<br>/lene, lene/	the eldest (a boy, a girl)	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+le cadet, la cadette<br>/lə kadɛ, la kadɛt/	the younger one	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+le benjamin, la benjamine<br>/lə bɛ̃ʒamɛ̃, la bɛ̃ʒamin/	the youngest	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+les jumeaux, les jumelles<br>/le ʒymo, le ʒymɛl/	twins (boys, girls)	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+un enfant unique<br>/œ̃n‿ɑ̃fɑ̃ ynik/	an only child	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+un parent, un parent éloigné, les proches<br>/œ̃ paʁɑ̃, œ̃ paʁɑ̃ elwaɲe, le pʁɔʃ/	a parent or a relative, a distant relative, the close family	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+une grande famille, une petite famille<br>/yn ɡʁɑ̃d famij, yn pətit famij/	a big family, a small family	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+une famille nombreuse<br>/yn famij nɔ̃bʁøz/	a large family, three children or more	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+une famille d'accueil<br>/yn famij dakœj/	a host family, a foster family	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+une famille recomposée<br>/yn famij ʁəkɔ̃poze/	a blended family	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+une famille monoparentale<br>/yn famij mɔnopaʁɑ̃tal/	a single-parent family	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+la famille royale<br>/la famij ʁwajal/	the royal family	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+la famille Lefèvre, les Lefèvre<br>/la famij ləfɛvʁ, le ləfɛvʁ/	the Lefèvre family, the Lefèvres: no plural -s on a surname	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+familial, familiale<br>/familjal/	family (as an adjective)	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+une réunion familiale<br>/yn ʁeynjɔ̃ familjal/	a family gathering	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+les allocations familiales<br>/lez‿alɔkasjɔ̃ familjal/	child benefit	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+familier, familière<br>/familje, familjɛʁ/	familiar; colloquial	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+un mot familier<br>/œ̃ mo familje/	a colloquial word	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+se familiariser avec<br>/sə familjaʁize avɛk/	to get used to	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+la parenté<br>/la paʁɑ̃te/	kinship	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+en famille, dîner en famille<br>/ɑ̃ famij, dine ɑ̃ famij/	as a family, to have dinner as a family	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+passer Noël en famille<br>/pase nɔɛl ɑ̃ famij/	to spend Christmas with the family	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+avec ma famille, toute la famille<br>/avɛk ma famij, tut la famij/	with my family, the whole family	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+un nom de famille, un prénom<br>/œ̃ nɔ̃ də famij, œ̃ pʁenɔ̃/	a surname, a first name	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+une photo de famille<br>/yn fɔto də famij/	a family photo	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+un repas de famille, une fête de famille<br>/œ̃ ʁəpa də famij, yn fɛt də famij/	a family meal, a family celebration	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+la vie de famille<br>/la vi də famij/	family life	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+un arbre généalogique<br>/œ̃n‿aʁbʁ ʒenealɔʒik/	a family tree	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+un air de famille<br>/œ̃n‿ɛʁ də famij/	a family likeness	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+fonder une famille<br>/fɔ̃de yn famij/	to start a family	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+avoir de la famille à Paris<br>/avwaʁ də la famij a paʁi/	to have relatives in Paris	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+C'est de famille.<br>/sɛ də famij/	It runs in the family.	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+Tel père, tel fils.<br>/tɛl pɛʁ, tɛl fis/	Like father, like son.	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+le chef de famille<br>/lə ʃɛf də famij/	the head of the family	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+Comment va la famille ?<br>/kɔmɑ̃ va la famij/	How is the family?	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+Bonjour à toute la famille !<br>/bɔ̃ʒuʁ a tut la famij/	Hello to the whole family!	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+On choisit ses amis, pas sa famille.<br>/ɔ̃ ʃwazi sez‿ami, pa sa famij/	You choose your friends, not your family.	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+J'habite dans une grande maison avec ma famille.<br>/ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/	I live in a big house with my family.	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+la famille, la fille, gentille, la vanille, une bille<br>/la famij, la fij, ʒɑ̃tij, la vanij, yn bij/	the family, the daughter, kind, the vanilla, a marble: -ille is /ij/	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+la ville, mille, tranquille, Lille<br>/la vil, mil, tʁɑ̃kil, lil/	the town, a thousand, calm, Lille: -ille is /il/	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+Ma famille habite dans une grande maison.<br>/ma famij abit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃/	My family lives in a big house.	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+Nous dînons en famille le dimanche.<br>/nu dinɔ̃ ɑ̃ famij lə dimɑ̃ʃ/	We have dinner as a family on Sundays.	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+Ma famille est polonaise.<br>/ma famij ɛ pɔlɔnɛz/	My family is Polish.	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+Mon oncle et ma tante ont une famille nombreuse.<br>/mɔ̃n‿ɔ̃kl e ma tɑ̃t ɔ̃t‿yn famij nɔ̃bʁøz/	My uncle and my aunt have a large family.	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+C'est une photo de ma famille.<br>/sɛt‿yn fɔto də ma famij/	It is a photo of my family.	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+Il a de la famille à Varsovie.<br>/il a də la famij a vaʁsɔvi/	He has relatives in Warsaw.	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+Quel est votre nom de famille ?<br>/kɛl ɛ vɔtʁ nɔ̃ də famij/	What is your surname?	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+Ma cousine ressemble à sa mère : c'est de famille.<br>/ma kuzin ʁəsɑ̃bl a sa mɛʁ : sɛ də famij/	My cousin looks like her mother: it runs in the family.	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+La famille Lefèvre a un appartement à Paris.<br>/la famij ləfɛvʁ a œ̃n‿apaʁtəmɑ̃ a paʁi/	The Lefèvre family has a flat in Paris.	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+Nous passons Noël en famille.<br>/nu pasɔ̃ nɔɛl ɑ̃ famij/	We spend Christmas with the family.	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+Mes neveux et mes nièces viennent dimanche.<br>/me nəvø e me njɛs vjɛn dimɑ̃ʃ/	My nephews and my nieces are coming on Sunday.	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+Le frère de ma mère est mon ________.<br>(AI exercise: who is it?)	/lə fʁɛʁ də ma mɛʁ ɛ mɔ̃n‿[ɔ̃kl]/<br>My mother's brother is my uncle.	french 1000words famille fr-en exercise	French::1000 words (FR-EN)::une famille — a family
+La fille de mon oncle est ma ________.<br>(AI exercise: who is it?)	/la fij də mɔ̃n‿ɔ̃kl ɛ ma [kuzin]/<br>My uncle's daughter is my cousin.	french 1000words famille fr-en exercise	French::1000 words (FR-EN)::une famille — a family
+Le fils de ma sœur est mon ________.<br>(AI exercise: who is it?)	/lə fis də ma sœʁ ɛ mɔ̃ [nəvø]/<br>My sister's son is my nephew.	french 1000words famille fr-en exercise	French::1000 words (FR-EN)::une famille — a family
+La mère de mon père est ma ________.<br>(AI exercise: who is it?)	/la mɛʁ də mɔ̃ pɛʁ ɛ ma [ɡʁɑ̃mɛʁ]/<br>My father's mother is my grandmother.	french 1000words famille fr-en exercise	French::1000 words (FR-EN)::une famille — a family
+Le mari de ma sœur est mon ________.<br>(AI exercise: who is it?)	/lə maʁi də ma sœʁ ɛ mɔ̃ [bofʁɛʁ]/<br>My sister's husband is my brother-in-law.	french 1000words famille fr-en exercise	French::1000 words (FR-EN)::une famille — a family
+la famille, la ville<br>/la [famij], la [vil]/	the family, the town	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+la fille, mille<br>/la [fij], [mil]/	the daughter, a thousand	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+gentille, tranquille<br>/[ʒɑ̃tij], [tʁɑ̃kil]/	kind, calm	french 1000words famille fr-en	French::1000 words (FR-EN)::une famille — a family
+________ famille<br>(AI exercise: un or une?)	/[yn] famij/<br>a family	french 1000words famille fr-en exercise	French::1000 words (FR-EN)::une famille — a family
+________ oncle<br>(AI exercise: un or une?)	/[œ̃n]‿ɔ̃kl/<br>an uncle	french 1000words famille fr-en exercise	French::1000 words (FR-EN)::une famille — a family
+________ tante<br>(AI exercise: un or une?)	/[yn] tɑ̃t/<br>an aunt	french 1000words famille fr-en exercise	French::1000 words (FR-EN)::une famille — a family
+________ neveu<br>(AI exercise: un or une?)	/[œ̃] nəvø/<br>a nephew	french 1000words famille fr-en exercise	French::1000 words (FR-EN)::une famille — a family

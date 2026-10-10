@@ -1,0 +1,73 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::confortable — comfortable
+#tags:french 1000words confortable en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(adj.) comfortable	confortable<br>/kɔ̃fɔʁtabl/	en-fr
+My house is beautiful and comfortable.	Ma maison est belle et confortable.<br>/ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/	en-fr
+a comfortable bed, a comfortable chair	un lit confortable, une chaise confortable<br>/œ̃ li kɔ̃fɔʁtabl, yn ʃɛz kɔ̃fɔʁtabl/	en-fr
+comfortable beds, comfortable chairs	des lits confortables, des chaises confortables<br>/de li kɔ̃fɔʁtabl, de ʃɛz kɔ̃fɔʁtabl/	en-fr
+The armchair is comfortable.	Le fauteuil est confortable.<br>/lə fotœj ɛ kɔ̃fɔʁtabl/	en-fr
+The bedroom is comfortable.	La chambre est confortable.<br>/la ʃɑ̃bʁ ɛ kɔ̃fɔʁtabl/	en-fr
+The chairs are comfortable.	Les chaises sont confortables.<br>/le ʃɛz sɔ̃ kɔ̃fɔʁtabl/	en-fr
+pleasant, practical, modern, quiet: the same one form for both genders	agréable, pratique, moderne, calme<br>/aɡʁeabl, pʁatik, mɔdɛʁn, kalm/	en-fr
+a comfortable house	une maison confortable<br>/yn mɛzɔ̃ kɔ̃fɔʁtabl/	en-fr
+comfortable houses: des stays	des maisons confortables<br>/de mɛzɔ̃ kɔ̃fɔʁtabl/	en-fr
+a big comfortable house	une grande maison confortable<br>/yn ɡʁɑ̃d mɛzɔ̃ kɔ̃fɔʁtabl/	en-fr
+a small comfortable flat	un petit appartement confortable<br>/œ̃ pətit‿apaʁtəmɑ̃ kɔ̃fɔʁtabl/	en-fr
+a beautiful comfortable bedroom	une belle chambre confortable<br>/yn bɛl ʃɑ̃bʁ kɔ̃fɔʁtabl/	en-fr
+a red car, a quiet bedroom: colours and most adjectives follow	une voiture rouge, une chambre calme<br>/yn vwatyʁ ʁuʒ, yn ʃɑ̃bʁ kalm/	en-fr
+a comfortable armchair	un fauteuil confortable<br>/œ̃ fotœj kɔ̃fɔʁtabl/	en-fr
+a comfortable sofa	un canapé confortable<br>/œ̃ kanape kɔ̃fɔʁtabl/	en-fr
+a comfortable bed, a comfortable mattress	un lit confortable, un matelas confortable<br>/œ̃ li kɔ̃fɔʁtabl, œ̃ matla kɔ̃fɔʁtabl/	en-fr
+comfortable shoes	des chaussures confortables<br>/de ʃosyʁ kɔ̃fɔʁtabl/	en-fr
+comfortable clothes	des vêtements confortables<br>/de vɛtmɑ̃ kɔ̃fɔʁtabl/	en-fr
+a comfortable hotel	un hôtel confortable<br>/œ̃n‿otɛl kɔ̃fɔʁtabl/	en-fr
+a comfortable car	une voiture confortable<br>/yn vwatyʁ kɔ̃fɔʁtabl/	en-fr
+a comfortable temperature	une température confortable<br>/yn tɑ̃peʁatyʁ kɔ̃fɔʁtabl/	en-fr
+a comfortable salary	un salaire confortable<br>/œ̃ salɛʁ kɔ̃fɔʁtabl/	en-fr
+a comfortable lead	une avance confortable<br>/yn avɑ̃s kɔ̃fɔʁtabl/	en-fr
+a comfortable majority	une majorité confortable<br>/yn maʒɔʁite kɔ̃fɔʁtabl/	en-fr
+a comfortable life	une vie confortable<br>/yn vi kɔ̃fɔʁtabl/	en-fr
+I am comfortable here.	Je suis bien ici.<br>/ʒə sɥi bjɛ̃ isi/	en-fr
+I am comfortable, at ease.	Je suis à l'aise.<br>/ʒə sɥi(z)‿a lɛz/	en-fr
+Are you comfortable? Are you sitting comfortably?	Vous êtes bien installé ?<br>/vuz‿ɛt bjɛ̃n‿ɛ̃stale/	en-fr
+Make yourself comfortable.	Mettez-vous à l'aise.<br>/metevu a lɛz/	en-fr
+Make yourself comfortable. (2)	Installez-vous confortablement.<br>/ɛ̃stalevu kɔ̃fɔʁtabləmɑ̃/	en-fr
+I am not comfortable with this idea.	Je ne suis pas à l'aise avec cette idée.<br>/ʒə nə sɥi pa(z)‿a lɛz avɛk sɛt ide/	en-fr
+He is ill at ease.	Il est mal à l'aise.<br>/il ɛ mal a lɛz/	en-fr
+I feel comfortable here.	Je me sens bien ici.<br>/ʒə mə sɑ̃ bjɛ̃ isi/	en-fr
+to comfort someone	réconforter quelqu'un<br>/ʁekɔ̃fɔʁte kɛlkœ̃/	en-fr
+a word of comfort	un mot de réconfort<br>/œ̃ mo də ʁekɔ̃fɔʁ/	en-fr
+more comfortable than	plus confortable que<br>/ply kɔ̃fɔʁtabl kə/	en-fr
+less comfortable than	moins confortable que<br>/mwɛ̃ kɔ̃fɔʁtabl kə/	en-fr
+as comfortable as	aussi confortable que<br>/osi kɔ̃fɔʁtabl kə/	en-fr
+the most comfortable	le plus confortable, la plus confortable<br>/lə ply kɔ̃fɔʁtabl, la ply kɔ̃fɔʁtabl/	en-fr
+The armchair is more comfortable than the chair.	Le fauteuil est plus confortable que la chaise.<br>/lə fotœj ɛ ply kɔ̃fɔʁtabl kə la ʃɛz/	en-fr
+It is the most comfortable hotel in town.	C'est l'hôtel le plus confortable de la ville.<br>/sɛ lotɛl lə ply kɔ̃fɔʁtabl də la vil/	en-fr
+comfort	le confort<br>/lə kɔ̃fɔʁ/	en-fr
+a flat with every convenience	un appartement tout confort<br>/œ̃n‿apaʁtəmɑ̃ tu kɔ̃fɔʁ/	en-fr
+modern comforts	le confort moderne<br>/lə kɔ̃fɔʁ mɔdɛʁn/	en-fr
+comfortably	confortablement<br>/kɔ̃fɔʁtabləmɑ̃/	en-fr
+to live comfortably	vivre confortablement<br>/vivʁ kɔ̃fɔʁtabləmɑ̃/	en-fr
+uncomfortable	inconfortable<br>/ɛ̃kɔ̃fɔʁtabl/	en-fr
+an uncomfortable position	une position inconfortable<br>/yn pozisjɔ̃ ɛ̃kɔ̃fɔʁtabl/	en-fr
+discomfort	l'inconfort<br>/lɛ̃kɔ̃fɔʁ/	en-fr
+cosy	douillet, douillette<br>/dujɛ, dujɛt/	en-fr
+spacious	spacieux, spacieuse<br>/spasjø, spasjøz/	en-fr
+soft, of a cushion or a mattress	moelleux, moelleuse<br>/mwalø, mwaløz/	en-fr
+hard	dur, dure<br>/dyʁ/	en-fr
+the table, capable, pleasant, comfortable: the same /abl/	la table, capable, agréable, confortable<br>/la tabl, kapabl, aɡʁeabl, kɔ̃fɔʁtabl/	en-fr
+My bedroom is small but comfortable.	Ma chambre est petite mais confortable.<br>/ma ʃɑ̃bʁ ɛ pətit mɛ kɔ̃fɔʁtabl/	en-fr
+This armchair is very comfortable.	Ce fauteuil est très confortable.<br>/sə fotœj ɛ tʁɛ kɔ̃fɔʁtabl/	en-fr
+The hotel bed was not comfortable.	Le lit de l'hôtel n'était pas confortable.<br>/lə li də lotɛl netɛ pa kɔ̃fɔʁtabl/	en-fr
+We are looking for a comfortable flat that is not too expensive.	Nous cherchons un appartement confortable et pas trop cher.<br>/nu ʃɛʁʃɔ̃ œ̃n‿apaʁtəmɑ̃ kɔ̃fɔʁtabl e pa tʁo ʃɛʁ/	en-fr
+These shoes are comfortable for walking.	Ces chaussures sont confortables pour marcher.<br>/se ʃosyʁ sɔ̃ kɔ̃fɔʁtabl puʁ maʁʃe/	en-fr
+The sofa in the living room is more comfortable than the chairs.	Le canapé du salon est plus confortable que les chaises.<br>/lə kanape dy salɔ̃ ɛ ply kɔ̃fɔʁtabl kə le ʃɛz/	en-fr
+He has a comfortable salary.	Il a un salaire confortable.<br>/il a œ̃ salɛʁ kɔ̃fɔʁtabl/	en-fr
+Make yourself comfortable, I will be back.	Installez-vous confortablement, je reviens.<br>/ɛ̃stalevu kɔ̃fɔʁtabləmɑ̃, ʒə ʁəvjɛ̃/	en-fr
+I am comfortable in my bedroom.	Je suis bien dans ma chambre.<br>/ʒə sɥi bjɛ̃ dɑ̃ ma ʃɑ̃bʁ/	en-fr
+Make yourself comfortable, treat this as your home.	Mettez-vous à l'aise, c'est chez vous ici.<br>/metevu a lɛz, sɛ ʃe vu isi/	en-fr
+It is a comfortable hotel but a little expensive.	C'est un hôtel confortable mais un peu cher.<br>/sɛt‿œ̃n‿otɛl kɔ̃fɔʁtabl mɛ œ̃ pø ʃɛʁ/	en-fr
