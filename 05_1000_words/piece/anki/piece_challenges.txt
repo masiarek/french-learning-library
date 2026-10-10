@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une pièce — a room, a piece, a coin::Challenges
+#tags:french 1000words piece challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: Our flat has four rooms: a living room, two bedrooms and a study.	Notre appartement a quatre pièces : un séjour, deux chambres et un bureau. /nɔtʁ apaʁtəmɑ̃ a katʁ pjɛs : œ̃ seʒuʁ, dø ʃɑ̃bʁ e œ̃ byʁo/	say
+Say: The kitchen does not count as a room in an advertisement.	La cuisine ne compte pas comme une pièce dans une annonce. /la kɥizin nə kɔ̃t pa kɔm yn pjɛs dɑ̃z‿yn‿anɔ̃s/	say
+Say: He paid with a two-euro coin.	Il a payé avec une pièce de deux euros. /il a peje avɛk yn pjɛs də døz‿øʁo/	say
+Say: Don’t forget the attachment!	N’oubliez pas la pièce jointe ! /nublije pa la pjɛs ʒwɛ̃t/	say
+Say: He made that story up from nothing.	Il a inventé cette histoire de toutes pièces. /il a ɛ̃vɑ̃te sɛt istwaʁ də tut pjɛs/	say
+Why do la pièce and les pièces sound the same?	Both are /pjɛs/: the plural s is silent, so only the article, la /la/ against les /le/, says how many	sound
+Pièce, chambre, salle, place: which is which?	la pièce /la pjɛs/ any room; la chambre /la ʃɑ̃bʁ/ the bedroom; la salle /la sal/ a big room with a job (de bains, à manger, de classe); la place /la plas/ room as space, never a room of the house	words
+What is un trois-pièces, and which rooms does it not count?	A flat with three main rooms, a living room and two bedrooms (T3, F3); the kitchen, the bathroom, the toilet, the entrance and the corridor are pièces de service and dégagements and are not counted	grammar
+A coin, a play, a spare part, an identity document	une pièce de monnaie /də mɔnɛ/, une pièce de théâtre /də teatʁ/, une pièce détachée /detaʃe/, une pièce d’identité /didɑ̃tite/	words
+Two euros each; sold singly	deux euros pièce /døz‿øʁo pjɛs/; vendu à la pièce /vɑ̃dy a la pjɛs/	words
+The living room on a floor plan; the attic; the cellar; the landing	le séjour /lə seʒuʁ/, le grenier /lə ɡʁənje/, la cave /la kav/, le palier /lə palje/	words
+Which English word is the same word as pièce?	piece, borrowed from Old French; the root is Gaulish pettia, taken into Latin	words

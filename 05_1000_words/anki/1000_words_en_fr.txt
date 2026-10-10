@@ -740,6 +740,92 @@ français → française: what changes in sound?	The final consonant is said: /f
 Three words that sound like mère	la mer /la mɛʁ/ the sea, le maire /lə mɛʁ/ the mayor; and le père /lə pɛʁ/ rhymes	french 1000words mere challenge sound	French::1000 words (EN-FR)::une mère — a mother::Challenges
 The family in pairs: father and mother, son and daughter, brother and sister	le père, la mère /lə pɛʁ, la mɛʁ/; le fils, la fille /lə fis, la fij/; le frère, la sœur /lə fʁɛʁ, la sœʁ/	french 1000words mere challenge words	French::1000 words (EN-FR)::une mère — a mother::Challenges
 Grandmother, mother-in-law, mother tongue	la grand-mère /la ɡʁɑ̃mɛʁ/, la belle-mère /la bɛlmɛʁ/, la langue maternelle /la lɑ̃ɡ matɛʁnɛl/	french 1000words mere challenge words	French::1000 words (EN-FR)::une mère — a mother::Challenges
+(n.f.) room; piece, part; coin; play; document	une pièce<br>/yn pjɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+This flat has three rooms.	Cet appartement a trois pièces.<br>/sɛt‿apaʁtəmɑ̃ a tʁwa pjɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the living room, on a floor plan	le séjour, la salle de séjour<br>/lə seʒuʁ, la sal də seʒuʁ/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the living room, the sitting room	le salon<br>/lə salɔ̃/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the dining room	la salle à manger<br>/la sal a mɑ̃ʒe/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the bedroom	la chambre, la chambre à coucher<br>/la ʃɑ̃bʁ, la ʃɑ̃bʁ a kuʃe/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the guest room	la chambre d'amis<br>/la ʃɑ̃bʁ dami/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the study, when it is a room of its own	le bureau<br>/lə byʁo/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the kitchen	la cuisine<br>/la kɥizin/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the bathroom	la salle de bains<br>/la sal də bɛ̃/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the shower room	la salle d'eau<br>/la sal do/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the toilet	les toilettes, les W.-C.<br>/le twalɛt, le vese/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the laundry room	la buanderie<br>/la byɑ̃dʁi/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the storeroom, for food and wine	le cellier<br>/lə selje/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the box room, the junk room	le débarras<br>/lə debaʁa/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the built-in cupboard	le placard<br>/lə plakaʁ/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the entrance hall	l'entrée<br>/lɑ̃tʁe/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the corridor, the hallway	le couloir<br>/lə kulwaʁ/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the staircase, the landing	l'escalier, le palier<br>/lɛskalje, lə palje/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the cellar	la cave<br>/la kav/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the basement	le sous-sol<br>/lə susɔl/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the attic	le grenier<br>/lə ɡʁənje/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the garage	le garage<br>/lə ɡaʁaʒ/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the balcony, the terrace	le balcon, la terrasse<br>/lə balkɔ̃, la tɛʁas/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the garden, the courtyard	le jardin, la cour<br>/lə ʒaʁdɛ̃, la kuʁ/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a one-room flat, with a kitchen corner	un studio<br>/œ̃ stydjo/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a one-bedroom flat: a living room and a bedroom	un deux-pièces, un T2<br>/œ̃ dø pjɛs, œ̃ te dø/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a two-bedroom flat: a living room and two bedrooms	un trois-pièces, un T3<br>/œ̃ tʁwa pjɛs, œ̃ te tʁwa/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a four-room flat	un appartement de quatre pièces<br>/œ̃n‿apaʁtəmɑ̃ də katʁ pjɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+an open-plan kitchen	une cuisine ouverte, une cuisine américaine<br>/yn kɥizin uvɛʁt, yn kɥizin ameʁikɛn/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+on one level	de plain-pied<br>/də plɛ̃ pje/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a coin	une pièce de monnaie<br>/yn pjɛs də mɔnɛ/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a two-euro coin	une pièce de deux euros<br>/yn pjɛs də døz‿øʁo/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+coins and notes	les pièces et les billets<br>/le pjɛs e le bijɛ/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a play	une pièce de théâtre<br>/yn pjɛs də teatʁ/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a play in three acts	une pièce en trois actes<br>/yn pjɛs ɑ̃ tʁwaz‿akt/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+to stage a play	monter une pièce<br>/mɔ̃te yn pjɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a piece for piano	une pièce pour piano<br>/yn pjɛs puʁ pjano/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a spare part	une pièce détachée, une pièce de rechange<br>/yn pjɛs detaʃe, yn pjɛs də ʁəʃɑ̃ʒ/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a length of cloth	une pièce de tissu<br>/yn pjɛs də tisy/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a cut of meat	une pièce de viande<br>/yn pjɛs də vjɑ̃d/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+an identity document	une pièce d'identité<br>/yn pjɛs didɑ̃tite/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+an attachment	une pièce jointe<br>/yn pjɛs ʒwɛ̃t/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the papers in the file	les pièces du dossier<br>/le pjɛs dy dosje/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a supporting document, a receipt	une pièce justificative<br>/yn pjɛs ʒystifikativ/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+an exhibit, in court	une pièce à conviction<br>/yn pjɛs a kɔ̃viksjɔ̃/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+two euros each	deux euros pièce<br>/døz‿øʁo pjɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+sold singly	vendu à la pièce<br>/vɑ̃dy a la pjɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+to tear to pieces	mettre en pièces<br>/mɛtʁ ɑ̃ pjɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+to make up entirely	inventer de toutes pièces<br>/ɛ̃vɑ̃te də tut pjɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+all of a piece, blunt	tout d'une pièce<br>/tu dyn pjɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the centrepiece	la pièce maîtresse<br>/la pjɛs mɛtʁɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a tiered wedding cake	une pièce montée<br>/yn pjɛs mɔ̃te/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a one-off	une pièce unique<br>/yn pjɛs ynik/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a one-piece swimsuit, a bikini	un maillot une pièce, un deux-pièces<br>/œ̃ majo yn pjɛs, œ̃ dø pjɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+a three-piece suit	un costume trois-pièces<br>/œ̃ kɔstym tʁwa pjɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the room – the rooms: the s is silent	la pièce – les pièces<br>/la pjɛs/ · /le pjɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the room – the niece	la pièce – la nièce<br>/la pjɛs/ · /la njɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the room – the trap: /s/ against /ʒ/	la pièce – le piège<br>/la pjɛs/ · /lə pjɛʒ/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the room – the stone	la pièce – la pierre<br>/la pjɛs/ · /la pjɛʁ/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the room – the foot: open /ɛ/ against closed /e/	la pièce – le pied<br>/la pjɛs/ · /lə pje/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+the room – room as space, the seat, the square	la pièce – la place<br>/la pjɛs/ · /la plas/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+Our flat has four rooms: a living room, two bedrooms and a study.	Notre appartement a quatre pièces : un séjour, deux chambres et un bureau.<br>/nɔtʁ apaʁtəmɑ̃ a katʁ pjɛs : œ̃ seʒuʁ, dø ʃɑ̃bʁ e œ̃ byʁo/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+The kitchen does not count as a room in an advertisement.	La cuisine ne compte pas comme une pièce dans une annonce.<br>/la kɥizin nə kɔ̃t pa kɔm yn pjɛs dɑ̃z‿yn‿anɔ̃s/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+It is a two-bedroom flat on the second floor, with a balcony.	C'est un trois-pièces au deuxième étage, avec un balcon.<br>/sɛt‿œ̃ tʁwa pjɛs o døzjɛm etaʒ, avɛk œ̃ balkɔ̃/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+This room is dark, it looks onto the courtyard.	Cette pièce est sombre, elle donne sur la cour.<br>/sɛt pjɛs ɛ sɔ̃bʁ, ɛl dɔn syʁ la kuʁ/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+Which is the biggest room in the house?	Quelle est la plus grande pièce de la maison ?<br>/kɛl ɛ la ply ɡʁɑ̃d pjɛs də la mɛzɔ̃/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+He paid with a two-euro coin.	Il a payé avec une pièce de deux euros.<br>/il a peje avɛk yn pjɛs də døz‿øʁo/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+We saw a play by Molière at the theatre.	Nous avons vu une pièce de Molière au théâtre.<br>/nuz‿avɔ̃ vy yn pjɛs də mɔljɛʁ o teatʁ/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+Don't forget the attachment!	N'oubliez pas la pièce jointe !<br>/nublije pa la pjɛs ʒwɛ̃t/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+Do you have an identity document?	Vous avez une pièce d'identité ?<br>/vuz‿ave yn pjɛs didɑ̃tite/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+The croissants are one euro each.	Les croissants sont à un euro pièce.<br>/le kʁwasɑ̃ sɔ̃ a œ̃n‿øʁo pjɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+The mechanic is waiting for a spare part.	Le mécanicien attend une pièce détachée.<br>/lə mekanisjɛ̃ atɑ̃ yn pjɛs detaʃe/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+He made that story up from nothing.	Il a inventé cette histoire de toutes pièces.<br>/il a ɛ̃vɑ̃te sɛt istwaʁ də tut pjɛs/	french 1000words piece en-fr	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+Say: Our flat has four rooms: a living room, two bedrooms and a study.	Notre appartement a quatre pièces : un séjour, deux chambres et un bureau. /nɔtʁ apaʁtəmɑ̃ a katʁ pjɛs : œ̃ seʒuʁ, dø ʃɑ̃bʁ e œ̃ byʁo/	french 1000words piece challenge say	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin::Challenges
+Say: The kitchen does not count as a room in an advertisement.	La cuisine ne compte pas comme une pièce dans une annonce. /la kɥizin nə kɔ̃t pa kɔm yn pjɛs dɑ̃z‿yn‿anɔ̃s/	french 1000words piece challenge say	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin::Challenges
+Say: He paid with a two-euro coin.	Il a payé avec une pièce de deux euros. /il a peje avɛk yn pjɛs də døz‿øʁo/	french 1000words piece challenge say	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin::Challenges
+Say: Don’t forget the attachment!	N’oubliez pas la pièce jointe ! /nublije pa la pjɛs ʒwɛ̃t/	french 1000words piece challenge say	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin::Challenges
+Say: He made that story up from nothing.	Il a inventé cette histoire de toutes pièces. /il a ɛ̃vɑ̃te sɛt istwaʁ də tut pjɛs/	french 1000words piece challenge say	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin::Challenges
+Why do la pièce and les pièces sound the same?	Both are /pjɛs/: the plural s is silent, so only the article, la /la/ against les /le/, says how many	french 1000words piece challenge sound	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin::Challenges
+Pièce, chambre, salle, place: which is which?	la pièce /la pjɛs/ any room; la chambre /la ʃɑ̃bʁ/ the bedroom; la salle /la sal/ a big room with a job (de bains, à manger, de classe); la place /la plas/ room as space, never a room of the house	french 1000words piece challenge words	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin::Challenges
+What is un trois-pièces, and which rooms does it not count?	A flat with three main rooms, a living room and two bedrooms (T3, F3); the kitchen, the bathroom, the toilet, the entrance and the corridor are pièces de service and dégagements and are not counted	french 1000words piece challenge grammar	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin::Challenges
+A coin, a play, a spare part, an identity document	une pièce de monnaie /də mɔnɛ/, une pièce de théâtre /də teatʁ/, une pièce détachée /detaʃe/, une pièce d’identité /didɑ̃tite/	french 1000words piece challenge words	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin::Challenges
+Two euros each; sold singly	deux euros pièce /døz‿øʁo pjɛs/; vendu à la pièce /vɑ̃dy a la pjɛs/	french 1000words piece challenge words	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin::Challenges
+The living room on a floor plan; the attic; the cellar; the landing	le séjour /lə seʒuʁ/, le grenier /lə ɡʁənje/, la cave /la kav/, le palier /lə palje/	french 1000words piece challenge words	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin::Challenges
+Which English word is the same word as pièce?	piece, borrowed from Old French; the root is Gaulish pettia, taken into Latin	french 1000words piece challenge words	French::1000 words (EN-FR)::une pièce — a room, a piece, a coin::Challenges
 (n.f.) door	une porte<br>/yn pɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
 Close the door, please.	Ferme la porte, s'il te plaît.<br>/fɛʁm la pɔʁt, sil tə plɛ/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
 the front door	la porte d'entrée<br>/la pɔʁt dɑ̃tʁe/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
