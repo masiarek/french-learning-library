@@ -678,6 +678,31 @@ ________ chambre<br>(AI exercise: un or une?)	/[yn] ʃɑ̃bʁ/<br>a bedroom	fren
 ________ pièce<br>(AI exercise: un or une?)	/[yn] pjɛs/<br>a room	french 1000words chambre fr-en exercise	French::1000 words (FR-EN)::une chambre — a bedroom
 ________ étage<br>(AI exercise: un or une?)	/[œ̃n]‿etaʒ/<br>a floor	french 1000words chambre fr-en exercise	French::1000 words (FR-EN)::une chambre — a bedroom
 ________ hôtel<br>(AI exercise: un or une?)	/[œ̃n]‿otɛl/<br>a hotel	french 1000words chambre fr-en exercise	French::1000 words (FR-EN)::une chambre — a bedroom
+le cœur<br>/lə kœʁ/	(n.m.) heart; core, centre; courage	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+J'ai appris la leçon par cœur.<br>/ʒe apʁi la ləsɔ̃ paʁ kœʁ/	I learned the lesson by heart.	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+Le cœur bat vite.<br>/lə kœʁ ba vit/	The heart is beating fast.	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+un cœur d'or<br>/œ̃ kœʁ dɔʁ/	a heart of gold	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+au cœur de la ville<br>/o kœʁ də la vil/	in the heart of the town	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+perdre cœur<br>/pɛʁdʁ kœʁ/	to lose heart	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+la dame de cœur<br>/la dam də kœʁ/	the queen of hearts	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+par cœur<br>/paʁ kœʁ/	by heart	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+de bon cœur<br>/də bɔ̃ kœʁ/	willingly, gladly	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+avoir mal au cœur<br>/avwaʁ mal o kœʁ/	to feel sick	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+avoir le cœur brisé<br>/avwaʁ lə kœʁ bʁize/	to be heartbroken	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+avoir le cœur sur la main<br>/avwaʁ lə kœʁ syʁ la mɛ̃/	to be very generous	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+en avoir le cœur net<br>/ɑ̃n‿avwaʁ lə kœʁ nɛ/	to get to the bottom of it	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+apprendre par cœur<br>/apʁɑ̃dʁ paʁ kœʁ/	to learn by heart	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+mon cœur<br>/mɔ̃ kœʁ/	my darling	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+le cœur · le chœur<br>/lə kœʁ/ · /lə kœʁ/	the heart · the choir	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+la sœur, un œuf, un bœuf<br>/la sœʁ, œ̃n‿œf, œ̃ bœf/	the sister, an egg, an ox	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+des œufs, des bœufs<br>/dez‿ø, de bø/	eggs, oxen: the final consonant goes silent	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+Je connais ce poème par cœur.<br>/ʒə kɔnɛ sə pɔɛm paʁ kœʁ/	I know this poem by heart.	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+Ma sœur a un cœur d'or.<br>/ma sœʁ a œ̃ kœʁ dɔʁ/	My sister has a heart of gold.	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+J'ai mal au cœur dans la voiture.<br>/ʒe mal o kœʁ dɑ̃ la vwatyʁ/	I feel sick in the car.	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+Nous habitons au cœur de Paris.<br>/nuz‿abitɔ̃ o kœʁ də paʁi/	We live in the heart of Paris.	french 1000words coeur fr-en	French::1000 words (FR-EN)::le cœur — the heart
+J'ai appris la leçon par ________.<br>(AI exercise: which word?)	/ʒe apʁi la ləsɔ̃ paʁ [kœʁ]/<br>I learned the lesson by heart.	french 1000words coeur fr-en exercise	French::1000 words (FR-EN)::le cœur — the heart
+Les enfants chantent en ________.<br>(AI exercise: which word?)	/lez‿ɑ̃fɑ̃ ʃɑ̃t ɑ̃ [kœʁ]/<br>The children sing in chorus.	french 1000words coeur fr-en exercise	French::1000 words (FR-EN)::le cœur — the heart
+Il m'aide de bon ________.<br>(AI exercise: which word?)	/il mɛd də bɔ̃ [kœʁ]/<br>He helps me gladly.	french 1000words coeur fr-en exercise	French::1000 words (FR-EN)::le cœur — the heart
 confortable<br>/kɔ̃fɔʁtabl/	(adj.) comfortable	french 1000words confortable fr-en	French::1000 words (FR-EN)::confortable — comfortable
 Ma maison est belle et confortable.<br>/ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/	My house is beautiful and comfortable.	french 1000words confortable fr-en	French::1000 words (FR-EN)::confortable — comfortable
 un lit confortable, une chaise confortable<br>/œ̃ li kɔ̃fɔʁtabl, yn ʃɛz kɔ̃fɔʁtabl/	a comfortable bed, a comfortable chair	french 1000words confortable fr-en	French::1000 words (FR-EN)::confortable — comfortable

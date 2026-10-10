@@ -1,0 +1,31 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(n.m.) heart; core, centre; courage	le cœur<br>/lə kœʁ/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+I learned the lesson by heart.	J'ai appris la leçon par cœur.<br>/ʒe apʁi la ləsɔ̃ paʁ kœʁ/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+The heart is beating fast.	Le cœur bat vite.<br>/lə kœʁ ba vit/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+a heart of gold	un cœur d'or<br>/œ̃ kœʁ dɔʁ/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+in the heart of the town	au cœur de la ville<br>/o kœʁ də la vil/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+to lose heart	perdre cœur<br>/pɛʁdʁ kœʁ/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+the queen of hearts	la dame de cœur<br>/la dam də kœʁ/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+by heart	par cœur<br>/paʁ kœʁ/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+willingly, gladly	de bon cœur<br>/də bɔ̃ kœʁ/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+to feel sick	avoir mal au cœur<br>/avwaʁ mal o kœʁ/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+to be heartbroken	avoir le cœur brisé<br>/avwaʁ lə kœʁ bʁize/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+to be very generous	avoir le cœur sur la main<br>/avwaʁ lə kœʁ syʁ la mɛ̃/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+to get to the bottom of it	en avoir le cœur net<br>/ɑ̃n‿avwaʁ lə kœʁ nɛ/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+to learn by heart	apprendre par cœur<br>/apʁɑ̃dʁ paʁ kœʁ/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+my darling	mon cœur<br>/mɔ̃ kœʁ/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+the heart · the choir	le cœur · le chœur<br>/lə kœʁ/ · /lə kœʁ/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+the sister, an egg, an ox	la sœur, un œuf, un bœuf<br>/la sœʁ, œ̃n‿œf, œ̃ bœf/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+eggs, oxen: the final consonant goes silent	des œufs, des bœufs<br>/dez‿ø, de bø/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+I know this poem by heart.	Je connais ce poème par cœur.<br>/ʒə kɔnɛ sə pɔɛm paʁ kœʁ/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+My sister has a heart of gold.	Ma sœur a un cœur d'or.<br>/ma sœʁ a œ̃ kœʁ dɔʁ/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+I feel sick in the car.	J'ai mal au cœur dans la voiture.<br>/ʒe mal o kœʁ dɑ̃ la vwatyʁ/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+We live in the heart of Paris.	Nous habitons au cœur de Paris.<br>/nuz‿abitɔ̃ o kœʁ də paʁi/	french 1000words coeur en-fr	French::1000 words (EN-FR)::le cœur — the heart
+Say: I learned the lesson by heart.	J’ai appris la leçon par cœur. /ʒe apʁi la ləsɔ̃ paʁ kœʁ/	french 1000words coeur challenge say	French::1000 words (EN-FR)::le cœur — the heart::Challenges
+Say: I feel sick. (not heart pain)	J’ai mal au cœur. /ʒe mal o kœʁ/	french 1000words coeur challenge say	French::1000 words (EN-FR)::le cœur — the heart::Challenges
+Say: My sister has a heart of gold.	Ma sœur a un cœur d’or. /ma sœʁ a œ̃ kœʁ dɔʁ/	french 1000words coeur challenge say	French::1000 words (EN-FR)::le cœur — the heart::Challenges

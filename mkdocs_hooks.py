@@ -57,7 +57,7 @@ LINK = re.compile(r"\]\(([^)#\s]+\.md)(?:#[^)]*)?\)")
 # Chapters whose own README.md indexes their pages, one line per word, so that
 # TOPICS.md need not repeat the list: a page of such a chapter has its place
 # when the chapter page links it.
-INDEXED_CHAPTERS = {"05_1000_words"}
+INDEXED_CHAPTERS = {"05_1000_words", "06_Expressions"}
 
 log = logging.getLogger("mkdocs.hooks.topic_map")
 
@@ -129,6 +129,10 @@ NAV_ORDER: dict[str, list[str]] = {
     # the chapter page is listed: the word pages sort A to Z after it, as a
     # dictionary does, and the chapter page numbers them in order of arrival.
     "05_1000_words": [
+        "README.md",
+    ],
+    # Whole phrases, one page each, indexed by the chapter page like the words.
+    "06_Expressions": [
         "README.md",
     ],
 }

@@ -20,7 +20,7 @@ import unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-CHAPTERS = ("02_Yosser_teacher", "03_Szypowska", "04_Pronunciation", "05_1000_words")
+CHAPTERS = ("02_Yosser_teacher", "03_Szypowska", "04_Pronunciation", "05_1000_words", "06_Expressions")
 
 
 def nfd(s: str) -> str:
