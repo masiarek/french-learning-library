@@ -10,7 +10,7 @@ It is about French: first its sounds as the dictionaries write them, later its g
 
 ## What to read first
 
-[**01_Sounds/**](../01_Sounds/README.md) — *What does the French in the dictionary sound like?* The International Phonetic Alphabet, which every French dictionary and course book uses, read through what an English reader already knows of it: 21 shared symbols, the 15 that are French alone, and the three marks that tell a French line from an English one.
+[**01_Sounds/**](../01_Sounds/README.md) — *What does the French in the dictionary sound like?* The International Phonetic Alphabet, which every French dictionary and course book uses, read through what an English reader already knows of it: 21 shared symbols, the 15 that are French alone, and the three marks that tell a French line from an English one. Then the 26 letter names, read in the same alphabet, for spelling aloud.
 
 Then the two chapters that follow the owner's own courses, lesson by lesson: [**Yosser (teacher)**](../02_Yosser_teacher/README.md), the teacher's worksheets, and [**Szypowska (Polish material)**](../03_Szypowska/README.md), the Polish textbook. Each lesson is one table: French, English with Polish below, IPA. And [**Pronunciation**](../04_Pronunciation/README.md), the videos the owner repeats after, one page per sound, in French, English and IPA. And [**1000 words**](../05_1000_words/README.md), the words of the owner's vocabulary app, one page per word with its IPA, its grammar, set phrases and examples.
 

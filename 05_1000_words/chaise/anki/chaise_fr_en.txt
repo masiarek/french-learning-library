@@ -1,0 +1,68 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::une chaise — a chair
+#tags:french 1000words chaise fr-en
+#columns:Front	Back	Tags
+#tags column:3
+une chaise<br>/yn ʃɛz/	(n.f.) chair	fr-en
+Il y a quatre chaises autour de la table.<br>/il j a katʁ ʃɛz otuʁ də la tabl/	There are four chairs around the table.	fr-en
+je m'assieds<br>/ʒə masje/	I sit down	fr-en
+tu t'assieds<br>/ty tasje/	you sit down	fr-en
+il s'assied, elle s'assied<br>/il sasje, ɛl sasje/	he sits down, she sits down	fr-en
+nous nous asseyons<br>/nu nuz‿asejɔ̃/	we sit down	fr-en
+vous vous asseyez<br>/vu vuz‿aseje/	you sit down	fr-en
+ils s'asseyent, elles s'asseyent<br>/il sasɛj, ɛl sasɛj/	they sit down	fr-en
+je m'assois, il s'assoit, ils s'assoient<br>/ʒə maswa, il saswa, il saswa/	the second set of forms, as common in speech	fr-en
+assieds-toi ! asseyez-vous !<br>/asjetwa, asejevu/	sit down! (to a friend; to several people, or politely)	fr-en
+je me suis assis, elle s'est assise<br>/ʒə mə sɥi(z)‿asi, ɛl sɛ(t)‿asiz/	I sat down, she sat down	fr-en
+je suis assis, elle est assise<br>/ʒə sɥi(z)‿asi, ɛl ɛ(t)‿asiz/	I am sitting, she is sitting	fr-en
+une chaise, des chaises<br>/yn ʃɛz, de ʃɛz/	a chair, chairs	fr-en
+un fauteuil<br>/œ̃ fotœj/	an armchair	fr-en
+un tabouret<br>/œ̃ tabuʁɛ/	a stool	fr-en
+un banc<br>/œ̃ bɑ̃/	a bench	fr-en
+un canapé<br>/œ̃ kanape/	a sofa	fr-en
+un siège<br>/œ̃ sjɛʒ/	a seat	fr-en
+une place<br>/yn plas/	a seat, a place to sit	fr-en
+le dossier, le siège, les pieds d'une chaise<br>/lə dosje, lə sjɛʒ, le pje dyn ʃɛz/	the back, the seat, the legs of a chair	fr-en
+une chaise longue<br>/yn ʃɛz lɔ̃ɡ/	a deckchair	fr-en
+une chaise haute<br>/yn ʃɛz ot/	a high chair	fr-en
+une chaise pliante<br>/yn ʃɛz plijɑ̃t/	a folding chair	fr-en
+une chaise roulante, un fauteuil roulant<br>/yn ʃɛz ʁulɑ̃t, œ̃ fotœj ʁulɑ̃/	a wheelchair	fr-en
+une chaise de bureau<br>/yn ʃɛz də byʁo/	an office chair	fr-en
+une chaise de jardin<br>/yn ʃɛz də ʒaʁdɛ̃/	a garden chair	fr-en
+prendre une chaise<br>/pʁɑ̃dʁ yn ʃɛz/	to take a chair	fr-en
+tirer une chaise<br>/tiʁe yn ʃɛz/	to pull up a chair	fr-en
+s'asseoir sur une chaise<br>/saswaʁ syʁ yn ʃɛz/	to sit down on a chair	fr-en
+se lever de sa chaise<br>/sə ləve də sa ʃɛz/	to get up from one's chair	fr-en
+être assis entre deux chaises<br>/ɛtʁ asi ɑ̃tʁ dø ʃɛz/	to fall between two stools, to be caught between two positions	fr-en
+les chaises musicales<br>/le ʃɛz myzikal/	musical chairs	fr-en
+une vie de bâton de chaise<br>/yn vi də bɑtɔ̃ də ʃɛz/	a wild, disorderly life	fr-en
+la chaise électrique<br>/la ʃɛz elɛktʁik/	the electric chair	fr-en
+Asseyez-vous, je vous en prie.<br>/asejevu, ʒə vuz‿ɑ̃ pʁi/	Please sit down.	fr-en
+Cette place est prise ?<br>/sɛt plas ɛ pʁiz/	Is this seat taken?	fr-en
+la chaise – chez<br>/la ʃɛz/ · /ʃe/	the chair – at the home of: /ɛ/ before a consonant, /e/ with nothing after	fr-en
+la chaise – seize<br>/la ʃɛz/ · /sɛz/	the chair – sixteen	fr-en
+la chaise – la chaîne<br>/la ʃɛz/ · /la ʃɛn/	the chair – the chain	fr-en
+la chaise – la chaire – la chair – cher<br>/la ʃɛz/ · /la ʃɛʁ/ · /la ʃɛʁ/ · /ʃɛʁ/	the chair – the pulpit – the flesh – dear	fr-en
+Il y a une chaise devant le bureau.<br>/il j a yn ʃɛz dəvɑ̃ lə byʁo/	There is a chair in front of the desk.	fr-en
+Prends une chaise et assieds-toi.<br>/pʁɑ̃ yn ʃɛz e asjetwa/	Take a chair and sit down.	fr-en
+Ma mère est assise sur la chaise près de la fenêtre.<br>/ma mɛʁ ɛ(t)‿asiz syʁ la ʃɛz pʁɛ də la fənɛtʁ/	My mother is sitting on the chair by the window.	fr-en
+Les chaises de la cuisine sont en bois.<br>/le ʃɛz də la kɥizin sɔ̃t‿ɑ̃ bwa/	The kitchen chairs are made of wood.	fr-en
+Nous devons acheter quatre chaises pour la salle à manger.<br>/nu dəvɔ̃ aʃte katʁ ʃɛz puʁ la sal a mɑ̃ʒe/	We have to buy four chairs for the dining room.	fr-en
+Le chat dort sur ma chaise.<br>/lə ʃa dɔʁ syʁ ma ʃɛz/	The cat is sleeping on my chair.	fr-en
+Il n'y a pas assez de chaises pour tout le monde.<br>/il nj a pa ase də ʃɛz puʁ tu lə mɔ̃d/	There are not enough chairs for everyone.	fr-en
+Elle s'est assise sur une chaise pliante.<br>/ɛl sɛ(t)‿asiz syʁ yn ʃɛz plijɑ̃t/	She sat down on a folding chair.	fr-en
+Je vais chercher une chaise.<br>/ʒə vɛ ʃɛʁʃe yn ʃɛz/	I am going to get a chair.	fr-en
+Asseyez-vous sur cette chaise, s'il vous plaît.<br>/asejevu syʁ sɛt ʃɛz, sil vu plɛ/	Sit on this chair, please.	fr-en
+Le chat dort ________ la chaise.<br>(AI exercise: sur, sous, devant, derrière, entre …?)	/lə ʃa dɔʁ [su] la ʃɛz/<br>The cat is sleeping under the chair.	exercise
+La chaise est ________ le bureau.<br>(AI exercise: sur, sous, devant, derrière, entre …?)	/la ʃɛz ɛ [dəvɑ̃] lə byʁo/<br>The chair is in front of the desk.	exercise
+Le livre est ________ la chaise.<br>(AI exercise: sur, sous, devant, derrière, entre …?)	/lə livʁ ɛ [syʁ] la ʃɛz/<br>The book is on the chair.	exercise
+La table est ________ les deux chaises.<br>(AI exercise: sur, sous, devant, derrière, entre …?)	/la tabl ɛ [ɑ̃tʁ] le dø ʃɛz/<br>The table is between the two chairs.	exercise
+Elle ________ sur la chaise et lit.<br>(AI exercise: s'asseoir or être assis?)	/ɛl [ɛ(t)‿asiz] syʁ la ʃɛz e li/<br>She is sitting on the chair and reading.	exercise
+________, je vous en prie !<br>(AI exercise: s'asseoir or être assis?)	/[asejevu], ʒə vuz‿ɑ̃ pʁi/<br>Sit down, please! (politely)	exercise
+Nous ________ autour de la table.<br>(AI exercise: s'asseoir or être assis?)	/nu [nuz‿asejɔ̃] otuʁ də la tabl/<br>We sit down around the table.	exercise
+________ chaise<br>(AI exercise: un or une?)	/[yn] ʃɛz/<br>a chair	exercise
+________ fauteuil<br>(AI exercise: un or une?)	/[œ̃] fotœj/<br>an armchair	exercise
+________ tabouret<br>(AI exercise: un or une?)	/[œ̃] tabuʁɛ/<br>a stool	exercise
+________ place<br>(AI exercise: un or une?)	/[yn] plas/<br>a seat	exercise

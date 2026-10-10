@@ -6,9 +6,13 @@
 
 **Diphthong** — one vowel that glides into another inside a syllable, as in English *day* /eɪ/ or *go* /əʊ/. French vowels are pure, so no French transcription has one. See [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md).
 
+**Accent (accent aigu, grave, circonflexe)** — the three marks over a vowel: *é* /e/ closed, *è* /ɛ/ open, *ê* an /ɛ/ that often stands for a lost *s* (*fête* /fɛt/, once *feste*); *à* and *ù* tell *a* from *à* and *ou* from *où* without changing the sound. Spelled aloud after the letter, *e accent aigu* /ə aksɑ̃t‿eɡy/. See [The French alphabet](01_Sounds/french_alphabet/README.md).
+
 **Affricate** — a stop released into a fricative, written as two symbols: /ts/ in German *Zahl* and Polish *co*, /tʃ/ in English *church*. French has none. See [four inventories](01_Sounds/four_inventories/README.md).
 
 **Auxiliary (auxiliaire)** — the verb that carries the tense in a compound form, with the past participle after it: *avoir* in *j’ai dormi* /ʒe dɔʁmi/, *être* in *je suis allé* /ʒə sɥi(z)‿ale/ and in every reflexive verb, *je me suis levé* /ʒə mə sɥi ləve/. After *être* the participle agrees with the subject. See [être](05_1000_words/etre/README.md).
+
+**Cédille** — the hook under *c* that keeps it /s/ before *a, o, u*: *français* /fʁɑ̃sɛ/, *garçon* /ɡaʁsɔ̃/, *reçu* /ʁəsy/. Spelled aloud *c cédille* /se sedij/. See [The French alphabet](01_Sounds/french_alphabet/README.md).
 
 **Conditional (conditionnel)** — the form in *-rais*, built on the future stem, that English renders with *would*, and with *should* for *devoir*: *j’irais* /ʒiʁɛ/ I would go, *je devrais* /ʒə dəvʁɛ/ I should. See [devoir](05_1000_words/devoir/README.md).
 
@@ -36,7 +40,13 @@
 
 **Length mark ː** — after a vowel, marks it as long. English distinguishes long and short vowels (*sheep, ship*); French does not, so its transcriptions carry no length mark. See [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md).
 
+**Letter name (nom de la lettre)** — the word for a letter when it is spelled aloud: *bé* /be/, *effe* /ɛf/, *i grec* /iɡʁɛk/. A French word like any other, so it obeys the rules of one: a closed /e/ at the end, an open /ɛ/ before a consonant. See [The French alphabet](01_Sounds/french_alphabet/README.md).
+
 **Liaison** — a final consonant that is silent on its own but pronounced before a vowel of the next word, written ‿ in this library: *nous‿avons* /nuz‿avɔ̃/, *un‿appartement* /œ̃n‿apaʁtəmɑ̃/, *premier‿étage* /pʁəmjɛʁ‿etaʒ/. A written *s* gives /z/. Compulsory after the plural pronouns and articles, optional after *est*, forbidden in other places; a lesson of its own is on the [roadmap](ROADMAP.md). See [Lesson 1: La maison](02_Yosser_teacher/lesson_01_la_maison/README.md).
+
+**Ligature** — two letters written as one: *œ* in *cœur* /kœʁ/ and *sœur* /sœʁ/, spelled aloud *e dans l'o* /ə dɑ̃ lo/; *æ* survives in *ex æquo* /ɛɡzeko/. Neither is a letter of the alphabet. See [The French alphabet](01_Sounds/french_alphabet/README.md).
+
+**Loi de position** — in a final syllable a mid vowel is closed when nothing follows it and open when a consonant does: *bé* /be/ but *bête* /bɛt/, *beau* /bo/ but *bol* /bɔl/, *chez* /ʃe/ but *chaise* /ʃɛz/. The letter names obey it sixteen times out of sixteen; the vocabulary has exceptions, *mais* /mɛ/. See [The French alphabet](01_Sounds/french_alphabet/README.md) and [Le son ɛ](04_Pronunciation/son_e_ouvert/README.md).
 
 **Minimal pair** — two words that differ in one sound only, so that hearing the difference is hearing the sound: *blanc* /blɑ̃/ and *blond* /blɔ̃/, *mais* /mɛ/ and *mes* /me/. The drills of the Pronunciation chapter are built on them. See [Les sons ɑ̃ et ɔ̃](04_Pronunciation/sons_an_on/README.md).
 
@@ -59,5 +69,7 @@
 **Stressed pronoun (pronom tonique)** — *moi, toi, lui, elle, nous, vous, eux, elles* /mwa, twa, lɥi, ɛl, nu, vu, ø, ɛl/, the pronoun after a preposition and the one used alone or for emphasis: *pour moi* /puʁ mwa/, *moi, je dors* /mwa, ʒə dɔʁ/. See [pour](05_1000_words/pour/README.md).
 
 **Subjunctive (subjonctif)** — the mood after *il faut que* /il fo kə/ and after verbs of wish, doubt and feeling: *il faut que j’aille* /il fo kə ʒaj/, *que tu viennes* /kə ty vjɛn/, *que vous soyez* /kə vu swaje/. See [aller](05_1000_words/aller/README.md).
+
+**Tréma** — the two dots that make a vowel a syllable of its own instead of part of a pair: *naïf* /naif/, *Noël* /nɔɛl/, *maïs* /mais/ against *mais* /mɛ/. Spelled aloud after the letter, *i tréma* /i tʁema/. See [The French alphabet](01_Sounds/french_alphabet/README.md).
 
 **Uvular r /ʁ/** — the French r, made at the back of the mouth against the uvula. The English r is /ɹ/, made with the tongue tip. See [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md).

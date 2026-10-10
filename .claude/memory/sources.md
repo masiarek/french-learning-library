@@ -5,9 +5,10 @@ The dictionaries and books behind the library, where each one is, and where it i
 | Source | Where it is | Used in |
 |---|---|---|
 | Oxford Learner's Dictionaries | online; reachable from the iMac, blocked from the cloud | `ipa_english_vs_french`: the eight English words were read from their pages on 2026-10-05 |
-| Le Robert, pronunciation key | from memory, not yet checked against a copy | `ipa_english_vs_french`: the French inventory and the French sentence |
+| Le Robert, pronunciation key | from memory, not yet checked against a copy | `ipa_english_vs_french`: the French inventory and the French sentence; `french_alphabet`: the 26 letter names, from memory |
 | Duden, *Das Aussprachewörterbuch* | from memory | `four_inventories`: the German inventory |
 | Jassem, "Polish", *JIPA* 33 (2003) | from memory | `four_inventories`: the Polish inventory |
+| French Wikipedia, *Alphabet français*, the table of the 26 letters with name, alternative name, IPA and diacritics | a screenshot sent by the owner on 2026-10-10; the site is blocked from the cloud | `french_alphabet`: checked tile by tile against Le Robert's names from memory; the two differ only in /ɑ/ for *a* and *ka* and the schwa of *double vé* |
 | Assimil, *French with Ease* | owner's copy; audio on the external drive | sentences to come |
 | Yosser's worksheets | PDFs in the owner's drive folder `French/Yosser`, also sent as photos; a Markdown copy of the first is kept beside the PDF | `02_Yosser_teacher`: lesson 1, *La maison*, transcribed on 2026-10-07 from the PDF |
 | Szypowska, Polish textbook of French | the owner's copy, sent as photos; pages 13 to 31 in hand on 2026-10-07; the title is not on them, and the lessons are numbered | `03_Szypowska`: lessons 3 to 6. From lesson 6 the book gives no transcription under the reading, only beside the words of the list; the IPA of the reading is written after Le Robert's key |

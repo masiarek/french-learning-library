@@ -8,3 +8,4 @@ French spelling hides its sounds: *eau, au, o* and *ô* are one vowel, *vin, vin
 |---|---|---|
 | 1 | [English and French in the IPA](ipa_english_vs_french/README.md) | Which IPA symbols do the two languages share, which are French only, and how do you tell a French transcription from an English one without reading a vowel? |
 | 2 | [Four inventories](four_inventories/README.md) | Add German and Polish: what do all four share, which French sounds are new for a German speaker, which for a Polish one, and why do the transcriptions pair off, English with German and French with Polish? |
+| 3 | [The French alphabet](french_alphabet/README.md) | What are the 26 letters called, and why is the vowel after the consonant in *bé* and before it in *effe*? The names in the IPA, the five French-only sounds they drill, the rule their *e* obeys without exception, and the words for spelling aloud. |

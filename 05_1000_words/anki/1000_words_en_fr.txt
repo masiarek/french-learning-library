@@ -148,6 +148,68 @@ Five things one has in French and is in English	avoir faim /fɛ̃/, soif /swaf/,
 There is, there are, and three years ago	il y a /il j a/ for both; il y a trois ans /il j a tʁwaz‿ɑ̃/	french 1000words avoir challenge grammar	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
 J’ai un chat; and in the negative?	Je n’ai pas de chat /ʒə ne pa də ʃa/: after a negative avoir, un, une, des become de	french 1000words avoir challenge grammar	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
 a or à: which is the verb?	a without the accent is the verb (il a), à with the accent is the preposition to, at; both /a/	french 1000words avoir challenge words	French::1000 words (EN-FR)::avoir — to have; to have done::Challenges
+(n.f.) chair	une chaise<br>/yn ʃɛz/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+There are four chairs around the table.	Il y a quatre chaises autour de la table.<br>/il j a katʁ ʃɛz otuʁ də la tabl/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+I sit down	je m'assieds<br>/ʒə masje/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+you sit down	tu t'assieds<br>/ty tasje/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+he sits down, she sits down	il s'assied, elle s'assied<br>/il sasje, ɛl sasje/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+we sit down	nous nous asseyons<br>/nu nuz‿asejɔ̃/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+you sit down (2)	vous vous asseyez<br>/vu vuz‿aseje/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+they sit down	ils s'asseyent, elles s'asseyent<br>/il sasɛj, ɛl sasɛj/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+the second set of forms, as common in speech	je m'assois, il s'assoit, ils s'assoient<br>/ʒə maswa, il saswa, il saswa/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+sit down! (to a friend; to several people, or politely)	assieds-toi ! asseyez-vous !<br>/asjetwa, asejevu/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+I sat down, she sat down	je me suis assis, elle s'est assise<br>/ʒə mə sɥi(z)‿asi, ɛl sɛ(t)‿asiz/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+I am sitting, she is sitting	je suis assis, elle est assise<br>/ʒə sɥi(z)‿asi, ɛl ɛ(t)‿asiz/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+a chair, chairs	une chaise, des chaises<br>/yn ʃɛz, de ʃɛz/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+an armchair	un fauteuil<br>/œ̃ fotœj/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+a stool	un tabouret<br>/œ̃ tabuʁɛ/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+a bench	un banc<br>/œ̃ bɑ̃/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+a sofa	un canapé<br>/œ̃ kanape/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+a seat	un siège<br>/œ̃ sjɛʒ/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+a seat, a place to sit	une place<br>/yn plas/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+the back, the seat, the legs of a chair	le dossier, le siège, les pieds d'une chaise<br>/lə dosje, lə sjɛʒ, le pje dyn ʃɛz/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+a deckchair	une chaise longue<br>/yn ʃɛz lɔ̃ɡ/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+a high chair	une chaise haute<br>/yn ʃɛz ot/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+a folding chair	une chaise pliante<br>/yn ʃɛz plijɑ̃t/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+a wheelchair	une chaise roulante, un fauteuil roulant<br>/yn ʃɛz ʁulɑ̃t, œ̃ fotœj ʁulɑ̃/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+an office chair	une chaise de bureau<br>/yn ʃɛz də byʁo/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+a garden chair	une chaise de jardin<br>/yn ʃɛz də ʒaʁdɛ̃/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+to take a chair	prendre une chaise<br>/pʁɑ̃dʁ yn ʃɛz/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+to pull up a chair	tirer une chaise<br>/tiʁe yn ʃɛz/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+to sit down on a chair	s'asseoir sur une chaise<br>/saswaʁ syʁ yn ʃɛz/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+to get up from one's chair	se lever de sa chaise<br>/sə ləve də sa ʃɛz/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+to fall between two stools, to be caught between two positions	être assis entre deux chaises<br>/ɛtʁ asi ɑ̃tʁ dø ʃɛz/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+musical chairs	les chaises musicales<br>/le ʃɛz myzikal/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+a wild, disorderly life	une vie de bâton de chaise<br>/yn vi də bɑtɔ̃ də ʃɛz/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+the electric chair	la chaise électrique<br>/la ʃɛz elɛktʁik/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+Please sit down.	Asseyez-vous, je vous en prie.<br>/asejevu, ʒə vuz‿ɑ̃ pʁi/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+Is this seat taken?	Cette place est prise ?<br>/sɛt plas ɛ pʁiz/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+the chair – at the home of: /ɛ/ before a consonant, /e/ with nothing after	la chaise – chez<br>/la ʃɛz/ · /ʃe/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+the chair – sixteen	la chaise – seize<br>/la ʃɛz/ · /sɛz/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+the chair – the chain	la chaise – la chaîne<br>/la ʃɛz/ · /la ʃɛn/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+the chair – the pulpit – the flesh – dear	la chaise – la chaire – la chair – cher<br>/la ʃɛz/ · /la ʃɛʁ/ · /la ʃɛʁ/ · /ʃɛʁ/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+There is a chair in front of the desk.	Il y a une chaise devant le bureau.<br>/il j a yn ʃɛz dəvɑ̃ lə byʁo/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+Take a chair and sit down.	Prends une chaise et assieds-toi.<br>/pʁɑ̃ yn ʃɛz e asjetwa/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+My mother is sitting on the chair by the window.	Ma mère est assise sur la chaise près de la fenêtre.<br>/ma mɛʁ ɛ(t)‿asiz syʁ la ʃɛz pʁɛ də la fənɛtʁ/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+The kitchen chairs are made of wood.	Les chaises de la cuisine sont en bois.<br>/le ʃɛz də la kɥizin sɔ̃t‿ɑ̃ bwa/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+We have to buy four chairs for the dining room.	Nous devons acheter quatre chaises pour la salle à manger.<br>/nu dəvɔ̃ aʃte katʁ ʃɛz puʁ la sal a mɑ̃ʒe/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+The cat is sleeping on my chair.	Le chat dort sur ma chaise.<br>/lə ʃa dɔʁ syʁ ma ʃɛz/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+There are not enough chairs for everyone.	Il n'y a pas assez de chaises pour tout le monde.<br>/il nj a pa ase də ʃɛz puʁ tu lə mɔ̃d/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+She sat down on a folding chair.	Elle s'est assise sur une chaise pliante.<br>/ɛl sɛ(t)‿asiz syʁ yn ʃɛz plijɑ̃t/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+I am going to get a chair.	Je vais chercher une chaise.<br>/ʒə vɛ ʃɛʁʃe yn ʃɛz/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+Sit on this chair, please.	Asseyez-vous sur cette chaise, s'il vous plaît.<br>/asejevu syʁ sɛt ʃɛz, sil vu plɛ/	french 1000words chaise en-fr	French::1000 words (EN-FR)::une chaise — a chair
+Say: There are four chairs around the table.	Il y a quatre chaises autour de la table. /il j a katʁ ʃɛz otuʁ də la tabl/	french 1000words chaise challenge say	French::1000 words (EN-FR)::une chaise — a chair::Challenges
+Say: Take a chair and sit down.	Prends une chaise et assieds-toi. /pʁɑ̃ yn ʃɛz e asjetwa/	french 1000words chaise challenge say	French::1000 words (EN-FR)::une chaise — a chair::Challenges
+Say: Please sit down. (politely)	Asseyez-vous, je vous en prie. /asejevu, ʒə vuz‿ɑ̃ pʁi/	french 1000words chaise challenge say	French::1000 words (EN-FR)::une chaise — a chair::Challenges
+Say: My mother is sitting on the chair by the window.	Ma mère est assise sur la chaise près de la fenêtre. /ma mɛʁ ɛ(t)‿asiz syʁ la ʃɛz pʁɛ də la fənɛtʁ/	french 1000words chaise challenge say	French::1000 words (EN-FR)::une chaise — a chair::Challenges
+Say: There are not enough chairs for everyone.	Il n’y a pas assez de chaises pour tout le monde. /il nj a pa ase də ʃɛz puʁ tu lə mɔ̃d/	french 1000words chaise challenge say	French::1000 words (EN-FR)::une chaise — a chair::Challenges
+Why is chaise /ʃɛz/ but chez /ʃe/?	The e is open before a consonant that is said and closed with nothing after it; the final -e of chaise is silent but makes the s sound, as /z/	french 1000words chaise challenge sound	French::1000 words (EN-FR)::une chaise — a chair::Challenges
+Chair, armchair, stool, bench, in French	une chaise /yn ʃɛz/, un fauteuil /œ̃ fotœj/, un tabouret /œ̃ tabuʁɛ/, un banc /œ̃ bɑ̃/	french 1000words chaise challenge words	French::1000 words (EN-FR)::une chaise — a chair::Challenges
+I sit down, we sit down, sit down! (politely)	je m’assieds /ʒə masje/, nous nous asseyons /nu nuz‿asejɔ̃/, asseyez-vous /asejevu/	french 1000words chaise challenge grammar	French::1000 words (EN-FR)::une chaise — a chair::Challenges
+I am sitting, against I sit down	je suis assis /ʒə sɥi(z)‿asi/, the state; je m’assieds /ʒə masje/, the action	french 1000words chaise challenge grammar	French::1000 words (EN-FR)::une chaise — a chair::Challenges
+On a chair, in an armchair	sur une chaise /syʁ yn ʃɛz/, dans un fauteuil /dɑ̃z‿œ̃ fotœj/	french 1000words chaise challenge grammar	French::1000 words (EN-FR)::une chaise — a chair::Challenges
+To fall between two stools, in French	être assis entre deux chaises /ɛtʁ asi ɑ̃tʁ dø ʃɛz/	french 1000words chaise challenge words	French::1000 words (EN-FR)::une chaise — a chair::Challenges
+Is this seat taken?	Cette place est prise ? /sɛt plas ɛ pʁiz/	french 1000words chaise challenge words	French::1000 words (EN-FR)::une chaise — a chair::Challenges
 (v.) must, to have to, should; to owe	devoir<br>/dəvwaʁ/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
 (I, you) must, have to; owe: the je and tu form, irregular	dois<br>/dwa/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe
 had to; owed: the past participle, irregular	dû<br>/dy/	french 1000words devoir en-fr	French::1000 words (EN-FR)::devoir — must, to have to; to owe

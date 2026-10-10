@@ -4,7 +4,7 @@ What exists, and what is deliberately not written yet. A topic listed here has *
 
 ## Written
 
-**[01_Sounds](01_Sounds/README.md)** — what does the French in the dictionary sound like? Two lessons, [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md) and [four inventories](01_Sounds/four_inventories/README.md), which adds German and Polish.
+**[01_Sounds](01_Sounds/README.md)** — what does the French in the dictionary sound like? Three lessons: [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md), [four inventories](01_Sounds/four_inventories/README.md), which adds German and Polish, and [the French alphabet](01_Sounds/french_alphabet/README.md), the 26 letter names read in the same alphabet, with the words for spelling aloud.
 
 **[02_Yosser_teacher](02_Yosser_teacher/README.md)** — the owner's teacher's worksheets, one lesson each, kept whole as a table of French, English and IPA, with an Anki deck of its own. No program on these pages, at the owner's request; CI checks the tables' IPA instead. One lesson so far, [La maison](02_Yosser_teacher/lesson_01_la_maison/README.md).
 

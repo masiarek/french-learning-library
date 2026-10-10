@@ -1,0 +1,109 @@
+1. The 26 names, symbol by symbol
+   a  a          /a/            1 symbol, a vowel
+   b  bé         /be/           2 symbols, vowel after
+   c  cé         /se/           2 symbols, vowel after
+   d  dé         /de/           2 symbols, vowel after
+   e  e          /ə/            1 symbol, a vowel
+   f  effe       /ɛf/           2 symbols, vowel before
+   g  gé         /ʒe/           2 symbols, vowel after
+   h  ache       /aʃ/           2 symbols, vowel before
+   i  i          /i/            1 symbol, a vowel
+   j  ji         /ʒi/           2 symbols, vowel after
+   k  ka         /ka/           2 symbols, vowel after
+   l  elle       /ɛl/           2 symbols, vowel before
+   m  emme       /ɛm/           2 symbols, vowel before
+   n  enne       /ɛn/           2 symbols, vowel before
+   o  o          /o/            1 symbol, a vowel
+   p  pé         /pe/           2 symbols, vowel after
+   q  ku         /ky/           2 symbols, vowel after
+   r  erre       /ɛʁ/           2 symbols, vowel before
+   s  esse       /ɛs/           2 symbols, vowel before
+   t  té         /te/           2 symbols, vowel after
+   u  u          /y/            1 symbol, a vowel
+   v  vé         /ve/           2 symbols, vowel after
+   w  double vé  /dubləve/      7 symbols, other
+   x  ics        /iks/          3 symbols, other
+   y  i grec     /iɡʁɛk/        5 symbols, other
+   z  zède       /zɛd/          3 symbols, other
+
+   distinct symbols in the names            24: a b d e f i k l m n o p s t u v y z ə ɛ ɡ ʁ ʃ ʒ
+   not in Le Robert's inventory              0: -
+   French-only sounds the alphabet drills    5: a o y ɛ ʁ
+   French-only sounds it leaves out         10: ø œ œ̃ ɑ ɑ̃ ɔ ɔ̃ ɛ̃ ɥ ɲ
+
+2. The e of a name: closed /e/ when it ends the name, open /ɛ/ before a consonant
+   bé         /be/        /e/ ends the name  as the rule says
+   cé         /se/        /e/ ends the name  as the rule says
+   dé         /de/        /e/ ends the name  as the rule says
+   effe       /ɛf/        /ɛ/ before /f/     as the rule says
+   gé         /ʒe/        /e/ ends the name  as the rule says
+   elle       /ɛl/        /ɛ/ before /l/     as the rule says
+   emme       /ɛm/        /ɛ/ before /m/     as the rule says
+   enne       /ɛn/        /ɛ/ before /n/     as the rule says
+   pé         /pe/        /e/ ends the name  as the rule says
+   erre       /ɛʁ/        /ɛ/ before /ʁ/     as the rule says
+   esse       /ɛs/        /ɛ/ before /s/     as the rule says
+   té         /te/        /e/ ends the name  as the rule says
+   vé         /ve/        /e/ ends the name  as the rule says
+   double vé  /dubləve/   /e/ ends the name  as the rule says
+   i grec     /iɡʁɛk/     /ɛ/ before /k/     as the rule says
+   zède       /zɛd/       /ɛ/ before /d/     as the rule says
+   16 e's in the names, 16 as the rule says, 0 exceptions
+
+3. The shape of a consonant's name: by its Latin class, and by its French sound
+   b  bé         vowel after   /b/ stop       fits         Latin stop       fits
+   c  cé         vowel after   /s/ continuant does not fit Latin stop       fits
+   d  dé         vowel after   /d/ stop       fits         Latin stop       fits
+   f  effe       vowel before  /f/ continuant fits         Latin continuant fits
+   g  gé         vowel after   /ʒ/ continuant does not fit Latin stop       fits
+   h  ache       vowel before  /ʃ/ continuant fits         Latin -          
+   j  ji         vowel after   /ʒ/ continuant does not fit Latin -          
+   k  ka         vowel after   /k/ stop       fits         Latin stop       fits
+   l  elle       vowel before  /l/ continuant fits         Latin continuant fits
+   m  emme       vowel before  /m/ continuant fits         Latin continuant fits
+   n  enne       vowel before  /n/ continuant fits         Latin continuant fits
+   p  pé         vowel after   /p/ stop       fits         Latin stop       fits
+   q  ku         vowel after   /k/ stop       fits         Latin stop       fits
+   r  erre       vowel before  /ʁ/ continuant fits         Latin continuant fits
+   s  esse       vowel before  /s/ continuant fits         Latin continuant fits
+   t  té         vowel after   /t/ stop       fits         Latin stop       fits
+   v  vé         vowel after   /v/ continuant does not fit Latin -          
+   by the Latin class:  14 of 14 Latin consonant letters fit the rule
+   by the French sound: 4 do not: c g j v
+
+4. Does the name contain a sound the letter spells?
+   a  a          /a/            yes: /a/
+   b  bé         /be/           yes: /b/
+   c  cé         /se/           yes: /s/
+   d  dé         /de/           yes: /d/
+   e  e          /ə/            yes: /ə/
+   f  effe       /ɛf/           yes: /f/
+   g  gé         /ʒe/           yes: /ʒ/
+   h  ache       /aʃ/           no: the letter spells no sound
+   i  i          /i/            yes: /i/
+   j  ji         /ʒi/           yes: /ʒ/
+   k  ka         /ka/           yes: /k/
+   l  elle       /ɛl/           yes: /l/
+   m  emme       /ɛm/           yes: /m/
+   n  enne       /ɛn/           yes: /n/
+   o  o          /o/            yes: /o/
+   p  pé         /pe/           yes: /p/
+   q  ku         /ky/           yes: /k/
+   r  erre       /ɛʁ/           yes: /ʁ/
+   s  esse       /ɛs/           yes: /s/
+   t  té         /te/           yes: /t/
+   u  u          /y/            yes: /y/
+   v  vé         /ve/           yes: /v/
+   w  double vé  /dubləve/      yes: /v/
+   x  ics        /iks/          yes: /ks/
+   y  i grec     /iɡʁɛk/        yes: /i/
+   z  zède       /zɛd/          yes: /z/
+   names without their letter's sound: 1 (h)
+
+5. Checks
+   every symbol is a French phoneme:        True
+   the alphabet drills /a o y ɛ ʁ/:         True
+   every e obeys the rule:                  True
+   Latin class predicts every shape:        True
+   French sound fails on c g j v:           True
+   only h lacks its own sound:              True
