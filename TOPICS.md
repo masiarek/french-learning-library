@@ -10,6 +10,8 @@
     - **The alphabet of the dictionaries** · from [Sounds](01_Sounds/README.md)
         - [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md) — phoneme inventory, nasal vowels, front rounded vowels, uvular r, stress mark, length mark, diphthong, schwa, e muet, Oxford Learner's, Le Robert
         - [Four inventories](01_Sounds/four_inventories/README.md) — German, Polish, Duden, Jassem, ich-Laut, affricates, retroflex, ą and ę, fixed stress, what French asks of each speaker
+        - [The French alphabet](01_Sounds/french_alphabet/README.md) — the 26 letter names in the IPA, bé against effe, the e closed at the end and open before a consonant, the Latin shape of cé and gé, ache without its sound, spelling aloud, accent aigu, cédille, tréma, e dans l'o
+        - ↪ [Le son ɛ](04_Pronunciation/son_e_ouvert/README.md) — the open e the letter names show at effe, elle, erre, zède
     - **Drills from the videos** · from [Pronunciation](04_Pronunciation/README.md)
         - [Les sons ɑ̃ et ɔ̃](04_Pronunciation/sons_an_on/README.md) — the nasal vowels of blanc and blond, an, am, en, em against on, om, minimal pairs, both sounds in one word, where the nasal goes away, Anne's [ã] as Le Robert's /ɑ̃/
         - [Le son ɛ](04_Pronunciation/son_e_ouvert/README.md) — the open e of est, mais, lève, être, appelle; /e/ against /ɛ/; e before a consonant that is said; è, ê, ai, ei; the endings -et and -êt
@@ -26,6 +28,7 @@
 - **Words**
     - **The thousand words, one page each** · from [1000 words](05_1000_words/README.md)
         - [aller](05_1000_words/aller/README.md) — to go, to be of health; three stems, the near future, être as its auxiliary, comment allez-vous, vas-y
+        - [une chaise](05_1000_words/chaise/README.md) — a chair; ch as /ʃ/ and -aise as /ɛz/, the feminine of -aise, s'asseoir and être assis, sur and sous, fauteuil, tabouret, banc, chaise against chez and chaire
         - [avoir](05_1000_words/avoir/README.md) — to have; ils ont against ils sont, eu said /y/, the auxiliary, avoir faim and the other to be of English, il y a, pas de, a and à
         - [devoir](05_1000_words/devoir/README.md) — must, to owe; two stems, dû against du, devrais as should, must of probability, the noun le devoir
         - [dormir](05_1000_words/dormir/README.md) — to sleep; the partir pattern of -ir verbs, the singular that drops a consonant, as-tu bien dormi, s'endormir
@@ -40,5 +43,5 @@
 ## Threads
 
 - **Sets at work.** The IPA pages hold two, then four, phoneme inventories as sets and reads off their intersection and differences; the operations are explained in the math library's [Sets ↗](https://masiarek.github.io/math-learning-library/04_Sets/) chapter.
-- **One alphabet, many spellings of it.** Every book spells the same sounds its own way. The Sounds chapter reads Oxford's and Le Robert's keys; the Szypowska chapter adds a key from the book's Polish-reader notation to Le Robert's. The teacher's worksheets have no transcription at all, so there the page supplies it. The Pronunciation chapter reads the videos' [ã] as Le Robert's /ɑ̃/. The 1000 words chapter adds the IPA the app leaves out.
+- **One alphabet, many spellings of it.** Every book spells the same sounds its own way. The Sounds chapter reads Oxford's and Le Robert's keys; the Szypowska chapter adds a key from the book's Polish-reader notation to Le Robert's. The teacher's worksheets have no transcription at all, so there the page supplies it. The Pronunciation chapter reads the videos' [ã] as Le Robert's /ɑ̃/. The 1000 words chapter adds the IPA the app leaves out. The alphabet page writes the 26 letter names in Le Robert's key and says where French Wikipedia's table differs.
 - **The verbs that run a sentence.** *Avoir* is conjugated in Szypowska's [lesson 5](03_Szypowska/lecon_05_dialogue/README.md) and on its own page; *avoir, être, aller, venir, devoir* and *dormir* each have a page in [1000 words](05_1000_words/README.md), with the tense English hides in it: the near future of *aller*, the recent past of *venir de*, the conditional *should* of *devoir*, and *être* as the auxiliary of the other two.

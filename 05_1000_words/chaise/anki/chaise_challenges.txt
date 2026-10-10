@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une chaise — a chair::Challenges
+#tags:french 1000words chaise challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: There are four chairs around the table.	Il y a quatre chaises autour de la table. /il j a katʁ ʃɛz otuʁ də la tabl/	say
+Say: Take a chair and sit down.	Prends une chaise et assieds-toi. /pʁɑ̃ yn ʃɛz e asjetwa/	say
+Say: Please sit down. (politely)	Asseyez-vous, je vous en prie. /asejevu, ʒə vuz‿ɑ̃ pʁi/	say
+Say: My mother is sitting on the chair by the window.	Ma mère est assise sur la chaise près de la fenêtre. /ma mɛʁ ɛ(t)‿asiz syʁ la ʃɛz pʁɛ də la fənɛtʁ/	say
+Say: There are not enough chairs for everyone.	Il n’y a pas assez de chaises pour tout le monde. /il nj a pa ase də ʃɛz puʁ tu lə mɔ̃d/	say
+Why is chaise /ʃɛz/ but chez /ʃe/?	The e is open before a consonant that is said and closed with nothing after it; the final -e of chaise is silent but makes the s sound, as /z/	sound
+Chair, armchair, stool, bench, in French	une chaise /yn ʃɛz/, un fauteuil /œ̃ fotœj/, un tabouret /œ̃ tabuʁɛ/, un banc /œ̃ bɑ̃/	words
+I sit down, we sit down, sit down! (politely)	je m’assieds /ʒə masje/, nous nous asseyons /nu nuz‿asejɔ̃/, asseyez-vous /asejevu/	grammar
+I am sitting, against I sit down	je suis assis /ʒə sɥi(z)‿asi/, the state; je m’assieds /ʒə masje/, the action	grammar
+On a chair, in an armchair	sur une chaise /syʁ yn ʃɛz/, dans un fauteuil /dɑ̃z‿œ̃ fotœj/	grammar
+To fall between two stools, in French	être assis entre deux chaises /ɛtʁ asi ɑ̃tʁ dø ʃɛz/	words
+Is this seat taken?	Cette place est prise ? /sɛt plas ɛ pʁiz/	words
