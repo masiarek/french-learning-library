@@ -1,0 +1,192 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+I have a fountain pen. Do I have a fountain pen?	— J’ai un stylo. Est-ce que j’ai un stylo ?<br>/ʒe œ̃ stilo. ɛs kə ʒe œ̃ stilo/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Yes, you have a fountain pen.	— Oui, vous avez un stylo.<br>/wi, vuz‿ave œ̃ stilo/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Do you have a notebook?	— Avez-vous un carnet ?<br>/ave vu œ̃ kaʁnɛ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Yes, I have a notebook.	— Oui, j’ai un carnet.<br>/wi, ʒe œ̃ kaʁnɛ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Pierre, do you have a penknife?	— Pierre, as-tu un canif ?<br>/pjɛʁ, a ty œ̃ kanif/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+No, I have no penknife.	— Non, je n’ai pas de canif.<br>/nɔ̃, ʒə ne pa də kanif/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Pierre and Annette, do you have pencils?	— Pierre et Annette, avez-vous des crayons ?<br>/pjɛʁ e anɛt, ave vu de kʁɛjɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Yes, we have pencils, but we have no exercise books.	— Oui, nous avons des crayons, mais nous n’avons pas de cahiers.<br>/wi, nuz‿avɔ̃ de kʁɛjɔ̃, mɛ nu navɔ̃ pa də kaje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Does Pierre have a pen?	— Est-ce que Pierre a une plume ?<br>/ɛs kə pjɛʁ a yn plym/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Does he have a pen?	A-t-il une plume ?<br>/atil yn plym/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Yes, he has a pen.	— Oui, il a une plume.<br>/wi, il a yn plym/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Does Annette have an exercise book?	— Est-ce qu’Annette a un cahier ?<br>/ɛs kanɛt a œ̃ kaje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Does she have an exercise book?	A-t-elle un cahier ?<br>/atɛl œ̃ kaje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Yes, she has an exercise book.	— Oui, elle a un cahier.<br>/wi, ɛl a œ̃ kaje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Do Pierre and Annette have pencils?	— Est-ce que Pierre et Annette ont des crayons ?<br>/ɛs kə pjɛʁ e anɛt ɔ̃ de kʁɛjɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Do they have pencils?	Ont-ils des crayons ?<br>/ɔ̃til de kʁɛjɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Yes, they have pencils.	— Oui, ils ont des crayons.<br>/wi, ilz‿ɔ̃ de kʁɛjɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Do they have exercise books?	— Est-ce qu’ils ont des cahiers ?<br>/ɛs kilz‿ɔ̃ de kaje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+No, they have no exercise books.	— Non, ils n’ont pas de cahiers.<br>/nɔ̃, il nɔ̃ pa də kaje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+five	cinq<br>/sɛ̃k/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+fifth	cinquième<br>/sɛ̃kjɛm/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have	j’ai<br>/ʒe/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a fountain pen	un stylo<br>/œ̃ stilo/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+you have	vous avez<br>/vuz‿ave/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+do you have?	avez-vous ?<br>/ave vu/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a notebook	un carnet<br>/œ̃ kaʁnɛ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+do you have? (2)	as-tu ?<br>/a ty/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a penknife	un canif<br>/œ̃ kanif/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have not	je n’ai pas<br>/ʒə ne pa/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Annette	Annette<br>/anɛt/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a pencil	un crayon<br>/œ̃ kʁɛjɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+we have	nous avons<br>/nuz‿avɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+but	mais<br>/mɛ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+we have not	nous n’avons pas<br>/nu navɔ̃ pa/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+he has	il a<br>/il a/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a pen, a nib	une plume<br>/yn plym/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+an exercise book	un cahier<br>/œ̃ kaje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+they have	(ils, elles) ont<br>/ilz‿ɔ̃, ɛlz‿ɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have no penknife	je n’ai pas de canif<br>/ʒə ne pa də kanif/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+we have no exercise books	nous n’avons pas de cahiers<br>/nu navɔ̃ pa də kaje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+the ink	l’encre (f.)<br>/lɑ̃kʁ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+an inkwell	un encrier<br>/œ̃n‿ɑ̃kʁije/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+an eraser	une gomme<br>/yn ɡɔm/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a blotting paper	un papier buvard<br>/œ̃ papje byvaʁ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a ruler	une règle<br>/yn ʁɛɡl/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a ballpoint pen	un stylo à bille<br>/œ̃ stilo a bij/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+liaison between pronoun and verb	vous avez<br>/vuz‿ave/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+liaison between pronoun and verb (2)	nous avons<br>/nuz‿avɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+liaison between pronoun and verb (3)	ils ont<br>/ilz‿ɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+liaison between verb and pronoun	ont-ils<br>/ɔ̃til/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+mute h	cahier<br>/kaje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+to have	avoir<br>/avwaʁ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+the present tense	Présent<br>/pʁezɑ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+affirmative	Forme affirmative<br>/fɔʁm afiʁmativ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+you have (2)	tu as<br>/ty a/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+she has	elle a<br>/ɛl a/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+one has	on a<br>/ɔ̃n‿a/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+they have (2)	ils ont<br>/ilz‿ɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+they have (women)	elles ont<br>/ɛlz‿ɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+negative	Forme négative<br>/fɔʁm neɡativ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+you have not	tu n’as pas<br>/ty na pa/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+he has not	il n’a pas<br>/il na pa/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+she has not	elle n’a pas<br>/ɛl na pa/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+one has not	on n’a pas<br>/ɔ̃ na pa/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+you have not (2)	vous n’avez pas<br>/vu nave pa/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+they have not	ils n’ont pas<br>/il nɔ̃ pa/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+they have not (women)	elles n’ont pas<br>/ɛl nɔ̃ pa/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+interrogative	Forme interrogative<br>/fɔʁm ɛ̃teʁɔɡativ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+do I have?	est-ce que j’ai ?<br>/ɛs kə ʒe/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+does he have?	a-t-il ?<br>/atil/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+does she have?	a-t-elle ?<br>/atɛl/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+does one have?	a-t-on ?<br>/atɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have a fountain pen	j’ai un stylo<br>/ʒe œ̃ stilo/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have no fountain pen	je n’ai pas de stylo<br>/ʒə ne pa də stilo/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have fountain pens	j’ai des stylos<br>/ʒe de stilo/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have no fountain pens	je n’ai pas de stylos<br>/ʒə ne pa də stilo/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have a pen	j’ai une plume<br>/ʒe yn plym/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have no pen	je n’ai pas de plume<br>/ʒə ne pa də plym/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have pens	j’ai des plumes<br>/ʒe de plym/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have no pens	je n’ai pas de plumes<br>/ʒə ne pa də plym/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have a …, some … (the box on the page)	j’ai un …, une …, des …<br>/ʒe œ̃, yn, de/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have no … (the box on the page)	je n’ai pas de …<br>/ʒə ne pa də/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+“I have no fountain pen!” (the caption of the drawing)	« Je n’ai pas de stylo ! »<br>/ʒə ne pa də stilo/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+do you speak? (inversion)	parlez-vous ?<br>/paʁle vu/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+do I speak?	est-ce que je parle ?<br>/ɛs kə ʒə paʁl/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+does Pierre have?	est-ce que Pierre a ?<br>/ɛs kə pjɛʁ a/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+does Annette have?	est-ce qu’Annette a ?<br>/ɛs kanɛt a/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+do Pierre and Annette have?	est-ce que Pierre et Annette ont ?<br>/ɛs kə pjɛʁ e anɛt ɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have a penknife. — We have penknives. (the model)	J’ai un canif. — Nous avons des canifs.<br>/ʒe œ̃ kanif. nuz‿avɔ̃ de kanif/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have an exercise book.	J’ai un cahier.<br>/ʒe œ̃ kaje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have a fountain pen.	J’ai un stylo.<br>/ʒe œ̃ stilo/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I am visiting a flat.	Je visite un appartement.<br>/ʒə vizit œ̃n‿apaʁtəmɑ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I am showing the room.	Je montre la chambre.<br>/ʒə mɔ̃tʁ la ʃɑ̃bʁ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I am looking at a postcard.	Je regarde une carte.<br>/ʒə ʁəɡaʁd yn kaʁt/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Do you have a pencil?	As-tu un crayon ?<br>/a ty œ̃ kʁɛjɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Does he have a penknife?	A-t-il un canif ?<br>/atil œ̃ kanif/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Do we have exercise books?	Avons-nous des cahiers ?<br>/avɔ̃ nu de kaje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I have a notebook.	J’ai un carnet.<br>/ʒe œ̃ kaʁnɛ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+We have pens.	Nous avons des plumes.<br>/nuz‿avɔ̃ de plym/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+They have exercise books.	Ils ont des cahiers.<br>/ilz‿ɔ̃ de kaje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+You have a fountain pen.	Tu as un stylo.<br>/ty a œ̃ stilo/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I am visiting Pierre's house.	Je visite la maison de Pierre.<br>/ʒə vizit la mɛzɔ̃ də pjɛʁ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Annette's family has a flat in Warsaw.	La famille d’Annette a un appartement à Varsovie.<br>/la famij danɛt a œ̃n‿apaʁtəmɑ̃ a vaʁsɔvi/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Does Mrs B. have a flat in Paris?	Est-ce que Madame B. a un appartement à Paris ?<br>/ɛs kə madam be a œ̃n‿apaʁtəmɑ̃ a paʁi/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+She has a daughter and a son.	Elle a une fille et un fils.<br>/ɛl a yn fij e œ̃ fis/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+You have pencils, but you have no pens.	Vous avez des crayons, mais vous n’avez pas de plumes.<br>/vuz‿ave de kʁɛjɔ̃, mɛ vu nave pa də plym/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Do you have a notebook? (2)	Avez-vous un carnet ?<br>/ave vu œ̃ kaʁnɛ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Do they have a flat?	Est-ce qu’ils ont un appartement ?<br>/ɛs kilz‿ɔ̃ œ̃n‿apaʁtəmɑ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+the apostrophe where je, ne, que, le lose their vowel before a vowel	j’ai, je n’ai pas, nous n’avons pas, ils n’ont pas, est-ce qu’Annette, est-ce qu’ils, l’encre<br>/ʒe, ʒə ne pa, nu navɔ̃ pa, il nɔ̃ pa, ɛs kanɛt, ɛs kil, lɑ̃kʁ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I am thirteen years old: age takes avoir	J’ai treize ans.<br>/ʒe tʁɛz ɑ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+How old are you?	Quel âge as-tu ?<br>/kɛl ɑʒ a ty/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I am hungry.	J’ai faim.<br>/ʒe fɛ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+I am thirsty.	J’ai soif.<br>/ʒe swaf/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Do you have a fountain pen? (the statement, with the voice rising)	Tu as un stylo ?<br>/ty a œ̃ stilo/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Do you have a fountain pen? (with est-ce que)	Est-ce que tu as un stylo ?<br>/ɛs kə ty a œ̃ stilo/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Do you have a fountain pen? (inversion)	As-tu un stylo ?<br>/a ty œ̃ stilo/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+They have pencils.	Ils ont des crayons.<br>/ilz‿ɔ̃ de kʁɛjɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+They are in Paris: /z/ against /s/ is the whole difference.	Ils sont à Paris.<br>/il sɔ̃ a paʁi/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+He is not looking at any photos: de after the negated verb.	Il ne regarde pas de photos.<br>/il nə ʁəɡaʁd pa də fɔto/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+It is not a fountain pen, it is a nib pen: after c'est the article stays.	Ce n’est pas un stylo, c’est une plume.<br>/sə nɛ pa œ̃ stilo, sɛt‿yn plym/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+one, two, three, four, five	un, deux, trois, quatre, cinq<br>/œ̃, dø, tʁwa, katʁ, sɛ̃k/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+five books: before a consonant older usage drops the /k/, /sɛ̃ livʁ/; /sɛ̃k/ is usual today.	cinq livres<br>/sɛ̃k livʁ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a book	un livre<br>/œ̃ livʁ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a pencil case	une trousse<br>/yn tʁus/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a sheet of paper	une feuille de papier<br>/yn fœj də papje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a pencil sharpener	un taille-crayon<br>/œ̃ tajkʁɛjɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a bag	un sac<br>/œ̃ sak/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+at five o'clock · the five fingers · five minutes	cinq : à cinq heures · les cinq doigts · cinq minutes<br>/a sɛ̃k‿œʁ · le sɛ̃k dwa · sɛ̃k minyt/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+on the fifth floor · the fifth lesson · in the second year of French secondary school	cinquième : au cinquième étage · la cinquième leçon · en cinquième<br>/o sɛ̃kjɛm etaʒ · la sɛ̃kjɛm ləsɔ̃ · ɑ̃ sɛ̃kjɛm/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+to be hungry · to be twenty · to be right	avoir : avoir faim · avoir vingt ans · avoir raison<br>/avwaʁ fɛ̃ · avwaʁ vɛ̃t‿ɑ̃ · avwaʁ ʁɛzɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a ballpoint pen · a fountain pen · to write in pen	un stylo : un stylo à bille · un stylo à encre · écrire au stylo<br>/œ̃ stilo a bij · œ̃ stilo a ɑ̃kʁ · ekʁiʁ o stilo/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+an address book · a school report · a chequebook	un carnet : un carnet d’adresses · un carnet de notes · un carnet de chèques<br>/œ̃ kaʁnɛ dadʁɛs · œ̃ kaʁnɛ də nɔt · œ̃ kaʁnɛ də ʃɛk/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+to open one's penknife · a Swiss army knife	un canif : ouvrir son canif · un canif suisse<br>/uvʁiʁ sɔ̃ kanif · œ̃ kanif sɥis/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a coloured pencil · to write in pencil · a lead pencil	un crayon : un crayon de couleur · écrire au crayon · un crayon à papier<br>/œ̃ kʁɛjɔ̃ də kulœʁ · ekʁiʁ o kʁɛjɔ̃ · œ̃ kʁɛjɔ̃ a papje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+why, yes! · of course not! · not only … but also	mais : mais oui ! · mais non ! · non seulement … mais aussi<br>/mɛ wi · mɛ nɔ̃ · nɔ̃ sœlmɑ̃ … mɛ osi/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a bird's feather · a fountain pen · to write with a nib pen	une plume : une plume d’oiseau · un stylo-plume · écrire à la plume<br>/yn plym dwazo · œ̃ stilo plym · ekʁiʁ a la plym/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+an exercise book · a rough book · a homework diary	un cahier : un cahier d’exercices · un cahier de brouillon · un cahier de textes<br>/œ̃ kaje dɛɡzɛʁsis · œ̃ kaje də bʁujɔ̃ · œ̃ kaje də tɛkst/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+blue ink · an ink stain · to write in ink	l’encre : de l’encre bleue · une tache d’encre · écrire à l’encre<br>/də lɑ̃kʁ blø · yn taʃ dɑ̃kʁ · ekʁiʁ a lɑ̃kʁ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+an eraser · chewing gum	une gomme : une gomme à effacer · une gomme à mâcher<br>/yn ɡɔm a efase · yn ɡɔm a maʃe/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a ruler with a scale · the rules of the game · as a general rule	une règle : une règle graduée · les règles du jeu · en règle générale<br>/yn ʁɛɡl ɡʁadɥe · le ʁɛɡl dy ʒø · ɑ̃ ʁɛɡl ʒeneʁal/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+a sheet of paper · writing paper · identity papers	le papier : une feuille de papier · du papier à lettres · les papiers d’identité<br>/yn fœj də papje · dy papje a lɛtʁ · le papje didɑ̃tite/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+why, yes · yes and no · to say no	oui, non : mais oui · oui et non · dire non<br>/mɛ wi · wi e nɔ̃ · diʁ nɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Pierre has a fountain pen but no exercise book.	Pierre a un stylo, mais il n’a pas de cahier.<br>/pjɛʁ a œ̃ stilo, mɛ il na pa də kaje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Do you have coloured pencils?	Avez-vous des crayons de couleur ?<br>/ave vu de kʁɛjɔ̃ də kulœʁ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Annette has three exercise books and two notebooks in her bag.	Annette a trois cahiers et deux carnets dans son sac.<br>/anɛt a tʁwa kaje e dø kaʁnɛ dɑ̃ sɔ̃ sak/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Do you have an eraser? No, I have no eraser.	Est-ce que tu as une gomme ? Non, je n’ai pas de gomme.<br>/ɛs kə ty a yn ɡɔm ? nɔ̃, ʒə ne pa də ɡɔm/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+We have a ruler but no ballpoint pen.	Nous avons une règle, mais nous n’avons pas de stylo à bille.<br>/nuz‿avɔ̃ yn ʁɛɡl, mɛ nu navɔ̃ pa də stilo a bij/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+We have books and exercise books on the desk.	On a des livres et des cahiers sur le bureau.<br>/ɔ̃n‿a de livʁ e de kaje syʁ lə byʁo/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+What do you have in the pencil case?	Qu’est-ce que vous avez dans la trousse ?<br>/kɛs kə vuz‿ave dɑ̃ la tʁus/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+The ink is blue; the pencil is black.	L’encre est bleue ; le crayon est noir.<br>/lɑ̃kʁ ɛ blø ; lə kʁɛjɔ̃ ɛ nwaʁ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+blue	bleu, bleue<br>/blø/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+black	noir, noire<br>/nwaʁ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+coloured	de couleur<br>/də kulœʁ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+paper	le papier<br>/lə papje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+to write	écrire<br>/ekʁiʁ/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+to draw	dessiner<br>/desine/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+You have a penknife.	Tu as un canif.<br>/ty a œ̃ kanif/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+She has pencils.	Elle a des crayons.<br>/ɛl a de kʁɛjɔ̃/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Do you have an eraser?	As-tu une gomme ?<br>/a ty yn ɡɔm/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Do they (women) have exercise books?	Ont-elles des cahiers ?<br>/ɔ̃tɛl de kaje/	french szypowska lecon05 en-fr	French::Szypowska (EN-FR)::Lesson 5: Dialogue
+Conjugate avoir in the present, with IPA	j’ai /ʒe/ · tu as /ty a/ · il a /il a/ · elle a /ɛl a/ · on a /ɔ̃n‿a/ · nous avons /nuz‿avɔ̃/ · vous avez /vuz‿ave/ · ils ont /ilz‿ɔ̃/ · elles ont /ɛlz‿ɔ̃/	french szypowska lecon05 challenge grammar	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Make negative: Nous avons des plumes.	Nous n’avons pas de plumes. /nu navɔ̃ pa də plym/	french szypowska lecon05 challenge exercise	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Make negative: Tu as un stylo.	Tu n’as pas de stylo. /ty na pa də stilo/	french szypowska lecon05 challenge exercise	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Why de, not des, in je n’ai pas de cahiers?	After ne … pas, the object’s un, une, des become de. /ʒə ne pa də kaje/	french szypowska lecon05 challenge grammar	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Does the article change in Ce n’est pas un stylo?	No: after c’est the article stays. /sə nɛ pa œ̃ stilo/ The change to de is only for the object of the negated verb.	french szypowska lecon05 challenge grammar	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Ask in two ways: does he have a penknife?	A-t-il un canif ? /atil œ̃ kanif/ · Est-ce qu’il a un canif ? /ɛs kil a œ̃ kanif/	french szypowska lecon05 challenge exercise	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Ask in two ways: do you (vous) have pencils?	Avez-vous des crayons ? /ave vu de kʁɛjɔ̃/ · Est-ce que vous avez des crayons ? /ɛs kə vuz‿ave de kʁɛjɔ̃/	french szypowska lecon05 challenge exercise	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Why a-t-il and not a-il?	A -t- is slipped in between two vowels: a-t-il /atil/, a-t-elle /atɛl/, a-t-on /atɔ̃/.	french szypowska lecon05 challenge grammar	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Which is used in speech, est-ce que or inversion? And in writing?	Speech mostly est-ce que; literature and letters mostly inversion. A third way in speech: the statement with the voice rising, tu as un stylo ?	french szypowska lecon05 challenge grammar	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+ils ont and ils sont: say both, and what is the difference?	ils ont /ilz‿ɔ̃/ they have · ils sont /il sɔ̃/ they are: /z/ against /s/ is the whole difference.	french szypowska lecon05 challenge sound	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+The liaison consonant in vous avez, nous avons, ils ont, on a	/z/ in vous‿avez, nous‿avons, ils‿ont; /n/ in on‿a /ɔ̃n‿a/	french szypowska lecon05 challenge sound	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Mute h: how is cahier read, and what follows from it?	/kaje/: the h is silent, so elision and liaison happen as before a vowel.	french szypowska lecon05 challenge sound	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Read the book’s bracket: [ɛskilzõ]	est-ce qu’ils ont /ɛs kilz‿ɔ̃/	french szypowska lecon05 challenge notation	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Read the book’s bracket: [ünplüm]	une plume /yn plym/ (ü is /y/)	french szypowska lecon05 challenge notation	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Read the book’s bracket: [œ̃nãkrije]	un encrier /œ̃n‿ɑ̃kʁije/, an inkwell	french szypowska lecon05 challenge notation	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Say: I have no penknife.	Je n’ai pas de canif. /ʒə ne pa də kanif/	french szypowska lecon05 challenge say	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Say: She has a daughter and a son.	Elle a une fille et un fils. /ɛl a yn fij e œ̃ fis/	french szypowska lecon05 challenge say	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Say: I am thirteen years old.	J’ai treize ans. /ʒe tʁɛz ɑ̃/ (age takes avoir)	french szypowska lecon05 challenge say	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Say: Do they have a flat?	Est-ce qu’ils ont un appartement ? /ɛs kilz‿ɔ̃ œ̃n‿apaʁtəmɑ̃/	french szypowska lecon05 challenge say	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Count from one to five, with IPA	un /œ̃/ · deux /dø/ · trois /tʁwa/ · quatre /katʁ/ · cinq /sɛ̃k/	french szypowska lecon05 challenge say	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+School things: pencil, exercise book, notebook, penknife, eraser, ruler	un crayon /œ̃ kʁɛjɔ̃/ · un cahier /œ̃ kaje/ · un carnet /œ̃ kaʁnɛ/ · un canif /œ̃ kanif/ · une gomme /yn ɡɔm/ · une règle /yn ʁɛɡl/	french szypowska lecon05 challenge say	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Writing things: fountain pen, ballpoint pen, nib pen, ink, inkwell, blotting paper	un stylo /œ̃ stilo/ · un stylo à bille /œ̃ stilo a bij/ · une plume /yn plym/ · l’encre /lɑ̃kʁ/ · un encrier /œ̃n‿ɑ̃kʁije/ · un papier buvard /œ̃ papje byvaʁ/	french szypowska lecon05 challenge say	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Put the right article: Il a ___ plume. Vous avez ___ photos.	Il a une plume. /il a yn plym/ · Vous avez des photos. /vuz‿ave de fɔto/	french szypowska lecon05 challenge exercise	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Answer yes and no: Avons-nous des cahiers ?	Oui, nous avons des cahiers. /wi, nuz‿avɔ̃ de kaje/ · Non, nous n’avons pas de cahiers. /nɔ̃, nu navɔ̃ pa də kaje/	french szypowska lecon05 challenge exercise	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+Put into the first person plural: Je visite un appartement.	Nous visitons des appartements. /nu vizitɔ̃ dez‿apaʁtəmɑ̃/	french szypowska lecon05 challenge exercise	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges
+List the elisions in the dialogue	j’ai, n’ai, qu’Annette, qu’ils, n’avons, n’ont: je, ne, que lose their vowel before a vowel.	french szypowska lecon05 challenge grammar	French::Szypowska (EN-FR)::Lesson 5: Dialogue::Challenges

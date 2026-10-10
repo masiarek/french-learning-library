@@ -137,7 +137,7 @@ Conventions: on the [chapter page](../README.md).
 
 - [1000 words](../README.md) — the chapter, with how to read the table and the Anki sets
 - [Lesson 1: La maison](../../02_Yosser_teacher/lesson_01_la_maison/README.md) — *les pièces de la maison* /le pjɛs də la mɛzɔ̃/ on the teacher's worksheet, the rooms with their set phrases, and the how-sure table of an AI note on them
-- [Lesson 4: Chez les Lefèvre](../../03_Szypowska/lecon_04_chez_les_lefevre/README.md) — *un appartement de trois pièces* /œ̃n‿apaʁtəmɑ̃ də tʁwa pjɛs/ in the textbook, with the rooms in Polish
+- [Lesson 4: Chez les Lefèvre](../../03_Szypowska/lecon_04_chez_les_lefevre/README.md) — *un appartement de trois pièces* /œ̃n‿apaʁtəmɑ̃ də tʁwa pjɛs/ in the textbook, with the rooms of a flat
 - [un bureau](../bureau/README.md) — the desk, and the study that counts as a room when it has walls of its own
 - [une fenêtre](../fenetre/README.md) — *donner sur* /dɔne syʁ/, what a room looks onto, and *aérer la pièce* /aeʁe la pjɛs/
 - [un lit](../lit/README.md) — another noun whose plural is heard only in the article

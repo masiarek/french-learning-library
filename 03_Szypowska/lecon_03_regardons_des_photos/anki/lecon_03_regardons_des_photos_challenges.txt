@@ -1,7 +1,7 @@
 #separator:tab
 #html:true
 #notetype:Basic
-#deck:French::Szypowska (PL-FR)::Lesson 3: Regardons des photos::Challenges
+#deck:French::Szypowska (EN-FR)::Lesson 3: Regardons des photos::Challenges
 #tags:french szypowska lecon03 challenge
 #columns:Front	Back	Tags
 #tags column:3

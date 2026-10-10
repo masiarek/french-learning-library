@@ -40,7 +40,7 @@ How a sound is made, what a dictionary gives, whether a form is current: name th
 
 ## No summary sections
 
-The sibling libraries end every page with a Polish summary and German keywords. This library does not: the owner had both removed from every page on 2026-10-07. A lesson page ends with its program's output and **See also**. Polish appears only where it is content, below the English in a lesson table.
+The sibling libraries end every page with a Polish summary and German keywords. This library does not: the owner had both removed from every page on 2026-10-07. A lesson page ends with its program's output and **See also**. Polish appears only where it is content, such as a comparison on a sounds page; the Szypowska tables had the book's Polish below the English until 2026-10-10, when the owner had that removed too.
 
 ## Links and navigation
 

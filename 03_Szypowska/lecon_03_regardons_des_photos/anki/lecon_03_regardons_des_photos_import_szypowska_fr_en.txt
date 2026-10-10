@@ -1,0 +1,149 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+Madame Renoir, Marie et Jean regardent les photos et les cartes.<br>/madam ʁənwaʁ, maʁi e ʒɑ̃ ʁəɡaʁd le fɔto e le kaʁt/	Mrs Renoir, Marie and Jean are looking at the photos and the postcards.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+— Voici la photo de Suzanne, l’amie de Marie.<br>/vwasi la fɔto də syzan, lami də maʁi/	Here is the photo of Suzanne, Marie’s friend.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+— Et voilà la photo de Pierre, le camarade de Jean.<br>/e vwala la fɔto də pjɛʁ, lə kamaʁad də ʒɑ̃/	And there is the photo of Pierre, Jean’s friend.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+— Voici Paris, la capitale de la France. Regarde la Tour Eiffel !<br>/vwasi paʁi, la kapital də la fʁɑ̃s. ʁəɡaʁd la tuʁ ɛfɛl/	Here is Paris, the capital of France. Look at the Eiffel Tower!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+— Et voilà Varsovie, la capitale de la Pologne. Regardez le Palais de la Culture et de la Science !<br>/e vwala vaʁsɔvi, la kapital də la pɔlɔɲ. ʁəɡaʁde lə palɛ də la kyltyʁ e də la sjɑ̃s/	And there is Warsaw, the capital of Poland. Look at the Palace of Culture and Science!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+— A Varsovie on parle polonais.<br>/a vaʁsɔvi ɔ̃ paʁl pɔlɔnɛ/	In Warsaw people speak Polish.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+— A Paris on parle français.<br>/a paʁi ɔ̃ paʁl fʁɑ̃sɛ/	In Paris people speak French.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Jean regarde Marie<br>/ʒɑ̃ ʁəɡaʁd maʁi/	Jean looks at Marie	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Marie regarde Jean<br>/maʁi ʁəɡaʁd ʒɑ̃/	Marie looks at Jean	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+trois<br>/tʁwa/	three	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+troisième<br>/tʁwazjɛm/	third	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Suzanne<br>/syzan/	Suzanne	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+l’amie (f.)<br>/lami/	the friend, a woman	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+voilà<br>/vwala/	there is, there (pointing at something)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Pierre<br>/pjɛʁ/	Pierre	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le camarade<br>/lə kamaʁad/	the friend, the mate	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Paris<br>/paʁi/	Paris	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la capitale<br>/la kapital/	the capital	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la France<br>/la fʁɑ̃s/	France	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+regarde !<br>/ʁəɡaʁd/	look!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Varsovie<br>/vaʁsɔvi/	Warsaw	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la Pologne<br>/la pɔlɔɲ/	Poland	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la tour<br>/la tuʁ/	the tower	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le palais<br>/lə palɛ/	the palace	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la culture<br>/la kyltyʁ/	culture	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la science<br>/la sjɑ̃s/	science	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+aussi<br>/osi/	also	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+à Varsovie<br>/a vaʁsɔvi/	in Warsaw	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+à Paris<br>/a paʁi/	in Paris	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+nous aimons<br>/nuz‿ɛmɔ̃/	we like	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+voici<br>/vwasi/	here is, this is (for what is nearer)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+voilà<br>/vwala/ (2)	there is, that is (for what is farther)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la Tour Eiffel<br>/la tuʁ ɛfɛl/	the Eiffel Tower	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Impératif<br>/ɛ̃peʁatif/	the imperative	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Présent<br>/pʁezɑ̃/	the present tense	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+regardons !<br>/ʁəɡaʁdɔ̃/	let’s look!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Regarde la Tour Eiffel !<br>/ʁəɡaʁd la tuʁ ɛfɛl/	Look at the Eiffel Tower!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Regardez le Palais de la Culture !<br>/ʁəɡaʁde lə palɛ də la kyltyʁ/	Look at the Palace of Culture!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+tu regardes<br>/ty ʁəɡaʁd/	you look (one person)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+regarde !<br>/ʁəɡaʁd/ (2)	look! (to one person)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+nous regardons<br>/nu ʁəɡaʁdɔ̃/	we look	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+vous regardez<br>/vu ʁəɡaʁde/	you look (several people, or politely)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+regardez !<br>/ʁəɡaʁde/	look! (to several people, or politely)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le<br>/lə/	the (masculine singular)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la<br>/la/	the (feminine singular)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+les<br>/le/	the (plural, both genders)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+l’<br>/l/	the (before a vowel, both genders)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Marie et Jean regardent les photos<br>/maʁi e ʒɑ̃ ʁəɡaʁd le fɔto/	Marie and Jean are looking at the photos (the ones already mentioned)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Ils regardent des photos.<br>/il ʁəɡaʁd de fɔto/	They are looking at photos (any photos).	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+des<br>/de/	some, any (the indefinite article in the plural)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la photo de Pierre<br>/la fɔto də pjɛʁ/	Pierre’s photo	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la photo de Suzanne<br>/la fɔto də syzan/	Suzanne’s photo	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le camarade de Jean<br>/lə kamaʁad də ʒɑ̃/	Jean’s friend	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+l’amie de Marie<br>/lami də maʁi/	Marie’s friend	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le Palais de la Culture<br>/lə palɛ də la kyltyʁ/	the Palace of Culture	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+de<br>/də/	of (the counterpart of the Polish genitive)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la capitale de la Pologne<br>/la kapital də la pɔlɔɲ/	the capital of Poland	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le Palais de la Culture et de la Science<br>/lə palɛ də la kyltyʁ e də la sjɑ̃s/	the Palace of Culture and Science	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici une photo<br>/vwasi yn fɔto/	Here is a photo (the caption of the first picture)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voilà la photo de Pierre<br>/vwala la fɔto də pjɛʁ/	There is Pierre's photo (the caption of the second)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+à<br>/a/	at, in: with the name of a city it answers where?	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici ________ photo.<br>(Fill in the blanks)	/vwasi [yn] fɔto/<br>Here is a photo.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voilà ________ photo ________ Pierre.<br>(Fill in the blanks)	/vwala [la] fɔto [də] pjɛʁ/<br>There is Pierre's photo.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+________ regardons ________ cartes.<br>(Fill in the blanks)	/[nu] ʁəɡaʁdɔ̃ [le] kaʁt/<br>We are looking at the postcards.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Tu ________ le Palais ________ ________ Culture.<br>(Fill in the blanks)	/ty [ʁəɡaʁd] lə palɛ [də la] kyltyʁ/<br>You are looking at the Palace of Culture.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Regardez ________ la Tour Eiffel ?<br>(Fill in the blanks)	/ʁəɡaʁde [vu] la tuʁ ɛfɛl/<br>Are you looking at the Eiffel Tower?	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voilà des cartes.<br>/vwala de kaʁt/	There are some postcards.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voilà des cartes. → Put into the singular	Voilà une carte.<br>/vwala yn kaʁt/<br>There is a postcard.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici les photos de Suzanne.<br>/vwasi le fɔto də syzan/	Here are Suzanne's photos.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici les photos de Suzanne. → Put into the singular	Voici la photo de Suzanne.<br>/vwasi la fɔto də syzan/<br>Here is Suzanne's photo.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Nous fumons des cigarettes.<br>/nu fymɔ̃ de siɡaʁɛt/	We smoke cigarettes.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Nous fumons des cigarettes. → Put into the singular	Je fume une cigarette.<br>/ʒə fym yn siɡaʁɛt/<br>I smoke a cigarette.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Elles apportent des livres.<br>/ɛlz‿apɔʁt de livʁ/	They (women) bring books.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Elles apportent des livres. → Put into the singular	Elle apporte un livre.<br>/ɛl apɔʁt œ̃ livʁ/<br>She brings a book.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Je regarde un livre.<br>/ʒə ʁəɡaʁd œ̃ livʁ/	I am looking at a book.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Je regarde un livre. → Put into the plural	Nous regardons des livres.<br>/nu ʁəɡaʁdɔ̃ de livʁ/<br>We are looking at books.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici la carte de Jean.<br>/vwasi la kaʁt də ʒɑ̃/	Here is Jean's postcard.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici la carte de Jean. → Put into the plural	Voici les cartes de Jean.<br>/vwasi le kaʁt də ʒɑ̃/<br>Here are Jean's postcards.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Tu apportes un livre.<br>/ty apɔʁt œ̃ livʁ/	You bring a book.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Tu apportes un livre. → Put into the plural	Vous apportez des livres.<br>/vuz‿apɔʁte de livʁ/<br>You bring books.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Aimez-vous parler français ?<br>/ɛme vu paʁle fʁɑ̃sɛ/	Do you like speaking French?	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Aimez-vous parler français ? → Answer yes and no (Oui nous)	Oui, nous aimons parler français.<br>/wi, nuz‿ɛmɔ̃ paʁle fʁɑ̃sɛ/<br>Yes, we like speaking French.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Aimez-vous parler français ? → Answer yes and no (Non nous)	Non, nous n’aimons pas parler français.<br>/nɔ̃, nu nɛmɔ̃ pa paʁle fʁɑ̃sɛ/<br>No, we do not like speaking French.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Aiment-ils regarder des photos ?<br>/ɛmtil ʁəɡaʁde de fɔto/	Do they like looking at photos?	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Aiment-ils regarder des photos ? → Answer yes and no (Oui ils)	Oui, ils aiment regarder des photos.<br>/wi, ilz‿ɛm ʁəɡaʁde de fɔto/<br>Yes, they like looking at photos.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Aiment-ils regarder des photos ? → Answer yes and no (Non ils)	Non, ils n’aiment pas regarder des photos.<br>/nɔ̃, il nɛm pa ʁəɡaʁde de fɔto/<br>No, they do not like looking at photos.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici la photo de Jean, l’ami de Pierre.<br>/vwasi la fɔto də ʒɑ̃, lami də pjɛʁ/	Here is the photo of Jean, Pierre's friend.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Regardez !<br>/ʁəɡaʁde/	Look!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici Paris.<br>/vwasi paʁi/	Here is Paris.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici la capitale de la Pologne.<br>/vwasi la kapital də la pɔlɔɲ/	Here is the capital of Poland.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Marie regarde un livre.<br>/maʁi ʁəɡaʁd œ̃ livʁ/	Marie is looking at a book.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Nous regardons le livre de Jean.<br>/nu ʁəɡaʁdɔ̃ lə livʁ də ʒɑ̃/	We are looking at Jean's book.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici trois cartes et quatre photos.<br>/vwasi tʁwa kaʁt e katʁ fɔto/	Here are three postcards and four photos.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+trois : trois fois · les trois amis · à trois heures<br>/tʁwa fwa · le tʁwaz‿ami · a tʁwaz‿œʁ/	three times · the three friends · at three o'clock	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+troisième : au troisième étage · la troisième fois · le troisième jour<br>/o tʁwazjɛm etaʒ · la tʁwazjɛm fwa · lə tʁwazjɛm ʒuʁ/	on the third floor · the third time · the third day	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+l’amie, l’ami : une bonne amie · mon meilleur ami · un ami d’enfance<br>/yn bɔn ami · mɔ̃ mɛjœʁ ami · œ̃n‿ami dɑ̃fɑ̃s/	a good friend (a woman) · my best friend · a childhood friend	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+voilà : voilà tout · me voilà · voilà pourquoi<br>/vwala tu · mə vwala · vwala puʁkwa/	that's all · here I am · that is why	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+voici : voici ma sœur · le voici · voici la réponse<br>/vwasi ma sœʁ · lə vwasi · vwasi la ʁepɔ̃s/	here is my sister · here he is · here is the answer	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le camarade : un camarade de classe · une camarade · camarade !<br>/œ̃ kamaʁad də klas · yn kamaʁad · kamaʁad/	a classmate · a female friend · comrade!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la capitale : la capitale de la France · une lettre capitale · en capitales<br>/la kapital də la fʁɑ̃s · yn lɛtʁ kapital · ɑ̃ kapital/	the capital of France · a capital letter · in capitals	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la France : en France · le sud de la France · la France entière<br>/ɑ̃ fʁɑ̃s · lə syd də la fʁɑ̃s · la fʁɑ̃s ɑ̃tjɛʁ/	in France · the south of France · the whole of France	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+regarder : regarde ! · regardez-moi · regarder un film<br>/ʁəɡaʁd · ʁəɡaʁde mwa · ʁəɡaʁde œ̃ film/	look! · look at me · to watch a film	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la Pologne : en Pologne · le nord de la Pologne · la Pologne et la France<br>/ɑ̃ pɔlɔɲ · lə nɔʁ də la pɔlɔɲ · la pɔlɔɲ e la fʁɑ̃s/	in Poland · the north of Poland · Poland and France	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la tour : la Tour Eiffel · une tour de vingt étages · le Tour de France (masculine: a tour, a turn)<br>/la tuʁ ɛfɛl · yn tuʁ də vɛ̃t‿etaʒ · lə tuʁ də fʁɑ̃s/	the Eiffel Tower · a twenty-storey tower · the Tour de France	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le palais : le Palais de la Culture · le palais royal · le Palais de justice<br>/lə palɛ də la kyltyʁ · lə palɛ ʁwajal · lə palɛ də ʒystis/	the Palace of Culture · the royal palace · the law courts	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la culture : la culture française · la culture générale · un homme de culture<br>/la kyltyʁ fʁɑ̃sɛz · la kyltyʁ ʒeneʁal · œ̃n‿ɔm də kyltyʁ/	French culture · general knowledge · a cultured man	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la science : les sciences · la science-fiction · un homme de science<br>/le sjɑ̃s · la sjɑ̃s fiksjɔ̃ · œ̃n‿ɔm də sjɑ̃s/	the sciences · science fiction · a man of science	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+aussi : moi aussi · aussi grand que · et aussi<br>/mwa osi · osi ɡʁɑ̃ kə · e osi/	me too · as big as · and also	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+aimer : nous aimons Paris · j’aime bien · aimer parler<br>/nuz‿ɛmɔ̃ paʁi · ʒɛm bjɛ̃ · ɛme paʁle/	we love Paris · I quite like · to like speaking	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la photo : prendre une photo · une photo de famille · un appareil photo<br>/pʁɑ̃dʁ yn fɔto · yn fɔto də famij · œ̃n‿apaʁɛj fɔto/	to take a photo · a family photo · a camera	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la carte : une carte postale · la carte de France · une carte d’identité<br>/yn kaʁt pɔstal · la kaʁt də fʁɑ̃s · yn kaʁt didɑ̃tite/	a postcard · the map of France · an identity card	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+parler : parler français · parler de Paris · parler à Marie<br>/paʁle fʁɑ̃sɛ · paʁle də paʁi · paʁle a maʁi/	to speak French · to talk about Paris · to talk to Marie	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Paris : à Paris · de Paris · un Parisien, une Parisienne<br>/a paʁi · də paʁi · œ̃ paʁizjɛ̃, yn paʁizjɛn/	in Paris · from Paris · a Parisian	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Varsovie : à Varsovie · de Varsovie · un Varsovien, une Varsovienne<br>/a vaʁsɔvi · də vaʁsɔvi · œ̃ vaʁsɔvjɛ̃, yn vaʁsɔvjɛn/	in Warsaw · from Warsaw · a Varsovian	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici Marie. La voici !<br>/vwasi maʁi. la vwasi/	Here is Marie. Here she is!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Regardez la carte de France : voilà Paris.<br>/ʁəɡaʁde la kaʁt də fʁɑ̃s : vwala paʁi/	Look at the map of France: there is Paris.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+J’écoute la radio et je regarde les photos.<br>/ʒekut la ʁadjo e ʒə ʁəɡaʁd le fɔto/	I listen to the radio and look at the photos.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+À Berlin on parle allemand ; à Rome on parle italien.<br>/a bɛʁlɛ̃ ɔ̃ paʁl almɑ̃ ; a ʁɔm ɔ̃ paʁl italjɛ̃/	In Berlin people speak German; in Rome, Italian.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Nous aimons regarder la Tour Eiffel la nuit.<br>/nuz‿ɛmɔ̃ ʁəɡaʁde la tuʁ ɛfɛl la nɥi/	We like looking at the Eiffel Tower at night.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Le camarade de Jean habite à Varsovie.<br>/lə kamaʁad də ʒɑ̃ abit a vaʁsɔvi/	Jean's friend lives in Warsaw.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Suzanne apporte trois cartes postales de Paris.<br>/syzan apɔʁt tʁwa kaʁt pɔstal də paʁi/	Suzanne brings three postcards from Paris.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+La science et la culture sont au Palais.<br>/la sjɑ̃s e la kyltyʁ sɔ̃(t)‿o palɛ/	Science and culture are at the Palace.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Regardons ensemble les photos de Pierre !<br>/ʁəɡaʁdɔ̃ ɑ̃sɑ̃bl le fɔto də pjɛʁ/	Let's look at Pierre's photos together!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Madame Renoir fume une cigarette dans le jardin.<br>/madam ʁənwaʁ fym yn siɡaʁɛt dɑ̃ lə ʒaʁdɛ̃/	Mrs Renoir smokes a cigarette in the garden.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la carte postale<br>/la kaʁt pɔstal/	the postcard	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la carte de France<br>/la kaʁt də fʁɑ̃s/	the map of France	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+écouter<br>/ekute/	to listen to	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+apporter<br>/apɔʁte/	to bring	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+fumer<br>/fyme/	to smoke	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+ensemble<br>/ɑ̃sɑ̃bl/	together	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la nuit<br>/la nɥi/	the night; at night	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+allemand, italien, anglais, polonais, français<br>/almɑ̃, italjɛ̃, ɑ̃ɡlɛ, pɔlɔnɛ, fʁɑ̃sɛ/	German, Italian, English, Polish, French (the languages, no capital letter)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le pays<br>/lə pei/	the country	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la ville<br>/la vil/	the city	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+________ la photo ________ Suzanne : regarde !<br>(AI exercise: voici or voilà, le, la, les or de)	/[vwasi] la fɔto [də] syzan : ʁəɡaʁd/<br>Here is Suzanne's photo: look!	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+À Varsovie on parle ________.<br>(AI exercise: voici or voilà, le, la, les or de)	/a vaʁsɔvi ɔ̃ paʁl [pɔlɔnɛ]/<br>In Warsaw people speak Polish.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+________ capitale ________ la France est Paris.<br>(AI exercise: voici or voilà, le, la, les or de)	/[la] kapital [də] la fʁɑ̃s ɛ paʁi/<br>The capital of France is Paris.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+regarder la carte (nous)<br>/ʁəɡaʁde la kaʁt/	to look at the map (we)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+regarder la carte (nous) → AI exercise: give the imperative	Regardons la carte !<br>/ʁəɡaʁdɔ̃ la kaʁt/<br>Let's look at the map!	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+écouter Marie (tu)<br>/ekute maʁi/	to listen to Marie (you, one person)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+écouter Marie (tu) → AI exercise: give the imperative	Écoute Marie !<br>/ekut maʁi/<br>Listen to Marie!	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+apporter les photos (vous)<br>/apɔʁte le fɔto/	to bring the photos (you, several)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+apporter les photos (vous) → AI exercise: give the imperative	Apportez les photos !<br>/apɔʁte le fɔto/<br>Bring the photos!	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos

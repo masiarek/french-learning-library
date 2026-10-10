@@ -5,7 +5,7 @@
 
 The lesson pages of 02_Yosser_teacher, 03_Szypowska, 04_Pronunciation and
 05_1000_words are tables of French,
-English (with Polish below) and IPA, written by hand. This tool reads every
+English and IPA, written by hand. This tool reads every
 IPA cell on those pages, splits it into symbols of Le Robert's French
 inventory, longest match first, and fails on anything else: a stray Latin
 letter, an English symbol, a stress or length mark. The inventory is the one

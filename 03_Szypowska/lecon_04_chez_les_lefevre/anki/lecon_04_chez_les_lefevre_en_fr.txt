@@ -1,8 +1,8 @@
 #separator:tab
 #html:true
 #notetype:Basic
-#deck:French::Szypowska (PL-FR)::Lesson 4: Chez les Lefèvre
-#tags:french szypowska lecon04 pl-fr
+#deck:French::Szypowska (EN-FR)::Lesson 4: Chez les Lefèvre
+#tags:french szypowska lecon04 en-fr
 #columns:Front	Back	Tags
 #tags column:3
 Mr and Mrs Lefèvre live in a flat on the rue du Bac.	Monsieur et Madame Lefèvre habitent un appartement rue du Bac.<br>/məsjø e madam ləfɛvʁ abit‿œ̃n‿apaʁtəmɑ̃ ʁy dy bak/	en-fr
