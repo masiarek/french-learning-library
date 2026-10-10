@@ -98,6 +98,7 @@ NAV_ORDER: dict[str, list[str]] = {
     "02_Yosser_teacher": [
         "README.md",
         "lesson_01_la_maison",
+        "lesson_01_lecture_ma_maison",
     ],
     # Szypowska's Polish textbook of French, one page per lesson of the book,
     # in the book's order.

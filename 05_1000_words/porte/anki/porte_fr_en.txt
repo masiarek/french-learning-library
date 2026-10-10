@@ -1,0 +1,61 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::une porte — a door
+#tags:french 1000words porte fr-en
+#columns:Front	Back	Tags
+#tags column:3
+une porte<br>/yn pɔʁt/	(n.f.) door	fr-en
+Ferme la porte, s'il te plaît.<br>/fɛʁm la pɔʁt, sil tə plɛ/	Close the door, please.	fr-en
+la porte d'entrée<br>/la pɔʁt dɑ̃tʁe/	the front door	fr-en
+la porte de derrière<br>/la pɔʁt də dɛʁjɛʁ/	the back door	fr-en
+la porte du garage<br>/la pɔʁt dy ɡaʁaʒ/	the garage door	fr-en
+la porte de la chambre<br>/la pɔʁt də la ʃɑ̃bʁ/	the bedroom door	fr-en
+le portail<br>/lə pɔʁtaj/	the gate	fr-en
+la porte-fenêtre<br>/la pɔʁtfənɛtʁ/	the French window	fr-en
+une porte coulissante<br>/yn pɔʁt kulisɑ̃t/	a sliding door	fr-en
+la poignée<br>/la pwaɲe/	the handle	fr-en
+la serrure<br>/la seʁyʁ/	the lock	fr-en
+la clé, les clés<br>/la kle, le kle/	the key, the keys	fr-en
+la sonnette<br>/la sɔnɛt/	the doorbell	fr-en
+le paillasson<br>/lə pajasɔ̃/	the doormat	fr-en
+frapper à la porte<br>/fʁape a la pɔʁt/	to knock on the door	fr-en
+sonner à la porte<br>/sɔne a la pɔʁt/	to ring the doorbell	fr-en
+ouvrir la porte<br>/uvʁiʁ la pɔʁt/	to open the door	fr-en
+fermer la porte<br>/fɛʁme la pɔʁt/	to close the door	fr-en
+fermer la porte à clé<br>/fɛʁme la pɔʁt a kle/	to lock the door	fr-en
+claquer la porte<br>/klake la pɔʁt/	to slam the door	fr-en
+laisser la porte ouverte<br>/lese la pɔʁt uvɛʁt/	to leave the door open	fr-en
+la porte est ouverte, fermée, entrouverte<br>/la pɔʁt ɛt‿uvɛʁt, fɛʁme, ɑ̃tʁuvɛʁt/	the door is open, closed, ajar	fr-en
+Qui est à la porte ?<br>/ki ɛ a la pɔʁt/	Who is at the door?	fr-en
+On frappe à la porte.<br>/ɔ̃ fʁap a la pɔʁt/	Someone is knocking at the door.	fr-en
+mettre quelqu'un à la porte<br>/mɛtʁ kɛlkœ̃ a la pɔʁt/	to throw someone out	fr-en
+C'est la porte à côté.<br>/sɛ la pɔʁt a kote/	It is right next door.	fr-en
+entre deux portes<br>/ɑ̃tʁ dø pɔʁt/	in passing, in a hurry	fr-en
+trouver porte close<br>/tʁuve pɔʁt kloz/	to find nobody in	fr-en
+la journée portes ouvertes<br>/la ʒuʁne pɔʁt uvɛʁt/	the open day	fr-en
+faire du porte-à-porte<br>/fɛʁ dy pɔʁtapɔʁt/	to go door to door	fr-en
+la porte d'embarquement<br>/la pɔʁt dɑ̃baʁkəmɑ̃/	the boarding gate	fr-en
+la porte de Versailles<br>/la pɔʁt də vɛʁsaj/	the Porte de Versailles, an old city gate of Paris	fr-en
+la porte – il porte<br>/la pɔʁt/ · /il pɔʁt/	the door – he carries, he wears	fr-en
+Elle porte un manteau.<br>/ɛl pɔʁt œ̃ mɑ̃to/	She is wearing a coat.	fr-en
+Il porte les valises.<br>/il pɔʁt le valiz/	He is carrying the suitcases.	fr-en
+la porte – le port – le pot<br>/la pɔʁt/ · /lə pɔʁ/ · /lə po/	the door – the port – the pot: /ɔ/ before a consonant, /o/ with nothing after	fr-en
+Ferme la porte, il fait froid.<br>/fɛʁm la pɔʁt, il fɛ fʁwa/	Close the door, it is cold.	fr-en
+Quelqu'un frappe à la porte.<br>/kɛlkœ̃ fʁap a la pɔʁt/	Someone is knocking at the door.	fr-en
+La porte de ma chambre est fermée.<br>/la pɔʁt də ma ʃɑ̃bʁ ɛ fɛʁme/	My bedroom door is closed.	fr-en
+Je ne trouve pas la clé de la porte d'entrée.<br>/ʒə nə tʁuv pa la kle də la pɔʁt dɑ̃tʁe/	I cannot find the key to the front door.	fr-en
+Le chat attend devant la porte.<br>/lə ʃa atɑ̃ dəvɑ̃ la pɔʁt/	The cat is waiting in front of the door.	fr-en
+Il a claqué la porte et il est parti.<br>/il a klake la pɔʁt e il ɛ paʁti/	He slammed the door and left.	fr-en
+La boulangerie, c'est la porte à côté.<br>/la bulɑ̃ʒʁi, sɛ la pɔʁt a kote/	The bakery is right next door.	fr-en
+N'oublie pas de fermer la porte à clé.<br>/nubli pa də fɛʁme la pɔʁt a kle/	Do not forget to lock the door.	fr-en
+Notre vol part de la porte douze.<br>/nɔtʁ vɔl paʁ də la pɔʁt duz/	Our flight leaves from gate twelve.	fr-en
+Ma mère porte un sac et ouvre la porte.<br>/ma mɛʁ pɔʁt œ̃ sak e uvʁ la pɔʁt/	My mother is carrying a bag and opening the door.	fr-en
+On ________ à la porte : va ouvrir !<br>(AI exercise: the verb at the door)	/ɔ̃ [fʁap] a la pɔʁt : va uvʁiʁ/<br>Someone is knocking at the door: go and open it!	exercise
+Le soir, je ________ la porte à clé.<br>(AI exercise: the verb at the door)	/lə swaʁ, ʒə [fɛʁm] la pɔʁt a kle/<br>In the evening I lock the door.	exercise
+Il ________ la porte et il entre.<br>(AI exercise: the verb at the door)	/il [uvʁ] la pɔʁt e il ɑ̃tʁ/<br>He opens the door and comes in.	exercise
+________ porte est ouverte.<br>(AI exercise: the noun or the verb porte?)	/[la] pɔʁt ɛt‿uvɛʁt/<br>The door is open.	exercise
+________ porte une robe rouge.<br>(AI exercise: the noun or the verb porte?)	/[ɛl] pɔʁt yn ʁɔb ʁuʒ/<br>She is wearing a red dress.	exercise
+________ porte<br>(AI exercise: un or une?)	/[yn] pɔʁt/<br>a door	exercise
+________ clé<br>(AI exercise: un or une?)	/[yn] kle/<br>a key	exercise
+________ portail<br>(AI exercise: un or une?)	/[œ̃] pɔʁtaj/<br>a gate	exercise

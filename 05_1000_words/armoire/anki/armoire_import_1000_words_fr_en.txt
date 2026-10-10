@@ -1,0 +1,57 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+une armoire<br>/yn aʁmwaʁ/	(n.f.) wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Mes vêtements sont dans l'armoire.<br>/me vɛtmɑ̃ sɔ̃ dɑ̃ laʁmwaʁ/	My clothes are in the wardrobe.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+je range, tu ranges, il range<br>/ʒə ʁɑ̃ʒ, ty ʁɑ̃ʒ, il ʁɑ̃ʒ/	I tidy, you tidy, he tidies	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+nous rangeons, vous rangez, ils rangent<br>/nu ʁɑ̃ʒɔ̃, vu ʁɑ̃ʒe, il ʁɑ̃ʒ/	we tidy, you tidy, they tidy	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+j'ai rangé<br>/ʒe ʁɑ̃ʒe/	I tidied, I have put away	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+range ! rangez !<br>/ʁɑ̃ʒ, ʁɑ̃ʒe/	tidy up!	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+l'armoire<br>/laʁmwaʁ/	the wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+les armoires, des armoires<br>/lez‿aʁmwaʁ, dez‿aʁmwaʁ/	the wardrobes, wardrobes	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+mon armoire, ton armoire, son armoire<br>/mɔ̃n‿aʁmwaʁ, tɔ̃n‿aʁmwaʁ, sɔ̃n‿aʁmwaʁ/	my, your, his or her wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+cette armoire<br>/sɛt aʁmwaʁ/	this wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une grande armoire, une vieille armoire<br>/yn ɡʁɑ̃d aʁmwaʁ, yn vjɛj aʁmwaʁ/	a big wardrobe, an old wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+les vêtements<br>/le vɛtmɑ̃/	the clothes	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+un cintre, des cintres<br>/œ̃ sɛ̃tʁ, de sɛ̃tʁ/	a coat hanger, coat hangers	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une étagère<br>/yn etaʒɛʁ/	a shelf	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+un tiroir<br>/œ̃ tiʁwaʁ/	a drawer	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une robe, une chemise, un pantalon<br>/yn ʁɔb, yn ʃəmiz, œ̃ pɑ̃talɔ̃/	a dress, a shirt, trousers	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+un pull, un manteau<br>/œ̃ pyl, œ̃ mɑ̃to/	a jumper, a coat	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+des chaussures<br>/de ʃosyʁ/	shoes	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une armoire<br>/yn aʁmwaʁ/ (2)	a wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+un placard, un placard de cuisine<br>/œ̃ plakaʁ, œ̃ plakaʁ də kɥizin/	a built-in cupboard, a kitchen cupboard	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une commode<br>/yn kɔmɔd/	a chest of drawers	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+un buffet<br>/œ̃ byfɛ/	a sideboard	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une bibliothèque<br>/yn biblijɔtɛk/	a bookcase; a library	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une armoire à pharmacie<br>/yn aʁmwaʁ a faʁmasi/	a medicine cabinet	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une armoire à glace<br>/yn aʁmwaʁ a ɡlas/	a mirrored wardrobe; a hulk of a man	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+ranger ses vêtements dans l'armoire<br>/ʁɑ̃ʒe se vɛtmɑ̃ dɑ̃ laʁmwaʁ/	to put one's clothes away in the wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+accrocher une chemise sur un cintre<br>/akʁɔʃe yn ʃəmiz syʁ œ̃ sɛ̃tʁ/	to hang a shirt on a hanger	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+plier un pull<br>/plije œ̃ pyl/	to fold a jumper	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+sortir un manteau de l'armoire<br>/sɔʁtiʁ œ̃ mɑ̃to də laʁmwaʁ/	to take a coat out of the wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+L'armoire est pleine.<br>/laʁmwaʁ ɛ plɛn/	The wardrobe is full.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Range ta chambre !<br>/ʁɑ̃ʒ ta ʃɑ̃bʁ/	Tidy your room!	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+l'armoire, moi, trois, la voiture, le tiroir<br>/laʁmwaʁ, mwa, tʁwa, la vwatyʁ, lə tiʁwaʁ/	the wardrobe, me, three, the car, the drawer	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Il y a une grande armoire dans ma chambre.<br>/il j a yn ɡʁɑ̃d aʁmwaʁ dɑ̃ ma ʃɑ̃bʁ/	There is a big wardrobe in my bedroom.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Je range mes vêtements dans l'armoire.<br>/ʒə ʁɑ̃ʒ me vɛtmɑ̃ dɑ̃ laʁmwaʁ/	I put my clothes away in the wardrobe.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Mon manteau est dans l'armoire de l'entrée.<br>/mɔ̃ mɑ̃to ɛ dɑ̃ laʁmwaʁ də lɑ̃tʁe/	My coat is in the hall wardrobe.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Cette armoire est trop grande pour la chambre.<br>/sɛt aʁmwaʁ ɛ tʁo ɡʁɑ̃d puʁ la ʃɑ̃bʁ/	This wardrobe is too big for the bedroom.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Les enfants rangent leurs jouets dans le placard.<br>/lez‿ɑ̃fɑ̃ ʁɑ̃ʒ lœʁ ʒwɛ dɑ̃ lə plakaʁ/	The children put their toys away in the cupboard.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Ma mère a acheté une vieille armoire.<br>/ma mɛʁ a aʃte yn vjɛj aʁmwaʁ/	My mother bought an old wardrobe.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Il n'y a plus de place dans l'armoire.<br>/il nj a ply də plas dɑ̃ laʁmwaʁ/	There is no room left in the wardrobe.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Sors un pull de l'armoire, il fait froid.<br>/sɔʁ œ̃ pyl də laʁmwaʁ, il fɛ fʁwa/	Take a jumper out of the wardrobe, it is cold.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Nous rangeons la maison le samedi.<br>/nu ʁɑ̃ʒɔ̃ la mɛzɔ̃ lə samdi/	We tidy the house on Saturdays.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Les médicaments sont dans l'armoire à pharmacie.<br>/le medikamɑ̃ sɔ̃ dɑ̃ laʁmwaʁ a faʁmasi/	The medicines are in the medicine cabinet.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+________ armoire est pleine.<br>(AI exercise: ma, mon, l', les …?)	/[mɔ̃n]‿aʁmwaʁ ɛ plɛn/<br>My wardrobe is full.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+________ armoires de la maison sont vieilles.<br>(AI exercise: ma, mon, l', les …?)	/[lez]‿aʁmwaʁ də la mɛzɔ̃ sɔ̃ vjɛj/<br>The wardrobes in the house are old.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+Le pull est dans ________ armoire.<br>(AI exercise: ma, mon, l', les …?)	/lə pyl ɛ dɑ̃ [laʁmwaʁ]/<br>The jumper is in the wardrobe.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+Je ________ ma chambre.<br>(AI exercise: ranger, in the right form)	/ʒə [ʁɑ̃ʒ] ma ʃɑ̃bʁ/<br>I am tidying my room.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+Nous ________ les vêtements.<br>(AI exercise: ranger, in the right form)	/nu [ʁɑ̃ʒɔ̃] le vɛtmɑ̃/<br>We are putting the clothes away.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+________ tes jouets !<br>(AI exercise: ranger, in the right form)	/[ʁɑ̃ʒ] te ʒwɛ/<br>Put your toys away! (to a child)	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+Les assiettes sont dans le ________ de la cuisine.<br>(AI exercise: armoire, placard or commode?)	/lez‿asjɛt sɔ̃ dɑ̃ lə [plakaʁ] də la kɥizin/<br>The plates are in the kitchen cupboard.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+Les chaussettes sont dans la ________.<br>(AI exercise: armoire, placard or commode?)	/le ʃosɛt sɔ̃ dɑ̃ la [kɔmɔd]/<br>The socks are in the chest of drawers.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+Les robes sont dans l'________.<br>(AI exercise: armoire, placard or commode?)	/le ʁɔb sɔ̃ dɑ̃ l[aʁmwaʁ]/<br>The dresses are in the wardrobe.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe

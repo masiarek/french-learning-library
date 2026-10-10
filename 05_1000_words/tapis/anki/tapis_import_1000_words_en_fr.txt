@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(n.m.) carpet, rug	un tapis<br>/œ̃ tapi/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+There is a rug in front of the sofa.	Il y a un tapis devant le canapé.<br>/il j a œ̃ tapi dəvɑ̃ lə kanape/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+the floor, the ground	le sol<br>/lə sɔl/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+the wooden floor	le plancher, le parquet<br>/lə plɑ̃ʃe, lə paʁkɛ/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+the tiled floor	le carrelage<br>/lə kaʁlaʒ/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+the fitted carpet	la moquette<br>/la mɔkɛt/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+a rug, rugs	un tapis, des tapis<br>/œ̃ tapi, de tapi/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+the doormat	le paillasson<br>/lə pajasɔ̃/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+a bath mat	un tapis de bain<br>/œ̃ tapi də bɛ̃/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+a mouse mat	un tapis de souris<br>/œ̃ tapi də suʁi/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+a yoga mat	un tapis de yoga<br>/œ̃ tapi də jɔɡa/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+a ground sheet, a floor mat	un tapis de sol<br>/œ̃ tapi də sɔl/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+a treadmill; a conveyor belt; a moving walkway	un tapis roulant<br>/œ̃ tapi ʁulɑ̃/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+a flying carpet	un tapis volant<br>/œ̃ tapi vɔlɑ̃/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+a Persian rug	un tapis persan<br>/œ̃ tapi pɛʁsɑ̃/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+the red carpet	le tapis rouge<br>/lə tapi ʁuʒ/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+a son, sons	un fils, des fils<br>/œ̃ fis, de fis/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+an arm, arms	un bras, des bras<br>/œ̃ bʁa, de bʁa/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+a price, prices	un prix, des prix<br>/œ̃ pʁi, de pʁi/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+a voice, voices	une voix, des voix<br>/yn vwa, de vwa/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+a nose, noses	un nez, des nez<br>/œ̃ ne, de ne/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+to bring a question up	mettre une question sur le tapis<br>/mɛtʁ yn kɛstjɔ̃ syʁ lə tapi/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+to roll out the red carpet	dérouler le tapis rouge<br>/deʁule lə tapi ʁuʒ/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+to floor someone, in boxing	envoyer quelqu'un au tapis<br>/ɑ̃vwaje kɛlkœ̃ o tapi/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+to vacuum the rug	passer l'aspirateur sur le tapis<br>/pase laspiʁatœʁ syʁ lə tapi/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+to shake the rug	secouer le tapis<br>/səkwe lə tapi/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+a stain on the rug	une tache sur le tapis<br>/yn taʃ syʁ lə tapi/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+to wipe one's feet on the doormat	essuyer ses pieds sur le paillasson<br>/esɥije se pje syʁ lə pajasɔ̃/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+the rug – the tapir: the r is said	le tapis – le tapir<br>/lə tapi/ · /lə tapiʁ/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+the rug – he types, he hits	le tapis – il tape<br>/lə tapi/ · /il tap/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+the rug – the taxi	le tapis – le taxi<br>/lə tapi/ · /lə taksi/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+There is a big rug in the living room.	Il y a un grand tapis dans le salon.<br>/il j a œ̃ ɡʁɑ̃ tapi dɑ̃ lə salɔ̃/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+The cat is sleeping on the rug.	Le chat dort sur le tapis.<br>/lə ʃa dɔʁ syʁ lə tapi/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+This rug comes from Turkey.	Ce tapis vient de Turquie.<br>/sə tapi vjɛ̃ də tyʁki/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+The children are playing on the rug.	Les enfants jouent sur le tapis.<br>/lez‿ɑ̃fɑ̃ ʒu syʁ lə tapi/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+I have to vacuum the rug.	Je dois passer l'aspirateur sur le tapis.<br>/ʒə dwa pase laspiʁatœʁ syʁ lə tapi/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+There is a coffee stain on the rug.	Il y a une tache de café sur le tapis.<br>/il j a yn taʃ də kafe syʁ lə tapi/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+We want to buy a rug for the bedroom.	Nous voulons acheter un tapis pour la chambre.<br>/nu vulɔ̃ aʃte œ̃ tapi puʁ la ʃɑ̃bʁ/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+My mother is shaking the rug out of the window.	Ma mère secoue le tapis par la fenêtre.<br>/ma mɛʁ səku lə tapi paʁ la fənɛtʁ/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+He runs on the treadmill every morning.	Il court sur le tapis roulant tous les matins.<br>/il kuʁ syʁ lə tapi ʁulɑ̃ tu le matɛ̃/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+Wipe your feet on the doormat!	Essuie tes pieds sur le paillasson !<br>/esɥi te pje syʁ lə pajasɔ̃/	french 1000words tapis en-fr	French::1000 words (EN-FR)::un tapis — a carpet, a rug
+Say: There is a rug in front of the sofa.	Il y a un tapis devant le canapé. /il j a œ̃ tapi dəvɑ̃ lə kanape/	french 1000words tapis challenge say	French::1000 words (EN-FR)::un tapis — a carpet, a rug::Challenges
+Say: The cat is sleeping on the rug.	Le chat dort sur le tapis. /lə ʃa dɔʁ syʁ lə tapi/	french 1000words tapis challenge say	French::1000 words (EN-FR)::un tapis — a carpet, a rug::Challenges
+Say: I have to vacuum the rug.	Je dois passer l'aspirateur sur le tapis. /ʒə dwa pase laspiʁatœʁ syʁ lə tapi/	french 1000words tapis challenge say	French::1000 words (EN-FR)::un tapis — a carpet, a rug::Challenges
+Say: Wipe your feet on the doormat!	Essuie tes pieds sur le paillasson ! /esɥi te pje syʁ lə pajasɔ̃/	french 1000words tapis challenge say	French::1000 words (EN-FR)::un tapis — a carpet, a rug::Challenges
+Say: There is a coffee stain on the rug.	Il y a une tache de café sur le tapis. /il j a yn taʃ də kafe syʁ lə tapi/	french 1000words tapis challenge say	French::1000 words (EN-FR)::un tapis — a carpet, a rug::Challenges
+The plural of un tapis	des tapis /de tapi/: a noun in -s, -x or -z takes no plural mark; only the article changes	french 1000words tapis challenge grammar	French::1000 words (EN-FR)::un tapis — a carpet, a rug::Challenges
+Rug, fitted carpet, doormat	un tapis /œ̃ tapi/, la moquette /la mɔkɛt/, le paillasson /lə pajasɔ̃/	french 1000words tapis challenge words	French::1000 words (EN-FR)::un tapis — a carpet, a rug::Challenges
+The floor, the wooden floor, the tiled floor	le sol /lə sɔl/, le parquet /lə paʁkɛ/, le carrelage /lə kaʁlaʒ/	french 1000words tapis challenge words	French::1000 words (EN-FR)::un tapis — a carpet, a rug::Challenges
+A treadmill, a flying carpet, the red carpet	un tapis roulant /œ̃ tapi ʁulɑ̃/, un tapis volant /œ̃ tapi vɔlɑ̃/, le tapis rouge /lə tapi ʁuʒ/	french 1000words tapis challenge words	French::1000 words (EN-FR)::un tapis — a carpet, a rug::Challenges
+To bring a question up, in French	mettre une question sur le tapis /mɛtʁ yn kɛstjɔ̃ syʁ lə tapi/	french 1000words tapis challenge words	French::1000 words (EN-FR)::un tapis — a carpet, a rug::Challenges
+tapis against tapir	/tapi/ against /tapiʁ/: the silent s leaves nothing after the /i/; the r of tapir is said	french 1000words tapis challenge sound	French::1000 words (EN-FR)::un tapis — a carpet, a rug::Challenges

@@ -1,0 +1,18 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::un tapis — a carpet, a rug::Challenges
+#tags:french 1000words tapis challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: There is a rug in front of the sofa.	Il y a un tapis devant le canapé. /il j a œ̃ tapi dəvɑ̃ lə kanape/	say
+Say: The cat is sleeping on the rug.	Le chat dort sur le tapis. /lə ʃa dɔʁ syʁ lə tapi/	say
+Say: I have to vacuum the rug.	Je dois passer l'aspirateur sur le tapis. /ʒə dwa pase laspiʁatœʁ syʁ lə tapi/	say
+Say: Wipe your feet on the doormat!	Essuie tes pieds sur le paillasson ! /esɥi te pje syʁ lə pajasɔ̃/	say
+Say: There is a coffee stain on the rug.	Il y a une tache de café sur le tapis. /il j a yn taʃ də kafe syʁ lə tapi/	say
+The plural of un tapis	des tapis /de tapi/: a noun in -s, -x or -z takes no plural mark; only the article changes	grammar
+Rug, fitted carpet, doormat	un tapis /œ̃ tapi/, la moquette /la mɔkɛt/, le paillasson /lə pajasɔ̃/	words
+The floor, the wooden floor, the tiled floor	le sol /lə sɔl/, le parquet /lə paʁkɛ/, le carrelage /lə kaʁlaʒ/	words
+A treadmill, a flying carpet, the red carpet	un tapis roulant /œ̃ tapi ʁulɑ̃/, un tapis volant /œ̃ tapi vɔlɑ̃/, le tapis rouge /lə tapi ʁuʒ/	words
+To bring a question up, in French	mettre une question sur le tapis /mɛtʁ yn kɛstjɔ̃ syʁ lə tapi/	words
+tapis against tapir	/tapi/ against /tapiʁ/: the silent s leaves nothing after the /i/; the r of tapir is said	sound

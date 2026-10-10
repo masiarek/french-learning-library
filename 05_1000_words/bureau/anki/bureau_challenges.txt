@@ -1,0 +1,18 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::un bureau — a desk, an office::Challenges
+#tags:french 1000words bureau challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: On my desk there are my books and my notebooks.	Sur mon bureau, il y a mes livres et mes cahiers. /syʁ mɔ̃ byʁo, il j a me livʁ e me kaje/	say
+Say: I go to the office at eight.	Je vais au bureau à huit heures. /ʒə vɛ o byʁo a ɥit œʁ/	say
+Say: Where is the post office?	Où est le bureau de poste ? /u ɛ lə byʁo də pɔst/	say
+Say: She works from home on Fridays.	Elle est en télétravail le vendredi. /ɛl ɛt‿ɑ̃ teletʁavaj lə vɑ̃dʁədi/	say
+Say: We have two desks in the house.	Nous avons deux bureaux dans la maison. /nuz‿avɔ̃ dø byʁo dɑ̃ la mɛzɔ̃/	say
+The two vowels of bureau	/y/ for u, as in tu, and /o/ for eau, three letters for one vowel: /byʁo/	sound
+The plural of un bureau	des bureaux /de byʁo/: a noun in -eau takes -x, like châteaux, cadeaux, gâteaux; the sound does not change	grammar
+The desk or the office?	Both are le bureau /lə byʁo/; au bureau is nearly always the office, sur le bureau the desk	words
+The post office, the tobacconist, the polling station	le bureau de poste /lə byʁo də pɔst/, le bureau de tabac /lə byʁo də taba/, le bureau de vote /lə byʁo də vɔt/	words
+Drawer, computer, keyboard, screen	le tiroir /lə tiʁwaʁ/, l'ordinateur /lɔʁdinatœʁ/, le clavier /lə klavje/, l'écran /lekʁɑ̃/	words
+bureau against bourreau	/byʁo/ the desk against /buʁo/ the executioner: /y/ against /u/	sound

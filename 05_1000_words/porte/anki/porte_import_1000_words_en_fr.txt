@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(n.f.) door	une porte<br>/yn pɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+Close the door, please.	Ferme la porte, s'il te plaît.<br>/fɛʁm la pɔʁt, sil tə plɛ/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the front door	la porte d'entrée<br>/la pɔʁt dɑ̃tʁe/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the back door	la porte de derrière<br>/la pɔʁt də dɛʁjɛʁ/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the garage door	la porte du garage<br>/la pɔʁt dy ɡaʁaʒ/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the bedroom door	la porte de la chambre<br>/la pɔʁt də la ʃɑ̃bʁ/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the gate	le portail<br>/lə pɔʁtaj/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the French window	la porte-fenêtre<br>/la pɔʁtfənɛtʁ/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+a sliding door	une porte coulissante<br>/yn pɔʁt kulisɑ̃t/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the handle	la poignée<br>/la pwaɲe/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the lock	la serrure<br>/la seʁyʁ/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the key, the keys	la clé, les clés<br>/la kle, le kle/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the doorbell	la sonnette<br>/la sɔnɛt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the doormat	le paillasson<br>/lə pajasɔ̃/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+to knock on the door	frapper à la porte<br>/fʁape a la pɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+to ring the doorbell	sonner à la porte<br>/sɔne a la pɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+to open the door	ouvrir la porte<br>/uvʁiʁ la pɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+to close the door	fermer la porte<br>/fɛʁme la pɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+to lock the door	fermer la porte à clé<br>/fɛʁme la pɔʁt a kle/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+to slam the door	claquer la porte<br>/klake la pɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+to leave the door open	laisser la porte ouverte<br>/lese la pɔʁt uvɛʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the door is open, closed, ajar	la porte est ouverte, fermée, entrouverte<br>/la pɔʁt ɛt‿uvɛʁt, fɛʁme, ɑ̃tʁuvɛʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+Who is at the door?	Qui est à la porte ?<br>/ki ɛ a la pɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+Someone is knocking at the door.	On frappe à la porte.<br>/ɔ̃ fʁap a la pɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+to throw someone out	mettre quelqu'un à la porte<br>/mɛtʁ kɛlkœ̃ a la pɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+It is right next door.	C'est la porte à côté.<br>/sɛ la pɔʁt a kote/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+in passing, in a hurry	entre deux portes<br>/ɑ̃tʁ dø pɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+to find nobody in	trouver porte close<br>/tʁuve pɔʁt kloz/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the open day	la journée portes ouvertes<br>/la ʒuʁne pɔʁt uvɛʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+to go door to door	faire du porte-à-porte<br>/fɛʁ dy pɔʁtapɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the boarding gate	la porte d'embarquement<br>/la pɔʁt dɑ̃baʁkəmɑ̃/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the Porte de Versailles, an old city gate of Paris	la porte de Versailles<br>/la pɔʁt də vɛʁsaj/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the door – he carries, he wears	la porte – il porte<br>/la pɔʁt/ · /il pɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+She is wearing a coat.	Elle porte un manteau.<br>/ɛl pɔʁt œ̃ mɑ̃to/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+He is carrying the suitcases.	Il porte les valises.<br>/il pɔʁt le valiz/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+the door – the port – the pot: /ɔ/ before a consonant, /o/ with nothing after	la porte – le port – le pot<br>/la pɔʁt/ · /lə pɔʁ/ · /lə po/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+Close the door, it is cold.	Ferme la porte, il fait froid.<br>/fɛʁm la pɔʁt, il fɛ fʁwa/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+Someone is knocking at the door. (2)	Quelqu'un frappe à la porte.<br>/kɛlkœ̃ fʁap a la pɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+My bedroom door is closed.	La porte de ma chambre est fermée.<br>/la pɔʁt də ma ʃɑ̃bʁ ɛ fɛʁme/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+I cannot find the key to the front door.	Je ne trouve pas la clé de la porte d'entrée.<br>/ʒə nə tʁuv pa la kle də la pɔʁt dɑ̃tʁe/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+The cat is waiting in front of the door.	Le chat attend devant la porte.<br>/lə ʃa atɑ̃ dəvɑ̃ la pɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+He slammed the door and left.	Il a claqué la porte et il est parti.<br>/il a klake la pɔʁt e il ɛ paʁti/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+The bakery is right next door.	La boulangerie, c'est la porte à côté.<br>/la bulɑ̃ʒʁi, sɛ la pɔʁt a kote/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+Do not forget to lock the door.	N'oublie pas de fermer la porte à clé.<br>/nubli pa də fɛʁme la pɔʁt a kle/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+Our flight leaves from gate twelve.	Notre vol part de la porte douze.<br>/nɔtʁ vɔl paʁ də la pɔʁt duz/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+My mother is carrying a bag and opening the door.	Ma mère porte un sac et ouvre la porte.<br>/ma mɛʁ pɔʁt œ̃ sak e uvʁ la pɔʁt/	french 1000words porte en-fr	French::1000 words (EN-FR)::une porte — a door
+Say: Close the door, please.	Ferme la porte, s'il te plaît. /fɛʁm la pɔʁt, sil tə plɛ/	french 1000words porte challenge say	French::1000 words (EN-FR)::une porte — a door::Challenges
+Say: Someone is knocking at the door.	Quelqu'un frappe à la porte. /kɛlkœ̃ fʁap a la pɔʁt/	french 1000words porte challenge say	French::1000 words (EN-FR)::une porte — a door::Challenges
+Say: Do not forget to lock the door.	N'oublie pas de fermer la porte à clé. /nubli pa də fɛʁme la pɔʁt a kle/	french 1000words porte challenge say	French::1000 words (EN-FR)::une porte — a door::Challenges
+Say: The bakery is right next door.	La boulangerie, c'est la porte à côté. /la bulɑ̃ʒʁi, sɛ la pɔʁt a kote/	french 1000words porte challenge say	French::1000 words (EN-FR)::une porte — a door::Challenges
+Say: Who is at the door?	Qui est à la porte ? /ki ɛ a la pɔʁt/	french 1000words porte challenge say	French::1000 words (EN-FR)::une porte — a door::Challenges
+Why /pɔʁt/ with an open o?	A consonant that is said follows the o, so it stays open, as in bol /bɔl/; pot /po/ closes because nothing follows	french 1000words porte challenge sound	French::1000 words (EN-FR)::une porte — a door::Challenges
+la porte and il porte	the door /la pɔʁt/ and he carries, he wears /il pɔʁt/, from porter: the same sound, told apart by the article or the pronoun	french 1000words porte challenge grammar	French::1000 words (EN-FR)::une porte — a door::Challenges
+To knock, to ring, to lock	frapper à la porte /fʁape a la pɔʁt/, sonner à la porte /sɔne a la pɔʁt/, fermer la porte à clé /fɛʁme la pɔʁt a kle/	french 1000words porte challenge words	French::1000 words (EN-FR)::une porte — a door::Challenges
+The front door, the back door, the gate	la porte d'entrée /la pɔʁt dɑ̃tʁe/, la porte de derrière /la pɔʁt də dɛʁjɛʁ/, le portail /lə pɔʁtaj/	french 1000words porte challenge words	French::1000 words (EN-FR)::une porte — a door::Challenges
+Handle, lock, key, doorbell	la poignée /la pwaɲe/, la serrure /la seʁyʁ/, la clé /la kle/, la sonnette /la sɔnɛt/	french 1000words porte challenge words	French::1000 words (EN-FR)::une porte — a door::Challenges
+To throw someone out, in French	mettre quelqu'un à la porte /mɛtʁ kɛlkœ̃ a la pɔʁt/	french 1000words porte challenge words	French::1000 words (EN-FR)::une porte — a door::Challenges

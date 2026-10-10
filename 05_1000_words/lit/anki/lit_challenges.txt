@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::un lit — a bed::Challenges
+#tags:french 1000words lit challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: I go to bed at ten o'clock.	Je vais au lit à dix heures. /ʒə vɛ o li a diz‿œʁ/	say
+Say: The children are already in bed.	Les enfants sont déjà au lit. /lez‿ɑ̃fɑ̃ sɔ̃ deʒa o li/	say
+Say: She reads in bed before sleeping.	Elle lit au lit avant de dormir. /ɛl li o li avɑ̃ də dɔʁmiʁ/	say
+Say: Go to bed, it is late!	Va au lit, il est tard ! /va o li, il ɛ taʁ/	say
+Say: We want a twin room.	Nous voulons une chambre à deux lits. /nu vulɔ̃ yn ʃɑ̃bʁ a dø li/	say
+Why do le lit and il lit sound the same?	The final t of lit is silent, so both are /li/; the article or the pronoun tells the bed from he reads	sound
+lit against lu: which vowels?	/li/ bed against /ly/ read, the participle: the /i/ of si and the /y/ of tu	sound
+To go to bed, to get out of bed, to make one's bed	aller au lit /ale o li/, sortir du lit /sɔʁtiʁ dy li/, faire son lit /fɛʁ sɔ̃ li/	words
+Why au lit and du lit?	à + le = au /o/, de + le = du /dy/: the contracted article before a masculine noun	grammar
+I go to bed, we go to bed, go to bed! (to a child)	je me couche /ʒə mə kuʃ/, nous nous couchons /nu nu kuʃɔ̃/, couche-toi /kuʃtwa/	grammar
+A double bed, a single bed, bunk beds	un grand lit /œ̃ ɡʁɑ̃ li/, un lit simple /œ̃ li sɛ̃pl/, des lits superposés /de li sypɛʁpoze/	words
+Sheet, blanket, pillow, mattress	un drap /œ̃ dʁa/, une couverture /yn kuvɛʁtyʁ/, un oreiller /œ̃n‿ɔʁeje/, un matelas /œ̃ matla/	words

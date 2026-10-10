@@ -1,0 +1,18 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une porte — a door::Challenges
+#tags:french 1000words porte challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: Close the door, please.	Ferme la porte, s'il te plaît. /fɛʁm la pɔʁt, sil tə plɛ/	say
+Say: Someone is knocking at the door.	Quelqu'un frappe à la porte. /kɛlkœ̃ fʁap a la pɔʁt/	say
+Say: Do not forget to lock the door.	N'oublie pas de fermer la porte à clé. /nubli pa də fɛʁme la pɔʁt a kle/	say
+Say: The bakery is right next door.	La boulangerie, c'est la porte à côté. /la bulɑ̃ʒʁi, sɛ la pɔʁt a kote/	say
+Say: Who is at the door?	Qui est à la porte ? /ki ɛ a la pɔʁt/	say
+Why /pɔʁt/ with an open o?	A consonant that is said follows the o, so it stays open, as in bol /bɔl/; pot /po/ closes because nothing follows	sound
+la porte and il porte	the door /la pɔʁt/ and he carries, he wears /il pɔʁt/, from porter: the same sound, told apart by the article or the pronoun	grammar
+To knock, to ring, to lock	frapper à la porte /fʁape a la pɔʁt/, sonner à la porte /sɔne a la pɔʁt/, fermer la porte à clé /fɛʁme la pɔʁt a kle/	words
+The front door, the back door, the gate	la porte d'entrée /la pɔʁt dɑ̃tʁe/, la porte de derrière /la pɔʁt də dɛʁjɛʁ/, le portail /lə pɔʁtaj/	words
+Handle, lock, key, doorbell	la poignée /la pwaɲe/, la serrure /la seʁyʁ/, la clé /la kle/, la sonnette /la sɔnɛt/	words
+To throw someone out, in French	mettre quelqu'un à la porte /mɛtʁ kɛlkœ̃ a la pɔʁt/	words

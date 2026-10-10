@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::une armoire — a wardrobe
+#tags:french 1000words armoire fr-en
+#columns:Front	Back	Tags
+#tags column:3
+une armoire<br>/yn aʁmwaʁ/	(n.f.) wardrobe	fr-en
+Mes vêtements sont dans l'armoire.<br>/me vɛtmɑ̃ sɔ̃ dɑ̃ laʁmwaʁ/	My clothes are in the wardrobe.	fr-en
+je range, tu ranges, il range<br>/ʒə ʁɑ̃ʒ, ty ʁɑ̃ʒ, il ʁɑ̃ʒ/	I tidy, you tidy, he tidies	fr-en
+nous rangeons, vous rangez, ils rangent<br>/nu ʁɑ̃ʒɔ̃, vu ʁɑ̃ʒe, il ʁɑ̃ʒ/	we tidy, you tidy, they tidy	fr-en
+j'ai rangé<br>/ʒe ʁɑ̃ʒe/	I tidied, I have put away	fr-en
+range ! rangez !<br>/ʁɑ̃ʒ, ʁɑ̃ʒe/	tidy up!	fr-en
+l'armoire<br>/laʁmwaʁ/	the wardrobe	fr-en
+les armoires, des armoires<br>/lez‿aʁmwaʁ, dez‿aʁmwaʁ/	the wardrobes, wardrobes	fr-en
+mon armoire, ton armoire, son armoire<br>/mɔ̃n‿aʁmwaʁ, tɔ̃n‿aʁmwaʁ, sɔ̃n‿aʁmwaʁ/	my, your, his or her wardrobe	fr-en
+cette armoire<br>/sɛt aʁmwaʁ/	this wardrobe	fr-en
+une grande armoire, une vieille armoire<br>/yn ɡʁɑ̃d aʁmwaʁ, yn vjɛj aʁmwaʁ/	a big wardrobe, an old wardrobe	fr-en
+les vêtements<br>/le vɛtmɑ̃/	the clothes	fr-en
+un cintre, des cintres<br>/œ̃ sɛ̃tʁ, de sɛ̃tʁ/	a coat hanger, coat hangers	fr-en
+une étagère<br>/yn etaʒɛʁ/	a shelf	fr-en
+un tiroir<br>/œ̃ tiʁwaʁ/	a drawer	fr-en
+une robe, une chemise, un pantalon<br>/yn ʁɔb, yn ʃəmiz, œ̃ pɑ̃talɔ̃/	a dress, a shirt, trousers	fr-en
+un pull, un manteau<br>/œ̃ pyl, œ̃ mɑ̃to/	a jumper, a coat	fr-en
+des chaussures<br>/de ʃosyʁ/	shoes	fr-en
+une armoire<br>/yn aʁmwaʁ/ (2)	a wardrobe	fr-en
+un placard, un placard de cuisine<br>/œ̃ plakaʁ, œ̃ plakaʁ də kɥizin/	a built-in cupboard, a kitchen cupboard	fr-en
+une commode<br>/yn kɔmɔd/	a chest of drawers	fr-en
+un buffet<br>/œ̃ byfɛ/	a sideboard	fr-en
+une bibliothèque<br>/yn biblijɔtɛk/	a bookcase; a library	fr-en
+une armoire à pharmacie<br>/yn aʁmwaʁ a faʁmasi/	a medicine cabinet	fr-en
+une armoire à glace<br>/yn aʁmwaʁ a ɡlas/	a mirrored wardrobe; a hulk of a man	fr-en
+ranger ses vêtements dans l'armoire<br>/ʁɑ̃ʒe se vɛtmɑ̃ dɑ̃ laʁmwaʁ/	to put one's clothes away in the wardrobe	fr-en
+accrocher une chemise sur un cintre<br>/akʁɔʃe yn ʃəmiz syʁ œ̃ sɛ̃tʁ/	to hang a shirt on a hanger	fr-en
+plier un pull<br>/plije œ̃ pyl/	to fold a jumper	fr-en
+sortir un manteau de l'armoire<br>/sɔʁtiʁ œ̃ mɑ̃to də laʁmwaʁ/	to take a coat out of the wardrobe	fr-en
+L'armoire est pleine.<br>/laʁmwaʁ ɛ plɛn/	The wardrobe is full.	fr-en
+Range ta chambre !<br>/ʁɑ̃ʒ ta ʃɑ̃bʁ/	Tidy your room!	fr-en
+l'armoire, moi, trois, la voiture, le tiroir<br>/laʁmwaʁ, mwa, tʁwa, la vwatyʁ, lə tiʁwaʁ/	the wardrobe, me, three, the car, the drawer	fr-en
+Il y a une grande armoire dans ma chambre.<br>/il j a yn ɡʁɑ̃d aʁmwaʁ dɑ̃ ma ʃɑ̃bʁ/	There is a big wardrobe in my bedroom.	fr-en
+Je range mes vêtements dans l'armoire.<br>/ʒə ʁɑ̃ʒ me vɛtmɑ̃ dɑ̃ laʁmwaʁ/	I put my clothes away in the wardrobe.	fr-en
+Mon manteau est dans l'armoire de l'entrée.<br>/mɔ̃ mɑ̃to ɛ dɑ̃ laʁmwaʁ də lɑ̃tʁe/	My coat is in the hall wardrobe.	fr-en
+Cette armoire est trop grande pour la chambre.<br>/sɛt aʁmwaʁ ɛ tʁo ɡʁɑ̃d puʁ la ʃɑ̃bʁ/	This wardrobe is too big for the bedroom.	fr-en
+Les enfants rangent leurs jouets dans le placard.<br>/lez‿ɑ̃fɑ̃ ʁɑ̃ʒ lœʁ ʒwɛ dɑ̃ lə plakaʁ/	The children put their toys away in the cupboard.	fr-en
+Ma mère a acheté une vieille armoire.<br>/ma mɛʁ a aʃte yn vjɛj aʁmwaʁ/	My mother bought an old wardrobe.	fr-en
+Il n'y a plus de place dans l'armoire.<br>/il nj a ply də plas dɑ̃ laʁmwaʁ/	There is no room left in the wardrobe.	fr-en
+Sors un pull de l'armoire, il fait froid.<br>/sɔʁ œ̃ pyl də laʁmwaʁ, il fɛ fʁwa/	Take a jumper out of the wardrobe, it is cold.	fr-en
+Nous rangeons la maison le samedi.<br>/nu ʁɑ̃ʒɔ̃ la mɛzɔ̃ lə samdi/	We tidy the house on Saturdays.	fr-en
+Les médicaments sont dans l'armoire à pharmacie.<br>/le medikamɑ̃ sɔ̃ dɑ̃ laʁmwaʁ a faʁmasi/	The medicines are in the medicine cabinet.	fr-en
+________ armoire est pleine.<br>(AI exercise: ma, mon, l', les …?)	/[mɔ̃n]‿aʁmwaʁ ɛ plɛn/<br>My wardrobe is full.	exercise
+________ armoires de la maison sont vieilles.<br>(AI exercise: ma, mon, l', les …?)	/[lez]‿aʁmwaʁ də la mɛzɔ̃ sɔ̃ vjɛj/<br>The wardrobes in the house are old.	exercise
+Le pull est dans ________ armoire.<br>(AI exercise: ma, mon, l', les …?)	/lə pyl ɛ dɑ̃ [laʁmwaʁ]/<br>The jumper is in the wardrobe.	exercise
+Je ________ ma chambre.<br>(AI exercise: ranger, in the right form)	/ʒə [ʁɑ̃ʒ] ma ʃɑ̃bʁ/<br>I am tidying my room.	exercise
+Nous ________ les vêtements.<br>(AI exercise: ranger, in the right form)	/nu [ʁɑ̃ʒɔ̃] le vɛtmɑ̃/<br>We are putting the clothes away.	exercise
+________ tes jouets !<br>(AI exercise: ranger, in the right form)	/[ʁɑ̃ʒ] te ʒwɛ/<br>Put your toys away! (to a child)	exercise
+Les assiettes sont dans le ________ de la cuisine.<br>(AI exercise: armoire, placard or commode?)	/lez‿asjɛt sɔ̃ dɑ̃ lə [plakaʁ] də la kɥizin/<br>The plates are in the kitchen cupboard.	exercise
+Les chaussettes sont dans la ________.<br>(AI exercise: armoire, placard or commode?)	/le ʃosɛt sɔ̃ dɑ̃ la [kɔmɔd]/<br>The socks are in the chest of drawers.	exercise
+Les robes sont dans l'________.<br>(AI exercise: armoire, placard or commode?)	/le ʁɔb sɔ̃ dɑ̃ l[aʁmwaʁ]/<br>The dresses are in the wardrobe.	exercise
