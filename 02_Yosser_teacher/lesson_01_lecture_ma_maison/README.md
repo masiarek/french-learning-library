@@ -1,6 +1,6 @@
 # Lesson 1, the reading: Ma maison — each sentence with its IPA
 
-Conventions: on the [chapter page](../README.md). The text, the questions and the true-or-false statements are those of [Lesson 1: La maison](../lesson_01_la_maison/README.md), which has the English beside every line; here each sentence stands alone with its transcription under it, to read aloud. The answer key is at the end.
+Conventions: on the [chapter page](../README.md). The text, the questions, the true-or-false statements, the grammar of *il y a* /il j a/ with its exercise, the prepositions of place and the model description of a house are those of [Lesson 1: La maison](../lesson_01_la_maison/README.md), which has the English beside every line; here each sentence stands alone with its transcription under it, to read aloud. The answer key is at the end, with the six sentences of exercise 8 completed, to read in one breath.
 
 ## 2. Lecture : Ma maison
 
@@ -86,6 +86,108 @@ Réponds aux questions.<br>/ʁepɔ̃ o kɛstjɔ̃/
 
 10. Adam n’aime pas sa maison.<br>/adam nɛm pa sa mɛzɔ̃/
 
+## 7. Grammaire : « Il y a »
+
+/ɡʁamɛʁ : il j a/
+
+On utilise « il y a » pour dire qu’une personne ou une chose se trouve dans un endroit.<br>/ɔ̃n‿ytiliz il j a puʁ diʁ kyn pɛʁsɔn u yn ʃoz sə tʁuv dɑ̃z‿œ̃n‿ɑ̃dʁwa/
+
+Exemples :<br>/ɛɡzɑ̃pl/
+
+Il y a un canapé dans le salon.<br>/il j a œ̃ kanape dɑ̃ lə salɔ̃/
+
+Il y a une table dans la cuisine.<br>/il j a yn tabl dɑ̃ la kɥizin/
+
+Il y a trois chambres dans la maison.<br>/il j a tʁwa ʃɑ̃bʁ dɑ̃ la mɛzɔ̃/
+
+Il y a des livres sur le bureau.<br>/il j a de livʁ syʁ lə byʁo/
+
+Structure :<br>/stʁyktyʁ/
+
+Il y a + un / une / des + nom.<br>/il j a + œ̃, yn, de + nɔ̃/
+
+## 8. Complète avec « il y a »
+
+/kɔ̃plɛt avɛk il j a/
+
+1. Dans ma maison, ________ un salon.<br>/dɑ̃ ma mɛzɔ̃, [il j a] œ̃ salɔ̃/
+
+2. Dans ma chambre, ________ un lit.<br>/dɑ̃ ma ʃɑ̃bʁ, [il j a] œ̃ li/
+
+3. Dans la cuisine, ________ une table.<br>/dɑ̃ la kɥizin, [il j a] yn tabl/
+
+4. Dans le jardin, ________ des fleurs.<br>/dɑ̃ lə ʒaʁdɛ̃, [il j a] de flœʁ/
+
+5. Dans le salon, ________ un canapé.<br>/dɑ̃ lə salɔ̃, [il j a] œ̃ kanape/
+
+6. Dans ma chambre, ________ une armoire.<br>/dɑ̃ ma ʃɑ̃bʁ, [il j a] yn aʁmwaʁ/
+
+## 9. Les prépositions de lieu
+
+/le pʁepozisjɔ̃ də ljø/
+
+Mots importants<br>/mo ɛ̃pɔʁtɑ̃/
+
+dans<br>/dɑ̃/
+
+sur<br>/syʁ/
+
+sous<br>/su/
+
+devant<br>/dəvɑ̃/
+
+derrière<br>/dɛʁjɛʁ/
+
+à côté de<br>/a kote də/
+
+Exemples :<br>/ɛɡzɑ̃pl/
+
+Le livre est sur le bureau.<br>/lə livʁ ɛ syʁ lə byʁo/
+
+Le sac est sous la table.<br>/lə sak ɛ su la tabl/
+
+La chaise est à côté du bureau.<br>/la ʃɛz ɛ(t)‿a kote dy byʁo/
+
+La voiture est devant la maison.<br>/la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃/
+
+Le jardin est derrière la maison.<br>/lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ la mɛzɔ̃/
+
+## 10. Décris ta maison
+
+/dekʁi ta mɛzɔ̃/
+
+Utilise les phrases suivantes pour parler de ta maison :<br>/ytiliz le fʁaz sɥivɑ̃t puʁ paʁle də ta mɛzɔ̃/
+
+J’habite dans une ________.<br>/ʒabit dɑ̃z‿yn …/
+
+Ma maison est ________.<br>/ma mɛzɔ̃ ɛ …/
+
+Dans ma maison, il y a ________.<br>/dɑ̃ ma mɛzɔ̃, il j a …/
+
+Dans ma chambre, il y a ________.<br>/dɑ̃ ma ʃɑ̃bʁ, il j a …/
+
+Dans le salon, il y a ________.<br>/dɑ̃ lə salɔ̃, il j a …/
+
+Sur mon bureau, il y a ________.<br>/syʁ mɔ̃ byʁo, il j a …/
+
+J’aime ma maison parce que ________.<br>/ʒɛm ma mɛzɔ̃ paʁs kə …/
+
+Exemple :<br>/ɛɡzɑ̃pl/
+
+J’habite dans une grande maison avec ma famille.<br>/ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/
+
+Ma maison est belle et confortable.<br>/ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/
+
+Dans ma maison, il y a un salon, une cuisine, trois chambres et deux salles de bains.<br>/dɑ̃ ma mɛzɔ̃, il j a œ̃ salɔ̃, yn kɥizin, tʁwa ʃɑ̃bʁ e dø sal də bɛ̃/
+
+Il y a aussi un petit jardin.<br>/il j a osi œ̃ pəti ʒaʁdɛ̃/
+
+Ma chambre est petite mais jolie.<br>/ma ʃɑ̃bʁ ɛ pətit mɛ ʒɔli/
+
+Il y a un lit, un bureau et une armoire.<br>/il j a œ̃ li, œ̃ byʁo e yn aʁmwaʁ/
+
+J’aime beaucoup ma maison.<br>/ʒɛm boku ma mɛzɔ̃/
+
 ## ✅ Corrigé — the answer key
 
 /kɔʁiʒe/
@@ -123,6 +225,22 @@ Réponds aux questions.<br>/ʁepɔ̃ o kɛstjɔ̃/
 /vʁɛ u fo/
 
 1 Vrai · 2 Faux · 3 Vrai · 4 Vrai · 5 Faux · 6 Vrai · 7 Vrai · 8 Vrai · 9 Vrai · 10 Faux<br>vrai /vʁɛ/, faux /fo/
+
+## 8. Complète avec « il y a »
+
+/kɔ̃plɛt avɛk il j a/
+
+1. Dans ma maison, il y a un salon.<br>/dɑ̃ ma mɛzɔ̃, il j a œ̃ salɔ̃/
+
+2. Dans ma chambre, il y a un lit.<br>/dɑ̃ ma ʃɑ̃bʁ, il j a œ̃ li/
+
+3. Dans la cuisine, il y a une table.<br>/dɑ̃ la kɥizin, il j a yn tabl/
+
+4. Dans le jardin, il y a des fleurs.<br>/dɑ̃ lə ʒaʁdɛ̃, il j a de flœʁ/
+
+5. Dans le salon, il y a un canapé.<br>/dɑ̃ lə salɔ̃, il j a œ̃ kanape/
+
+6. Dans ma chambre, il y a une armoire.<br>/dɑ̃ ma ʃɑ̃bʁ, il j a yn aʁmwaʁ/
 
 ## See also
 

@@ -1,0 +1,53 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::la lie — the dregs
+#tags:french 1000words lie en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(n.f.) lees, dregs, sediment	la lie<br>/la li/	en-fr
+There is some sediment left at the bottom of the bottle.	Il reste de la lie au fond de la bouteille.<br>/il ʁɛst də la li o fɔ̃ də la butɛj/	en-fr
+I tie	je lie<br>/ʒə li/	en-fr
+you tie	tu lies<br>/ty li/	en-fr
+he ties, she ties	il lie, elle lie<br>/il li, ɛl li/	en-fr
+we tie	nous lions<br>/nu ljɔ̃/	en-fr
+you tie (2)	vous liez<br>/vu lje/	en-fr
+they tie	ils lient, elles lient<br>/il li, ɛl li/	en-fr
+I tied, she tied	j'ai lié, elle a lié<br>/ʒe lje, ɛl a lje/	en-fr
+tie!	lie ! liez !<br>/li, lje/	en-fr
+linked to	lié à, liée à<br>/lje a/	en-fr
+a link, a bond; links	un lien, des liens<br>/œ̃ ljɛ̃, de ljɛ̃/	en-fr
+to untie, to connect	délier, relier<br>/delje, ʁəlje/	en-fr
+some wine, some sediment, some water, some bottles	du vin, de la lie, de l'eau, des bouteilles<br>/dy vɛ̃, də la li, də lo, de butɛj/	en-fr
+there is no sediment	il n'y a pas de lie<br>/il nj a pa də li/	en-fr
+there is no wine left	il n'y a plus de vin<br>/il nj a ply də vɛ̃/	en-fr
+a little sediment, a lot of wine	un peu de lie, beaucoup de vin<br>/œ̃ pø də li, boku də vɛ̃/	en-fr
+a bottle of wine, a glass of wine	une bouteille de vin, un verre de vin<br>/yn butɛj də vɛ̃, œ̃ vɛʁ də vɛ̃/	en-fr
+the lees, the sediment	la lie, les lies<br>/la li, le li/	en-fr
+a wine kept on its lees	un vin sur lie<br>/œ̃ vɛ̃ syʁ li/	en-fr
+the deposit at the bottom of the bottle	le dépôt au fond de la bouteille<br>/lə depo o fɔ̃ də la butɛj/	en-fr
+the pressed grape skins; the brandy made from them	le marc<br>/lə maʁ/	en-fr
+red wine, white wine, rosé	le vin rouge, le vin blanc, le rosé<br>/lə vɛ̃ ʁuʒ, lə vɛ̃ blɑ̃, lə ʁoze/	en-fr
+the bottle, the cork, the corkscrew	la bouteille, le bouchon, le tire-bouchon<br>/la butɛj, lə buʃɔ̃, lə tiʁbuʃɔ̃/	en-fr
+the cask, the barrel, the cellar	le tonneau, le fût, la cave<br>/lə tɔno, lə fy, la kav/	en-fr
+the grape harvest, the yeast, the fermentation	la vendange, la levure, la fermentation<br>/la vɑ̃dɑ̃ʒ, la ləvyʁ, la fɛʁmɑ̃tasjɔ̃/	en-fr
+to decant the wine	décanter le vin<br>/dekɑ̃te lə vɛ̃/	en-fr
+to draw the wine off	tirer le vin<br>/tiʁe lə vɛ̃/	en-fr
+the dregs of society	la lie de la société<br>/la li də la sɔsjete/	en-fr
+the rabble	la lie du peuple<br>/la li dy pœpl/	en-fr
+to drink the cup to the dregs, to bear an ordeal to its end	boire le calice jusqu'à la lie<br>/bwaʁ lə kalis ʒyska la li/	en-fr
+to the end	jusqu'au bout<br>/ʒysko bu/	en-fr
+to the last drop	jusqu'à la dernière goutte<br>/ʒyska la dɛʁnjɛʁ ɡut/	en-fr
+In for a penny, in for a pound.	Le vin est tiré, il faut le boire.<br>/lə vɛ̃ ɛ tiʁe, il fo lə bwaʁ/	en-fr
+the dregs – the bed – he reads – he ties	la lie – le lit – il lit – il lie<br>/la li/ · /lə li/ · /il li/ · /il li/	en-fr
+the dregs – the lily: the s is said	la lie – le lis<br>/la li/ · /lə lis/	en-fr
+the dregs – tied: the i glides before the vowel	la lie – lié<br>/la li/ · /lje/	en-fr
+the dregs – read, the participle: /i/ against /y/	la lie – lu<br>/la li/ · /ly/	en-fr
+The lees settle during fermentation.	La lie se dépose pendant la fermentation.<br>/la li sə depoz pɑ̃dɑ̃ la fɛʁmɑ̃tasjɔ̃/	en-fr
+Muscadet sur lie is drunk young.	Le Muscadet sur lie se boit jeune.<br>/lə myskadɛ syʁ li sə bwa ʒœn/	en-fr
+Don't drink the dregs, they are bitter.	Ne bois pas la lie, elle est amère.<br>/nə bwa pa la li, ɛl ɛ(t)‿amɛʁ/	en-fr
+This wine has a deposit, it has to be decanted.	Ce vin a un dépôt, il faut le décanter.<br>/sə vɛ̃ a œ̃ depo, il fo lə dekɑ̃te/	en-fr
+He drank the cup to the dregs.	Il a bu le calice jusqu'à la lie.<br>/il a by lə kalis ʒyska la li/	en-fr
+Those people are the dregs of society, he says.	Ces gens-là, c'est la lie de la société, dit-il.<br>/se ʒɑ̃ la, sɛ la li də la sɔsjete, ditil/	en-fr
+She ties the two bouquets with a ribbon.	Elle lie les deux bouquets avec un ruban.<br>/ɛl li le dø bukɛ avɛk œ̃ ʁybɑ̃/	en-fr
+The bed, the dregs, he reads, he ties: four words, one sound.	Le lit, la lie, il lit, il lie : quatre mots, un son.<br>/lə li, la li, il li, il li : katʁ mo, œ̃ sɔ̃/	en-fr

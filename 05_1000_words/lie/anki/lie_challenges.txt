@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::la lie — the dregs::Challenges
+#tags:french 1000words lie challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: There is some sediment left at the bottom of the bottle.	Il reste de la lie au fond de la bouteille. /il ʁɛst də la li o fɔ̃ də la butɛj/	say
+Say: He drank the cup to the dregs.	Il a bu le calice jusqu’à la lie. /il a by lə kalis ʒyska la li/	say
+Say: The dregs of society.	la lie de la société /la li də la sɔsjete/	say
+Say: Muscadet sur lie is drunk young.	Le Muscadet sur lie se boit jeune. /lə myskadɛ syʁ li sə bwa ʒœn/	say
+Say: She ties the two bouquets with a ribbon.	Elle lie les deux bouquets avec un ruban. /ɛl li le dø bukɛ avɛk œ̃ ʁybɑ̃/	say
+Why do la lie, le lit and il lit sound alike?	All three are /li/: the final -e and -t are silent. The article tells the nouns apart, la for the feminine lie, le for the masculine lit; the pronoun tells the verb	sound
+The four words that say /li/	le lit /lə li/ the bed, il lit /il li/ he reads, la lie /la li/ the dregs, il lie /il li/ he ties	words
+I tie, we tie, they tie	je lie /ʒə li/, nous lions /nu ljɔ̃/, ils lient /il li/	grammar
+Some sediment, no sediment: the partitive and its negative	de la lie /də la li/, pas de lie /pa də li/	grammar
+A link or a bond; to untie; to connect	un lien /œ̃ ljɛ̃/, délier /delje/, relier /ʁəlje/	words
+Which of lie, lit, lire, lier comes from a Gaulish word?	la lie, Latin lia of Gaulish origin; lit is Latin lectus, lire is legere, lier is ligare	words
+The bottle, the cork, the corkscrew	la bouteille /la butɛj/, le bouchon /lə buʃɔ̃/, le tire-bouchon /lə tiʁbuʃɔ̃/	words
