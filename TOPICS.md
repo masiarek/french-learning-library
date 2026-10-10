@@ -43,6 +43,7 @@
         - [la lie](05_1000_words/lie/README.md) — the lees, the dregs; the silent -e, la lie against le lit, il lit and il lie, the partitive de la lie and pas de lie, lier and un lien, the wine words, sur lie, la lie de la société, boire le calice jusqu'à la lie
         - [un lit](05_1000_words/lit/README.md) — a bed; the silent t, le lit against il lit, la lie and il lie, lu, au lit and du lit, se coucher, lire and lier, the kinds of bed, drap, couverture, oreiller
         - [une mère](05_1000_words/mere/README.md) — a mother; the article as the gender, sa as his or her, the possessives, de for possession, the feminine française, the family words, mère, mer and maire
+        - [une pièce](05_1000_words/piece/README.md) — a room; a piece, a coin, a play, a document; ie as /jɛ/, the silent plural s, pièce against chambre, salle and place, the sense picked by the complement, pièce jointe and pièce d'identité, deux euros pièce, how an advertisement counts rooms, un trois-pièces, T3
         - [une porte](05_1000_words/porte/README.md) — a door; the open /ɔ/, la porte against il porte, à la porte, frapper, sonner, fermer à clé, claquer, the doors of a house, la porte à côté
         - [pour](05_1000_words/pour/README.md) — for, to; the stressed pronouns, pour with an infinitive, pour que and the subjunctive, pour against pendant and par, merci pour and merci de
         - [sur](05_1000_words/sur/README.md) — on; where English says in or at, about, out of; sur and sûr, sous and dans, the vowel /y/

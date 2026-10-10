@@ -198,6 +198,22 @@ chaque<br>/ʃak/	each, every	fr-en
 ouvert, ouverte<br>/uvɛʁ, uvɛʁt/	open	fr-en
 fermé, fermée<br>/fɛʁme/	closed	fr-en
 rouge<br>/ʁuʒ/	red	fr-en
+le séjour<br>/lə seʒuʁ/	the living room, on a floor plan and in an advertisement	fr-en
+le bureau<br>/lə byʁo/	the study, as a room	fr-en
+le couloir<br>/lə kulwaʁ/	the corridor, the hallway	fr-en
+l’entrée<br>/lɑ̃tʁe/	the entrance hall	fr-en
+le grenier<br>/lə ɡʁənje/	the attic	fr-en
+la cave<br>/la kav/	the cellar	fr-en
+le sous-sol<br>/lə susɔl/	the basement	fr-en
+le balcon<br>/lə balkɔ̃/	the balcony	fr-en
+la terrasse<br>/la tɛʁas/	the terrace, the patio	fr-en
+la buanderie<br>/la byɑ̃dʁi/	the laundry room	fr-en
+le cellier<br>/lə selje/	the storeroom, for food and wine	fr-en
+le débarras<br>/lə debaʁa/	the box room	fr-en
+le palier<br>/lə palje/	the landing	fr-en
+le placard<br>/lə plakaʁ/	the built-in cupboard	fr-en
+les pièces principales<br>/le pjɛs pʁɛ̃sipal/	the main rooms, the ones an advertisement counts	fr-en
+un trois-pièces, un T3<br>/œ̃ tʁwa pjɛs, œ̃ te tʁwa/	a flat with a living room and two bedrooms	fr-en
 Combien de pièces y a-t-il chez toi ?<br>/kɔ̃bjɛ̃ də pjɛs jatil ʃe twa/	How many rooms are there at your place?	fr-en
 Combien de pièces y a-t-il chez toi ? → AI exercise: answer about your own home	Chez moi, il y a quatre pièces.<br>/ʃe mwa, il j a katʁ pjɛs/<br>At my place there are four rooms.<br>U mnie są cztery pokoje.	exercise
 Qu’est-ce qu’il y a sur ta table ?<br>/kɛs kil j a syʁ ta tabl/	What is there on your table?	fr-en

@@ -178,6 +178,22 @@ each, every	chaque<br>/ʃak/	french yosser lesson01 en-fr	French::Yosser (EN-FR)
 open	ouvert, ouverte<br>/uvɛʁ, uvɛʁt/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
 closed	fermé, fermée<br>/fɛʁme/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
 red	rouge<br>/ʁuʒ/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+the living room, on a floor plan and in an advertisement	le séjour<br>/lə seʒuʁ/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+the study, as a room	le bureau<br>/lə byʁo/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+the corridor, the hallway	le couloir<br>/lə kulwaʁ/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+the entrance hall	l’entrée<br>/lɑ̃tʁe/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+the attic	le grenier<br>/lə ɡʁənje/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+the cellar	la cave<br>/la kav/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+the basement	le sous-sol<br>/lə susɔl/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+the balcony	le balcon<br>/lə balkɔ̃/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+the terrace, the patio	la terrasse<br>/la tɛʁas/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+the laundry room	la buanderie<br>/la byɑ̃dʁi/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+the storeroom, for food and wine	le cellier<br>/lə selje/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+the box room	le débarras<br>/lə debaʁa/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+the landing	le palier<br>/lə palje/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+the built-in cupboard	le placard<br>/lə plakaʁ/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+the main rooms, the ones an advertisement counts	les pièces principales<br>/le pjɛs pʁɛ̃sipal/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
+a flat with a living room and two bedrooms	un trois-pièces, un T3<br>/œ̃ tʁwa pjɛs, œ̃ te tʁwa/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
 How many rooms are there at your place?	Combien de pièces y a-t-il chez toi ?<br>/kɔ̃bjɛ̃ də pjɛs jatil ʃe twa/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
 What is there on your table?	Qu’est-ce qu’il y a sur ta table ?<br>/kɛs kil j a syʁ ta tabl/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
 Where is your bed?	Où est ton lit ?<br>/u ɛ tɔ̃ li/	french yosser lesson01 en-fr	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA
