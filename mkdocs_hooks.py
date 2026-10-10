@@ -93,6 +93,7 @@ NAV_ORDER: dict[str, list[str]] = {
         "ipa_english_vs_french",
         "four_inventories",
         "french_alphabet",
+        "homophones",
     ],
     # The owner's teacher's worksheets, one lesson each, in the order given.
     "02_Yosser_teacher": [

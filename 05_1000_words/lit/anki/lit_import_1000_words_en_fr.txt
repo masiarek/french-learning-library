@@ -47,7 +47,17 @@ You have made your bed, now lie in it.	Comme on fait son lit, on se couche.<br>/
 the river bed	le lit de la rivière<br>/lə li də la ʁivjɛʁ/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
 a child of the first marriage	un enfant du premier lit<br>/œ̃n‿ɑ̃fɑ̃ dy pʁəmje li/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
 to die in one's bed	mourir dans son lit<br>/muʁiʁ dɑ̃ sɔ̃ li/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
-the bed – he reads – the dregs	le lit – il lit – la lie<br>/lə li/ · /il li/ · /la li/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
+the bed – he reads – the dregs – he ties	le lit – il lit – la lie – il lie<br>/lə li/ · /il li/ · /la li/ · /il li/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
+the lees, the dregs of the wine	la lie<br>/la li/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
+the dregs of society	la lie de la société<br>/la li də la sɔsjete/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
+to drink the cup to the dregs	boire le calice jusqu'à la lie<br>/bwaʁ lə kalis ʒyska la li/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
+to tie, to bind, to link	lier<br>/lje/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
+I tie, you tie, he ties, they tie	je lie, tu lies, il lie, ils lient<br>/ʒə li, ty li, il li, il li/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
+we tie, you tie	nous lions, vous liez<br>/nu ljɔ̃, vu lje/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
+tied, linked	lié, liée<br>/lje/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
+to strike up a friendship with	se lier d'amitié avec<br>/sə lje damitje avɛk/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
+he reads a book · he ties the two ends	il lit un livre · il lie les deux bouts<br>/il li œ̃ livʁ/ · /il li le dø bu/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
+they read – they tie: the s of lisent is said	ils lisent – ils lient<br>/il liz/ · /il li/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
 the bed – the lily: the s is said	le lit – le lis<br>/lə li/ · /lə lis/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
 bed – read, the participle: /i/ against /y/	lit – lu<br>/li/ · /ly/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
 bed – milk	lit – lait<br>/li/ · /lɛ/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed

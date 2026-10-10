@@ -47,7 +47,17 @@ Comme on fait son lit, on se couche.<br>/kɔm ɔ̃ fɛ sɔ̃ li, ɔ̃ sə kuʃ/	
 le lit de la rivière<br>/lə li də la ʁivjɛʁ/	the river bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
 un enfant du premier lit<br>/œ̃n‿ɑ̃fɑ̃ dy pʁəmje li/	a child of the first marriage	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
 mourir dans son lit<br>/muʁiʁ dɑ̃ sɔ̃ li/	to die in one's bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
-le lit – il lit – la lie<br>/lə li/ · /il li/ · /la li/	the bed – he reads – the dregs	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+le lit – il lit – la lie – il lie<br>/lə li/ · /il li/ · /la li/ · /il li/	the bed – he reads – the dregs – he ties	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+la lie<br>/la li/	the lees, the dregs of the wine	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+la lie de la société<br>/la li də la sɔsjete/	the dregs of society	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+boire le calice jusqu'à la lie<br>/bwaʁ lə kalis ʒyska la li/	to drink the cup to the dregs	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+lier<br>/lje/	to tie, to bind, to link	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+je lie, tu lies, il lie, ils lient<br>/ʒə li, ty li, il li, il li/	I tie, you tie, he ties, they tie	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+nous lions, vous liez<br>/nu ljɔ̃, vu lje/	we tie, you tie	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+lié, liée<br>/lje/	tied, linked	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+se lier d'amitié avec<br>/sə lje damitje avɛk/	to strike up a friendship with	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+il lit un livre · il lie les deux bouts<br>/il li œ̃ livʁ/ · /il li le dø bu/	he reads a book · he ties the two ends	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+ils lisent – ils lient<br>/il liz/ · /il li/	they read – they tie: the s of lisent is said	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
 le lit – le lis<br>/lə li/ · /lə lis/	the bed – the lily: the s is said	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
 lit – lu<br>/li/ · /ly/	bed – read, the participle: /i/ against /y/	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
 lit – lait<br>/li/ · /lɛ/	bed – milk	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
@@ -70,6 +80,10 @@ Mes chaussures sont ________ lit.<br>(AI exercise: au, du, sur le, sous le …?)
 Elle ________ au lit.<br>(AI exercise: the bed or the verb?)	/ɛl [li] o li/<br>She reads in bed.	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
 Il y a un ________ dans la chambre.<br>(AI exercise: the bed or the verb?)	/il j a œ̃ [li] dɑ̃ la ʃɑ̃bʁ/<br>There is a bed in the bedroom.	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
 J'ai ________ ce livre au lit.<br>(AI exercise: the bed or the verb?)	/ʒe [ly] sə livʁ o li/<br>I read this book in bed. (past)	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
+La ________ reste au fond de la bouteille.<br>(AI exercise: lit, lie or lis?)	/la [li] ʁɛst o fɔ̃ də la butɛj/<br>The dregs stay at the bottom of the bottle.	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
+Il ________ les deux bouts de la corde.<br>(AI exercise: lit, lie or lis?)	/il [li] le dø bu də la kɔʁd/<br>He ties the two ends of the rope.	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
+Je ________ le journal au lit.<br>(AI exercise: lit, lie or lis?)	/ʒə [li] lə ʒuʁnal o li/<br>I read the newspaper in bed.	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
+Ils ________ le journal au lit.<br>(AI exercise: lit, lie or lis?)	/il [liz] lə ʒuʁnal o li/<br>They read the newspaper in bed: here the s is heard.	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
 ________ drap<br>(AI exercise: un or une?)	/[œ̃] dʁa/<br>a sheet	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
 ________ couverture<br>(AI exercise: un or une?)	/[yn] kuvɛʁtyʁ/<br>a blanket	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
 ________ oreiller<br>(AI exercise: un or une?)	/[œ̃n]‿ɔʁeje/<br>a pillow	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed

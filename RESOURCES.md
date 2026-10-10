@@ -2,7 +2,7 @@
 
 **Level:** reference · for choosing what to read next
 
-**One line:** The dictionaries and books behind the pages, with what each is good for; then, below the table, [the books with audio to study from beside a teacher](#books-with-audio-for-study-beside-a-teacher), by job, with a verdict and a how-sure line each. For pronunciation alone, the guide [The best resources: audio and IPA together](04_Pronunciation/resources/README.md) sorts them by job, with a verdict each.
+**One line:** The dictionaries and books behind the pages, with what each is good for; then, below the table, [the books with audio to study from beside a teacher](#books-with-audio-for-study-beside-a-teacher), by job, with a verdict and a how-sure line each, and [Refold's crowdsourced list](#refolds-french-database-a-crowdsourced-list) of channels, shows, podcasts and sites by level. For pronunciation alone, the guide [The best resources: audio and IPA together](04_Pronunciation/resources/README.md) sorts them by job, with a verdict each.
 
 | Resource | Good for | Used in |
 |---|---|---|
@@ -15,6 +15,8 @@
 | Szypowska, a Polish textbook of French (the title is not on the pages in hand) | Numbered lessons, each with a dialogue in the book's own phonetic notation, a word list with Polish glosses, grammar in Polish and exercises | [Szypowska (Polish material)](03_Szypowska/README.md) |
 | Parlez-vous French, Anne Le Grand's channel: the pronunciation Shorts, and the site's pages of spelling rules, [parlez-vous-french.com ↗](https://parlez-vous-french.com/) | One sound per video, a list of words on the screen with the letters in red, to repeat; the site's rules for *on, om*, *en, em* and the liaison | [Pronunciation](04_Pronunciation/README.md) |
 | The owner's vocabulary app, a list of a thousand common French words (its name is not on the screen) | One entry per word: the definitions with the part of speech, the irregular forms, one example sentence, a voice for each; no transcription, which the pages add | [1000 words](05_1000_words/README.md) |
+| open-dict-data, *ipa-dict*, the fr_FR list, [github.com/open-dict-data/ipa-dict ↗](https://github.com/open-dict-data/ipa-dict) | Some 246,000 French spellings with their IPA, the inflected forms included (*lis, lit, lisent, lient*), one line each, MIT licence; the one word list with transcriptions a cloud session can read, as a raw file on GitHub | [Homophones: lit, lie, lis](01_Sounds/homophones/README.md), the twenty sets and the forms of *lire* and *lier* |
+| Refold, *French Database*, a crowdsourced Google Sheet, [docs.google.com ↗](https://docs.google.com/spreadsheets/d/1MSV5bbjx06g5Z7fo7hgHcoOteSYyaLcBFp2_g0i5CUU/edit?gid=1721869351#gid=1721869351) | Some 570 things to listen to and read, one tab each: YouTube channels, playlists, shows and films, podcasts, websites, books, webtoons, each with a genre, a level from Super Beginner to Advanced, and whether it has subtitles | [the section below](#refolds-french-database-a-crowdsourced-list) |
 
 ## Books with audio, for study beside a teacher
 
@@ -63,6 +65,14 @@ As of October 2026. With a teacher, a book has one job: the hours between lesson
 5. The sounds: *Phonétique progressive*, débutant, as [the pronunciation page](04_Pronunciation/resources/README.md) says.
 
 Two kinds of book are left out on purpose. The classroom methods, *Alter Ego+*, *Édito*, *Cosmo*, *Défi*, *Tendances*, are written for a class with a teacher’s book and a workbook, and alone they are half a course: use one only if Yosser teaches from it. And the audio-only courses, Pimsleur, Michel Thomas, Paul Noble, are not books; Pimsleur gives speaking from the first day at half an hour a day, with nothing to read and at a high price, and it is the right choice for a commute, not for a desk.
+
+## Refold's French Database: a crowdsourced list
+
+As of 2026-10-10. The owner sent the sheet, shared with them on Google Drive, and asked for it here. Refold is a community built around learning a language by listening and reading in it for hours a day (*comprehensible input*, in their words), and the sheet is its French members' list of what to listen to and read, filled in by many hands: a tab of YouTube channels, the largest, with some 280 rows, and tabs of playlists, of shows and films with where they stream, of podcasts, of websites, of books, and of webtoons, each row with a genre, a level from Super Beginner through Beginner and Intermediate to Advanced, and a yes or no for subtitles; some rows carry a star rating and a usefulness mark; an ALLContent tab holds every row of every tab in one table, 577 rows on the day it was read. The Beginner Materials tab is the short list for a first month: a frequency deck, a deck of the writing system, a phonology playlist, Language Transfer's free audio course of French, and Tex's grammar guide from the University of Texas.
+
+What it is good for here: the hours. The books section above gives the spine and the drills; the sheet gives the listening a reader cannot, sorted by level, which is the one thing a learner cannot judge from a channel's front page. Filter the channels tab to Super Beginner with subtitles and work down the list; the Parlez-vous French Shorts of the [Pronunciation chapter](04_Pronunciation/README.md) belong to that level too. Two cautions. The levels and the stars are other learners' opinions, unsigned and undated, so take a row as a lead and not a verdict. And the Books tab links to copies of some books on file-sharing sites rather than to their publishers; the books section above links the publishers, and a book worth the hours is worth its price.
+
+How sure: high for what the sheet holds, which was read tab by tab through the owner's Drive on 2026-10-10; what any one channel or show is like was not checked, and a cloud session cannot open YouTube to check it.
 
 ### Les mots d’un livre de français
 
