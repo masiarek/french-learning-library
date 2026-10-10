@@ -5,134 +5,134 @@
 #tags:french szypowska lecon04 fr-pl
 #columns:Front	Back	Tags
 #tags column:3
-Monsieur et Madame Lefèvre habitent un appartement rue du Bac.<br>/məsjø e madam ləfɛvʁ abit‿œ̃n‿apaʁtəmɑ̃ ʁy dy bak/	Państwo Lefèvre mieszkają w mieszkaniu przy ulicy du Bac.<br>Mr and Mrs Lefèvre live in a flat on the rue du Bac.	fr-pl
-Nous entrons.<br>/nuz‿ɑ̃tʁɔ̃/	Wchodzimy.<br>We go in.	fr-pl
-Nous visitons l’appartement de la famille Lefèvre.<br>/nu vizitɔ̃ lapaʁtəmɑ̃ də la famij ləfɛvʁ/	Zwiedzamy mieszkanie rodziny Lefèvre.<br>We visit the Lefèvre family's flat.	fr-pl
-Voici le cabinet de travail de Monsieur Lefèvre.<br>/vwasi lə kabinɛ də tʁavaj də məsjø ləfɛvʁ/	Oto gabinet pana Lefèvre.<br>Here is Mr Lefèvre's study.	fr-pl
-Voilà la salle à manger avec le divan de la fille, et ici, la chambre des parents avec le lit du garçon.<br>/vwala la sal a mɑ̃ʒe avɛk lə divɑ̃ də la fij, e isi, la ʃɑ̃bʁ de paʁɑ̃ avɛk lə li dy ɡaʁsɔ̃/	Oto pokój stołowy z tapczanem córki, a tu pokój rodziców z łóżkiem chłopca.<br>There is the dining room with the daughter's divan, and here, the parents' room with the boy's bed.	fr-pl
-Madame Lefèvre montre aussi la cuisine et la salle de bain.<br>/madam ləfɛvʁ mɔ̃tʁ osi la kɥizin e la sal də bɛ̃/	Pani Lefèvre pokazuje także kuchnię i łazienkę.<br>Mrs Lefèvre also shows the kitchen and the bathroom.	fr-pl
-Ensuite nous sortons.<br>/ɑ̃sɥit nu sɔʁtɔ̃/	Potem wychodzimy.<br>Then we go out.	fr-pl
-Voici le divan de la fille<br>/vwasi lə divɑ̃ də la fij/	Oto tapczan córki<br>Here is the daughter's divan (the caption of the first drawing)	fr-pl
-Voilà le lit du garçon<br>/vwala lə li dy ɡaʁsɔ̃/	Oto łóżko chłopca<br>There is the boy's bed (the caption of the second)	fr-pl
-quatre<br>/katʁ/	cztery<br>four	fr-pl
-habiter<br>/abite/	mieszkać, zamieszkiwać<br>to live, to dwell	fr-pl
-habitent<br>/abit/	mieszkają, zamieszkują<br>(they) live	fr-pl
-un appartement<br>/œ̃n‿apaʁtəmɑ̃/	mieszkanie<br>a flat	fr-pl
-la rue<br>/la ʁy/	ulica<br>the street	fr-pl
-le bac<br>/lə bak/	prom<br>the ferry	fr-pl
-entrer<br>/ɑ̃tʁe/	wchodzić<br>to go in	fr-pl
-nous entrons<br>/nuz‿ɑ̃tʁɔ̃/	(my) wchodzimy<br>we go in	fr-pl
-visiter<br>/vizite/	zwiedzać<br>to visit	fr-pl
-nous visitons<br>/nu vizitɔ̃/	(my) zwiedzamy<br>we visit	fr-pl
-la famille<br>/la famij/	rodzina<br>the family	fr-pl
-de la famille<br>/də la famij/	rodziny (dopełniacz)<br>of the family	fr-pl
-le cabinet<br>/lə kabinɛ/	gabinet<br>the study, the office	fr-pl
-le travail<br>/lə tʁavaj/	praca<br>work	fr-pl
-le cabinet de travail<br>/lə kabinɛ də tʁavaj/	gabinet (dosł.: gabinet pracy)<br>the study (literally, the work room)	fr-pl
-la salle<br>/la sal/	sala<br>the room, the hall	fr-pl
-manger<br>/mɑ̃ʒe/	jeść<br>to eat	fr-pl
-la salle à manger<br>/la sal a mɑ̃ʒe/	pokój stołowy (dosł.: sala do jedzenia)<br>the dining room (literally, the room for eating)	fr-pl
-avec<br>/avɛk/	z (ze)<br>with	fr-pl
-le divan<br>/lə divɑ̃/	tapczan<br>the divan, the couch	fr-pl
-la fille<br>/la fij/	córka, dziewczyna<br>the daughter, the girl	fr-pl
-ici<br>/isi/	tu(-taj)<br>here	fr-pl
-la chambre<br>/la ʃɑ̃bʁ/	pokój<br>the room, the bedroom	fr-pl
-les parents<br>/le paʁɑ̃/	rodzice<br>the parents	fr-pl
-des parents<br>/de paʁɑ̃/	rodziców (dopełniacz)<br>of the parents	fr-pl
-le lit<br>/lə li/	łóżko<br>the bed	fr-pl
-le garçon<br>/lə ɡaʁsɔ̃/	chłopiec<br>the boy	fr-pl
-du garçon<br>/dy ɡaʁsɔ̃/	chłopca<br>of the boy, the boy's	fr-pl
-montrer<br>/mɔ̃tʁe/	pokazać<br>to show	fr-pl
-montre<br>/mɔ̃tʁ/	pokazuje<br>(he, she) shows	fr-pl
-le bain<br>/lə bɛ̃/	kąpiel<br>the bath	fr-pl
-la cuisine<br>/la kɥizin/	kuchnia<br>the kitchen	fr-pl
-la salle de bain<br>/la sal də bɛ̃/	łazienka (dosł.: sala do kąpieli)<br>the bathroom (literally, the room for bathing)	fr-pl
-ensuite<br>/ɑ̃sɥit/	potem<br>then, afterwards	fr-pl
-nous sortons<br>/nu sɔʁtɔ̃/	(my) wychodzimy<br>we go out	fr-pl
-ici, voici<br>/isi, vwasi/	c przed i czyta się /s/<br>c before i is /s/	fr-pl
-cabinet, cuisine<br>/kabinɛ, kɥizin/	c przed a, u czyta się /k/<br>c before a and u is /k/	fr-pl
-Bac, avec<br>/bak, avɛk/	c na końcu krótkiego wyrazu po samogłosce czyta się /k/<br>a final c after a vowel, in a short word, is /k/	fr-pl
-l’appartement<br>/lapaʁtəmɑ̃/	elizja: le traci samogłoskę przed samogłoską<br>elision: le loses its vowel before a vowel	fr-pl
-la rue du Bac<br>/la ʁy dy bak/	ulica Promu: prowadzi ku Sekwanie, tam gdzie kursował prom, a dziś stoi most<br>the rue du Bac, literally Ferry Street: it runs towards the Seine, to where a ferry once crossed and a bridge now stands	fr-pl
-l’appartement de la famille<br>/lapaʁtəmɑ̃ də la famij/	mieszkanie rodziny<br>the family's flat	fr-pl
-le cabinet de travail de Monsieur Lefèvre<br>/lə kabinɛ də tʁavaj də məsjø ləfɛvʁ/	gabinet pana Lefèvre<br>Mr Lefèvre's study	fr-pl
-le divan de la fille<br>/lə divɑ̃ də la fij/	tapczan córki<br>the daughter's divan	fr-pl
-la chambre des parents<br>/la ʃɑ̃bʁ de paʁɑ̃/	pokój rodziców<br>the parents' room	fr-pl
-le lit du garçon<br>/lə li dy ɡaʁsɔ̃/	łóżko chłopca<br>the boy's bed	fr-pl
-de Jean, de Marie, de Monsieur Lefèvre<br>/də ʒɑ̃, də maʁi, də məsjø ləfɛvʁ/	de przed imieniem własnym<br>de before a proper name	fr-pl
-du garçon<br>/dy ɡaʁsɔ̃/ (2)	du (ściągnięte de + le) przed rzeczownikiem rodzaju męskiego na spółgłoskę<br>du, contracted from de + le, before a masculine noun beginning with a consonant	fr-pl
-de la famille<br>/də la famij/ (2)	de la przed rzeczownikiem rodzaju żeńskiego na spółgłoskę<br>de la before a feminine noun beginning with a consonant	fr-pl
-de l’amie<br>/də lami/	de l' przed każdym rzeczownikiem na samogłoskę lub h nieme<br>de l' before any noun beginning with a vowel or a mute h	fr-pl
-des parents<br>/de paʁɑ̃/ (2)	des (ściągnięte de + les) przed rzeczownikiem w liczbie mnogiej<br>des, contracted from de + les, before a plural noun	fr-pl
-parler<br>/paʁle/	wzór: bezokolicznik na -er<br>the model: an infinitive in -er	fr-pl
-regarder, parler, aimer, habiter, entrer, visiter, manger, montrer, fumer, apporter<br>/ʁəɡaʁde, paʁle, ɛme, abite, ɑ̃tʁe, vizite, mɑ̃ʒe, mɔ̃tʁe, fyme, apɔʁte/	czasowniki I koniugacji z lekcji 3 i 4<br>the first-conjugation verbs met in lessons 3 and 4	fr-pl
-Voici ________ divan ________ garçon.<br>(Fill in the blanks)	/vwasi [lə] divɑ̃ [dy] ɡaʁsɔ̃/<br>Here is the boy's divan.<br>Oto tapczan chłopca.	exercise
-Voici ________ photo.<br>(Fill in the blanks)	/vwasi [yn] fɔto/<br>Here is a photo.<br>Oto zdjęcie.	exercise
-Voilà ________ photos.<br>(Fill in the blanks)	/vwala [de] fɔto/<br>There are some photos.<br>Oto zdjęcia.	exercise
-Voici la ________ ________ Marie.<br>(Fill in the blanks)	/vwasi la [fɔto də] maʁi/<br>Here is Marie's photo.<br>Oto zdjęcie Marii.	exercise
-Voici ________ chambre ________ parents.<br>(Fill in the blanks)	/vwasi [la] ʃɑ̃bʁ [de] paʁɑ̃/<br>Here is the parents' room.<br>Oto pokój rodziców.	exercise
-Voici le ________ ________ Jean.<br>(Fill in the blanks)	/vwasi lə [kamaʁad də] ʒɑ̃/<br>Here is Jean's friend.<br>Oto kolega Jana.	exercise
-Montres-tu la cuisine ?<br>/mɔ̃tʁ ty la kɥizin/	Czy pokazujesz kuchnię?<br>Are you showing the kitchen?	fr-pl
-Montres-tu la cuisine ? → Answer yes, in the first person singular and plural (Oui je)	Oui, je montre la cuisine.<br>/wi, ʒə mɔ̃tʁ la kɥizin/<br>Yes, I am showing the kitchen.<br>Tak, pokazuję kuchnię.	exercise
-Montres-tu la cuisine ? → Answer yes, in the first person singular and plural (Oui nous)	Oui, nous montrons la cuisine.<br>/wi, nu mɔ̃tʁɔ̃ la kɥizin/<br>Yes, we are showing the kitchen.<br>Tak, pokazujemy kuchnię.	exercise
-Visitez-vous Varsovie ?<br>/vizite vu vaʁsɔvi/	Czy zwiedzacie Warszawę?<br>Are you visiting Warsaw?	fr-pl
-Visitez-vous Varsovie ? → Answer yes, in the first person singular and plural (Oui je)	Oui, je visite Varsovie.<br>/wi, ʒə vizit vaʁsɔvi/<br>Yes, I am visiting Warsaw.<br>Tak, zwiedzam Warszawę.	exercise
-Visitez-vous Varsovie ? → Answer yes, in the first person singular and plural (Oui nous)	Oui, nous visitons Varsovie.<br>/wi, nu vizitɔ̃ vaʁsɔvi/<br>Yes, we are visiting Warsaw.<br>Tak, zwiedzamy Warszawę.	exercise
-Ils visitent l’appartement de la famille Lefèvre.<br>/il vizit lapaʁtəmɑ̃ də la famij ləfɛvʁ/	Oni zwiedzają mieszkanie rodziny Lefèvre.<br>They are visiting the Lefèvre family's flat.	fr-pl
-Voici la chambre de la fille.<br>/vwasi la ʃɑ̃bʁ də la fij/	Oto pokój córki.<br>Here is the daughter's room.	fr-pl
-Tu montres la salle à manger.<br>/ty mɔ̃tʁ la sal a mɑ̃ʒe/	Pokazujesz stołowy pokój.<br>You are showing the dining room.	fr-pl
-Voici l’appartement des parents de Pierre.<br>/vwasi lapaʁtəmɑ̃ de paʁɑ̃ də pjɛʁ/	Oto mieszkanie rodziców Piotra.<br>Here is the flat of Pierre's parents.	fr-pl
-Regarde les photos de l’amie de Marie !<br>/ʁəɡaʁd le fɔto də lami də maʁi/	Oglądaj zdjęcia przyjaciółki Marii!<br>Look at the photos of Marie's friend!	fr-pl
-Montre le divan du garçon !<br>/mɔ̃tʁ lə divɑ̃ dy ɡaʁsɔ̃/	Pokaż tapczan chłopca!<br>Show the boy's divan!	fr-pl
-quatre : à quatre heures · les quatre saisons · quatre-vingts<br>/a katʁ œʁ · le katʁ sɛzɔ̃ · katʁəvɛ̃/	o czwartej · cztery pory roku · osiemdziesiąt<br>at four o'clock · the four seasons · eighty	fr-pl
-habiter : habiter rue du Bac · habiter seul · habiter chez ses parents<br>/abite ʁy dy bak · abite sœl · abite ʃe se paʁɑ̃/	mieszkać przy rue du Bac · mieszkać samemu · mieszkać u rodziców<br>to live on the rue du Bac · to live alone · to live with one's parents	fr-pl
-un appartement : un appartement de trois pièces · louer un appartement · un grand appartement<br>/œ̃n‿apaʁtəmɑ̃ də tʁwa pjɛs · lwe œ̃n‿apaʁtəmɑ̃ · œ̃ ɡʁɑ̃t‿apaʁtəmɑ̃/	mieszkanie trzypokojowe · wynająć mieszkanie · duże mieszkanie<br>a three-room flat · to rent a flat · a big flat	fr-pl
-la rue : dans la rue · au coin de la rue · traverser la rue<br>/dɑ̃ la ʁy · o kwɛ̃ də la ʁy · tʁavɛʁse la ʁy/	na ulicy · na rogu ulicy · przejść przez ulicę<br>in the street · at the corner of the street · to cross the street	fr-pl
-le bac : prendre le bac · le bac, le baccalauréat · un bac à sable<br>/pʁɑ̃dʁ lə bak · lə bak, lə bakaloʁea · œ̃ bak a sabl/	płynąć promem · matura · piaskownica<br>to take the ferry · the baccalauréat, the school-leaving exam · a sandpit	fr-pl
-entrer : entrer dans la maison · Entrez ! · entrer à l’université<br>/ɑ̃tʁe dɑ̃ la mɛzɔ̃ · ɑ̃tʁe · ɑ̃tʁe a lynivɛʁsite/	wejść do domu · proszę wejść! · dostać się na uniwersytet<br>to go into the house · come in! · to enter university	fr-pl
-visiter : visiter un musée · visiter la ville · rendre visite à un ami<br>/vizite œ̃ myze · vizite la vil · ʁɑ̃dʁ vizit a œ̃n‿ami/	zwiedzić muzeum · zwiedzić miasto · odwiedzić przyjaciela<br>to visit a museum · to visit the town · to visit a friend	fr-pl
-la famille : en famille · une famille nombreuse · un nom de famille<br>/ɑ̃ famij · yn famij nɔ̃bʁøz · œ̃ nɔ̃ də famij/	w gronie rodziny · rodzina wielodzietna · nazwisko<br>with the family · a large family · a surname	fr-pl
-le cabinet : le cabinet de travail · un cabinet médical · les cabinets<br>/lə kabinɛ də tʁavaj · œ̃ kabinɛ medikal · le kabinɛ/	gabinet · gabinet lekarski · ubikacja (dawniej)<br>the study · a doctor's office · the toilet, old-fashioned	fr-pl
-le travail : au travail · chercher du travail · un travail intéressant<br>/o tʁavaj · ʃɛʁʃe dy tʁavaj · œ̃ tʁavaj ɛ̃teʁesɑ̃/	w pracy · szukać pracy · ciekawa praca<br>at work · to look for work · an interesting job	fr-pl
-la salle : une salle de classe · une salle d’attente · une salle de bain<br>/yn sal də klas · yn sal datɑ̃t · yn sal də bɛ̃/	sala lekcyjna · poczekalnia · łazienka<br>a classroom · a waiting room · a bathroom	fr-pl
-manger : manger du pain · quelque chose à manger · bon à manger<br>/mɑ̃ʒe dy pɛ̃ · kɛlkə ʃoz a mɑ̃ʒe · bɔ̃ a mɑ̃ʒe/	jeść chleb · coś do jedzenia · nadający się do jedzenia<br>to eat bread · something to eat · good to eat	fr-pl
-avec : avec plaisir · avec moi · avec du sucre<br>/avɛk plɛziʁ · avɛk mwa · avɛk dy sykʁ/	z przyjemnością · ze mną · z cukrem<br>with pleasure · with me · with sugar	fr-pl
-le divan : s’asseoir sur le divan · un divan-lit · le divan du psychanalyste<br>/saswaʁ syʁ lə divɑ̃ · œ̃ divɑ̃ li · lə divɑ̃ dy psikanalist/	usiąść na tapczanie · tapczan rozkładany · kozetka psychoanalityka<br>to sit on the divan · a sofa bed · the psychoanalyst's couch	fr-pl
-la fille : une petite fille · une jeune fille · la fille de Marie<br>/yn pətit fij · yn ʒœn fij · la fij də maʁi/	mała dziewczynka · dziewczyna · córka Marii<br>a little girl · a young girl · Marie's daughter	fr-pl
-ici : ici et là · par ici · d’ici<br>/isi e la · paʁ isi · disi/	tu i tam · tędy · stąd<br>here and there · this way · from here	fr-pl
-la chambre : une chambre à coucher · la chambre des parents · une chambre d’hôtel<br>/yn ʃɑ̃bʁ a kuʃe · la ʃɑ̃bʁ de paʁɑ̃ · yn ʃɑ̃bʁ dotɛl/	sypialnia · pokój rodziców · pokój hotelowy<br>a bedroom · the parents' room · a hotel room	fr-pl
-les parents : mes parents · les grands-parents · chez ses parents<br>/me paʁɑ̃ · le ɡʁɑ̃paʁɑ̃ · ʃe se paʁɑ̃/	moi rodzice · dziadkowie · u rodziców<br>my parents · the grandparents · at one's parents'	fr-pl
-le lit : au lit ! · faire le lit · un lit d’enfant<br>/o li · fɛʁ lə li · œ̃ li dɑ̃fɑ̃/	do łóżka! · słać łóżko · łóżeczko dziecięce<br>to bed! · to make the bed · a child's bed	fr-pl
-le garçon : un petit garçon · Garçon ! · un garçon de café<br>/œ̃ pəti ɡaʁsɔ̃ · ɡaʁsɔ̃ · œ̃ ɡaʁsɔ̃ də kafe/	mały chłopiec · kelner! · kelner w kawiarni<br>a little boy · waiter! · a waiter	fr-pl
-montrer : montrer du doigt · montrer le chemin · montre-moi<br>/mɔ̃tʁe dy dwa · mɔ̃tʁe lə ʃəmɛ̃ · mɔ̃tʁ mwa/	wskazywać palcem · pokazać drogę · pokaż mi<br>to point at · to show the way · show me	fr-pl
-le bain : prendre un bain · un bain de soleil · la salle de bain<br>/pʁɑ̃dʁ œ̃ bɛ̃ · œ̃ bɛ̃ də sɔlɛj · la sal də bɛ̃/	wziąć kąpiel · kąpiel słoneczna · łazienka<br>to take a bath · sunbathing · the bathroom	fr-pl
-la cuisine : faire la cuisine · la cuisine polonaise · un livre de cuisine<br>/fɛʁ la kɥizin · la kɥizin pɔlɔnɛz · œ̃ livʁ də kɥizin/	gotować · kuchnia polska · książka kucharska<br>to cook · Polish cooking · a cookbook	fr-pl
-ensuite : et ensuite ? · d’abord … ensuite<br>/e ɑ̃sɥit · dabɔʁ … ɑ̃sɥit/	a potem? · najpierw … potem<br>and then? · first … then	fr-pl
-sortir : sortir de la maison · sortir le soir · sortir avec des amis<br>/sɔʁtiʁ də la mɛzɔ̃ · sɔʁtiʁ lə swaʁ · sɔʁtiʁ avɛk dez‿ami/	wyjść z domu · wychodzić wieczorem · wychodzić z przyjaciółmi<br>to go out of the house · to go out in the evening · to go out with friends	fr-pl
-Nous habitons chez les parents de Marie.<br>/nuz‿abitɔ̃ ʃe le paʁɑ̃ də maʁi/	Mieszkamy u rodziców Marii.<br>We live at Marie's parents' place.	fr-pl
-Pierre visite Paris avec son camarade.<br>/pjɛʁ vizit paʁi avɛk sɔ̃ kamaʁad/	Piotr zwiedza Paryż z kolegą.<br>Pierre is visiting Paris with his friend.	fr-pl
-Je rends visite à Madame Lefèvre.<br>/ʒə ʁɑ̃ vizit a madam ləfɛvʁ/	Odwiedzam panią Lefèvre.<br>I am visiting Mrs Lefèvre: a person, so rendre visite à.	fr-pl
-Entrez dans la salle à manger et regardez le divan !<br>/ɑ̃tʁe dɑ̃ la sal a mɑ̃ʒe e ʁəɡaʁde lə divɑ̃/	Wejdźcie do jadalni i popatrzcie na tapczan!<br>Come into the dining room and look at the divan!	fr-pl
-Le fils de Monsieur Lefèvre sort de la cuisine.<br>/lə fis də məsjø ləfɛvʁ sɔʁ də la kɥizin/	Syn pana Lefèvre wychodzi z kuchni.<br>Mr Lefèvre's son comes out of the kitchen.	fr-pl
-La fille des Lefèvre montre sa chambre à Annette.<br>/la fij de ləfɛvʁ mɔ̃tʁ sa ʃɑ̃bʁ a anɛt/	Córka państwa Lefèvre pokazuje swój pokój Anetce.<br>The Lefèvres' daughter shows her room to Annette.	fr-pl
-Où est la rue du Bac ? Elle est près de la Seine.<br>/u ɛ la ʁy dy bak ? ɛl ɛ pʁɛ də la sɛn/	Gdzie jest rue du Bac? Blisko Sekwany.<br>Where is the rue du Bac? It is near the Seine.	fr-pl
-Ensuite, nous mangeons dans la salle à manger.<br>/ɑ̃sɥit, nu mɑ̃ʒɔ̃ dɑ̃ la sal a mɑ̃ʒe/	Potem jemy w jadalni.<br>Then we eat in the dining room.	fr-pl
-Le lit du garçon est à côté de la fenêtre.<br>/lə li dy ɡaʁsɔ̃ ɛ(t)‿a kote də la fənɛtʁ/	Łóżko chłopca jest obok okna.<br>The boy's bed is next to the window.	fr-pl
-Ici, c’est la chambre ; là, c’est le cabinet de travail.<br>/isi, sɛ la ʃɑ̃bʁ ; la, sɛ lə kabinɛ də tʁavaj/	Tu jest sypialnia, a tam gabinet.<br>Here is the bedroom; there is the study.	fr-pl
-chez<br>/ʃe/	u (kogoś)<br>at the place of	fr-pl
-le fils<br>/lə fis/	syn<br>the son, with the s sounded	fr-pl
-rendre visite à<br>/ʁɑ̃dʁ vizit a/	odwiedzać (kogoś)<br>to visit a person	fr-pl
-entrer dans<br>/ɑ̃tʁe dɑ̃/	wchodzić do<br>to go into	fr-pl
-sortir de<br>/sɔʁtiʁ də/	wychodzić z<br>to go out of	fr-pl
-près de<br>/pʁɛ də/	blisko<br>near	fr-pl
-là<br>/la/	tam<br>there	fr-pl
-la Seine<br>/la sɛn/	Sekwana<br>the Seine	fr-pl
-le pont<br>/lə pɔ̃/	most<br>the bridge	fr-pl
-la fenêtre<br>/la fənɛtʁ/	okno<br>the window	fr-pl
-nous mangeons<br>/nu mɑ̃ʒɔ̃/	jemy<br>we eat: the e keeps the g soft	fr-pl
-le travail ________ parents<br>(AI exercise: du, de la, de l’ or des)	/lə tʁavaj [de] paʁɑ̃/<br>the parents' work<br>praca rodziców	exercise
-la porte ________ appartement<br>(AI exercise: du, de la, de l’ or des)	/la pɔʁt [də l]apaʁtəmɑ̃/<br>the door of the flat<br>drzwi mieszkania	exercise
-la cuisine ________ famille Lefèvre<br>(AI exercise: du, de la, de l’ or des)	/la kɥizin [də la] famij ləfɛvʁ/<br>the Lefèvre family's kitchen<br>kuchnia rodziny Lefèvre	exercise
-le divan ________ garçon<br>(AI exercise: du, de la, de l’ or des)	/lə divɑ̃ [dy] ɡaʁsɔ̃/<br>the boy's divan<br>tapczan chłopca	exercise
-Nous ________ Varsovie.<br>(AI exercise: visiter or rendre visite à)	/nu [vizitɔ̃] vaʁsɔvi/<br>We are visiting Warsaw.<br>Zwiedzamy Warszawę.	exercise
-Nous ________ Madame Renoir.<br>(AI exercise: visiter or rendre visite à)	/nu [ʁɑ̃dɔ̃ vizit a] madam ʁənwaʁ/<br>We are visiting Mrs Renoir.<br>Odwiedzamy panią Renoir.	exercise
+Monsieur et Madame Lefèvre habitent un appartement rue du Bac.<br>/məsjø e madam ləfɛvʁ abit‿œ̃n‿apaʁtəmɑ̃ ʁy dy bak/	Mr and Mrs Lefèvre live in a flat on the rue du Bac.	fr-en
+Nous entrons.<br>/nuz‿ɑ̃tʁɔ̃/	We go in.	fr-en
+Nous visitons l’appartement de la famille Lefèvre.<br>/nu vizitɔ̃ lapaʁtəmɑ̃ də la famij ləfɛvʁ/	We visit the Lefèvre family's flat.	fr-en
+Voici le cabinet de travail de Monsieur Lefèvre.<br>/vwasi lə kabinɛ də tʁavaj də məsjø ləfɛvʁ/	Here is Mr Lefèvre's study.	fr-en
+Voilà la salle à manger avec le divan de la fille, et ici, la chambre des parents avec le lit du garçon.<br>/vwala la sal a mɑ̃ʒe avɛk lə divɑ̃ də la fij, e isi, la ʃɑ̃bʁ de paʁɑ̃ avɛk lə li dy ɡaʁsɔ̃/	There is the dining room with the daughter's divan, and here, the parents' room with the boy's bed.	fr-en
+Madame Lefèvre montre aussi la cuisine et la salle de bain.<br>/madam ləfɛvʁ mɔ̃tʁ osi la kɥizin e la sal də bɛ̃/	Mrs Lefèvre also shows the kitchen and the bathroom.	fr-en
+Ensuite nous sortons.<br>/ɑ̃sɥit nu sɔʁtɔ̃/	Then we go out.	fr-en
+Voici le divan de la fille<br>/vwasi lə divɑ̃ də la fij/	Here is the daughter's divan (the caption of the first drawing)	fr-en
+Voilà le lit du garçon<br>/vwala lə li dy ɡaʁsɔ̃/	There is the boy's bed (the caption of the second)	fr-en
+quatre<br>/katʁ/	four	fr-en
+habiter<br>/abite/	to live, to dwell	fr-en
+habitent<br>/abit/	(they) live	fr-en
+un appartement<br>/œ̃n‿apaʁtəmɑ̃/	a flat	fr-en
+la rue<br>/la ʁy/	the street	fr-en
+le bac<br>/lə bak/	the ferry	fr-en
+entrer<br>/ɑ̃tʁe/	to go in	fr-en
+nous entrons<br>/nuz‿ɑ̃tʁɔ̃/	we go in	fr-en
+visiter<br>/vizite/	to visit	fr-en
+nous visitons<br>/nu vizitɔ̃/	we visit	fr-en
+la famille<br>/la famij/	the family	fr-en
+de la famille<br>/də la famij/	of the family	fr-en
+le cabinet<br>/lə kabinɛ/	the study, the office	fr-en
+le travail<br>/lə tʁavaj/	work	fr-en
+le cabinet de travail<br>/lə kabinɛ də tʁavaj/	the study (literally, the work room)	fr-en
+la salle<br>/la sal/	the room, the hall	fr-en
+manger<br>/mɑ̃ʒe/	to eat	fr-en
+la salle à manger<br>/la sal a mɑ̃ʒe/	the dining room (literally, the room for eating)	fr-en
+avec<br>/avɛk/	with	fr-en
+le divan<br>/lə divɑ̃/	the divan, the couch	fr-en
+la fille<br>/la fij/	the daughter, the girl	fr-en
+ici<br>/isi/	here	fr-en
+la chambre<br>/la ʃɑ̃bʁ/	the room, the bedroom	fr-en
+les parents<br>/le paʁɑ̃/	the parents	fr-en
+des parents<br>/de paʁɑ̃/	of the parents	fr-en
+le lit<br>/lə li/	the bed	fr-en
+le garçon<br>/lə ɡaʁsɔ̃/	the boy	fr-en
+du garçon<br>/dy ɡaʁsɔ̃/	of the boy, the boy's	fr-en
+montrer<br>/mɔ̃tʁe/	to show	fr-en
+montre<br>/mɔ̃tʁ/	(he, she) shows	fr-en
+le bain<br>/lə bɛ̃/	the bath	fr-en
+la cuisine<br>/la kɥizin/	the kitchen	fr-en
+la salle de bain<br>/la sal də bɛ̃/	the bathroom (literally, the room for bathing)	fr-en
+ensuite<br>/ɑ̃sɥit/	then, afterwards	fr-en
+nous sortons<br>/nu sɔʁtɔ̃/	we go out	fr-en
+ici, voici<br>/isi, vwasi/	c before i is /s/	fr-en
+cabinet, cuisine<br>/kabinɛ, kɥizin/	c before a and u is /k/	fr-en
+Bac, avec<br>/bak, avɛk/	a final c after a vowel, in a short word, is /k/	fr-en
+l’appartement<br>/lapaʁtəmɑ̃/	elision: le loses its vowel before a vowel	fr-en
+la rue du Bac<br>/la ʁy dy bak/	the rue du Bac, literally Ferry Street: it runs towards the Seine, to where a ferry once crossed and a bridge now stands	fr-en
+l’appartement de la famille<br>/lapaʁtəmɑ̃ də la famij/	the family's flat	fr-en
+le cabinet de travail de Monsieur Lefèvre<br>/lə kabinɛ də tʁavaj də məsjø ləfɛvʁ/	Mr Lefèvre's study	fr-en
+le divan de la fille<br>/lə divɑ̃ də la fij/	the daughter's divan	fr-en
+la chambre des parents<br>/la ʃɑ̃bʁ de paʁɑ̃/	the parents' room	fr-en
+le lit du garçon<br>/lə li dy ɡaʁsɔ̃/	the boy's bed	fr-en
+de Jean, de Marie, de Monsieur Lefèvre<br>/də ʒɑ̃, də maʁi, də məsjø ləfɛvʁ/	de before a proper name	fr-en
+du garçon<br>/dy ɡaʁsɔ̃/ (2)	du, contracted from de + le, before a masculine noun beginning with a consonant	fr-en
+de la famille<br>/də la famij/ (2)	de la before a feminine noun beginning with a consonant	fr-en
+de l’amie<br>/də lami/	de l' before any noun beginning with a vowel or a mute h	fr-en
+des parents<br>/de paʁɑ̃/ (2)	des, contracted from de + les, before a plural noun	fr-en
+parler<br>/paʁle/	the model: an infinitive in -er	fr-en
+regarder, parler, aimer, habiter, entrer, visiter, manger, montrer, fumer, apporter<br>/ʁəɡaʁde, paʁle, ɛme, abite, ɑ̃tʁe, vizite, mɑ̃ʒe, mɔ̃tʁe, fyme, apɔʁte/	the first-conjugation verbs met in lessons 3 and 4	fr-en
+Voici ________ divan ________ garçon.<br>(Fill in the blanks)	/vwasi [lə] divɑ̃ [dy] ɡaʁsɔ̃/<br>Here is the boy's divan.	exercise
+Voici ________ photo.<br>(Fill in the blanks)	/vwasi [yn] fɔto/<br>Here is a photo.	exercise
+Voilà ________ photos.<br>(Fill in the blanks)	/vwala [de] fɔto/<br>There are some photos.	exercise
+Voici la ________ ________ Marie.<br>(Fill in the blanks)	/vwasi la [fɔto də] maʁi/<br>Here is Marie's photo.	exercise
+Voici ________ chambre ________ parents.<br>(Fill in the blanks)	/vwasi [la] ʃɑ̃bʁ [de] paʁɑ̃/<br>Here is the parents' room.	exercise
+Voici le ________ ________ Jean.<br>(Fill in the blanks)	/vwasi lə [kamaʁad də] ʒɑ̃/<br>Here is Jean's friend.	exercise
+Montres-tu la cuisine ?<br>/mɔ̃tʁ ty la kɥizin/	Are you showing the kitchen?	fr-en
+Montres-tu la cuisine ? → Answer yes, in the first person singular and plural (Oui je)	Oui, je montre la cuisine.<br>/wi, ʒə mɔ̃tʁ la kɥizin/<br>Yes, I am showing the kitchen.	exercise
+Montres-tu la cuisine ? → Answer yes, in the first person singular and plural (Oui nous)	Oui, nous montrons la cuisine.<br>/wi, nu mɔ̃tʁɔ̃ la kɥizin/<br>Yes, we are showing the kitchen.	exercise
+Visitez-vous Varsovie ?<br>/vizite vu vaʁsɔvi/	Are you visiting Warsaw?	fr-en
+Visitez-vous Varsovie ? → Answer yes, in the first person singular and plural (Oui je)	Oui, je visite Varsovie.<br>/wi, ʒə vizit vaʁsɔvi/<br>Yes, I am visiting Warsaw.	exercise
+Visitez-vous Varsovie ? → Answer yes, in the first person singular and plural (Oui nous)	Oui, nous visitons Varsovie.<br>/wi, nu vizitɔ̃ vaʁsɔvi/<br>Yes, we are visiting Warsaw.	exercise
+Ils visitent l’appartement de la famille Lefèvre.<br>/il vizit lapaʁtəmɑ̃ də la famij ləfɛvʁ/	They are visiting the Lefèvre family's flat.	fr-en
+Voici la chambre de la fille.<br>/vwasi la ʃɑ̃bʁ də la fij/	Here is the daughter's room.	fr-en
+Tu montres la salle à manger.<br>/ty mɔ̃tʁ la sal a mɑ̃ʒe/	You are showing the dining room.	fr-en
+Voici l’appartement des parents de Pierre.<br>/vwasi lapaʁtəmɑ̃ de paʁɑ̃ də pjɛʁ/	Here is the flat of Pierre's parents.	fr-en
+Regarde les photos de l’amie de Marie !<br>/ʁəɡaʁd le fɔto də lami də maʁi/	Look at the photos of Marie's friend!	fr-en
+Montre le divan du garçon !<br>/mɔ̃tʁ lə divɑ̃ dy ɡaʁsɔ̃/	Show the boy's divan!	fr-en
+quatre : à quatre heures · les quatre saisons · quatre-vingts<br>/a katʁ œʁ · le katʁ sɛzɔ̃ · katʁəvɛ̃/	at four o'clock · the four seasons · eighty	fr-en
+habiter : habiter rue du Bac · habiter seul · habiter chez ses parents<br>/abite ʁy dy bak · abite sœl · abite ʃe se paʁɑ̃/	to live on the rue du Bac · to live alone · to live with one's parents	fr-en
+un appartement : un appartement de trois pièces · louer un appartement · un grand appartement<br>/œ̃n‿apaʁtəmɑ̃ də tʁwa pjɛs · lwe œ̃n‿apaʁtəmɑ̃ · œ̃ ɡʁɑ̃t‿apaʁtəmɑ̃/	a three-room flat · to rent a flat · a big flat	fr-en
+la rue : dans la rue · au coin de la rue · traverser la rue<br>/dɑ̃ la ʁy · o kwɛ̃ də la ʁy · tʁavɛʁse la ʁy/	in the street · at the corner of the street · to cross the street	fr-en
+le bac : prendre le bac · le bac, le baccalauréat · un bac à sable<br>/pʁɑ̃dʁ lə bak · lə bak, lə bakaloʁea · œ̃ bak a sabl/	to take the ferry · the baccalauréat, the school-leaving exam · a sandpit	fr-en
+entrer : entrer dans la maison · Entrez ! · entrer à l’université<br>/ɑ̃tʁe dɑ̃ la mɛzɔ̃ · ɑ̃tʁe · ɑ̃tʁe a lynivɛʁsite/	to go into the house · come in! · to enter university	fr-en
+visiter : visiter un musée · visiter la ville · rendre visite à un ami<br>/vizite œ̃ myze · vizite la vil · ʁɑ̃dʁ vizit a œ̃n‿ami/	to visit a museum · to visit the town · to visit a friend	fr-en
+la famille : en famille · une famille nombreuse · un nom de famille<br>/ɑ̃ famij · yn famij nɔ̃bʁøz · œ̃ nɔ̃ də famij/	with the family · a large family · a surname	fr-en
+le cabinet : le cabinet de travail · un cabinet médical · les cabinets<br>/lə kabinɛ də tʁavaj · œ̃ kabinɛ medikal · le kabinɛ/	the study · a doctor's office · the toilet, old-fashioned	fr-en
+le travail : au travail · chercher du travail · un travail intéressant<br>/o tʁavaj · ʃɛʁʃe dy tʁavaj · œ̃ tʁavaj ɛ̃teʁesɑ̃/	at work · to look for work · an interesting job	fr-en
+la salle : une salle de classe · une salle d’attente · une salle de bain<br>/yn sal də klas · yn sal datɑ̃t · yn sal də bɛ̃/	a classroom · a waiting room · a bathroom	fr-en
+manger : manger du pain · quelque chose à manger · bon à manger<br>/mɑ̃ʒe dy pɛ̃ · kɛlkə ʃoz a mɑ̃ʒe · bɔ̃ a mɑ̃ʒe/	to eat bread · something to eat · good to eat	fr-en
+avec : avec plaisir · avec moi · avec du sucre<br>/avɛk plɛziʁ · avɛk mwa · avɛk dy sykʁ/	with pleasure · with me · with sugar	fr-en
+le divan : s’asseoir sur le divan · un divan-lit · le divan du psychanalyste<br>/saswaʁ syʁ lə divɑ̃ · œ̃ divɑ̃ li · lə divɑ̃ dy psikanalist/	to sit on the divan · a sofa bed · the psychoanalyst's couch	fr-en
+la fille : une petite fille · une jeune fille · la fille de Marie<br>/yn pətit fij · yn ʒœn fij · la fij də maʁi/	a little girl · a young girl · Marie's daughter	fr-en
+ici : ici et là · par ici · d’ici<br>/isi e la · paʁ isi · disi/	here and there · this way · from here	fr-en
+la chambre : une chambre à coucher · la chambre des parents · une chambre d’hôtel<br>/yn ʃɑ̃bʁ a kuʃe · la ʃɑ̃bʁ de paʁɑ̃ · yn ʃɑ̃bʁ dotɛl/	a bedroom · the parents' room · a hotel room	fr-en
+les parents : mes parents · les grands-parents · chez ses parents<br>/me paʁɑ̃ · le ɡʁɑ̃paʁɑ̃ · ʃe se paʁɑ̃/	my parents · the grandparents · at one's parents'	fr-en
+le lit : au lit ! · faire le lit · un lit d’enfant<br>/o li · fɛʁ lə li · œ̃ li dɑ̃fɑ̃/	to bed! · to make the bed · a child's bed	fr-en
+le garçon : un petit garçon · Garçon ! · un garçon de café<br>/œ̃ pəti ɡaʁsɔ̃ · ɡaʁsɔ̃ · œ̃ ɡaʁsɔ̃ də kafe/	a little boy · waiter! · a waiter	fr-en
+montrer : montrer du doigt · montrer le chemin · montre-moi<br>/mɔ̃tʁe dy dwa · mɔ̃tʁe lə ʃəmɛ̃ · mɔ̃tʁ mwa/	to point at · to show the way · show me	fr-en
+le bain : prendre un bain · un bain de soleil · la salle de bain<br>/pʁɑ̃dʁ œ̃ bɛ̃ · œ̃ bɛ̃ də sɔlɛj · la sal də bɛ̃/	to take a bath · sunbathing · the bathroom	fr-en
+la cuisine : faire la cuisine · la cuisine polonaise · un livre de cuisine<br>/fɛʁ la kɥizin · la kɥizin pɔlɔnɛz · œ̃ livʁ də kɥizin/	to cook · Polish cooking · a cookbook	fr-en
+ensuite : et ensuite ? · d’abord … ensuite<br>/e ɑ̃sɥit · dabɔʁ … ɑ̃sɥit/	and then? · first … then	fr-en
+sortir : sortir de la maison · sortir le soir · sortir avec des amis<br>/sɔʁtiʁ də la mɛzɔ̃ · sɔʁtiʁ lə swaʁ · sɔʁtiʁ avɛk dez‿ami/	to go out of the house · to go out in the evening · to go out with friends	fr-en
+Nous habitons chez les parents de Marie.<br>/nuz‿abitɔ̃ ʃe le paʁɑ̃ də maʁi/	We live at Marie's parents' place.	fr-en
+Pierre visite Paris avec son camarade.<br>/pjɛʁ vizit paʁi avɛk sɔ̃ kamaʁad/	Pierre is visiting Paris with his friend.	fr-en
+Je rends visite à Madame Lefèvre.<br>/ʒə ʁɑ̃ vizit a madam ləfɛvʁ/	I am visiting Mrs Lefèvre: a person, so rendre visite à.	fr-en
+Entrez dans la salle à manger et regardez le divan !<br>/ɑ̃tʁe dɑ̃ la sal a mɑ̃ʒe e ʁəɡaʁde lə divɑ̃/	Come into the dining room and look at the divan!	fr-en
+Le fils de Monsieur Lefèvre sort de la cuisine.<br>/lə fis də məsjø ləfɛvʁ sɔʁ də la kɥizin/	Mr Lefèvre's son comes out of the kitchen.	fr-en
+La fille des Lefèvre montre sa chambre à Annette.<br>/la fij de ləfɛvʁ mɔ̃tʁ sa ʃɑ̃bʁ a anɛt/	The Lefèvres' daughter shows her room to Annette.	fr-en
+Où est la rue du Bac ? Elle est près de la Seine.<br>/u ɛ la ʁy dy bak ? ɛl ɛ pʁɛ də la sɛn/	Where is the rue du Bac? It is near the Seine.	fr-en
+Ensuite, nous mangeons dans la salle à manger.<br>/ɑ̃sɥit, nu mɑ̃ʒɔ̃ dɑ̃ la sal a mɑ̃ʒe/	Then we eat in the dining room.	fr-en
+Le lit du garçon est à côté de la fenêtre.<br>/lə li dy ɡaʁsɔ̃ ɛ(t)‿a kote də la fənɛtʁ/	The boy's bed is next to the window.	fr-en
+Ici, c’est la chambre ; là, c’est le cabinet de travail.<br>/isi, sɛ la ʃɑ̃bʁ ; la, sɛ lə kabinɛ də tʁavaj/	Here is the bedroom; there is the study.	fr-en
+chez<br>/ʃe/	at the place of	fr-en
+le fils<br>/lə fis/	the son, with the s sounded	fr-en
+rendre visite à<br>/ʁɑ̃dʁ vizit a/	to visit a person	fr-en
+entrer dans<br>/ɑ̃tʁe dɑ̃/	to go into	fr-en
+sortir de<br>/sɔʁtiʁ də/	to go out of	fr-en
+près de<br>/pʁɛ də/	near	fr-en
+là<br>/la/	there	fr-en
+la Seine<br>/la sɛn/	the Seine	fr-en
+le pont<br>/lə pɔ̃/	the bridge	fr-en
+la fenêtre<br>/la fənɛtʁ/	the window	fr-en
+nous mangeons<br>/nu mɑ̃ʒɔ̃/	we eat: the e keeps the g soft	fr-en
+le travail ________ parents<br>(AI exercise: du, de la, de l’ or des)	/lə tʁavaj [de] paʁɑ̃/<br>the parents' work	exercise
+la porte ________ appartement<br>(AI exercise: du, de la, de l’ or des)	/la pɔʁt [də l]apaʁtəmɑ̃/<br>the door of the flat	exercise
+la cuisine ________ famille Lefèvre<br>(AI exercise: du, de la, de l’ or des)	/la kɥizin [də la] famij ləfɛvʁ/<br>the Lefèvre family's kitchen	exercise
+le divan ________ garçon<br>(AI exercise: du, de la, de l’ or des)	/lə divɑ̃ [dy] ɡaʁsɔ̃/<br>the boy's divan	exercise
+Nous ________ Varsovie.<br>(AI exercise: visiter or rendre visite à)	/nu [vizitɔ̃] vaʁsɔvi/<br>We are visiting Warsaw.	exercise
+Nous ________ Madame Renoir.<br>(AI exercise: visiter or rendre visite à)	/nu [ʁɑ̃dɔ̃ vizit a] madam ʁənwaʁ/<br>We are visiting Mrs Renoir.	exercise
