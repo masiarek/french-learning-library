@@ -35,6 +35,7 @@ CHAPTERS = {
     "03_Szypowska": ("Szypowska", "FR-EN", "EN-FR", False),
     "04_Pronunciation": ("Pronunciation", "FR-EN", "EN-FR", False),
     "05_1000_words": ("1000 words", "FR-EN", "EN-FR", False),
+    "06_Expressions": ("Expressions", "FR-EN", "EN-FR", False),
 }
 
 

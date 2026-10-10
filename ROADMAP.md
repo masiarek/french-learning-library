@@ -14,9 +14,11 @@ What exists, and what is deliberately not written yet. A topic listed here has *
 
 **[05_1000_words](05_1000_words/README.md)** — the thousand words of the owner's vocabulary app, one page per word: the app's entry with IPA added, then the grammar the word needs, set phrases, my own examples and exercises, in French, English and IPA, with Anki decks of its own. No program, like the other source chapters; CI checks the tables' IPA. The chapter page numbers the words as they arrive and holds the count; the first seven were [devoir](05_1000_words/devoir/README.md), [tout](05_1000_words/tout/README.md), [dormir](05_1000_words/dormir/README.md), [aller](05_1000_words/aller/README.md), [sur](05_1000_words/sur/README.md), [venir](05_1000_words/venir/README.md) and [être](05_1000_words/etre/README.md).
 
+**[06_Expressions](06_Expressions/README.md)** — whole phrases the owner wants to say, one page per phrase: the phrase with IPA, then its grammar, variants, the trap that sounds like it, set phrases, examples and exercises, in French, English and IPA, with two Anki sets. The first is *j'ai appris la leçon par cœur*.
+
 ## The rules
 
-A **lesson** needs an argument and a program that demonstrates it, except in the four source chapters, whose pages are tables for the owner's own learning and carry no program. In a language library the program is usually a check on text: a transcription read symbol by symbol, a spelling rule applied to a word list and its exceptions counted, a conjugation table generated and compared with the dictionary's. A claim no program can check, such as how a vowel sounds, names its source and says how sure it is. A topic that fits neither stays here.
+A **lesson** needs an argument and a program that demonstrates it, except in the five source chapters, whose pages are tables for the owner's own learning and carry no program. In a language library the program is usually a check on text: a transcription read symbol by symbol, a spelling rule applied to a word list and its exceptions counted, a conjugation table generated and compared with the dictionary's. A claim no program can check, such as how a vowel sounds, names its source and says how sure it is. A topic that fits neither stays here.
 
 ## Lessons with an obvious program, not yet written
 

@@ -1,0 +1,32 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::le cœur — the heart
+#tags:french 1000words coeur fr-en
+#columns:Front	Back	Tags
+#tags column:3
+le cœur<br>/lə kœʁ/	(n.m.) heart; core, centre; courage	fr-en
+J'ai appris la leçon par cœur.<br>/ʒe apʁi la ləsɔ̃ paʁ kœʁ/	I learned the lesson by heart.	fr-en
+Le cœur bat vite.<br>/lə kœʁ ba vit/	The heart is beating fast.	fr-en
+un cœur d'or<br>/œ̃ kœʁ dɔʁ/	a heart of gold	fr-en
+au cœur de la ville<br>/o kœʁ də la vil/	in the heart of the town	fr-en
+perdre cœur<br>/pɛʁdʁ kœʁ/	to lose heart	fr-en
+la dame de cœur<br>/la dam də kœʁ/	the queen of hearts	fr-en
+par cœur<br>/paʁ kœʁ/	by heart	fr-en
+de bon cœur<br>/də bɔ̃ kœʁ/	willingly, gladly	fr-en
+avoir mal au cœur<br>/avwaʁ mal o kœʁ/	to feel sick	fr-en
+avoir le cœur brisé<br>/avwaʁ lə kœʁ bʁize/	to be heartbroken	fr-en
+avoir le cœur sur la main<br>/avwaʁ lə kœʁ syʁ la mɛ̃/	to be very generous	fr-en
+en avoir le cœur net<br>/ɑ̃n‿avwaʁ lə kœʁ nɛ/	to get to the bottom of it	fr-en
+apprendre par cœur<br>/apʁɑ̃dʁ paʁ kœʁ/	to learn by heart	fr-en
+mon cœur<br>/mɔ̃ kœʁ/	my darling	fr-en
+le cœur · le chœur<br>/lə kœʁ/ · /lə kœʁ/	the heart · the choir	fr-en
+la sœur, un œuf, un bœuf<br>/la sœʁ, œ̃n‿œf, œ̃ bœf/	the sister, an egg, an ox	fr-en
+des œufs, des bœufs<br>/dez‿ø, de bø/	eggs, oxen: the final consonant goes silent	fr-en
+Je connais ce poème par cœur.<br>/ʒə kɔnɛ sə pɔɛm paʁ kœʁ/	I know this poem by heart.	fr-en
+Ma sœur a un cœur d'or.<br>/ma sœʁ a œ̃ kœʁ dɔʁ/	My sister has a heart of gold.	fr-en
+J'ai mal au cœur dans la voiture.<br>/ʒe mal o kœʁ dɑ̃ la vwatyʁ/	I feel sick in the car.	fr-en
+Nous habitons au cœur de Paris.<br>/nuz‿abitɔ̃ o kœʁ də paʁi/	We live in the heart of Paris.	fr-en
+J'ai appris la leçon par ________.<br>(AI exercise: which word?)	/ʒe apʁi la ləsɔ̃ paʁ [kœʁ]/<br>I learned the lesson by heart.	exercise
+Les enfants chantent en ________.<br>(AI exercise: which word?)	/lez‿ɑ̃fɑ̃ ʃɑ̃t ɑ̃ [kœʁ]/<br>The children sing in chorus.	exercise
+Il m'aide de bon ________.<br>(AI exercise: which word?)	/il mɛd də bɔ̃ [kœʁ]/<br>He helps me gladly.	exercise

@@ -1,0 +1,37 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Expressions (FR-EN)::par cœur — by heart
+#tags:french expressions parcoeur fr-en
+#columns:Front	Back	Tags
+#tags column:3
+J'ai appris la leçon par cœur.<br>/ʒe apʁi la ləsɔ̃ paʁ kœʁ/	I learned the lesson by heart; I memorized the lesson.	fr-en
+Je connais la leçon par cœur.<br>/ʒə kɔnɛ la ləsɔ̃ paʁ kœʁ/	I know the lesson by heart.	fr-en
+J'ai mémorisé la leçon.<br>/ʒe memɔʁize la ləsɔ̃/	I memorized the lesson.	fr-en
+Je sais ma leçon par cœur.<br>/ʒə sɛ ma ləsɔ̃ paʁ kœʁ/	I know my lesson by heart.	fr-en
+apprendre par cœur<br>/apʁɑ̃dʁ paʁ kœʁ/	to learn by heart	fr-en
+savoir par cœur, connaître par cœur<br>/savwaʁ paʁ kœʁ, kɔnɛtʁ paʁ kœʁ/	to know by heart	fr-en
+réciter par cœur<br>/ʁesite paʁ kœʁ/	to recite by heart	fr-en
+Je connais Paris par cœur.<br>/ʒə kɔnɛ paʁi paʁ kœʁ/	I know Paris inside out.	fr-en
+J'ai retenu la leçon.<br>/ʒe ʁətəny la ləsɔ̃/	I learned my lesson (from a mistake); also: I remembered the lesson.	fr-en
+Ça me servira de leçon.<br>/sa mə sɛʁviʁa də ləsɔ̃/	That will teach me a lesson.	fr-en
+j'apprends, tu apprends, il apprend<br>/ʒapʁɑ̃, ty apʁɑ̃, il apʁɑ̃/	I learn, you learn, he learns	fr-en
+nous apprenons, vous apprenez, ils apprennent<br>/nuz‿apʁənɔ̃, vuz‿apʁəne, ilz‿apʁɛn/	we learn, you learn, they learn	fr-en
+je connais, tu connais, il connaît<br>/ʒə kɔnɛ, ty kɔnɛ, il kɔnɛ/	I know, you know, he knows	fr-en
+nous connaissons, vous connaissez, ils connaissent<br>/nu kɔnɛsɔ̃, vu kɔnɛse, il kɔnɛs/	we know, you know, they know	fr-en
+de bon cœur<br>/də bɔ̃ kœʁ/	willingly, gladly	fr-en
+avoir le cœur sur la main<br>/avwaʁ lə kœʁ syʁ la mɛ̃/	to be very generous	fr-en
+avoir mal au cœur<br>/avwaʁ mal o kœʁ/	to feel sick	fr-en
+en avoir le cœur net<br>/ɑ̃n‿avwaʁ lə kœʁ nɛ/	to get to the bottom of it	fr-en
+le cœur · le chœur<br>/lə kœʁ/ · /lə kœʁ/	the heart · the choir	fr-en
+chanter en chœur<br>/ʃɑ̃te ɑ̃ kœʁ/	to sing in chorus	fr-en
+Les enfants apprennent le poème par cœur.<br>/lez‿ɑ̃fɑ̃ apʁɛn lə pɔɛm paʁ kœʁ/	The children learn the poem by heart.	fr-en
+Tu as appris tes verbes par cœur ?<br>/ty a apʁi te vɛʁb paʁ kœʁ/	Did you learn your verbs by heart?	fr-en
+Je connais ce numéro par cœur.<br>/ʒə kɔnɛ sə nymeʁo paʁ kœʁ/	I know this number by heart.	fr-en
+Elle récite la fable par cœur.<br>/ɛl ʁesit la fabl paʁ kœʁ/	She recites the fable by heart.	fr-en
+Demain, je sais ma leçon.<br>/dəmɛ̃, ʒə sɛ ma ləsɔ̃/	Tomorrow I will know my lesson.	fr-en
+J'ai ________ la leçon par cœur.<br>(AI exercise: appris, connais or cœur?)	/ʒe [apʁi] la ləsɔ̃ paʁ kœʁ/<br>I learned the lesson by heart.	exercise
+Je ________ la leçon par cœur.<br>(AI exercise: appris, connais or cœur?)	/ʒə [kɔnɛ] la ləsɔ̃ paʁ kœʁ/<br>I know the lesson by heart.	exercise
+Il sait le poème par ________.<br>(AI exercise: appris, connais or cœur?)	/il sɛ lə pɔɛm paʁ [kœʁ]/<br>He knows the poem by heart.	exercise
+Les enfants chantent ________.<br>(AI exercise: par cœur or en chœur?)	/lez‿ɑ̃fɑ̃ ʃɑ̃t [ɑ̃ kœʁ]/<br>The children sing in chorus.	exercise
+Je connais la fable ________.<br>(AI exercise: par cœur or en chœur?)	/ʒə kɔnɛ la fabl [paʁ kœʁ]/<br>I know the fable by heart.	exercise

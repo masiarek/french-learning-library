@@ -1,0 +1,36 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+J'ai appris la leçon par cœur.<br>/ʒe apʁi la ləsɔ̃ paʁ kœʁ/	I learned the lesson by heart; I memorized the lesson.	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+Je connais la leçon par cœur.<br>/ʒə kɔnɛ la ləsɔ̃ paʁ kœʁ/	I know the lesson by heart.	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+J'ai mémorisé la leçon.<br>/ʒe memɔʁize la ləsɔ̃/	I memorized the lesson.	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+Je sais ma leçon par cœur.<br>/ʒə sɛ ma ləsɔ̃ paʁ kœʁ/	I know my lesson by heart.	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+apprendre par cœur<br>/apʁɑ̃dʁ paʁ kœʁ/	to learn by heart	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+savoir par cœur, connaître par cœur<br>/savwaʁ paʁ kœʁ, kɔnɛtʁ paʁ kœʁ/	to know by heart	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+réciter par cœur<br>/ʁesite paʁ kœʁ/	to recite by heart	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+Je connais Paris par cœur.<br>/ʒə kɔnɛ paʁi paʁ kœʁ/	I know Paris inside out.	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+J'ai retenu la leçon.<br>/ʒe ʁətəny la ləsɔ̃/	I learned my lesson (from a mistake); also: I remembered the lesson.	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+Ça me servira de leçon.<br>/sa mə sɛʁviʁa də ləsɔ̃/	That will teach me a lesson.	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+j'apprends, tu apprends, il apprend<br>/ʒapʁɑ̃, ty apʁɑ̃, il apʁɑ̃/	I learn, you learn, he learns	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+nous apprenons, vous apprenez, ils apprennent<br>/nuz‿apʁənɔ̃, vuz‿apʁəne, ilz‿apʁɛn/	we learn, you learn, they learn	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+je connais, tu connais, il connaît<br>/ʒə kɔnɛ, ty kɔnɛ, il kɔnɛ/	I know, you know, he knows	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+nous connaissons, vous connaissez, ils connaissent<br>/nu kɔnɛsɔ̃, vu kɔnɛse, il kɔnɛs/	we know, you know, they know	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+de bon cœur<br>/də bɔ̃ kœʁ/	willingly, gladly	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+avoir le cœur sur la main<br>/avwaʁ lə kœʁ syʁ la mɛ̃/	to be very generous	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+avoir mal au cœur<br>/avwaʁ mal o kœʁ/	to feel sick	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+en avoir le cœur net<br>/ɑ̃n‿avwaʁ lə kœʁ nɛ/	to get to the bottom of it	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+le cœur · le chœur<br>/lə kœʁ/ · /lə kœʁ/	the heart · the choir	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+chanter en chœur<br>/ʃɑ̃te ɑ̃ kœʁ/	to sing in chorus	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+Les enfants apprennent le poème par cœur.<br>/lez‿ɑ̃fɑ̃ apʁɛn lə pɔɛm paʁ kœʁ/	The children learn the poem by heart.	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+Tu as appris tes verbes par cœur ?<br>/ty a apʁi te vɛʁb paʁ kœʁ/	Did you learn your verbs by heart?	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+Je connais ce numéro par cœur.<br>/ʒə kɔnɛ sə nymeʁo paʁ kœʁ/	I know this number by heart.	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+Elle récite la fable par cœur.<br>/ɛl ʁesit la fabl paʁ kœʁ/	She recites the fable by heart.	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+Demain, je sais ma leçon.<br>/dəmɛ̃, ʒə sɛ ma ləsɔ̃/	Tomorrow I will know my lesson.	french expressions parcoeur fr-en	French::Expressions (FR-EN)::par cœur — by heart
+J'ai ________ la leçon par cœur.<br>(AI exercise: appris, connais or cœur?)	/ʒe [apʁi] la ləsɔ̃ paʁ kœʁ/<br>I learned the lesson by heart.	french expressions parcoeur fr-en exercise	French::Expressions (FR-EN)::par cœur — by heart
+Je ________ la leçon par cœur.<br>(AI exercise: appris, connais or cœur?)	/ʒə [kɔnɛ] la ləsɔ̃ paʁ kœʁ/<br>I know the lesson by heart.	french expressions parcoeur fr-en exercise	French::Expressions (FR-EN)::par cœur — by heart
+Il sait le poème par ________.<br>(AI exercise: appris, connais or cœur?)	/il sɛ lə pɔɛm paʁ [kœʁ]/<br>He knows the poem by heart.	french expressions parcoeur fr-en exercise	French::Expressions (FR-EN)::par cœur — by heart
+Les enfants chantent ________.<br>(AI exercise: par cœur or en chœur?)	/lez‿ɑ̃fɑ̃ ʃɑ̃t [ɑ̃ kœʁ]/<br>The children sing in chorus.	french expressions parcoeur fr-en exercise	French::Expressions (FR-EN)::par cœur — by heart
+Je connais la fable ________.<br>(AI exercise: par cœur or en chœur?)	/ʒə kɔnɛ la fabl [paʁ kœʁ]/<br>I know the fable by heart.	french expressions parcoeur fr-en exercise	French::Expressions (FR-EN)::par cœur — by heart

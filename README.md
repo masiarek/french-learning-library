@@ -58,6 +58,13 @@ The examples are **stdlib-only, on purpose**. If you have `python3`, you can run
 | [The word index](05_1000_words/README.md) | Every word so far, numbered in the order it arrived, with its IPA and the grammar its page holds; the first seven are *devoir, tout, dormir, aller, sur, venir, être* |
 | A word's page, such as [être](05_1000_words/etre/README.md) | The app's entry with IPA on every line, then the grammar the word needs (its conjugation, its forms, where it parts from English), set phrases, my own examples and exercises with the answers, and two Anki decks |
 
+[**06_Expressions/**](06_Expressions/README.md) — *Whole phrases, one page each*
+
+| Page | What it teaches |
+|---|---|
+| [The phrase index](06_Expressions/README.md) | Every phrase so far, numbered in the order it arrived |
+| [J'ai appris la leçon par cœur](06_Expressions/par_coeur/README.md) | *I memorized the lesson*: *apprendre, savoir, connaître par cœur*, the trap *j'ai retenu la leçon*, *cœur* and *chœur* |
+
 ## Other ways in
 
 - [Topic map](TOPICS.md): every page by subject.

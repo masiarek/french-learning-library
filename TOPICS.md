@@ -35,6 +35,10 @@
         - ↪ [dans](05_1000_words/dans/README.md), [sur](05_1000_words/sur/README.md), [sous](05_1000_words/sous/README.md), [devant](05_1000_words/devant/README.md), [derrière](05_1000_words/derriere/README.md), [à côté de](05_1000_words/a_cote_de/README.md) — the prepositions of place of the teacher's first lesson, one page each
         - ↪ [un lit](05_1000_words/lit/README.md), [la lie](05_1000_words/lie/README.md), [une mère](05_1000_words/mere/README.md), [une porte](05_1000_words/porte/README.md), [sur](05_1000_words/sur/README.md) — the word pages that set a homophone pair, beside the Sounds lesson on homophones
     - ↪ [Lesson 5: Dialogue](03_Szypowska/lecon_05_dialogue/README.md) — avoir in the present, the verb the être page sets against être
+- **Phrases**
+    - **Whole phrases, one page each** · from [Expressions](06_Expressions/README.md) — the chapter page is the index, numbered in order of arrival
+        - [par cœur](06_Expressions/par_coeur/README.md) — j'ai appris la leçon par cœur, je connais la leçon par cœur, apprendre, savoir, connaître, the trap j'ai retenu la leçon, cœur and chœur
+        - ↪ [le cœur](05_1000_words/coeur/README.md) — the word page, with the senses and set phrases of cœur
 
 ## Threads
 
