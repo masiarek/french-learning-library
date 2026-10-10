@@ -18,5 +18,5 @@ Then the two chapters that follow the owner's own courses, lesson by lesson: [**
 
 - [Topic map](../TOPICS.md): every page by subject.
 - [Glossary](../GLOSSARY.md): the terms, each with the page that explains it.
-- [Resources](../RESOURCES.md): the dictionaries and books.
+- [Resources](../RESOURCES.md): the dictionaries and books, and which books with audio to study from.
 - [Roadmap](../ROADMAP.md): what is written and what is deliberately not written yet.
