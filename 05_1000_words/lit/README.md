@@ -127,6 +127,7 @@ Conventions: on the [chapter page](../README.md).
 
 - [1000 words](../README.md) — the chapter, with how to read the table and the Anki sets
 - [Homophones: lit, lie, lis](../../01_Sounds/homophones/README.md) — the lesson on *le lit, il lit, la lie, il lie*: four roots, one sound, and the silent endings behind it
+- [la lie](../lie/README.md) — the dregs, the word that sounds the same, with *lier* conjugated and the partitive
 - [dormir](../dormir/README.md) — *dormir, s'endormir*, the verbs that follow *aller au lit*
 - [une chaise](../chaise/README.md), [un bureau](../bureau/README.md), [une armoire](../armoire/README.md) — the rest of Adam's bedroom
 - [Lesson 1: La maison](../../02_Yosser_teacher/lesson_01_la_maison/README.md) — the furniture, *il y a*, the prepositions of place

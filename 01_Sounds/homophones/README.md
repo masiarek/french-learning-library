@@ -32,7 +32,7 @@ Four roots is the count that matters. *Lire* /liʁ/ and *lier* /lje/ look like o
 
 *La lie* /la li/ is the sediment of dead yeast that settles at the bottom of a cask or a bottle after fermentation, the lees. A Muscadet *sur lie* /syʁ li/ was left on it over the winter, and says so on the label. Two set phrases keep the word alive: *la lie de la société* /la li də la sɔsjete/ the dregs of society, and *boire le calice jusqu'à la lie* /bwaʁ lə kalis ʒyska la li/ to drink the cup to the dregs, to bear a bad thing to its end. The noun is feminine, and the gender is the one thing the ear gets from the article: *la lie* /la li/ against *le lit* /lə li/.
 
-The verb *lier* /lje/ to tie, to bind, to link gives the same four letters in *je lie, il lie* /ʒə li, il li/, with *tu lies* /ty li/ and *ils lient* /il li/ beside them, and *que je lie* /kə ʒə li/ in the subjunctive. *Lié* /lje/ is the participle: *lié à* /lje a/ linked to, *les mains liées* /le mɛ̃ lje/ with one's hands tied, *se lier d'amitié avec* /sə lje damitje avɛk/ to strike up a friendship with. The vocabulary page of [un lit](../../05_1000_words/lit/README.md) keeps these as table rows, with cards.
+The verb *lier* /lje/ to tie, to bind, to link gives the same four letters in *je lie, il lie* /ʒə li, il li/, with *tu lies* /ty li/ and *ils lient* /il li/ beside them, and *que je lie* /kə ʒə li/ in the subjunctive. *Lié* /lje/ is the participle: *lié à* /lje a/ linked to, *les mains liées* /le mɛ̃ lje/ with one's hands tied, *se lier d'amitié avec* /sə lje damitje avɛk/ to strike up a friendship with. The vocabulary pages of [la lie](../../05_1000_words/lie/README.md) and [un lit](../../05_1000_words/lit/README.md) keep these as table rows, with cards.
 
 ## The letters that are not said
 
@@ -196,7 +196,7 @@ The note the owner sent, from an AI assistant, said *la lie*, *le lit* and *il l
 ## See also
 
 - [Sounds](../README.md) — the chapter this lesson belongs to
-- [un lit](../../05_1000_words/lit/README.md) — the vocabulary page, with *la lie*, *lier* and the sentences as cards
+- [un lit](../../05_1000_words/lit/README.md) and [la lie](../../05_1000_words/lie/README.md) — the vocabulary pages, with *lire* and *lier* conjugated and the sentences as cards
 - [English and French in the IPA](../ipa_english_vs_french/README.md) — the inventory the transcriptions are checked against, and French /i/ beside English /iː/
 - [The French alphabet](../french_alphabet/README.md) — the letter names, the other word list read in the IPA
 - [Les sons ɑ̃ et ɔ̃](../../04_Pronunciation/sons_an_on/README.md) and [Le son ɛ](../../04_Pronunciation/son_e_ouvert/README.md) — the spellings of one vowel, drilled

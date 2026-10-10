@@ -14,7 +14,7 @@
         - ↪ [Le son ɛ](04_Pronunciation/son_e_ouvert/README.md) — the open e the letter names show at effe, elle, erre, zède
     - **What the letters hide** · from [Sounds](01_Sounds/README.md)
         - [Homophones: lit, lie, lis](01_Sounds/homophones/README.md) — le lit, il lit, la lie, il lie; four roots, five spellings, one sound; the silent endings -t, -s, -e, -es, -ent; how many persons of lire, lier, parler, finir, être, avoir sound alike; what the article and the pronoun settle; why the subject pronoun is compulsory; vert, verre, vers, ver, vair and nineteen more sets
-        - ↪ [un lit](05_1000_words/lit/README.md) — the word page, with la lie, lier and the sentences as cards
+        - ↪ [un lit](05_1000_words/lit/README.md) and [la lie](05_1000_words/lie/README.md) — the two word pages, with lire and lier conjugated and the sentences as cards
     - **Drills from the videos** · from [Pronunciation](04_Pronunciation/README.md)
         - [Les sons ɑ̃ et ɔ̃](04_Pronunciation/sons_an_on/README.md) — the nasal vowels of blanc and blond, an, am, en, em against on, om, minimal pairs, both sounds in one word, where the nasal goes away, Anne's [ã] as Le Robert's /ɑ̃/
         - [Le son ɛ](04_Pronunciation/son_e_ouvert/README.md) — the open e of est, mais, lève, être, appelle; /e/ against /ɛ/; e before a consonant that is said; è, ê, ai, ei; the endings -et and -êt
@@ -22,7 +22,7 @@
 - **Lessons from a source, kept whole**
     - **The teacher's worksheets** · from [Yosser (teacher)](02_Yosser_teacher/README.md)
         - [Lesson 1: La maison — français, anglais, IPA](02_Yosser_teacher/lesson_01_la_maison/README.md) — the rooms of a house, the furniture, il y a, the prepositions of place, vrai ou faux, the Corrigé; every line in French, English and IPA, liaison marked
-        - [Lesson 1, the reading: Ma maison — each sentence with its IPA](02_Yosser_teacher/lesson_01_lecture_ma_maison/README.md) — Adam's text, the twelve questions and the ten true-or-false statements, each sentence with its transcription under it, to read aloud; the answer key at the end
+        - [Lesson 1, the reading: Ma maison — each sentence with its IPA](02_Yosser_teacher/lesson_01_lecture_ma_maison/README.md) — Adam's text, the twelve questions and the ten true-or-false statements, each sentence with its transcription under it, to read aloud; the answer key at the end; and sections 7 to 10, the grammar of il y a and its six sentences, the prepositions of place and the model description of a house, the same way
     - **Szypowska's Polish textbook** · from [Szypowska (Polish material)](03_Szypowska/README.md)
         - [Lesson 3: Regardons des photos](03_Szypowska/lecon_03_regardons_des_photos/README.md) — photos, Paris and Warsaw, the imperative, the definite article, de as the genitive, à with a city, the book's notation held to Le Robert's
         - [Lesson 4: Chez les Lefèvre](03_Szypowska/lecon_04_chez_les_lefevre/README.md) — the rooms of a flat, the letter c, elision, du, de la, de l', des, a translation into French
@@ -40,6 +40,7 @@
         - [dormir](05_1000_words/dormir/README.md) — to sleep; the partir pattern of -ir verbs, the singular that drops a consonant, as-tu bien dormi, s'endormir
         - [être](05_1000_words/etre/README.md) — to be, a being; three stems, fus of the books, soyez, été, the auxiliary of movement and reflexive verbs, avoir for faim and froid
         - [une fenêtre](05_1000_words/fenetre/README.md) — a window; the circumflex of a lost s, ouvrir and fermer, ouverte and fermée, par la fenêtre, donner sur, vitre, volet, rideau, store
+        - [la lie](05_1000_words/lie/README.md) — the lees, the dregs; the silent -e, la lie against le lit, il lit and il lie, the partitive de la lie and pas de lie, lier and un lien, the wine words, sur lie, la lie de la société, boire le calice jusqu'à la lie
         - [un lit](05_1000_words/lit/README.md) — a bed; the silent t, le lit against il lit, la lie and il lie, lu, au lit and du lit, se coucher, lire and lier, the kinds of bed, drap, couverture, oreiller
         - [une mère](05_1000_words/mere/README.md) — a mother; the article as the gender, sa as his or her, the possessives, de for possession, the feminine française, the family words, mère, mer and maire
         - [une porte](05_1000_words/porte/README.md) — a door; the open /ɔ/, la porte against il porte, à la porte, frapper, sonner, fermer à clé, claquer, the doors of a house, la porte à côté

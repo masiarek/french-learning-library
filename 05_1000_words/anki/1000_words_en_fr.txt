@@ -535,6 +535,64 @@ Open and closed, of a window	ouverte /uvɛʁt/ and fermée /fɛʁme/: the partic
 Through the window, onto the garden	par la fenêtre /paʁ la fənɛtʁ/, donner sur le jardin /dɔne syʁ lə ʒaʁdɛ̃/	french 1000words fenetre challenge words	French::1000 words (EN-FR)::une fenêtre — a window::Challenges
 Pane, shutter, curtain, blind	la vitre /la vitʁ/, le volet /lə vɔlɛ/, le rideau /lə ʁido/, le store /lə stɔʁ/	french 1000words fenetre challenge words	French::1000 words (EN-FR)::une fenêtre — a window::Challenges
 To throw money away, in French	jeter l'argent par les fenêtres /ʒəte laʁʒɑ̃ paʁ le fənɛtʁ/	french 1000words fenetre challenge words	French::1000 words (EN-FR)::une fenêtre — a window::Challenges
+(n.f.) lees, dregs, sediment	la lie<br>/la li/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+There is some sediment left at the bottom of the bottle.	Il reste de la lie au fond de la bouteille.<br>/il ʁɛst də la li o fɔ̃ də la butɛj/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+I tie	je lie<br>/ʒə li/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+you tie	tu lies<br>/ty li/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+he ties, she ties	il lie, elle lie<br>/il li, ɛl li/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+we tie	nous lions<br>/nu ljɔ̃/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+you tie (2)	vous liez<br>/vu lje/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+they tie	ils lient, elles lient<br>/il li, ɛl li/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+I tied, she tied	j'ai lié, elle a lié<br>/ʒe lje, ɛl a lje/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+tie!	lie ! liez !<br>/li, lje/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+linked to	lié à, liée à<br>/lje a/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+a link, a bond; links	un lien, des liens<br>/œ̃ ljɛ̃, de ljɛ̃/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+to untie, to connect	délier, relier<br>/delje, ʁəlje/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+some wine, some sediment, some water, some bottles	du vin, de la lie, de l'eau, des bouteilles<br>/dy vɛ̃, də la li, də lo, de butɛj/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+there is no sediment	il n'y a pas de lie<br>/il nj a pa də li/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+there is no wine left	il n'y a plus de vin<br>/il nj a ply də vɛ̃/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+a little sediment, a lot of wine	un peu de lie, beaucoup de vin<br>/œ̃ pø də li, boku də vɛ̃/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+a bottle of wine, a glass of wine	une bouteille de vin, un verre de vin<br>/yn butɛj də vɛ̃, œ̃ vɛʁ də vɛ̃/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+the lees, the sediment	la lie, les lies<br>/la li, le li/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+a wine kept on its lees	un vin sur lie<br>/œ̃ vɛ̃ syʁ li/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+the deposit at the bottom of the bottle	le dépôt au fond de la bouteille<br>/lə depo o fɔ̃ də la butɛj/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+the pressed grape skins; the brandy made from them	le marc<br>/lə maʁ/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+red wine, white wine, rosé	le vin rouge, le vin blanc, le rosé<br>/lə vɛ̃ ʁuʒ, lə vɛ̃ blɑ̃, lə ʁoze/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+the bottle, the cork, the corkscrew	la bouteille, le bouchon, le tire-bouchon<br>/la butɛj, lə buʃɔ̃, lə tiʁbuʃɔ̃/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+the cask, the barrel, the cellar	le tonneau, le fût, la cave<br>/lə tɔno, lə fy, la kav/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+the grape harvest, the yeast, the fermentation	la vendange, la levure, la fermentation<br>/la vɑ̃dɑ̃ʒ, la ləvyʁ, la fɛʁmɑ̃tasjɔ̃/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+to decant the wine	décanter le vin<br>/dekɑ̃te lə vɛ̃/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+to draw the wine off	tirer le vin<br>/tiʁe lə vɛ̃/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+the dregs of society	la lie de la société<br>/la li də la sɔsjete/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+the rabble	la lie du peuple<br>/la li dy pœpl/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+to drink the cup to the dregs, to bear an ordeal to its end	boire le calice jusqu'à la lie<br>/bwaʁ lə kalis ʒyska la li/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+to the end	jusqu'au bout<br>/ʒysko bu/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+to the last drop	jusqu'à la dernière goutte<br>/ʒyska la dɛʁnjɛʁ ɡut/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+In for a penny, in for a pound.	Le vin est tiré, il faut le boire.<br>/lə vɛ̃ ɛ tiʁe, il fo lə bwaʁ/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+the dregs – the bed – he reads – he ties	la lie – le lit – il lit – il lie<br>/la li/ · /lə li/ · /il li/ · /il li/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+the dregs – the lily: the s is said	la lie – le lis<br>/la li/ · /lə lis/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+the dregs – tied: the i glides before the vowel	la lie – lié<br>/la li/ · /lje/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+the dregs – read, the participle: /i/ against /y/	la lie – lu<br>/la li/ · /ly/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+The lees settle during fermentation.	La lie se dépose pendant la fermentation.<br>/la li sə depoz pɑ̃dɑ̃ la fɛʁmɑ̃tasjɔ̃/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+Muscadet sur lie is drunk young.	Le Muscadet sur lie se boit jeune.<br>/lə myskadɛ syʁ li sə bwa ʒœn/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+Don't drink the dregs, they are bitter.	Ne bois pas la lie, elle est amère.<br>/nə bwa pa la li, ɛl ɛ(t)‿amɛʁ/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+This wine has a deposit, it has to be decanted.	Ce vin a un dépôt, il faut le décanter.<br>/sə vɛ̃ a œ̃ depo, il fo lə dekɑ̃te/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+He drank the cup to the dregs.	Il a bu le calice jusqu'à la lie.<br>/il a by lə kalis ʒyska la li/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+Those people are the dregs of society, he says.	Ces gens-là, c'est la lie de la société, dit-il.<br>/se ʒɑ̃ la, sɛ la li də la sɔsjete, ditil/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+She ties the two bouquets with a ribbon.	Elle lie les deux bouquets avec un ruban.<br>/ɛl li le dø bukɛ avɛk œ̃ ʁybɑ̃/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+The bed, the dregs, he reads, he ties: four words, one sound.	Le lit, la lie, il lit, il lie : quatre mots, un son.<br>/lə li, la li, il li, il li : katʁ mo, œ̃ sɔ̃/	french 1000words lie en-fr	French::1000 words (EN-FR)::la lie — the dregs
+Say: There is some sediment left at the bottom of the bottle.	Il reste de la lie au fond de la bouteille. /il ʁɛst də la li o fɔ̃ də la butɛj/	french 1000words lie challenge say	French::1000 words (EN-FR)::la lie — the dregs::Challenges
+Say: He drank the cup to the dregs.	Il a bu le calice jusqu’à la lie. /il a by lə kalis ʒyska la li/	french 1000words lie challenge say	French::1000 words (EN-FR)::la lie — the dregs::Challenges
+Say: The dregs of society.	la lie de la société /la li də la sɔsjete/	french 1000words lie challenge say	French::1000 words (EN-FR)::la lie — the dregs::Challenges
+Say: Muscadet sur lie is drunk young.	Le Muscadet sur lie se boit jeune. /lə myskadɛ syʁ li sə bwa ʒœn/	french 1000words lie challenge say	French::1000 words (EN-FR)::la lie — the dregs::Challenges
+Say: She ties the two bouquets with a ribbon.	Elle lie les deux bouquets avec un ruban. /ɛl li le dø bukɛ avɛk œ̃ ʁybɑ̃/	french 1000words lie challenge say	French::1000 words (EN-FR)::la lie — the dregs::Challenges
+Why do la lie, le lit and il lit sound alike?	All three are /li/: the final -e and -t are silent. The article tells the nouns apart, la for the feminine lie, le for the masculine lit; the pronoun tells the verb	french 1000words lie challenge sound	French::1000 words (EN-FR)::la lie — the dregs::Challenges
+The four words that say /li/	le lit /lə li/ the bed, il lit /il li/ he reads, la lie /la li/ the dregs, il lie /il li/ he ties	french 1000words lie challenge words	French::1000 words (EN-FR)::la lie — the dregs::Challenges
+I tie, we tie, they tie	je lie /ʒə li/, nous lions /nu ljɔ̃/, ils lient /il li/	french 1000words lie challenge grammar	French::1000 words (EN-FR)::la lie — the dregs::Challenges
+Some sediment, no sediment: the partitive and its negative	de la lie /də la li/, pas de lie /pa də li/	french 1000words lie challenge grammar	French::1000 words (EN-FR)::la lie — the dregs::Challenges
+A link or a bond; to untie; to connect	un lien /œ̃ ljɛ̃/, délier /delje/, relier /ʁəlje/	french 1000words lie challenge words	French::1000 words (EN-FR)::la lie — the dregs::Challenges
+Which of lie, lit, lire, lier comes from a Gaulish word?	la lie, Latin lia of Gaulish origin; lit is Latin lectus, lire is legere, lier is ligare	french 1000words lie challenge words	French::1000 words (EN-FR)::la lie — the dregs::Challenges
+The bottle, the cork, the corkscrew	la bouteille /la butɛj/, le bouchon /lə buʃɔ̃/, le tire-bouchon /lə tiʁbuʃɔ̃/	french 1000words lie challenge words	French::1000 words (EN-FR)::la lie — the dregs::Challenges
 (n.m.) bed	un lit<br>/œ̃ li/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
 I go to bed at ten o'clock.	Je vais au lit à dix heures.<br>/ʒə vɛ o li a diz‿œʁ/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
 I go to bed	je me couche<br>/ʒə mə kuʃ/	french 1000words lit en-fr	French::1000 words (EN-FR)::un lit — a bed
