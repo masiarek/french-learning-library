@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une fleur — a flower::Challenges
+#tags:french 1000words fleur challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: In the garden there are flowers.	Dans le jardin, il y a des fleurs. /dɑ̃ lə ʒaʁdɛ̃, il j a de flœʁ/	say
+Say: He gives his mother flowers.	Il offre des fleurs à sa mère. /il ɔfʁ de flœʁ a sa mɛʁ/	say
+Say: I like flowers.	J’aime les fleurs. /ʒɛm le flœʁ/	say
+Say: There are no flowers in winter.	Il n’y a pas de fleurs en hiver. /il nj a pa də flœʁ ɑ̃n‿ivɛʁ/	say
+Say: The trees are in bloom in spring.	Les arbres sont en fleurs au printemps. /lez‿aʁbʁ sɔ̃t‿ɑ̃ flœʁ o pʁɛ̃tɑ̃/	say
+Why is fleur /flœʁ/ but deux /dø/?	Before a consonant that is said, here the r, eu is the open /œ/; with nothing after it, the closed /ø/: the rule of position	sound
+A bunch of flowers, a florist, to flower, in bloom	un bouquet de fleurs /œ̃ bukɛ də flœʁ/, un fleuriste /œ̃ flœʁist/, fleurir /flœʁiʁ/, en fleurs /ɑ̃ flœʁ/	words
+I give, we give, he gave me flowers	j’offre /ʒɔfʁ/, nous offrons /nuz‿ɔfʁɔ̃/, il m’a offert des fleurs /il ma ɔfɛʁ de flœʁ/	grammar
+Flowers, beautiful flowers, no flowers	des fleurs /de flœʁ/, de belles fleurs /də bɛl flœʁ/, pas de fleurs /pa də flœʁ/	grammar
+A rose, a tulip, a daisy, a sunflower	une rose /yn ʁoz/, une tulipe /yn tylip/, une marguerite /yn maʁɡəʁit/, un tournesol /œ̃ tuʁnəsɔl/	words
+The flower, against he cries	la fleur /la flœʁ/, il pleure /il plœʁ/: /f/ against /p/, the vowel the same	sound
+In the prime of life, in French	à la fleur de l’âge /a la flœʁ də lɑʒ/	words

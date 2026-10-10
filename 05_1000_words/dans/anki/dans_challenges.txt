@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::dans — in, inside::Challenges
+#tags:french 1000words dans challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: There is a bed in my bedroom.	Il y a un lit dans ma chambre. /il j a œ̃ li dɑ̃ ma ʃɑ̃bʁ/	say
+Say: I’ll be back in ten minutes.	Je reviens dans dix minutes. /ʒə ʁəvjɛ̃ dɑ̃ di minyt/	say
+Say: He is drinking out of my glass!	Il boit dans mon verre ! /il bwa dɑ̃ mɔ̃ vɛʁ/	say
+Say: I read that in the paper.	J’ai lu ça dans le journal. /ʒe ly sa dɑ̃ lə ʒuʁnal/	say
+Say: In that case I am staying at home.	Dans ce cas, je reste à la maison. /dɑ̃ sə ka, ʒə ʁɛst a la mɛzɔ̃/	say
+When is the s of dans said?	Before a vowel, as /z/, and always: dans un /dɑ̃z‿œ̃/, dans une heure /dɑ̃z‿yn œʁ/; silent before a consonant, dans le /dɑ̃ lə/	sound
+At home, against inside the house	à la maison /a la mɛzɔ̃/, dans la maison /dɑ̃ la mɛzɔ̃/	grammar
+In Poland, in Portugal, in Paris: the three prepositions	en Pologne /ɑ̃ pɔlɔɲ/, au Portugal /o pɔʁtyɡal/, à Paris /a paʁi/	grammar
+In ten minutes from now; in ten minutes of work; ten minutes ago	dans dix minutes /dɑ̃ di minyt/; en dix minutes /ɑ̃ di minyt/; il y a dix minutes /il j a di minyt/	grammar
+To drink out of a glass, in French	boire dans un verre /bwaʁ dɑ̃z‿œ̃ vɛʁ/: French names the container, not the source	grammar
+The three words that sound /dɑ̃/	dans (in), dent (tooth), d’en (of it); dont /dɔ̃/ is the other nasal	words
+Inside, with no noun after it	dedans /dədɑ̃/; là-dedans /ladədɑ̃/ in there; dehors /dəɔʁ/ outside	words

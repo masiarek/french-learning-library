@@ -1,0 +1,20 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::confortable — comfortable::Challenges
+#tags:french 1000words confortable challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: My house is beautiful and comfortable.	Ma maison est belle et confortable. /ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/	say
+Say: This armchair is very comfortable.	Ce fauteuil est très confortable. /sə fotœj ɛ tʁɛ kɔ̃fɔʁtabl/	say
+Say: The sofa is more comfortable than the chairs.	Le canapé est plus confortable que les chaises. /lə kanape ɛ ply kɔ̃fɔʁtabl kə le ʃɛz/	say
+Say: Make yourself comfortable. (politely, two ways)	Mettez-vous à l’aise. /metevu a lɛz/ Installez-vous confortablement. /ɛ̃stalevu kɔ̃fɔʁtabləmɑ̃/	say
+Say: I am comfortable in my bedroom.	Je suis bien dans ma chambre. /ʒə sɥi bjɛ̃ dɑ̃ ma ʃɑ̃bʁ/	say
+Say: These shoes are comfortable for walking.	Ces chaussures sont confortables pour marcher. /se ʃosyʁ sɔ̃ kɔ̃fɔʁtabl puʁ maʁʃe/	say
+The forms of confortable, with IPA	confortable /kɔ̃fɔʁtabl/ for both genders, confortables /kɔ̃fɔʁtabl/ in the plural: an adjective already ending in -e adds no feminine -e, and the four are said alike	grammar
+Where does confortable go, before or after the noun?	After, as most adjectives do: une maison confortable /yn mɛzɔ̃ kɔ̃fɔʁtabl/; with a short adjective before it, une grande maison confortable /yn ɡʁɑ̃d mɛzɔ̃ kɔ̃fɔʁtabl/	grammar
+Can a person be confortable?	No: a chair, a bed, a house or a salary is confortable; a person is bien /bjɛ̃/, à l’aise /a lɛz/ or bien installé /bjɛ̃n‿ɛ̃stale/; je suis confortable is a Quebec anglicism	grammar
+Comfort, comfortably, uncomfortable, in French	le confort /lə kɔ̃fɔʁ/, confortablement /kɔ̃fɔʁtabləmɑ̃/, inconfortable /ɛ̃kɔ̃fɔʁtabl/	words
+To comfort someone: which verb?	réconforter /ʁekɔ̃fɔʁte/, with the noun le réconfort /lə ʁekɔ̃fɔʁ/; confort is the comfort of things	words
+A flat with every convenience, a comfortable salary	un appartement tout confort /œ̃n‿apaʁtəmɑ̃ tu kɔ̃fɔʁ/, un salaire confortable /œ̃ salɛʁ kɔ̃fɔʁtabl/	words
+Spell it: comfortable in French, and the three sounds of its syllables	confortable, with n: con- /kɔ̃/ the nasal of bon, -fort- /fɔʁ/, -able /abl/ as in la table	sound

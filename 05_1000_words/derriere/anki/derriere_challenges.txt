@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::derrière — behind::Challenges
+#tags:french 1000words derriere challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: The garden is behind the house.	Le jardin est derrière la maison. /lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ la mɛzɔ̃/	say
+Say: The cat is hiding behind the sofa.	Le chat se cache derrière le canapé. /lə ʃa sə kaʃ dɛʁjɛʁ lə kanape/	say
+Say: Close the door behind you.	Ferme la porte derrière toi. /fɛʁm la pɔʁt dɛʁjɛʁ twa/	say
+Say: Who is behind the door?	Qui est derrière la porte ? /ki ɛ dɛʁjɛʁ la pɔʁt/	say
+Say: We walk one behind the other.	Nous marchons l’un derrière l’autre. /nu maʁʃɔ̃ lœ̃ dɛʁjɛʁ lotʁ/	say
+Behind the station, against after dinner	derrière la gare /dɛʁjɛʁ la ɡaʁ/, space; après le dîner /apʁɛ lə dine/, time	grammar
+Behind the car, against the back of the car	derrière la voiture /dɛʁjɛʁ la vwatyʁ/; l’arrière de la voiture /laʁjɛʁ də la vwatyʁ/	grammar
+The back seat; to reverse	le siège arrière /lə sjɛʒ aʁjɛʁ/; faire marche arrière /fɛʁ maʁʃ aʁjɛʁ/	words
+The back door, the front door	la porte de derrière /la pɔʁt də dɛʁjɛʁ/, la porte de devant /la pɔʁt də dəvɑ̃/	words
+To leave behind; to have the team behind one	laisser derrière soi /lese dɛʁjɛʁ swa/; avoir l’équipe derrière soi /avwaʁ lekip dɛʁjɛʁ swa/	words
+The vowels of derrière	two open /ɛ/, each before a consonant that is said: /dɛʁjɛʁ/; -ière is /jɛʁ/ as in première, bière	sound
+Behind bars; there is something behind this	derrière les barreaux /dɛʁjɛʁ le baʁo/; il y a quelque chose derrière /il j a kɛlkə ʃoz dɛʁjɛʁ/	words

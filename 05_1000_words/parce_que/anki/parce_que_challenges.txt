@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::parce que — because::Challenges
+#tags:french 1000words parceque challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: I like my house because it is big.	J’aime ma maison parce qu’elle est grande. /ʒɛm ma mɛzɔ̃ paʁs kɛl ɛ ɡʁɑ̃d/	say
+Say: I am staying at home because it is raining.	Je reste à la maison parce qu’il pleut. /ʒə ʁɛst a la mɛzɔ̃ paʁs kil plø/	say
+Say: Why aren’t you coming? Because I don’t have time.	Pourquoi tu ne viens pas ? Parce que je n’ai pas le temps. /puʁkwa ty nə vjɛ̃ pa, paʁs kə ʒə ne pa lə tɑ̃/	say
+Say: I am late because of the train.	Je suis en retard à cause du train. /ʒə sɥi ɑ̃ ʁətaʁ a koz dy tʁɛ̃/	say
+Say: Why? Because that’s how it is.	Pourquoi ? Parce que c’est comme ça. /puʁkwa, paʁs kə sɛ kɔm sa/	say
+Because he, because she, because we (on)	parce qu’il /paʁs kil/, parce qu’elle /paʁs kɛl/, parce qu’on /paʁs kɔ̃/: que elides before a vowel	grammar
+Because + a clause; because of + a noun; thanks to	parce que /paʁs kə/; à cause de /a koz də/; grâce à /ɡʁas a/	grammar
+Since (you know it); as (at the start); so	puisque /pɥisk/; comme /kɔm/; donc /dɔ̃k/	words
+How is parce que written?	as two words, parce and que, never one; said /paʁs kə/ or /paʁskə/	sound
+Why, in French, and the everyday way to ask it	pourquoi /puʁkwa/; Pourquoi tu ris ? /puʁkwa ty ʁi/	words
+That is why; just because	c’est pour ça que /sɛ puʁ sa kə/; juste parce que /ʒyst paʁs kə/	words
+Because of the noise; thanks to the neighbours: the contractions	à cause du bruit /a koz dy bʁɥi/; grâce aux voisins /ɡʁas o vwazɛ̃/	grammar

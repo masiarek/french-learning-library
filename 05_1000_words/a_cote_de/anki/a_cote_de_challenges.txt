@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::à côté de — next to::Challenges
+#tags:french 1000words acotede challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: The chair is next to the desk.	La chaise est à côté du bureau. /la ʃɛz ɛ(t)‿a kote dy byʁo/	say
+Say: Sit next to me.	Assieds-toi à côté de moi. /asjetwa a kote də mwa/	say
+Say: My parents live right next door.	Mes parents habitent juste à côté. /me paʁɑ̃ abit ʒyst a kote/	say
+Say: The chemist’s is on the other side of the street.	La pharmacie est de l’autre côté de la rue. /la faʁmasi ɛ də lotʁ kote də la ʁy/	say
+Say: I put a little money aside every month.	Je mets un peu d’argent de côté chaque mois. /ʒə mɛ œ̃ pø daʁʒɑ̃ də kote ʃak mwa/	say
+Next to the desk, next to the windows: what happens to de?	de + le = du, de + les = des: à côté du bureau /a kote dy byʁo/, à côté des fenêtres /a kote de fənɛtʁ/	grammar
+Near, far from, opposite, in the middle of	près de /pʁɛ də/, loin de /lwɛ̃ də/, en face de /ɑ̃ fas də/, au milieu de /o miljø də/	words
+Next door, with no noun; the house next door	à côté /a kote/; la maison d’à côté /la mɛzɔ̃ dakote/	words
+Side by side; on the one hand, on the other	côte à côte /kot a kot/; d’un côté … de l’autre /dœ̃ kote … də lotʁ/	words
+Côté against côte	le côté /kote/ the side, two syllables; la côte /kot/ the rib, the coast, the slope, one syllable	sound
+To miss an opportunity; to answer beside the question	passer à côté de quelque chose /pase a kote də kɛlkə ʃoz/; répondre à côté /ʁepɔ̃dʁ a kote/	words
+To the left of, to the right of	à gauche de /a ɡoʃ də/, à droite de /a dʁwat də/	words

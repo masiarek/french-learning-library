@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::un sac — a bag::Challenges
+#tags:french 1000words sac challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: The bag is under the table.	Le sac est sous la table. /lə sak ɛ su la tabl/	say
+Say: She puts her keys in her bag.	Elle met ses clés dans son sac. /ɛl mɛ se kle dɑ̃ sɔ̃ sak/	say
+Say: I left my bag at home.	J’ai oublié mon sac à la maison. /ʒe ublije mɔ̃ sak a la mɛzɔ̃/	say
+Say: Do you want a bag? No thank you, I have my bag.	Vous voulez un sac ? Non merci, j’ai mon sac. /vu vule œ̃ sak/ /nɔ̃ mɛʁsi, ʒe mɔ̃ sak/	say
+Say: This bag is too heavy for me.	Ce sac est trop lourd pour moi. /sə sak ɛ tʁo luʁ puʁ mwa/	say
+Is the c of sac said? And of blanc?	Yes, /sak/: a final c is said after an oral vowel (lac, parc, avec); silent after a nasal vowel, blanc /blɑ̃/, banc /bɑ̃/; tabac /taba/ and estomac /ɛstɔma/ are the exceptions	sound
+A handbag, a rucksack, a sleeping bag, a bin bag	un sac à main /œ̃ sak a mɛ̃/, un sac à dos /œ̃ sak a do/, un sac de couchage /œ̃ sak də kuʃaʒ/, un sac poubelle /œ̃ sak pubɛl/	words
+A leather bag, a plastic bag	un sac en cuir /œ̃ sak ɑ̃ kɥiʁ/, un sac en plastique /œ̃ sak ɑ̃ plastik/ or un sac plastique: en for the material	grammar
+A suitcase, a schoolbag, a purse, a wallet	une valise /yn valiz/, un cartable /œ̃ kaʁtabl/, un porte-monnaie /œ̃ pɔʁtmɔnɛ/, un portefeuille /œ̃ pɔʁtəfœj/	words
+To get it all off one’s chest, in French	vider son sac /vide sɔ̃ sak/	words
+It’s in the bag, in French	L’affaire est dans le sac. /lafɛʁ ɛ dɑ̃ lə sak/	words
+To do the shopping; a shopping bag	faire les courses /fɛʁ le kuʁs/; un sac de courses /œ̃ sak də kuʁs/	words

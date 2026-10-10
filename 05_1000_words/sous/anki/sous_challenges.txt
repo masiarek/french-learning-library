@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::sous — under::Challenges
+#tags:french 1000words sous challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: The cat is sleeping under the table.	Le chat dort sous la table. /lə ʃa dɔʁ su la tabl/	say
+Say: We are walking in the rain.	Nous marchons sous la pluie. /nu maʁʃɔ̃ su la plɥi/	say
+Say: I watch French films with subtitles.	Je regarde les films français avec des sous-titres. /ʒə ʁəɡaʁd le film fʁɑ̃sɛ avɛk de sutitʁ/	say
+Say: He is in the shower.	Il est sous la douche. /il ɛ su la duʃ/	say
+Say: The paper is under the sofa, not on it.	Le journal est sous le canapé, pas dessus. /lə ʒuʁnal ɛ su lə kanape, pa dəsy/	say
+Sous against sur: the vowels	sous /su/ with /u/, tongue back; sur /syʁ/ with /y/, tongue forward; the lips stay rounded	sound
+Under a tree: what happens to the s of sous?	It is said, as /z/: sous un arbre /suz‿œ̃n‿aʁbʁ/	sound
+Underneath, with no noun after it; and on top	dessous /dəsu/; dessus /dəsy/; sens dessus dessous /sɑ̃ dəsy dəsu/ upside down	words
+In the rain, in the sun, in the shower: the preposition	sous: sous la pluie /su la plɥi/, sous le soleil /su lə sɔlɛj/, sous la douche /su la duʃ/	grammar
+The basement, the subtitles, a submarine	le sous-sol /lə susɔl/, les sous-titres /le sutitʁ/, un sous-marin /œ̃ sumaʁɛ̃/	words
+Three words that sound /su/	sous (under), un sou (a penny), saoul (drunk)	words
+Shortly; in the reign of Louis XIV	sous peu /su pø/; sous Louis XIV /su lwi katɔʁz/	words
