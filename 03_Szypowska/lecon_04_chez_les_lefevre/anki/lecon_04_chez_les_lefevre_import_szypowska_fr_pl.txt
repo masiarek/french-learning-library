@@ -4,134 +4,134 @@
 #columns:Front	Back	Tags	Deck
 #tags column:3
 #deck column:4
-Monsieur et Madame Lefèvre habitent un appartement rue du Bac.<br>/məsjø e madam ləfɛvʁ abit‿œ̃n‿apaʁtəmɑ̃ ʁy dy bak/	Państwo Lefèvre mieszkają w mieszkaniu przy ulicy du Bac.<br>Mr and Mrs Lefèvre live in a flat on the rue du Bac.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Nous entrons.<br>/nuz‿ɑ̃tʁɔ̃/	Wchodzimy.<br>We go in.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Nous visitons l’appartement de la famille Lefèvre.<br>/nu vizitɔ̃ lapaʁtəmɑ̃ də la famij ləfɛvʁ/	Zwiedzamy mieszkanie rodziny Lefèvre.<br>We visit the Lefèvre family's flat.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Voici le cabinet de travail de Monsieur Lefèvre.<br>/vwasi lə kabinɛ də tʁavaj də məsjø ləfɛvʁ/	Oto gabinet pana Lefèvre.<br>Here is Mr Lefèvre's study.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Voilà la salle à manger avec le divan de la fille, et ici, la chambre des parents avec le lit du garçon.<br>/vwala la sal a mɑ̃ʒe avɛk lə divɑ̃ də la fij, e isi, la ʃɑ̃bʁ de paʁɑ̃ avɛk lə li dy ɡaʁsɔ̃/	Oto pokój stołowy z tapczanem córki, a tu pokój rodziców z łóżkiem chłopca.<br>There is the dining room with the daughter's divan, and here, the parents' room with the boy's bed.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Madame Lefèvre montre aussi la cuisine et la salle de bain.<br>/madam ləfɛvʁ mɔ̃tʁ osi la kɥizin e la sal də bɛ̃/	Pani Lefèvre pokazuje także kuchnię i łazienkę.<br>Mrs Lefèvre also shows the kitchen and the bathroom.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Ensuite nous sortons.<br>/ɑ̃sɥit nu sɔʁtɔ̃/	Potem wychodzimy.<br>Then we go out.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Voici le divan de la fille<br>/vwasi lə divɑ̃ də la fij/	Oto tapczan córki<br>Here is the daughter's divan (the caption of the first drawing)	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Voilà le lit du garçon<br>/vwala lə li dy ɡaʁsɔ̃/	Oto łóżko chłopca<br>There is the boy's bed (the caption of the second)	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-quatre<br>/katʁ/	cztery<br>four	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-habiter<br>/abite/	mieszkać, zamieszkiwać<br>to live, to dwell	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-habitent<br>/abit/	mieszkają, zamieszkują<br>(they) live	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-un appartement<br>/œ̃n‿apaʁtəmɑ̃/	mieszkanie<br>a flat	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la rue<br>/la ʁy/	ulica<br>the street	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le bac<br>/lə bak/	prom<br>the ferry	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-entrer<br>/ɑ̃tʁe/	wchodzić<br>to go in	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-nous entrons<br>/nuz‿ɑ̃tʁɔ̃/	(my) wchodzimy<br>we go in	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-visiter<br>/vizite/	zwiedzać<br>to visit	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-nous visitons<br>/nu vizitɔ̃/	(my) zwiedzamy<br>we visit	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la famille<br>/la famij/	rodzina<br>the family	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-de la famille<br>/də la famij/	rodziny (dopełniacz)<br>of the family	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le cabinet<br>/lə kabinɛ/	gabinet<br>the study, the office	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le travail<br>/lə tʁavaj/	praca<br>work	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le cabinet de travail<br>/lə kabinɛ də tʁavaj/	gabinet (dosł.: gabinet pracy)<br>the study (literally, the work room)	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la salle<br>/la sal/	sala<br>the room, the hall	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-manger<br>/mɑ̃ʒe/	jeść<br>to eat	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la salle à manger<br>/la sal a mɑ̃ʒe/	pokój stołowy (dosł.: sala do jedzenia)<br>the dining room (literally, the room for eating)	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-avec<br>/avɛk/	z (ze)<br>with	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le divan<br>/lə divɑ̃/	tapczan<br>the divan, the couch	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la fille<br>/la fij/	córka, dziewczyna<br>the daughter, the girl	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-ici<br>/isi/	tu(-taj)<br>here	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la chambre<br>/la ʃɑ̃bʁ/	pokój<br>the room, the bedroom	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-les parents<br>/le paʁɑ̃/	rodzice<br>the parents	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-des parents<br>/de paʁɑ̃/	rodziców (dopełniacz)<br>of the parents	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le lit<br>/lə li/	łóżko<br>the bed	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le garçon<br>/lə ɡaʁsɔ̃/	chłopiec<br>the boy	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-du garçon<br>/dy ɡaʁsɔ̃/	chłopca<br>of the boy, the boy's	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-montrer<br>/mɔ̃tʁe/	pokazać<br>to show	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-montre<br>/mɔ̃tʁ/	pokazuje<br>(he, she) shows	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le bain<br>/lə bɛ̃/	kąpiel<br>the bath	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la cuisine<br>/la kɥizin/	kuchnia<br>the kitchen	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la salle de bain<br>/la sal də bɛ̃/	łazienka (dosł.: sala do kąpieli)<br>the bathroom (literally, the room for bathing)	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-ensuite<br>/ɑ̃sɥit/	potem<br>then, afterwards	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-nous sortons<br>/nu sɔʁtɔ̃/	(my) wychodzimy<br>we go out	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-ici, voici<br>/isi, vwasi/	c przed i czyta się /s/<br>c before i is /s/	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-cabinet, cuisine<br>/kabinɛ, kɥizin/	c przed a, u czyta się /k/<br>c before a and u is /k/	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Bac, avec<br>/bak, avɛk/	c na końcu krótkiego wyrazu po samogłosce czyta się /k/<br>a final c after a vowel, in a short word, is /k/	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-l’appartement<br>/lapaʁtəmɑ̃/	elizja: le traci samogłoskę przed samogłoską<br>elision: le loses its vowel before a vowel	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la rue du Bac<br>/la ʁy dy bak/	ulica Promu: prowadzi ku Sekwanie, tam gdzie kursował prom, a dziś stoi most<br>the rue du Bac, literally Ferry Street: it runs towards the Seine, to where a ferry once crossed and a bridge now stands	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-l’appartement de la famille<br>/lapaʁtəmɑ̃ də la famij/	mieszkanie rodziny<br>the family's flat	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le cabinet de travail de Monsieur Lefèvre<br>/lə kabinɛ də tʁavaj də məsjø ləfɛvʁ/	gabinet pana Lefèvre<br>Mr Lefèvre's study	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le divan de la fille<br>/lə divɑ̃ də la fij/	tapczan córki<br>the daughter's divan	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la chambre des parents<br>/la ʃɑ̃bʁ de paʁɑ̃/	pokój rodziców<br>the parents' room	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le lit du garçon<br>/lə li dy ɡaʁsɔ̃/	łóżko chłopca<br>the boy's bed	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-de Jean, de Marie, de Monsieur Lefèvre<br>/də ʒɑ̃, də maʁi, də məsjø ləfɛvʁ/	de przed imieniem własnym<br>de before a proper name	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-du garçon<br>/dy ɡaʁsɔ̃/ (2)	du (ściągnięte de + le) przed rzeczownikiem rodzaju męskiego na spółgłoskę<br>du, contracted from de + le, before a masculine noun beginning with a consonant	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-de la famille<br>/də la famij/ (2)	de la przed rzeczownikiem rodzaju żeńskiego na spółgłoskę<br>de la before a feminine noun beginning with a consonant	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-de l’amie<br>/də lami/	de l' przed każdym rzeczownikiem na samogłoskę lub h nieme<br>de l' before any noun beginning with a vowel or a mute h	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-des parents<br>/de paʁɑ̃/ (2)	des (ściągnięte de + les) przed rzeczownikiem w liczbie mnogiej<br>des, contracted from de + les, before a plural noun	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-parler<br>/paʁle/	wzór: bezokolicznik na -er<br>the model: an infinitive in -er	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-regarder, parler, aimer, habiter, entrer, visiter, manger, montrer, fumer, apporter<br>/ʁəɡaʁde, paʁle, ɛme, abite, ɑ̃tʁe, vizite, mɑ̃ʒe, mɔ̃tʁe, fyme, apɔʁte/	czasowniki I koniugacji z lekcji 3 i 4<br>the first-conjugation verbs met in lessons 3 and 4	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Voici ________ divan ________ garçon.<br>(Fill in the blanks)	/vwasi [lə] divɑ̃ [dy] ɡaʁsɔ̃/<br>Here is the boy's divan.<br>Oto tapczan chłopca.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Voici ________ photo.<br>(Fill in the blanks)	/vwasi [yn] fɔto/<br>Here is a photo.<br>Oto zdjęcie.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Voilà ________ photos.<br>(Fill in the blanks)	/vwala [de] fɔto/<br>There are some photos.<br>Oto zdjęcia.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Voici la ________ ________ Marie.<br>(Fill in the blanks)	/vwasi la [fɔto də] maʁi/<br>Here is Marie's photo.<br>Oto zdjęcie Marii.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Voici ________ chambre ________ parents.<br>(Fill in the blanks)	/vwasi [la] ʃɑ̃bʁ [de] paʁɑ̃/<br>Here is the parents' room.<br>Oto pokój rodziców.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Voici le ________ ________ Jean.<br>(Fill in the blanks)	/vwasi lə [kamaʁad də] ʒɑ̃/<br>Here is Jean's friend.<br>Oto kolega Jana.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Montres-tu la cuisine ?<br>/mɔ̃tʁ ty la kɥizin/	Czy pokazujesz kuchnię?<br>Are you showing the kitchen?	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Montres-tu la cuisine ? → Answer yes, in the first person singular and plural (Oui je)	Oui, je montre la cuisine.<br>/wi, ʒə mɔ̃tʁ la kɥizin/<br>Yes, I am showing the kitchen.<br>Tak, pokazuję kuchnię.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Montres-tu la cuisine ? → Answer yes, in the first person singular and plural (Oui nous)	Oui, nous montrons la cuisine.<br>/wi, nu mɔ̃tʁɔ̃ la kɥizin/<br>Yes, we are showing the kitchen.<br>Tak, pokazujemy kuchnię.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Visitez-vous Varsovie ?<br>/vizite vu vaʁsɔvi/	Czy zwiedzacie Warszawę?<br>Are you visiting Warsaw?	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Visitez-vous Varsovie ? → Answer yes, in the first person singular and plural (Oui je)	Oui, je visite Varsovie.<br>/wi, ʒə vizit vaʁsɔvi/<br>Yes, I am visiting Warsaw.<br>Tak, zwiedzam Warszawę.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Visitez-vous Varsovie ? → Answer yes, in the first person singular and plural (Oui nous)	Oui, nous visitons Varsovie.<br>/wi, nu vizitɔ̃ vaʁsɔvi/<br>Yes, we are visiting Warsaw.<br>Tak, zwiedzamy Warszawę.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Ils visitent l’appartement de la famille Lefèvre.<br>/il vizit lapaʁtəmɑ̃ də la famij ləfɛvʁ/	Oni zwiedzają mieszkanie rodziny Lefèvre.<br>They are visiting the Lefèvre family's flat.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Voici la chambre de la fille.<br>/vwasi la ʃɑ̃bʁ də la fij/	Oto pokój córki.<br>Here is the daughter's room.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Tu montres la salle à manger.<br>/ty mɔ̃tʁ la sal a mɑ̃ʒe/	Pokazujesz stołowy pokój.<br>You are showing the dining room.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Voici l’appartement des parents de Pierre.<br>/vwasi lapaʁtəmɑ̃ de paʁɑ̃ də pjɛʁ/	Oto mieszkanie rodziców Piotra.<br>Here is the flat of Pierre's parents.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Regarde les photos de l’amie de Marie !<br>/ʁəɡaʁd le fɔto də lami də maʁi/	Oglądaj zdjęcia przyjaciółki Marii!<br>Look at the photos of Marie's friend!	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Montre le divan du garçon !<br>/mɔ̃tʁ lə divɑ̃ dy ɡaʁsɔ̃/	Pokaż tapczan chłopca!<br>Show the boy's divan!	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-quatre : à quatre heures · les quatre saisons · quatre-vingts<br>/a katʁ œʁ · le katʁ sɛzɔ̃ · katʁəvɛ̃/	o czwartej · cztery pory roku · osiemdziesiąt<br>at four o'clock · the four seasons · eighty	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-habiter : habiter rue du Bac · habiter seul · habiter chez ses parents<br>/abite ʁy dy bak · abite sœl · abite ʃe se paʁɑ̃/	mieszkać przy rue du Bac · mieszkać samemu · mieszkać u rodziców<br>to live on the rue du Bac · to live alone · to live with one's parents	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-un appartement : un appartement de trois pièces · louer un appartement · un grand appartement<br>/œ̃n‿apaʁtəmɑ̃ də tʁwa pjɛs · lwe œ̃n‿apaʁtəmɑ̃ · œ̃ ɡʁɑ̃t‿apaʁtəmɑ̃/	mieszkanie trzypokojowe · wynająć mieszkanie · duże mieszkanie<br>a three-room flat · to rent a flat · a big flat	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la rue : dans la rue · au coin de la rue · traverser la rue<br>/dɑ̃ la ʁy · o kwɛ̃ də la ʁy · tʁavɛʁse la ʁy/	na ulicy · na rogu ulicy · przejść przez ulicę<br>in the street · at the corner of the street · to cross the street	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le bac : prendre le bac · le bac, le baccalauréat · un bac à sable<br>/pʁɑ̃dʁ lə bak · lə bak, lə bakaloʁea · œ̃ bak a sabl/	płynąć promem · matura · piaskownica<br>to take the ferry · the baccalauréat, the school-leaving exam · a sandpit	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-entrer : entrer dans la maison · Entrez ! · entrer à l’université<br>/ɑ̃tʁe dɑ̃ la mɛzɔ̃ · ɑ̃tʁe · ɑ̃tʁe a lynivɛʁsite/	wejść do domu · proszę wejść! · dostać się na uniwersytet<br>to go into the house · come in! · to enter university	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-visiter : visiter un musée · visiter la ville · rendre visite à un ami<br>/vizite œ̃ myze · vizite la vil · ʁɑ̃dʁ vizit a œ̃n‿ami/	zwiedzić muzeum · zwiedzić miasto · odwiedzić przyjaciela<br>to visit a museum · to visit the town · to visit a friend	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la famille : en famille · une famille nombreuse · un nom de famille<br>/ɑ̃ famij · yn famij nɔ̃bʁøz · œ̃ nɔ̃ də famij/	w gronie rodziny · rodzina wielodzietna · nazwisko<br>with the family · a large family · a surname	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le cabinet : le cabinet de travail · un cabinet médical · les cabinets<br>/lə kabinɛ də tʁavaj · œ̃ kabinɛ medikal · le kabinɛ/	gabinet · gabinet lekarski · ubikacja (dawniej)<br>the study · a doctor's office · the toilet, old-fashioned	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le travail : au travail · chercher du travail · un travail intéressant<br>/o tʁavaj · ʃɛʁʃe dy tʁavaj · œ̃ tʁavaj ɛ̃teʁesɑ̃/	w pracy · szukać pracy · ciekawa praca<br>at work · to look for work · an interesting job	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la salle : une salle de classe · une salle d’attente · une salle de bain<br>/yn sal də klas · yn sal datɑ̃t · yn sal də bɛ̃/	sala lekcyjna · poczekalnia · łazienka<br>a classroom · a waiting room · a bathroom	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-manger : manger du pain · quelque chose à manger · bon à manger<br>/mɑ̃ʒe dy pɛ̃ · kɛlkə ʃoz a mɑ̃ʒe · bɔ̃ a mɑ̃ʒe/	jeść chleb · coś do jedzenia · nadający się do jedzenia<br>to eat bread · something to eat · good to eat	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-avec : avec plaisir · avec moi · avec du sucre<br>/avɛk plɛziʁ · avɛk mwa · avɛk dy sykʁ/	z przyjemnością · ze mną · z cukrem<br>with pleasure · with me · with sugar	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le divan : s’asseoir sur le divan · un divan-lit · le divan du psychanalyste<br>/saswaʁ syʁ lə divɑ̃ · œ̃ divɑ̃ li · lə divɑ̃ dy psikanalist/	usiąść na tapczanie · tapczan rozkładany · kozetka psychoanalityka<br>to sit on the divan · a sofa bed · the psychoanalyst's couch	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la fille : une petite fille · une jeune fille · la fille de Marie<br>/yn pətit fij · yn ʒœn fij · la fij də maʁi/	mała dziewczynka · dziewczyna · córka Marii<br>a little girl · a young girl · Marie's daughter	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-ici : ici et là · par ici · d’ici<br>/isi e la · paʁ isi · disi/	tu i tam · tędy · stąd<br>here and there · this way · from here	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la chambre : une chambre à coucher · la chambre des parents · une chambre d’hôtel<br>/yn ʃɑ̃bʁ a kuʃe · la ʃɑ̃bʁ de paʁɑ̃ · yn ʃɑ̃bʁ dotɛl/	sypialnia · pokój rodziców · pokój hotelowy<br>a bedroom · the parents' room · a hotel room	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-les parents : mes parents · les grands-parents · chez ses parents<br>/me paʁɑ̃ · le ɡʁɑ̃paʁɑ̃ · ʃe se paʁɑ̃/	moi rodzice · dziadkowie · u rodziców<br>my parents · the grandparents · at one's parents'	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le lit : au lit ! · faire le lit · un lit d’enfant<br>/o li · fɛʁ lə li · œ̃ li dɑ̃fɑ̃/	do łóżka! · słać łóżko · łóżeczko dziecięce<br>to bed! · to make the bed · a child's bed	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le garçon : un petit garçon · Garçon ! · un garçon de café<br>/œ̃ pəti ɡaʁsɔ̃ · ɡaʁsɔ̃ · œ̃ ɡaʁsɔ̃ də kafe/	mały chłopiec · kelner! · kelner w kawiarni<br>a little boy · waiter! · a waiter	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-montrer : montrer du doigt · montrer le chemin · montre-moi<br>/mɔ̃tʁe dy dwa · mɔ̃tʁe lə ʃəmɛ̃ · mɔ̃tʁ mwa/	wskazywać palcem · pokazać drogę · pokaż mi<br>to point at · to show the way · show me	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le bain : prendre un bain · un bain de soleil · la salle de bain<br>/pʁɑ̃dʁ œ̃ bɛ̃ · œ̃ bɛ̃ də sɔlɛj · la sal də bɛ̃/	wziąć kąpiel · kąpiel słoneczna · łazienka<br>to take a bath · sunbathing · the bathroom	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la cuisine : faire la cuisine · la cuisine polonaise · un livre de cuisine<br>/fɛʁ la kɥizin · la kɥizin pɔlɔnɛz · œ̃ livʁ də kɥizin/	gotować · kuchnia polska · książka kucharska<br>to cook · Polish cooking · a cookbook	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-ensuite : et ensuite ? · d’abord … ensuite<br>/e ɑ̃sɥit · dabɔʁ … ɑ̃sɥit/	a potem? · najpierw … potem<br>and then? · first … then	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-sortir : sortir de la maison · sortir le soir · sortir avec des amis<br>/sɔʁtiʁ də la mɛzɔ̃ · sɔʁtiʁ lə swaʁ · sɔʁtiʁ avɛk dez‿ami/	wyjść z domu · wychodzić wieczorem · wychodzić z przyjaciółmi<br>to go out of the house · to go out in the evening · to go out with friends	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Nous habitons chez les parents de Marie.<br>/nuz‿abitɔ̃ ʃe le paʁɑ̃ də maʁi/	Mieszkamy u rodziców Marii.<br>We live at Marie's parents' place.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Pierre visite Paris avec son camarade.<br>/pjɛʁ vizit paʁi avɛk sɔ̃ kamaʁad/	Piotr zwiedza Paryż z kolegą.<br>Pierre is visiting Paris with his friend.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Je rends visite à Madame Lefèvre.<br>/ʒə ʁɑ̃ vizit a madam ləfɛvʁ/	Odwiedzam panią Lefèvre.<br>I am visiting Mrs Lefèvre: a person, so rendre visite à.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Entrez dans la salle à manger et regardez le divan !<br>/ɑ̃tʁe dɑ̃ la sal a mɑ̃ʒe e ʁəɡaʁde lə divɑ̃/	Wejdźcie do jadalni i popatrzcie na tapczan!<br>Come into the dining room and look at the divan!	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Le fils de Monsieur Lefèvre sort de la cuisine.<br>/lə fis də məsjø ləfɛvʁ sɔʁ də la kɥizin/	Syn pana Lefèvre wychodzi z kuchni.<br>Mr Lefèvre's son comes out of the kitchen.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-La fille des Lefèvre montre sa chambre à Annette.<br>/la fij de ləfɛvʁ mɔ̃tʁ sa ʃɑ̃bʁ a anɛt/	Córka państwa Lefèvre pokazuje swój pokój Anetce.<br>The Lefèvres' daughter shows her room to Annette.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Où est la rue du Bac ? Elle est près de la Seine.<br>/u ɛ la ʁy dy bak ? ɛl ɛ pʁɛ də la sɛn/	Gdzie jest rue du Bac? Blisko Sekwany.<br>Where is the rue du Bac? It is near the Seine.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Ensuite, nous mangeons dans la salle à manger.<br>/ɑ̃sɥit, nu mɑ̃ʒɔ̃ dɑ̃ la sal a mɑ̃ʒe/	Potem jemy w jadalni.<br>Then we eat in the dining room.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Le lit du garçon est à côté de la fenêtre.<br>/lə li dy ɡaʁsɔ̃ ɛ(t)‿a kote də la fənɛtʁ/	Łóżko chłopca jest obok okna.<br>The boy's bed is next to the window.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Ici, c’est la chambre ; là, c’est le cabinet de travail.<br>/isi, sɛ la ʃɑ̃bʁ ; la, sɛ lə kabinɛ də tʁavaj/	Tu jest sypialnia, a tam gabinet.<br>Here is the bedroom; there is the study.	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-chez<br>/ʃe/	u (kogoś)<br>at the place of	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le fils<br>/lə fis/	syn<br>the son, with the s sounded	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-rendre visite à<br>/ʁɑ̃dʁ vizit a/	odwiedzać (kogoś)<br>to visit a person	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-entrer dans<br>/ɑ̃tʁe dɑ̃/	wchodzić do<br>to go into	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-sortir de<br>/sɔʁtiʁ də/	wychodzić z<br>to go out of	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-près de<br>/pʁɛ də/	blisko<br>near	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-là<br>/la/	tam<br>there	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la Seine<br>/la sɛn/	Sekwana<br>the Seine	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le pont<br>/lə pɔ̃/	most<br>the bridge	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la fenêtre<br>/la fənɛtʁ/	okno<br>the window	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-nous mangeons<br>/nu mɑ̃ʒɔ̃/	jemy<br>we eat: the e keeps the g soft	french szypowska lecon04 fr-pl	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le travail ________ parents<br>(AI exercise: du, de la, de l’ or des)	/lə tʁavaj [de] paʁɑ̃/<br>the parents' work<br>praca rodziców	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la porte ________ appartement<br>(AI exercise: du, de la, de l’ or des)	/la pɔʁt [də l]apaʁtəmɑ̃/<br>the door of the flat<br>drzwi mieszkania	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-la cuisine ________ famille Lefèvre<br>(AI exercise: du, de la, de l’ or des)	/la kɥizin [də la] famij ləfɛvʁ/<br>the Lefèvre family's kitchen<br>kuchnia rodziny Lefèvre	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-le divan ________ garçon<br>(AI exercise: du, de la, de l’ or des)	/lə divɑ̃ [dy] ɡaʁsɔ̃/<br>the boy's divan<br>tapczan chłopca	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Nous ________ Varsovie.<br>(AI exercise: visiter or rendre visite à)	/nu [vizitɔ̃] vaʁsɔvi/<br>We are visiting Warsaw.<br>Zwiedzamy Warszawę.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
-Nous ________ Madame Renoir.<br>(AI exercise: visiter or rendre visite à)	/nu [ʁɑ̃dɔ̃ vizit a] madam ʁənwaʁ/<br>We are visiting Mrs Renoir.<br>Odwiedzamy panią Renoir.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Monsieur et Madame Lefèvre habitent un appartement rue du Bac.<br>/məsjø e madam ləfɛvʁ abit‿œ̃n‿apaʁtəmɑ̃ ʁy dy bak/	Mr and Mrs Lefèvre live in a flat on the rue du Bac.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Nous entrons.<br>/nuz‿ɑ̃tʁɔ̃/	We go in.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Nous visitons l’appartement de la famille Lefèvre.<br>/nu vizitɔ̃ lapaʁtəmɑ̃ də la famij ləfɛvʁ/	We visit the Lefèvre family's flat.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Voici le cabinet de travail de Monsieur Lefèvre.<br>/vwasi lə kabinɛ də tʁavaj də məsjø ləfɛvʁ/	Here is Mr Lefèvre's study.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Voilà la salle à manger avec le divan de la fille, et ici, la chambre des parents avec le lit du garçon.<br>/vwala la sal a mɑ̃ʒe avɛk lə divɑ̃ də la fij, e isi, la ʃɑ̃bʁ de paʁɑ̃ avɛk lə li dy ɡaʁsɔ̃/	There is the dining room with the daughter's divan, and here, the parents' room with the boy's bed.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Madame Lefèvre montre aussi la cuisine et la salle de bain.<br>/madam ləfɛvʁ mɔ̃tʁ osi la kɥizin e la sal də bɛ̃/	Mrs Lefèvre also shows the kitchen and the bathroom.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Ensuite nous sortons.<br>/ɑ̃sɥit nu sɔʁtɔ̃/	Then we go out.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Voici le divan de la fille<br>/vwasi lə divɑ̃ də la fij/	Here is the daughter's divan (the caption of the first drawing)	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Voilà le lit du garçon<br>/vwala lə li dy ɡaʁsɔ̃/	There is the boy's bed (the caption of the second)	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+quatre<br>/katʁ/	four	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+habiter<br>/abite/	to live, to dwell	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+habitent<br>/abit/	(they) live	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+un appartement<br>/œ̃n‿apaʁtəmɑ̃/	a flat	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la rue<br>/la ʁy/	the street	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le bac<br>/lə bak/	the ferry	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+entrer<br>/ɑ̃tʁe/	to go in	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+nous entrons<br>/nuz‿ɑ̃tʁɔ̃/	we go in	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+visiter<br>/vizite/	to visit	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+nous visitons<br>/nu vizitɔ̃/	we visit	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la famille<br>/la famij/	the family	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+de la famille<br>/də la famij/	of the family	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le cabinet<br>/lə kabinɛ/	the study, the office	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le travail<br>/lə tʁavaj/	work	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le cabinet de travail<br>/lə kabinɛ də tʁavaj/	the study (literally, the work room)	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la salle<br>/la sal/	the room, the hall	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+manger<br>/mɑ̃ʒe/	to eat	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la salle à manger<br>/la sal a mɑ̃ʒe/	the dining room (literally, the room for eating)	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+avec<br>/avɛk/	with	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le divan<br>/lə divɑ̃/	the divan, the couch	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la fille<br>/la fij/	the daughter, the girl	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+ici<br>/isi/	here	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la chambre<br>/la ʃɑ̃bʁ/	the room, the bedroom	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+les parents<br>/le paʁɑ̃/	the parents	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+des parents<br>/de paʁɑ̃/	of the parents	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le lit<br>/lə li/	the bed	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le garçon<br>/lə ɡaʁsɔ̃/	the boy	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+du garçon<br>/dy ɡaʁsɔ̃/	of the boy, the boy's	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+montrer<br>/mɔ̃tʁe/	to show	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+montre<br>/mɔ̃tʁ/	(he, she) shows	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le bain<br>/lə bɛ̃/	the bath	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la cuisine<br>/la kɥizin/	the kitchen	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la salle de bain<br>/la sal də bɛ̃/	the bathroom (literally, the room for bathing)	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+ensuite<br>/ɑ̃sɥit/	then, afterwards	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+nous sortons<br>/nu sɔʁtɔ̃/	we go out	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+ici, voici<br>/isi, vwasi/	c before i is /s/	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+cabinet, cuisine<br>/kabinɛ, kɥizin/	c before a and u is /k/	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Bac, avec<br>/bak, avɛk/	a final c after a vowel, in a short word, is /k/	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+l’appartement<br>/lapaʁtəmɑ̃/	elision: le loses its vowel before a vowel	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la rue du Bac<br>/la ʁy dy bak/	the rue du Bac, literally Ferry Street: it runs towards the Seine, to where a ferry once crossed and a bridge now stands	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+l’appartement de la famille<br>/lapaʁtəmɑ̃ də la famij/	the family's flat	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le cabinet de travail de Monsieur Lefèvre<br>/lə kabinɛ də tʁavaj də məsjø ləfɛvʁ/	Mr Lefèvre's study	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le divan de la fille<br>/lə divɑ̃ də la fij/	the daughter's divan	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la chambre des parents<br>/la ʃɑ̃bʁ de paʁɑ̃/	the parents' room	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le lit du garçon<br>/lə li dy ɡaʁsɔ̃/	the boy's bed	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+de Jean, de Marie, de Monsieur Lefèvre<br>/də ʒɑ̃, də maʁi, də məsjø ləfɛvʁ/	de before a proper name	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+du garçon<br>/dy ɡaʁsɔ̃/ (2)	du, contracted from de + le, before a masculine noun beginning with a consonant	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+de la famille<br>/də la famij/ (2)	de la before a feminine noun beginning with a consonant	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+de l’amie<br>/də lami/	de l' before any noun beginning with a vowel or a mute h	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+des parents<br>/de paʁɑ̃/ (2)	des, contracted from de + les, before a plural noun	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+parler<br>/paʁle/	the model: an infinitive in -er	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+regarder, parler, aimer, habiter, entrer, visiter, manger, montrer, fumer, apporter<br>/ʁəɡaʁde, paʁle, ɛme, abite, ɑ̃tʁe, vizite, mɑ̃ʒe, mɔ̃tʁe, fyme, apɔʁte/	the first-conjugation verbs met in lessons 3 and 4	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Voici ________ divan ________ garçon.<br>(Fill in the blanks)	/vwasi [lə] divɑ̃ [dy] ɡaʁsɔ̃/<br>Here is the boy's divan.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Voici ________ photo.<br>(Fill in the blanks)	/vwasi [yn] fɔto/<br>Here is a photo.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Voilà ________ photos.<br>(Fill in the blanks)	/vwala [de] fɔto/<br>There are some photos.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Voici la ________ ________ Marie.<br>(Fill in the blanks)	/vwasi la [fɔto də] maʁi/<br>Here is Marie's photo.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Voici ________ chambre ________ parents.<br>(Fill in the blanks)	/vwasi [la] ʃɑ̃bʁ [de] paʁɑ̃/<br>Here is the parents' room.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Voici le ________ ________ Jean.<br>(Fill in the blanks)	/vwasi lə [kamaʁad də] ʒɑ̃/<br>Here is Jean's friend.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Montres-tu la cuisine ?<br>/mɔ̃tʁ ty la kɥizin/	Are you showing the kitchen?	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Montres-tu la cuisine ? → Answer yes, in the first person singular and plural (Oui je)	Oui, je montre la cuisine.<br>/wi, ʒə mɔ̃tʁ la kɥizin/<br>Yes, I am showing the kitchen.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Montres-tu la cuisine ? → Answer yes, in the first person singular and plural (Oui nous)	Oui, nous montrons la cuisine.<br>/wi, nu mɔ̃tʁɔ̃ la kɥizin/<br>Yes, we are showing the kitchen.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Visitez-vous Varsovie ?<br>/vizite vu vaʁsɔvi/	Are you visiting Warsaw?	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Visitez-vous Varsovie ? → Answer yes, in the first person singular and plural (Oui je)	Oui, je visite Varsovie.<br>/wi, ʒə vizit vaʁsɔvi/<br>Yes, I am visiting Warsaw.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Visitez-vous Varsovie ? → Answer yes, in the first person singular and plural (Oui nous)	Oui, nous visitons Varsovie.<br>/wi, nu vizitɔ̃ vaʁsɔvi/<br>Yes, we are visiting Warsaw.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Ils visitent l’appartement de la famille Lefèvre.<br>/il vizit lapaʁtəmɑ̃ də la famij ləfɛvʁ/	They are visiting the Lefèvre family's flat.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Voici la chambre de la fille.<br>/vwasi la ʃɑ̃bʁ də la fij/	Here is the daughter's room.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Tu montres la salle à manger.<br>/ty mɔ̃tʁ la sal a mɑ̃ʒe/	You are showing the dining room.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Voici l’appartement des parents de Pierre.<br>/vwasi lapaʁtəmɑ̃ de paʁɑ̃ də pjɛʁ/	Here is the flat of Pierre's parents.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Regarde les photos de l’amie de Marie !<br>/ʁəɡaʁd le fɔto də lami də maʁi/	Look at the photos of Marie's friend!	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Montre le divan du garçon !<br>/mɔ̃tʁ lə divɑ̃ dy ɡaʁsɔ̃/	Show the boy's divan!	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+quatre : à quatre heures · les quatre saisons · quatre-vingts<br>/a katʁ œʁ · le katʁ sɛzɔ̃ · katʁəvɛ̃/	at four o'clock · the four seasons · eighty	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+habiter : habiter rue du Bac · habiter seul · habiter chez ses parents<br>/abite ʁy dy bak · abite sœl · abite ʃe se paʁɑ̃/	to live on the rue du Bac · to live alone · to live with one's parents	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+un appartement : un appartement de trois pièces · louer un appartement · un grand appartement<br>/œ̃n‿apaʁtəmɑ̃ də tʁwa pjɛs · lwe œ̃n‿apaʁtəmɑ̃ · œ̃ ɡʁɑ̃t‿apaʁtəmɑ̃/	a three-room flat · to rent a flat · a big flat	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la rue : dans la rue · au coin de la rue · traverser la rue<br>/dɑ̃ la ʁy · o kwɛ̃ də la ʁy · tʁavɛʁse la ʁy/	in the street · at the corner of the street · to cross the street	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le bac : prendre le bac · le bac, le baccalauréat · un bac à sable<br>/pʁɑ̃dʁ lə bak · lə bak, lə bakaloʁea · œ̃ bak a sabl/	to take the ferry · the baccalauréat, the school-leaving exam · a sandpit	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+entrer : entrer dans la maison · Entrez ! · entrer à l’université<br>/ɑ̃tʁe dɑ̃ la mɛzɔ̃ · ɑ̃tʁe · ɑ̃tʁe a lynivɛʁsite/	to go into the house · come in! · to enter university	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+visiter : visiter un musée · visiter la ville · rendre visite à un ami<br>/vizite œ̃ myze · vizite la vil · ʁɑ̃dʁ vizit a œ̃n‿ami/	to visit a museum · to visit the town · to visit a friend	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la famille : en famille · une famille nombreuse · un nom de famille<br>/ɑ̃ famij · yn famij nɔ̃bʁøz · œ̃ nɔ̃ də famij/	with the family · a large family · a surname	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le cabinet : le cabinet de travail · un cabinet médical · les cabinets<br>/lə kabinɛ də tʁavaj · œ̃ kabinɛ medikal · le kabinɛ/	the study · a doctor's office · the toilet, old-fashioned	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le travail : au travail · chercher du travail · un travail intéressant<br>/o tʁavaj · ʃɛʁʃe dy tʁavaj · œ̃ tʁavaj ɛ̃teʁesɑ̃/	at work · to look for work · an interesting job	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la salle : une salle de classe · une salle d’attente · une salle de bain<br>/yn sal də klas · yn sal datɑ̃t · yn sal də bɛ̃/	a classroom · a waiting room · a bathroom	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+manger : manger du pain · quelque chose à manger · bon à manger<br>/mɑ̃ʒe dy pɛ̃ · kɛlkə ʃoz a mɑ̃ʒe · bɔ̃ a mɑ̃ʒe/	to eat bread · something to eat · good to eat	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+avec : avec plaisir · avec moi · avec du sucre<br>/avɛk plɛziʁ · avɛk mwa · avɛk dy sykʁ/	with pleasure · with me · with sugar	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le divan : s’asseoir sur le divan · un divan-lit · le divan du psychanalyste<br>/saswaʁ syʁ lə divɑ̃ · œ̃ divɑ̃ li · lə divɑ̃ dy psikanalist/	to sit on the divan · a sofa bed · the psychoanalyst's couch	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la fille : une petite fille · une jeune fille · la fille de Marie<br>/yn pətit fij · yn ʒœn fij · la fij də maʁi/	a little girl · a young girl · Marie's daughter	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+ici : ici et là · par ici · d’ici<br>/isi e la · paʁ isi · disi/	here and there · this way · from here	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la chambre : une chambre à coucher · la chambre des parents · une chambre d’hôtel<br>/yn ʃɑ̃bʁ a kuʃe · la ʃɑ̃bʁ de paʁɑ̃ · yn ʃɑ̃bʁ dotɛl/	a bedroom · the parents' room · a hotel room	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+les parents : mes parents · les grands-parents · chez ses parents<br>/me paʁɑ̃ · le ɡʁɑ̃paʁɑ̃ · ʃe se paʁɑ̃/	my parents · the grandparents · at one's parents'	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le lit : au lit ! · faire le lit · un lit d’enfant<br>/o li · fɛʁ lə li · œ̃ li dɑ̃fɑ̃/	to bed! · to make the bed · a child's bed	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le garçon : un petit garçon · Garçon ! · un garçon de café<br>/œ̃ pəti ɡaʁsɔ̃ · ɡaʁsɔ̃ · œ̃ ɡaʁsɔ̃ də kafe/	a little boy · waiter! · a waiter	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+montrer : montrer du doigt · montrer le chemin · montre-moi<br>/mɔ̃tʁe dy dwa · mɔ̃tʁe lə ʃəmɛ̃ · mɔ̃tʁ mwa/	to point at · to show the way · show me	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le bain : prendre un bain · un bain de soleil · la salle de bain<br>/pʁɑ̃dʁ œ̃ bɛ̃ · œ̃ bɛ̃ də sɔlɛj · la sal də bɛ̃/	to take a bath · sunbathing · the bathroom	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la cuisine : faire la cuisine · la cuisine polonaise · un livre de cuisine<br>/fɛʁ la kɥizin · la kɥizin pɔlɔnɛz · œ̃ livʁ də kɥizin/	to cook · Polish cooking · a cookbook	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+ensuite : et ensuite ? · d’abord … ensuite<br>/e ɑ̃sɥit · dabɔʁ … ɑ̃sɥit/	and then? · first … then	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+sortir : sortir de la maison · sortir le soir · sortir avec des amis<br>/sɔʁtiʁ də la mɛzɔ̃ · sɔʁtiʁ lə swaʁ · sɔʁtiʁ avɛk dez‿ami/	to go out of the house · to go out in the evening · to go out with friends	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Nous habitons chez les parents de Marie.<br>/nuz‿abitɔ̃ ʃe le paʁɑ̃ də maʁi/	We live at Marie's parents' place.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Pierre visite Paris avec son camarade.<br>/pjɛʁ vizit paʁi avɛk sɔ̃ kamaʁad/	Pierre is visiting Paris with his friend.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Je rends visite à Madame Lefèvre.<br>/ʒə ʁɑ̃ vizit a madam ləfɛvʁ/	I am visiting Mrs Lefèvre: a person, so rendre visite à.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Entrez dans la salle à manger et regardez le divan !<br>/ɑ̃tʁe dɑ̃ la sal a mɑ̃ʒe e ʁəɡaʁde lə divɑ̃/	Come into the dining room and look at the divan!	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Le fils de Monsieur Lefèvre sort de la cuisine.<br>/lə fis də məsjø ləfɛvʁ sɔʁ də la kɥizin/	Mr Lefèvre's son comes out of the kitchen.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+La fille des Lefèvre montre sa chambre à Annette.<br>/la fij de ləfɛvʁ mɔ̃tʁ sa ʃɑ̃bʁ a anɛt/	The Lefèvres' daughter shows her room to Annette.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Où est la rue du Bac ? Elle est près de la Seine.<br>/u ɛ la ʁy dy bak ? ɛl ɛ pʁɛ də la sɛn/	Where is the rue du Bac? It is near the Seine.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Ensuite, nous mangeons dans la salle à manger.<br>/ɑ̃sɥit, nu mɑ̃ʒɔ̃ dɑ̃ la sal a mɑ̃ʒe/	Then we eat in the dining room.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Le lit du garçon est à côté de la fenêtre.<br>/lə li dy ɡaʁsɔ̃ ɛ(t)‿a kote də la fənɛtʁ/	The boy's bed is next to the window.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Ici, c’est la chambre ; là, c’est le cabinet de travail.<br>/isi, sɛ la ʃɑ̃bʁ ; la, sɛ lə kabinɛ də tʁavaj/	Here is the bedroom; there is the study.	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+chez<br>/ʃe/	at the place of	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le fils<br>/lə fis/	the son, with the s sounded	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+rendre visite à<br>/ʁɑ̃dʁ vizit a/	to visit a person	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+entrer dans<br>/ɑ̃tʁe dɑ̃/	to go into	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+sortir de<br>/sɔʁtiʁ də/	to go out of	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+près de<br>/pʁɛ də/	near	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+là<br>/la/	there	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la Seine<br>/la sɛn/	the Seine	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le pont<br>/lə pɔ̃/	the bridge	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la fenêtre<br>/la fənɛtʁ/	the window	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+nous mangeons<br>/nu mɑ̃ʒɔ̃/	we eat: the e keeps the g soft	french szypowska lecon04 fr-pl fr-en	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le travail ________ parents<br>(AI exercise: du, de la, de l’ or des)	/lə tʁavaj [de] paʁɑ̃/<br>the parents' work	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la porte ________ appartement<br>(AI exercise: du, de la, de l’ or des)	/la pɔʁt [də l]apaʁtəmɑ̃/<br>the door of the flat	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+la cuisine ________ famille Lefèvre<br>(AI exercise: du, de la, de l’ or des)	/la kɥizin [də la] famij ləfɛvʁ/<br>the Lefèvre family's kitchen	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+le divan ________ garçon<br>(AI exercise: du, de la, de l’ or des)	/lə divɑ̃ [dy] ɡaʁsɔ̃/<br>the boy's divan	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Nous ________ Varsovie.<br>(AI exercise: visiter or rendre visite à)	/nu [vizitɔ̃] vaʁsɔvi/<br>We are visiting Warsaw.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre
+Nous ________ Madame Renoir.<br>(AI exercise: visiter or rendre visite à)	/nu [ʁɑ̃dɔ̃ vizit a] madam ʁənwaʁ/<br>We are visiting Mrs Renoir.	french szypowska lecon04 fr-pl exercise	French::Szypowska (FR-PL)::Lesson 4: Chez les Lefèvre

@@ -2,7 +2,7 @@
 
 ## The rules of the lesson
 
-- **Avoir in the present:** *j'ai, tu as, il a, elle a, on a, nous avons, vous avez, ils ont, elles ont.* Negative: *ne … pas* round the verb, *je n'ai pas, tu n'as pas …*
+- **[Avoir](../../05_1000_words/avoir/README.md) in the present:** *j'ai, tu as, il a, elle a, on a, nous avons, vous avez, ils ont, elles ont.* Negative: *ne … pas* round the verb, *je n'ai pas, tu n'as pas …*
 - **Not having.** After a negation *un, une, des* become *de*: *je n'ai pas de stylo, je n'ai pas de plumes.*
 - **Two ways to ask.** Inversion, *as-tu ?, a-t-il ?, parlez-vous ?*, with *-t-* slipped in between two vowels (*a-t-il, a-t-elle, a-t-on*); or *est-ce que* in front of the statement, *est-ce que j'ai ?, est-ce qu'Annette a ?* Speech mostly uses *est-ce que*; writing mostly inverts.
 - **Liaison between pronoun and verb:** *vous‿avez, nous‿avons, ils‿ont, ont‿ils.* Mute *h*: *cahier* /kaje/.
@@ -172,7 +172,7 @@ Conventions: on the [chapter page](../README.md).
 
 Mine, not the book's. Notes first, then each word of the lesson in set phrases, more with *avoir*, the lesson's words in new sentences, a few new words, and two exercises with the answers.
 
-- Age, hunger and thirst take *avoir*, not *être*: *j'ai treize ans, j'ai faim*.
+- Age, hunger and thirst take [*avoir*](../../05_1000_words/avoir/README.md), not [*être*](../../05_1000_words/etre/README.md): *j'ai treize ans, j'ai faim*.
 - *Un, une, des* become *de* after *ne … pas* when the noun is the object of the verb (*je n'ai pas de stylo, il ne regarde pas de photos*); after *c'est* the article stays (*ce n'est pas un stylo*).
 - *Ils ont* /ilz‿ɔ̃/ and *ils sont* /il sɔ̃/ differ only in /z/ against /s/: the liaison carries the meaning.
 - A third way to ask, in speech: the statement with the voice rising, *tu as un stylo ?*
@@ -245,4 +245,6 @@ Mine, not the book's. Notes first, then each word of the lesson in set phrases, 
 
 - [Szypowska (Polish material)](../README.md) — the chapter, with the key from the book's notation to Le Robert's
 - [Lesson 4: Chez les Lefèvre](../lecon_04_chez_les_lefevre/README.md) — the lesson before
+- [avoir](../../05_1000_words/avoir/README.md) — the verb of this lesson on its own page: every tense, *il y a* /il j a/, *pas de* /pa də/, and the places where English says *to be*, *j’ai treize ans* /ʒe tʁɛz ɑ̃/
+- [être](../../05_1000_words/etre/README.md) — the other auxiliary: *ils sont* /il sɔ̃/ against *ils ont* /ilz‿ɔ̃/, and *c’est* /sɛ/, after which the article stays
 - [Glossary](../../GLOSSARY.md) — liaison, elision, e muet
