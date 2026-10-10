@@ -22,6 +22,7 @@ Conventions: on the [chapter page](../README.md).
 - **The verbs of the bed.** *Se coucher* /sə kuʃe/ to go to bed, *s'endormir* /sɑ̃dɔʁmiʁ/ to fall asleep, *dormir* /dɔʁmiʁ/ to sleep, *se réveiller* /sə ʁeveje/ to wake up, *se lever* /sə ləve/ to get up: four of the five are reflexive, so they take *me, te, se, nous, vous, se* and *être* in the passé composé, *je me suis couché* /ʒə mə sɥi kuʃe/ I went to bed. *Dormir* has its own [page](../dormir/README.md).
 - **Au lit, dans le lit, sur le lit.** *Au lit* is where one goes and where one is, *être au lit* /ɛtʁ o li/ to be in bed; *dans le lit* /dɑ̃ lə li/ is the place itself, *le chat est dans le lit* /lə ʃa ɛ dɑ̃ lə li/; *sur le lit* /syʁ lə li/ on top of it, *sous le lit* /su lə li/ under it, where the slippers are.
 - **Lit the bed, lit he reads.** *Lire* /liʁ/ in the present: *je lis, tu lis, il lit* /ʒə li, ty li, il li/, *nous lisons, vous lisez, ils lisent* /nu lizɔ̃, vu lize, il liz/; past participle *lu* /ly/. The noun and the verb form are spelled and said alike; the article or the pronoun tells them apart, *le lit* /lə li/, *il lit* /il li/.
+- **La lie, il lie.** Two more words say /li/. *La lie* /la li/ is the lees, the sediment at the bottom of the wine, feminine, and figurative in *la lie de la société* /la li də la sɔsjete/ the dregs of society and *boire le calice jusqu'à la lie* /bwaʁ lə kalis ʒyska la li/ to drink the cup to the dregs. *Lier* /lje/ to tie, to bind, to link gives *je lie, tu lies, il lie, ils lient* /ʒə li, ty li, il li, il li/, all /li/ again, with *nous lions, vous liez* /nu ljɔ̃, vu lje/ and the participle *lié* /lje/. Four roots, then, under one sound: Latin *lectus* for the bed, *legere* for *lire*, *ligare* for *lier*, and a Gaulish word for the dregs. The article settles *le lit* /lə li/ against *la lie* /la li/, but *il lit* /il li/ and *il lie* /il li/ only the sentence settles; *ils lisent* /il liz/ against *ils lient* /il li/ the ear hears, because the *s* of *lisent* is said. The lesson [Homophones: lit, lie, lis](../../01_Sounds/homophones/README.md) runs the count.
 - **Kinds of bed.** *Un grand lit* /œ̃ ɡʁɑ̃ li/ a double bed, also *un lit double* /œ̃ li dubl/; *un lit simple* /œ̃ li sɛ̃pl/ or *un lit d'une personne* /œ̃ li dyn pɛʁsɔn/ a single bed; *des lits jumeaux* /de li ʒymo/ twin beds; *des lits superposés* /de li sypɛʁpoze/ bunk beds; *un lit d'enfant* /œ̃ li dɑ̃fɑ̃/ a cot; *un canapé-lit* /œ̃ kanapeli/ a sofa bed, Szypowska's *divan-lit*; *un lit de camp* /œ̃ li də kɑ̃/ a camp bed. At the hotel: *une chambre à deux lits* /yn ʃɑ̃bʁ a dø li/ a twin room, *une chambre avec un grand lit* /yn ʃɑ̃bʁ avɛk œ̃ ɡʁɑ̃ li/ a double room.
 - **On the bed.** *Un drap* /œ̃ dʁa/ a sheet, *une couverture* /yn kuvɛʁtyʁ/ a blanket, *une couette* /yn kwɛt/ a duvet, *un oreiller* /œ̃n‿ɔʁeje/ a pillow, *une taie d'oreiller* /yn tɛ dɔʁeje/ a pillowcase, *un matelas* /œ̃ matla/ a mattress, *la literie* /la litʁi/ the bedding, *la table de nuit* /la tabl də nɥi/ the bedside table, also *la table de chevet* /la tabl də ʃəvɛ/.
 
@@ -75,7 +76,17 @@ Conventions: on the [chapter page](../README.md).
 | un enfant du premier lit | a child of the first marriage | /œ̃n‿ɑ̃fɑ̃ dy pʁəmje li/ |
 | mourir dans son lit | to die in one's bed | /muʁiʁ dɑ̃ sɔ̃ li/ |
 | **Les mots qui sonnent comme lit** | **The words that sound like lit** | /le mo ki sɔn kɔm li/ |
-| le lit – il lit – la lie | the bed – he reads – the dregs | /lə li/ · /il li/ · /la li/ |
+| le lit – il lit – la lie – il lie | the bed – he reads – the dregs – he ties | /lə li/ · /il li/ · /la li/ · /il li/ |
+| la lie | the lees, the dregs of the wine | /la li/ |
+| la lie de la société | the dregs of society | /la li də la sɔsjete/ |
+| boire le calice jusqu'à la lie | to drink the cup to the dregs | /bwaʁ lə kalis ʒyska la li/ |
+| lier | to tie, to bind, to link | /lje/ |
+| je lie, tu lies, il lie, ils lient | I tie, you tie, he ties, they tie | /ʒə li, ty li, il li, il li/ |
+| nous lions, vous liez | we tie, you tie | /nu ljɔ̃, vu lje/ |
+| lié, liée | tied, linked | /lje/ |
+| se lier d'amitié avec | to strike up a friendship with | /sə lje damitje avɛk/ |
+| il lit un livre · il lie les deux bouts | he reads a book · he ties the two ends | /il li œ̃ livʁ/ · /il li le dø bu/ |
+| ils lisent – ils lient | they read – they tie: the s of lisent is said | /il liz/ · /il li/ |
 | le lit – le lis | the bed – the lily: the s is said | /lə li/ · /lə lis/ |
 | lit – lu | bed – read, the participle: /i/ against /y/ | /li/ · /ly/ |
 | lit – lait | bed – milk | /li/ · /lɛ/ |
@@ -101,6 +112,11 @@ Conventions: on the [chapter page](../README.md).
 | Elle ________ au lit. | She reads in bed. | /ɛl [li] o li/ |
 | Il y a un ________ dans la chambre. | There is a bed in the bedroom. | /il j a œ̃ [li] dɑ̃ la ʃɑ̃bʁ/ |
 | J'ai ________ ce livre au lit. | I read this book in bed. (past) | /ʒe [ly] sə livʁ o li/ |
+| **AI exercise: lit, lie or lis?** | **(the answer in square brackets in the IPA; all three sound alike)** | |
+| La ________ reste au fond de la bouteille. | The dregs stay at the bottom of the bottle. | /la [li] ʁɛst o fɔ̃ də la butɛj/ |
+| Il ________ les deux bouts de la corde. | He ties the two ends of the rope. | /il [li] le dø bu də la kɔʁd/ |
+| Je ________ le journal au lit. | I read the newspaper in bed. | /ʒə [li] lə ʒuʁnal o li/ |
+| Ils ________ le journal au lit. | They read the newspaper in bed: here the s is heard. | /il [liz] lə ʒuʁnal o li/ |
 | **AI exercise: un or une?** | **(the answer in square brackets in the IPA)** | |
 | ________ drap | a sheet | /[œ̃] dʁa/ |
 | ________ couverture | a blanket | /[yn] kuvɛʁtyʁ/ |
@@ -110,6 +126,7 @@ Conventions: on the [chapter page](../README.md).
 ## See also
 
 - [1000 words](../README.md) — the chapter, with how to read the table and the Anki sets
+- [Homophones: lit, lie, lis](../../01_Sounds/homophones/README.md) — the lesson on *le lit, il lit, la lie, il lie*: four roots, one sound, and the silent endings behind it
 - [dormir](../dormir/README.md) — *dormir, s'endormir*, the verbs that follow *aller au lit*
 - [une chaise](../chaise/README.md), [un bureau](../bureau/README.md), [une armoire](../armoire/README.md) — the rest of Adam's bedroom
 - [Lesson 1: La maison](../../02_Yosser_teacher/lesson_01_la_maison/README.md) — the furniture, *il y a*, the prepositions of place

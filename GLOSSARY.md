@@ -32,13 +32,15 @@
 
 **Futur proche** — *aller* in the present and an infinitive, the everyday future of speech: *je vais manger* /ʒə vɛ mɑ̃ʒe/ I am going to eat. Its mirror is the passé récent. See [aller](05_1000_words/aller/README.md).
 
-**Homophones** — words said alike and written apart: *sur* on and *sûr* sure /syʁ/, *sont* are and *son* his /sɔ̃/, *été* been and *l’été* the summer /ete/. The sentence tells them apart. See [sur](05_1000_words/sur/README.md).
+**Homophones** — words said alike and written apart: *le lit* the bed, *il lit* he reads, *la lie* the dregs and *il lie* he ties, all /li/; *sur* on and *sûr* sure /syʁ/; *sont* are and *son* his /sɔ̃/. What differs on the page is usually a silent ending or a second spelling of one vowel; the article, the pronoun or the sentence tells them apart. See [Homophones: lit, lie, lis](01_Sounds/homophones/README.md) and [sur](05_1000_words/sur/README.md).
 
 **Imperative (impératif)** — the verb as an order, without its subject pronoun: *regarde !, regardons !, regardez !* The *tu* form of a first-conjugation verb drops its final *-s*. See [Lesson 3: Regardons des photos](03_Szypowska/lecon_03_regardons_des_photos/README.md).
 
 **IPA, International Phonetic Alphabet** — one alphabet for the sounds of every language, in which a symbol always means the same sound. Dictionaries give it between slashes. See [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md).
 
 **Length mark ː** — after a vowel, marks it as long. English distinguishes long and short vowels (*sheep, ship*); French does not, so its transcriptions carry no length mark. See [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md).
+
+**Lettre muette, silent letter** — a letter written and not said: the final *-t, -s, -d, -x* of *lit, lis, perd, voix* /li, li, pɛʁ, vwa/, the final *-e* of *lie, amie* /li, ami/, the *-ent* of *ils lient* /il li/, the *h* of *haut* /o/. The verb's person endings and the noun's plural are all silent, which is why French writes grammar the ear does not get. A silent consonant returns before a vowel as liaison. See [Homophones: lit, lie, lis](01_Sounds/homophones/README.md).
 
 **Letter name (nom de la lettre)** — the word for a letter when it is spelled aloud: *bé* /be/, *effe* /ɛf/, *i grec* /iɡʁɛk/. A French word like any other, so it obeys the rules of one: a closed /e/ at the end, an open /ɛ/ before a consonant. See [The French alphabet](01_Sounds/french_alphabet/README.md).
 
@@ -67,6 +69,8 @@
 **Stress mark ˈ** — before a syllable, marks it as the stressed one. English dictionaries need it because stress distinguishes words; French dictionaries omit it because French stress always falls on the last syllable of a phrase. See [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md).
 
 **Stressed pronoun (pronom tonique)** — *moi, toi, lui, elle, nous, vous, eux, elles* /mwa, twa, lɥi, ɛl, nu, vu, ø, ɛl/, the pronoun after a preposition and the one used alone or for emphasis: *pour moi* /puʁ mwa/, *moi, je dors* /mwa, ʒə dɔʁ/. See [pour](05_1000_words/pour/README.md).
+
+**Subject pronoun (pronom sujet)** — *je, tu, il, elle, nous, vous, ils, elles* /ʒə, ty, il, ɛl, nu, vu, il, ɛl/, never dropped in French, where Polish and Latin drop theirs: *je lis, tu lis, il lit* /ʒə li, ty li, il li/ are one sound, so the pronoun is all that says who reads. See [Homophones: lit, lie, lis](01_Sounds/homophones/README.md).
 
 **Subjunctive (subjonctif)** — the mood after *il faut que* /il fo kə/ and after verbs of wish, doubt and feeling: *il faut que j’aille* /il fo kə ʒaj/, *que tu viennes* /kə ty vjɛn/, *que vous soyez* /kə vu swaje/. See [aller](05_1000_words/aller/README.md).
 

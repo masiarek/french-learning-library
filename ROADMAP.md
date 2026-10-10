@@ -4,7 +4,7 @@ What exists, and what is deliberately not written yet. A topic listed here has *
 
 ## Written
 
-**[01_Sounds](01_Sounds/README.md)** — what does the French in the dictionary sound like? Three lessons: [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md), [four inventories](01_Sounds/four_inventories/README.md), which adds German and Polish, and [the French alphabet](01_Sounds/french_alphabet/README.md), the 26 letter names read in the same alphabet, with the words for spelling aloud.
+**[01_Sounds](01_Sounds/README.md)** — what does the French in the dictionary sound like? Four lessons: [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md), [four inventories](01_Sounds/four_inventories/README.md), which adds German and Polish, [the French alphabet](01_Sounds/french_alphabet/README.md), the 26 letter names read in the same alphabet, with the words for spelling aloud, and [homophones](01_Sounds/homophones/README.md), *lit, lie, lis* and the silent endings that make French write what it does not say.
 
 **[02_Yosser_teacher](02_Yosser_teacher/README.md)** — the owner's teacher's worksheets, one lesson each, kept whole as a table of French, English and IPA, with an Anki deck of its own. No program on these pages, at the owner's request; CI checks the tables' IPA instead. One lesson so far, [La maison](02_Yosser_teacher/lesson_01_la_maison/README.md), and beside it [the reading](02_Yosser_teacher/lesson_01_lecture_ma_maison/README.md), the same sentences each with its IPA under it, for reading aloud.
 
@@ -20,7 +20,7 @@ A **lesson** needs an argument and a program that demonstrates it, except in the
 
 ## Lessons with an obvious program, not yet written
 
-- **From spelling to sound.** The French letter-to-sound rules (*eau* → /o/, *ai* → /ɛ/, final consonants silent except *c, r, f, l*) applied to a word list from a lesson, with the exceptions counted. The program shows how regular French spelling is in the reading direction, against how irregular it is in the writing direction.
+- **From spelling to sound.** The French letter-to-sound rules (*eau* → /o/, *ai* → /ɛ/, final consonants silent except *c, r, f, l*) applied to a word list from a lesson, with the exceptions counted. The program shows how regular French spelling is in the reading direction, against how irregular it is in the writing direction; the [homophones](01_Sounds/homophones/README.md) lesson is the writing-direction half of that argument, done on twenty sets.
 - **Liaison.** Which final consonants are pronounced before a vowel, and when liaison is compulsory, optional or forbidden; a program applies the rules to a sentence and prints the transcription with and without.
 - **Nasal vowels and the letters that make them.** *an, en, in, ain, ein, on, un, um*: a program maps spellings to the four nasals and finds the words where the rule breaks (*examen*). The word list is ready on the Pronunciation page of [ɑ̃ and ɔ̃](04_Pronunciation/sons_an_on/README.md).
 - **The merger of /œ̃/ and /ɛ̃/ and of /a/ and /ɑ/.** Which dictionaries still list the distinction and what a learner should do.

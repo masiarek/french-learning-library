@@ -25,6 +25,7 @@ The examples are **stdlib-only, on purpose**. If you have `python3`, you can run
 | [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md) | One alphabet, two inventories: 21 shared symbols, 15 French-only (nasal vowels, /y ø œ/, /ʁ/), 25 English-only (/θ ð h/, lax vowels, length, diphthongs), and the marks that identify the language before a vowel is read |
 | [Four inventories](01_Sounds/four_inventories/README.md) | English, French, German and Polish side by side: 14 symbols in all four, all consonants; French has 8 new sounds for a German speaker, 11 for a Polish one, 15 for an English one |
 | [The French alphabet](01_Sounds/french_alphabet/README.md) | The 26 letter names in the IPA: 24 symbols, five French-only sounds (/a o y ɛ ʁ/), the *e* closed at the end and open before a consonant in all sixteen names, the Latin shape of *cé* and *gé*, and how to spell aloud with *accent aigu, cédille, tréma* |
+| [Homophones: lit, lie, lis](01_Sounds/homophones/README.md) | *Le lit, il lit, la lie, il lie*: four roots, five spellings, one sound /li/; the silent endings *-t, -s, -e, -es, -ent* that carry the grammar on the page only, four of six present-tense forms of *lier* alike, why *je, tu, il* cannot be dropped, and twenty more sets of homophones |
 
 [**02_Yosser_teacher/**](02_Yosser_teacher/README.md) — *The teacher's worksheets, one lesson at a time*
 

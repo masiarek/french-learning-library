@@ -12,6 +12,9 @@
         - [Four inventories](01_Sounds/four_inventories/README.md) — German, Polish, Duden, Jassem, ich-Laut, affricates, retroflex, ą and ę, fixed stress, what French asks of each speaker
         - [The French alphabet](01_Sounds/french_alphabet/README.md) — the 26 letter names in the IPA, bé against effe, the e closed at the end and open before a consonant, the Latin shape of cé and gé, ache without its sound, spelling aloud, accent aigu, cédille, tréma, e dans l'o
         - ↪ [Le son ɛ](04_Pronunciation/son_e_ouvert/README.md) — the open e the letter names show at effe, elle, erre, zède
+    - **What the letters hide** · from [Sounds](01_Sounds/README.md)
+        - [Homophones: lit, lie, lis](01_Sounds/homophones/README.md) — le lit, il lit, la lie, il lie; four roots, five spellings, one sound; the silent endings -t, -s, -e, -es, -ent; how many persons of lire, lier, parler, finir, être, avoir sound alike; what the article and the pronoun settle; why the subject pronoun is compulsory; vert, verre, vers, ver, vair and nineteen more sets
+        - ↪ [un lit](05_1000_words/lit/README.md) — the word page, with la lie, lier and the sentences as cards
     - **Drills from the videos** · from [Pronunciation](04_Pronunciation/README.md)
         - [Les sons ɑ̃ et ɔ̃](04_Pronunciation/sons_an_on/README.md) — the nasal vowels of blanc and blond, an, am, en, em against on, om, minimal pairs, both sounds in one word, where the nasal goes away, Anne's [ã] as Le Robert's /ɑ̃/
         - [Le son ɛ](04_Pronunciation/son_e_ouvert/README.md) — the open e of est, mais, lève, être, appelle; /e/ against /ɛ/; e before a consonant that is said; è, ê, ai, ei; the endings -et and -êt
@@ -37,7 +40,7 @@
         - [dormir](05_1000_words/dormir/README.md) — to sleep; the partir pattern of -ir verbs, the singular that drops a consonant, as-tu bien dormi, s'endormir
         - [être](05_1000_words/etre/README.md) — to be, a being; three stems, fus of the books, soyez, été, the auxiliary of movement and reflexive verbs, avoir for faim and froid
         - [une fenêtre](05_1000_words/fenetre/README.md) — a window; the circumflex of a lost s, ouvrir and fermer, ouverte and fermée, par la fenêtre, donner sur, vitre, volet, rideau, store
-        - [un lit](05_1000_words/lit/README.md) — a bed; the silent t, le lit against il lit and lu, au lit and du lit, se coucher and lire, the kinds of bed, drap, couverture, oreiller
+        - [un lit](05_1000_words/lit/README.md) — a bed; the silent t, le lit against il lit, la lie and il lie, lu, au lit and du lit, se coucher, lire and lier, the kinds of bed, drap, couverture, oreiller
         - [une mère](05_1000_words/mere/README.md) — a mother; the article as the gender, sa as his or her, the possessives, de for possession, the feminine française, the family words, mère, mer and maire
         - [une porte](05_1000_words/porte/README.md) — a door; the open /ɔ/, la porte against il porte, à la porte, frapper, sonner, fermer à clé, claquer, the doors of a house, la porte à côté
         - [pour](05_1000_words/pour/README.md) — for, to; the stressed pronouns, pour with an infinitive, pour que and the subjunctive, pour against pendant and par, merci pour and merci de
@@ -50,5 +53,6 @@
 ## Threads
 
 - **Sets at work.** The IPA pages hold two, then four, phoneme inventories as sets and reads off their intersection and differences; the operations are explained in the math library's [Sets ↗](https://masiarek.github.io/math-learning-library/04_Sets/) chapter.
+- **The letters French does not say.** The [homophones](01_Sounds/homophones/README.md) lesson shows the verb's person endings and the noun's plural as letters the ear never gets, which is why the article and the pronoun do the work; the word pages set the pairs one by one, *lit* and *lie*, *mère, mer* and *maire*, *porte* and *il porte*, *sur* and *sûr*; and the liaison lesson on the [roadmap](ROADMAP.md) is about the one case where a silent consonant comes back.
 - **One alphabet, many spellings of it.** Every book spells the same sounds its own way. The Sounds chapter reads Oxford's and Le Robert's keys; the Szypowska chapter adds a key from the book's Polish-reader notation to Le Robert's. The teacher's worksheets have no transcription at all, so there the page supplies it. The Pronunciation chapter reads the videos' [ã] as Le Robert's /ɑ̃/. The 1000 words chapter adds the IPA the app leaves out. The alphabet page writes the 26 letter names in Le Robert's key and says where French Wikipedia's table differs.
 - **The verbs that run a sentence.** *Avoir* is conjugated in Szypowska's [lesson 5](03_Szypowska/lecon_05_dialogue/README.md) and on its own page; *avoir, être, aller, venir, devoir* and *dormir* each have a page in [1000 words](05_1000_words/README.md), with the tense English hides in it: the near future of *aller*, the recent past of *venir de*, the conditional *should* of *devoir*, and *être* as the auxiliary of the other two.
