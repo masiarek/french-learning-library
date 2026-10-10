@@ -1,0 +1,80 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(n.m.) bag; sack	un sac<br>/œ̃ sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+She puts her keys in her bag.	Elle met ses clés dans son sac.<br>/ɛl mɛ se kle dɑ̃ sɔ̃ sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a handbag	un sac à main<br>/œ̃ sak a mɛ̃/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a rucksack	un sac à dos<br>/œ̃ sak a do/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a sleeping bag	un sac de couchage<br>/œ̃ sak də kuʃaʒ/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a travel bag	un sac de voyage<br>/œ̃ sak də vwajaʒ/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a sports bag	un sac de sport<br>/œ̃ sak də spɔʁ/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a shopping bag	un sac de courses, un sac à provisions<br>/œ̃ sak də kuʁs, œ̃ sak a pʁɔvizjɔ̃/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a plastic bag	un sac en plastique, un sac plastique<br>/œ̃ sak ɑ̃ plastik, œ̃ sak plastik/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a paper bag	un sac en papier<br>/œ̃ sak ɑ̃ papje/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a leather bag	un sac en cuir<br>/œ̃ sak ɑ̃ kɥiʁ/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a bin bag	un sac poubelle<br>/œ̃ sak pubɛl/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a reusable bag	un sac réutilisable<br>/œ̃ sak ʁeytilizabl/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a sack of potatoes	un sac de pommes de terre<br>/œ̃ sak də pɔm də tɛʁ/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a small bag, a sachet; a teabag	un sachet, un sachet de thé<br>/œ̃ saʃɛ, œ̃ saʃɛ də te/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a satchel, a saddlebag	une sacoche<br>/yn sakɔʃ/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a schoolbag	un cartable<br>/œ̃ kaʁtabl/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a suitcase	une valise<br>/yn valiz/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a basket	un panier<br>/œ̃ panje/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a shopping bag (2)	un cabas<br>/œ̃ kaba/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a pocket	une poche<br>/yn pɔʃ/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a purse, a wallet	un porte-monnaie, un portefeuille<br>/œ̃ pɔʁtmɔnɛ, œ̃ pɔʁtəfœj/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+the keys	les clés<br>/le kle/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+the wallet, the phone	le portefeuille, le téléphone<br>/lə pɔʁtəfœj, lə telefɔn/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a handkerchief, a tissue	un mouchoir<br>/œ̃ muʃwaʁ/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a book, a notebook	un livre, un cahier<br>/œ̃ livʁ, œ̃ kaje/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+an umbrella	un parapluie<br>/œ̃ paʁaplɥi/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+to carry a bag	porter un sac<br>/pɔʁte œ̃ sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+to take one's bag, to put one's bag down	prendre son sac, poser son sac<br>/pʁɑ̃dʁ sɔ̃ sak, poze sɔ̃ sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+to open one's bag, to close one's bag	ouvrir son sac, fermer son sac<br>/uvʁiʁ sɔ̃ sak, fɛʁme sɔ̃ sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+to put something in one's bag	mettre quelque chose dans son sac<br>/mɛtʁ kɛlkə ʃoz dɑ̃ sɔ̃ sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+to rummage in one's bag	fouiller dans son sac<br>/fuje dɑ̃ sɔ̃ sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+to forget one's bag, to lose one's bag	oublier son sac, perdre son sac<br>/ublije sɔ̃ sak, pɛʁdʁ sɔ̃ sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+to find one's bag again	retrouver son sac<br>/ʁətʁuve sɔ̃ sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+to pack one's bag	faire son sac<br>/fɛʁ sɔ̃ sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+to get it all off one's chest	vider son sac<br>/vide sɔ̃ sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+It's in the bag.	L'affaire est dans le sac.<br>/lafɛʁ ɛ dɑ̃ lə sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+to lump together	mettre dans le même sac<br>/mɛtʁ dɑ̃ lə mɛm sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+to have more than one trick up one's sleeve	avoir plus d'un tour dans son sac<br>/avwaʁ plys dœ̃ tuʁ dɑ̃ sɔ̃ sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+to catch someone red-handed	prendre quelqu'un la main dans le sac<br>/pʁɑ̃dʁ kɛlkœ̃ la mɛ̃ dɑ̃ lə sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a bag of bones	un sac d'os<br>/œ̃ sak do/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a tangle, a mess	un sac de nœuds<br>/œ̃ sak də nø/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+to do the shopping	faire les courses<br>/fɛʁ le kuʁs/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+Do you want a bag?	Vous voulez un sac ?<br>/vu vule œ̃ sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+My bag is heavy.	Mon sac est lourd.<br>/mɔ̃ sak ɛ luʁ/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+The bag is under the table.	Le sac est sous la table.<br>/lə sak ɛ su la tabl/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+a bag – dry: the vowel alone differs	un sac – sec<br>/œ̃ sak/ · /sɛk/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+the bag, the lake, the park, with, the beak: the c is said	le sac, le lac, le parc, avec, le bec<br>/lə sak, lə lak, lə paʁk, avɛk, lə bɛk/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+white, the bench, frank, the trunk: silent after a nasal vowel	blanc, le banc, franc, le tronc<br>/blɑ̃, lə bɑ̃, fʁɑ̃, lə tʁɔ̃/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+the tobacco, the stomach, the pork: the exceptions	le tabac, l'estomac, le porc<br>/lə taba, lɛstɔma, lə pɔʁ/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+The bag is under the table, not on the chair.	Le sac est sous la table, pas sur la chaise.<br>/lə sak ɛ su la tabl, pa syʁ la ʃɛz/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+I left my bag at home.	J'ai oublié mon sac à la maison.<br>/ʒe ublije mɔ̃ sak a la mɛzɔ̃/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+My mother carries a big handbag.	Ma mère porte un grand sac à main.<br>/ma mɛʁ pɔʁt œ̃ ɡʁɑ̃ sak a mɛ̃/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+The children have a rucksack for school.	Les enfants ont un sac à dos pour l'école.<br>/lez‿ɑ̃fɑ̃ ɔ̃t‿œ̃ sak a do puʁ lekɔl/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+Do you want a bag? No thank you, I have my bag.	Vous voulez un sac ? Non merci, j'ai mon sac.<br>/vu vule œ̃ sak/ · /nɔ̃ mɛʁsi, ʒe mɔ̃ sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+This bag is too heavy for me.	Ce sac est trop lourd pour moi.<br>/sə sak ɛ tʁo luʁ puʁ mwa/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+There is a book and some keys in the bag.	Il y a un livre et des clés dans le sac.<br>/il j a œ̃ livʁ e de kle dɑ̃ lə sak/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+We sleep in sleeping bags.	Nous dormons dans des sacs de couchage.<br>/nu dɔʁmɔ̃ dɑ̃ de sak də kuʃaʒ/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+Put your bag down and sit down.	Pose ton sac et assieds-toi.<br>/poz tɔ̃ sak e asjetwa/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+I am looking for my bag. It is behind the door.	Je cherche mon sac. Il est derrière la porte.<br>/ʒə ʃɛʁʃ mɔ̃ sak/ · /il ɛ dɛʁjɛʁ la pɔʁt/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+The bin bag is full.	Le sac poubelle est plein.<br>/lə sak pubɛl ɛ plɛ̃/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+She emptied her bag onto the table.	Elle a vidé son sac sur la table.<br>/ɛl a vide sɔ̃ sak syʁ la tabl/	french 1000words sac en-fr	French::1000 words (EN-FR)::un sac — a bag
+Say: The bag is under the table.	Le sac est sous la table. /lə sak ɛ su la tabl/	french 1000words sac challenge say	French::1000 words (EN-FR)::un sac — a bag::Challenges
+Say: She puts her keys in her bag.	Elle met ses clés dans son sac. /ɛl mɛ se kle dɑ̃ sɔ̃ sak/	french 1000words sac challenge say	French::1000 words (EN-FR)::un sac — a bag::Challenges
+Say: I left my bag at home.	J’ai oublié mon sac à la maison. /ʒe ublije mɔ̃ sak a la mɛzɔ̃/	french 1000words sac challenge say	French::1000 words (EN-FR)::un sac — a bag::Challenges
+Say: Do you want a bag? No thank you, I have my bag.	Vous voulez un sac ? Non merci, j’ai mon sac. /vu vule œ̃ sak/ /nɔ̃ mɛʁsi, ʒe mɔ̃ sak/	french 1000words sac challenge say	French::1000 words (EN-FR)::un sac — a bag::Challenges
+Say: This bag is too heavy for me.	Ce sac est trop lourd pour moi. /sə sak ɛ tʁo luʁ puʁ mwa/	french 1000words sac challenge say	French::1000 words (EN-FR)::un sac — a bag::Challenges
+Is the c of sac said? And of blanc?	Yes, /sak/: a final c is said after an oral vowel (lac, parc, avec); silent after a nasal vowel, blanc /blɑ̃/, banc /bɑ̃/; tabac /taba/ and estomac /ɛstɔma/ are the exceptions	french 1000words sac challenge sound	French::1000 words (EN-FR)::un sac — a bag::Challenges
+A handbag, a rucksack, a sleeping bag, a bin bag	un sac à main /œ̃ sak a mɛ̃/, un sac à dos /œ̃ sak a do/, un sac de couchage /œ̃ sak də kuʃaʒ/, un sac poubelle /œ̃ sak pubɛl/	french 1000words sac challenge words	French::1000 words (EN-FR)::un sac — a bag::Challenges
+A leather bag, a plastic bag	un sac en cuir /œ̃ sak ɑ̃ kɥiʁ/, un sac en plastique /œ̃ sak ɑ̃ plastik/ or un sac plastique: en for the material	french 1000words sac challenge grammar	French::1000 words (EN-FR)::un sac — a bag::Challenges
+A suitcase, a schoolbag, a purse, a wallet	une valise /yn valiz/, un cartable /œ̃ kaʁtabl/, un porte-monnaie /œ̃ pɔʁtmɔnɛ/, un portefeuille /œ̃ pɔʁtəfœj/	french 1000words sac challenge words	French::1000 words (EN-FR)::un sac — a bag::Challenges
+To get it all off one’s chest, in French	vider son sac /vide sɔ̃ sak/	french 1000words sac challenge words	French::1000 words (EN-FR)::un sac — a bag::Challenges
+It’s in the bag, in French	L’affaire est dans le sac. /lafɛʁ ɛ dɑ̃ lə sak/	french 1000words sac challenge words	French::1000 words (EN-FR)::un sac — a bag::Challenges
+To do the shopping; a shopping bag	faire les courses /fɛʁ le kuʁs/; un sac de courses /œ̃ sak də kuʁs/	french 1000words sac challenge words	French::1000 words (EN-FR)::un sac — a bag::Challenges

@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une table — a table::Challenges
+#tags:french 1000words table challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: There is a table in the kitchen.	Il y a une table dans la cuisine. /il j a yn tabl dɑ̃ la kɥizin/	say
+Say: Lay the table please, we are eating in ten minutes.	Mets la table, s’il te plaît, on mange dans dix minutes. /mɛ la tabl, sil tə plɛ, ɔ̃ mɑ̃ʒ dɑ̃ di minyt/	say
+Say: Dinner is served, children!	À table, les enfants ! /a tabl, lez‿ɑ̃fɑ̃/	say
+Say: Who is clearing the table tonight?	Qui débarrasse la table ce soir ? /ki debaʁas la tabl sə swaʁ/	say
+Say: The cat is under the table.	Le chat est sous la table. /lə ʃa ɛ su la tabl/	say
+How many syllables in table?	one, /tabl/: the final -e is silent and the word ends on the cluster /bl/, as in sable, diable, confortable	sound
+I put, we put, they put, I have put	je mets /ʒə mɛ/, nous mettons /nu mɛtɔ̃/, ils mettent /il mɛt/, j’ai mis /ʒe mi/	grammar
+À table or la table?	à table /a tabl/ without an article is the meal: À table ! se mettre à table; with the article the table is furniture: mettre la table /mɛtʁ la tabl/, sur la table /syʁ la tabl/	grammar
+To lay the table, to clear the table, to sit down to eat	mettre la table /mɛtʁ la tabl/, débarrasser la table /debaʁase la tabl/, se mettre à table /sə mɛtʁ a tabl/	words
+Coffee table, bedside table, folding table	une table basse /yn tabl bas/, une table de nuit /yn tabl də nɥi/, une table pliante /yn tabl plijɑ̃t/	words
+Tablecloth, plate, glass, knife, fork, spoon	une nappe /yn nap/, une assiette /yn asjɛt/, un verre /œ̃ vɛʁ/, un couteau /œ̃ kuto/, une fourchette /yn fuʁʃɛt/, une cuillère /yn kɥijɛʁ/	words
+The table of contents; to make a clean sweep	la table des matières /la tabl de matjɛʁ/; faire table rase /fɛʁ tabl ʁaz/	words

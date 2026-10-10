@@ -1,0 +1,75 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+une maison<br>/yn mɛzɔ̃/	(n.f.) house, home	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+J'habite dans une grande maison avec ma famille.<br>/ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/	I live in a big house with my family.	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+j'habite, tu habites, il habite<br>/ʒabit, ty abit, il abit/	I live, you live, he lives	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+nous habitons, vous habitez, ils habitent<br>/nuz‿abitɔ̃, vuz‿abite, ilz‿abit/	we live, you live, they live	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+j'ai habité<br>/ʒe abite/	I lived, I have lived	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+Où habites-tu ? Où habitez-vous ?<br>/u abit ty, u abite vu/	Where do you live?	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+J'habite dans une maison, dans un appartement.<br>/ʒabit dɑ̃z‿yn mɛzɔ̃, dɑ̃z‿œ̃n‿apaʁtəmɑ̃/	I live in a house, in a flat.	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+J'habite à Paris, en France, en Pologne.<br>/ʒabit a paʁi, ɑ̃ fʁɑ̃s, ɑ̃ pɔlɔɲ/	I live in Paris, in France, in Poland.	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+être à la maison<br>/ɛtʁ a la mɛzɔ̃/	to be at home	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+rester à la maison<br>/ʁɛste a la mɛzɔ̃/	to stay at home	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+rentrer à la maison<br>/ʁɑ̃tʁe a la mɛzɔ̃/	to go home, to come home	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+travailler à la maison<br>/tʁavaje a la mɛzɔ̃/	to work from home	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+chez moi, chez toi, chez nous<br>/ʃe mwa, ʃe twa, ʃe nu/	at my place, at your place, at our place	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+fait maison, une tarte maison<br>/fɛ mɛzɔ̃, yn taʁt mɛzɔ̃/	home-made, a home-made tart	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+Il n'y a personne à la maison.<br>/il nj a pɛʁsɔn a la mɛzɔ̃/	There is nobody at home.	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+une maison<br>/yn mɛzɔ̃/ (2)	a house	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+un immeuble<br>/œ̃n‿imœbl/	a block of flats, a building	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+un appartement, un studio<br>/œ̃n‿apaʁtəmɑ̃, œ̃ stydjo/	a flat, a one-room flat	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+une villa, un pavillon<br>/yn vila, œ̃ pavijɔ̃/	a detached house, a small suburban house	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+un chalet, une ferme<br>/œ̃ ʃalɛ, yn fɛʁm/	a chalet, a farmhouse	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+une maison de campagne<br>/yn mɛzɔ̃ də kɑ̃paɲ/	a house in the country	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+une maisonnette<br>/yn mɛzɔnɛt/	a little house	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+un HLM<br>/œ̃n‿aʃɛlɛm/	a council flat	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+le toit, les murs<br>/lə twa, le myʁ/	the roof, the walls	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+la porte d'entrée, les fenêtres<br>/la pɔʁt dɑ̃tʁe, le fənɛtʁ/	the front door, the windows	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+le rez-de-chaussée, le premier étage<br>/lə ʁedʃose, lə pʁəmjɛʁ‿etaʒ/	the ground floor, the first floor	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+l'escalier, le couloir, l'entrée<br>/lɛskalje, lə kulwaʁ, lɑ̃tʁe/	the stairs, the corridor, the hall	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+la cave, le grenier<br>/la kav, lə ɡʁənje/	the cellar, the attic	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+le garage, le jardin, la cour<br>/lə ɡaʁaʒ, lə ʒaʁdɛ̃, la kuʁ/	the garage, the garden, the yard	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+le balcon, la terrasse<br>/lə balkɔ̃, la tɛʁas/	the balcony, the terrace	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+les voisins<br>/le vwazɛ̃/	the neighbours	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+acheter une maison, vendre une maison<br>/aʃte yn mɛzɔ̃, vɑ̃dʁ yn mɛzɔ̃/	to buy a house, to sell a house	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+louer une maison<br>/lwe yn mɛzɔ̃/	to rent a house (as the tenant or as the owner)	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+construire une maison<br>/kɔ̃stʁɥiʁ yn mɛzɔ̃/	to build a house	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+déménager, emménager<br>/demenaʒe, ɑ̃menaʒe/	to move house, to move in	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+le propriétaire, le locataire, le loyer<br>/lə pʁɔpʁijetɛʁ, lə lɔkatɛʁ, lə lwaje/	the owner, the tenant, the rent	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+une maison d'édition<br>/yn mɛzɔ̃ dedisjɔ̃/	a publishing house	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+une maison de retraite<br>/yn mɛzɔ̃ də ʁətʁɛt/	an old people's home	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+la maison des jeunes<br>/la mɛzɔ̃ de ʒœn/	the youth centre	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+la Maison Blanche<br>/la mɛzɔ̃ blɑ̃ʃ/	the White House	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+le maître de maison, la maîtresse de maison<br>/lə mɛtʁ də mɛzɔ̃, la mɛtʁɛs də mɛzɔ̃/	the host, the hostess	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+une femme au foyer<br>/yn fam o fwaje/	a housewife	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+la maison – la raison – la saison<br>/la mɛzɔ̃/ · /la ʁɛzɔ̃/ · /la sɛzɔ̃/	the house – the reason – the season: the same -aison	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+la maison – la liaison<br>/la mɛzɔ̃/ · /la ljɛzɔ̃/	the house – the liaison of this library's tables	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+la maison – les maisons – mes maisons<br>/la mɛzɔ̃/ · /le mɛzɔ̃/ · /me mɛzɔ̃/	the house – the houses – my houses: the plural is silent	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+J'habite dans une petite maison avec un jardin.<br>/ʒabit dɑ̃z‿yn pətit mɛzɔ̃ avɛk œ̃ ʒaʁdɛ̃/	I live in a small house with a garden.	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+Notre maison a trois chambres et deux salles de bains.<br>/nɔtʁ mɛzɔ̃ a tʁwa ʃɑ̃bʁ e dø sal də bɛ̃/	Our house has three bedrooms and two bathrooms.	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+Je rentre à la maison à six heures.<br>/ʒə ʁɑ̃tʁ a la mɛzɔ̃ a siz‿œʁ/	I go home at six.	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+Ce soir, nous restons à la maison.<br>/sə swaʁ, nu ʁɛstɔ̃ a la mɛzɔ̃/	Tonight we are staying at home.	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+Ma mère travaille à la maison le vendredi.<br>/ma mɛʁ tʁavaj a la mɛzɔ̃ lə vɑ̃dʁədi/	My mother works from home on Fridays.	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+La voiture est devant la maison et le jardin est derrière.<br>/la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃ e lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ/	The car is in front of the house and the garden is behind.	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+Mes grands-parents habitent dans une vieille maison à la campagne.<br>/me ɡʁɑ̃paʁɑ̃ abit dɑ̃z‿yn vjɛj mɛzɔ̃ a la kɑ̃paɲ/	My grandparents live in an old house in the country.	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+Ils ont acheté une maison près de Paris.<br>/ilz‿ɔ̃ aʃte yn mɛzɔ̃ pʁɛ də paʁi/	They have bought a house near Paris.	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+Nous déménageons en juin dans une maison plus grande.<br>/nu demenaʒɔ̃ ɑ̃ ʒɥɛ̃ dɑ̃z‿yn mɛzɔ̃ ply ɡʁɑ̃d/	We are moving in June to a bigger house.	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+Adam n'habite pas dans un appartement, il habite dans une maison.<br>/adam nabit pa dɑ̃z‿œ̃n‿apaʁtəmɑ̃, il abit dɑ̃z‿yn mɛzɔ̃/	Adam does not live in a flat, he lives in a house.	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+Tout est fait maison dans ce restaurant.<br>/tut‿ɛ fɛ mɛzɔ̃ dɑ̃ sə ʁɛstoʁɑ̃/	Everything is home-made in this restaurant.	french 1000words maison fr-en	French::1000 words (FR-EN)::une maison — a house
+J'________ dans une grande maison.<br>(AI exercise: habiter, in the right form)	/ʒ[abit] dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃/<br>I live in a big house.	french 1000words maison fr-en exercise	French::1000 words (FR-EN)::une maison — a house
+Nous ________ à Paris.<br>(AI exercise: habiter, in the right form)	/nuz‿[abitɔ̃] a paʁi/<br>We live in Paris.	french 1000words maison fr-en exercise	French::1000 words (FR-EN)::une maison — a house
+Où ________-vous ?<br>(AI exercise: habiter, in the right form)	/u [abite] vu/<br>Where do you live?	french 1000words maison fr-en exercise	French::1000 words (FR-EN)::une maison — a house
+Ils ________ en Pologne.<br>(AI exercise: habiter, in the right form)	/ilz‿[abit] ɑ̃ pɔlɔɲ/<br>They live in Poland.	french 1000words maison fr-en exercise	French::1000 words (FR-EN)::une maison — a house
+Je reste ________ ce soir.<br>(AI exercise: à la maison or chez …?)	/ʒə ʁɛst [a la mɛzɔ̃] sə swaʁ/<br>I am staying at home tonight.	french 1000words maison fr-en exercise	French::1000 words (FR-EN)::une maison — a house
+Nous dînons ________ mes parents.<br>(AI exercise: à la maison or chez …?)	/nu dinɔ̃ [ʃe] me paʁɑ̃/<br>We are having dinner at my parents'.	french 1000words maison fr-en exercise	French::1000 words (FR-EN)::une maison — a house
+Il rentre ________ à six heures.<br>(AI exercise: à la maison or chez …?)	/il ʁɑ̃tʁ [a la mɛzɔ̃] a siz‿œʁ/<br>He goes home at six.	french 1000words maison fr-en exercise	French::1000 words (FR-EN)::une maison — a house
+Viens ________ moi demain !<br>(AI exercise: à la maison or chez …?)	/vjɛ̃ [ʃe] mwa dəmɛ̃/<br>Come to my place tomorrow!	french 1000words maison fr-en exercise	French::1000 words (FR-EN)::une maison — a house
+________ maison<br>(AI exercise: un or une?)	/[yn] mɛzɔ̃/<br>a house	french 1000words maison fr-en exercise	French::1000 words (FR-EN)::une maison — a house
+________ appartement<br>(AI exercise: un or une?)	/[œ̃n]‿apaʁtəmɑ̃/<br>a flat	french 1000words maison fr-en exercise	French::1000 words (FR-EN)::une maison — a house
+________ immeuble<br>(AI exercise: un or une?)	/[œ̃n]‿imœbl/<br>a block of flats	french 1000words maison fr-en exercise	French::1000 words (FR-EN)::une maison — a house
+________ ferme<br>(AI exercise: un or une?)	/[yn] fɛʁm/<br>a farm	french 1000words maison fr-en exercise	French::1000 words (FR-EN)::une maison — a house
+________ jardin<br>(AI exercise: un or une?)	/[œ̃] ʒaʁdɛ̃/<br>a garden	french 1000words maison fr-en exercise	French::1000 words (FR-EN)::une maison — a house

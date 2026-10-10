@@ -32,6 +32,8 @@
 
 **Futur proche** — *aller* in the present and an infinitive, the everyday future of speech: *je vais manger* /ʒə vɛ mɑ̃ʒe/ I am going to eat. Its mirror is the passé récent. See [aller](05_1000_words/aller/README.md).
 
+**H muet, h aspiré** — the letter *h* is never a sound, but it comes in two kinds. The mute *h* of *habiter, homme, hôtel* lets the word behave as if it began with a vowel: elision, *j'habite, l'homme* /ʒabit, lɔm/, and liaison, *nous habitons* /nuz‿abitɔ̃/. The aspirated *h* of *haut, haricot, héros* blocks both: *le haut, les haricots* /lə o, le aʁiko/. A dictionary marks the second with an asterisk. See [habiter](05_1000_words/habiter/README.md) and [Lesson 5: Dialogue](03_Szypowska/lecon_05_dialogue/README.md).
+
 **Homophones** — words said alike and written apart: *le lit* the bed, *il lit* he reads, *la lie* the dregs and *il lie* he ties, all /li/; *sur* on and *sûr* sure /syʁ/; *sont* are and *son* his /sɔ̃/. What differs on the page is usually a silent ending or a second spelling of one vowel; the article, the pronoun or the sentence tells them apart. See [Homophones: lit, lie, lis](01_Sounds/homophones/README.md) and [sur](05_1000_words/sur/README.md).
 
 **Imperative (impératif)** — the verb as an order, without its subject pronoun: *regarde !, regardons !, regardez !* The *tu* form of a first-conjugation verb drops its final *-s*. See [Lesson 3: Regardons des photos](03_Szypowska/lecon_03_regardons_des_photos/README.md).
@@ -53,6 +55,8 @@
 **Minimal pair** — two words that differ in one sound only, so that hearing the difference is hearing the sound: *blanc* /blɑ̃/ and *blond* /blɔ̃/, *mais* /mɛ/ and *mes* /me/. The drills of the Pronunciation chapter are built on them. See [Les sons ɑ̃ et ɔ̃](04_Pronunciation/sons_an_on/README.md).
 
 **Nasal vowel** — a vowel said with air passing through the nose, written with a tilde: French /ɑ̃ ɛ̃ ɔ̃ œ̃/ in *dans, vin, bon, brun*; Polish has /ɛ̃ ɔ̃/ as *ę* and *ą*. See [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md).
+
+**Partitive article (article partitif)** — *du, de la, de l'* for some of a thing that is not counted, *du vin, de la lie, de l'eau* /dy vɛ̃, də la li, də lo/, and *des* for some of things that are, *des livres* /de livʁ/. After a negative and after a word of quantity all four become *de*: *pas de vin* /pa də vɛ̃/, *beaucoup de livres* /boku də livʁ/. A thing one likes in general takes the definite article instead, *j'aime le vin* /ʒɛm lə vɛ̃/. See [la lie](05_1000_words/lie/README.md) and [beaucoup](05_1000_words/beaucoup/README.md).
 
 **Passé composé** — the past tense of speech: an auxiliary in the present and the past participle, *j’ai dormi* /ʒe dɔʁmi/ I slept, *je suis venu* /ʒə sɥi vəny/ I came. See [dormir](05_1000_words/dormir/README.md).
 

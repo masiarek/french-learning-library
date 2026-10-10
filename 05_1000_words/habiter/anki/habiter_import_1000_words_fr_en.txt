@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+habiter<br>/abite/	(v.) to live in a place, to inhabit	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+J'habite dans une grande maison.<br>/ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃/	I live in a big house.	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+j'habite<br>/ʒabit/	I live	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+tu habites<br>/ty abit/	you live	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+il habite, elle habite<br>/il abit, ɛl abit/	he lives, she lives	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+nous habitons<br>/nuz‿abitɔ̃/	we live	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+vous habitez<br>/vuz‿abite/	you live	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+ils habitent, elles habitent<br>/ilz‿abit, ɛlz‿abit/	they live	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+j'ai habité<br>/ʒe abite/	I lived, I have lived	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+j'habitais<br>/ʒabitɛ/	I used to live	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+j'habiterai<br>/ʒabitʁe/	I will live	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+Tu habites où ? Vous habitez où ?<br>/ty abit u, vuz‿abite u/	Where do you live?	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+habiter à Varsovie, à Paris<br>/abite a vaʁsɔvi, a paʁi/	to live in Warsaw, in Paris	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+habiter en Pologne, en France<br>/abite ɑ̃ pɔlɔɲ, ɑ̃ fʁɑ̃s/	to live in Poland, in France	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+habiter au Portugal, aux États-Unis<br>/abite o pɔʁtyɡal, oz‿etazyni/	to live in Portugal, in the United States	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+habiter dans une maison, dans un appartement<br>/abite dɑ̃z‿yn mɛzɔ̃, dɑ̃z‿œ̃n‿apaʁtəmɑ̃/	to live in a house, in a flat	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+habiter au premier étage<br>/abite o pʁəmjɛʁ‿etaʒ/	to live on the first floor	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+habiter chez ses parents<br>/abite ʃe se paʁɑ̃/	to live at one's parents'	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+habiter rue de la Paix<br>/abite ʁy də la pɛ/	to live in the rue de la Paix	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+habiter une grande maison<br>/abite yn ɡʁɑ̃d mɛzɔ̃/	to live in a big house	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+habiter à la campagne, en ville<br>/abite a la kɑ̃paɲ, ɑ̃ vil/	to live in the country, in town	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+Il habite à Paris. Il vit à Paris.<br>/il abit a paʁi, il vi a paʁi/	He lives in Paris. (both)	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+Il vit seul.<br>/il vi sœl/	He lives alone.	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+Elle a vécu dix ans en France.<br>/ɛl a veky diz‿ɑ̃ ɑ̃ fʁɑ̃s/	She lived in France for ten years.	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+loger, résider, demeurer<br>/lɔʒe, ʁezide, dəmœʁe/	to lodge, to reside, to dwell	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+un habitant, les habitants<br>/œ̃n‿abitɑ̃, lez‿abitɑ̃/	an inhabitant, the inhabitants	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+une habitation<br>/yn abitasjɔ̃/	a dwelling	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+habitable, inhabité<br>/abitabl, inabite/	fit to live in, uninhabited	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+les voisins<br>/le vwazɛ̃/	the neighbours	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+l'adresse<br>/ladʁɛs/	the address	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+déménager, emménager<br>/demenaʒe, ɑ̃menaʒe/	to move house, to move in	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+j'habite, nous habitons<br>/ʒabit, nuz‿abitɔ̃/	the h of habiter is mute: elision and liaison	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+l'homme, l'hôtel, l'heure<br>/lɔm, lotɛl, lœʁ/	mute h	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+le haut, les haricots, le héros<br>/lə o, le aʁiko, lə eʁo/	aspirated h: no elision, no liaison	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+J'habite à Varsovie, en Pologne.<br>/ʒabit a vaʁsɔvi, ɑ̃ pɔlɔɲ/	I live in Warsaw, in Poland.	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+Tu habites où ?<br>/ty abit u/	Where do you live?	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+Mes parents habitent dans une petite maison.<br>/me paʁɑ̃ abit dɑ̃z‿yn pətit mɛzɔ̃/	My parents live in a small house.	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+Nous habitons au troisième étage.<br>/nuz‿abitɔ̃ o tʁwazjɛm‿etaʒ/	We live on the third floor.	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+Elle habite chez ses parents.<br>/ɛl abit ʃe se paʁɑ̃/	She lives at her parents'.	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+Vous habitez ici depuis longtemps ?<br>/vuz‿abite isi dəpɥi lɔ̃tɑ̃/	Have you lived here long?	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+Avant, j'habitais à Cracovie.<br>/avɑ̃, ʒabitɛ a kʁakɔvi/	Before, I used to live in Kraków.	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+Ils habitent une grande maison avec un jardin.<br>/ilz‿abit yn ɡʁɑ̃d mɛzɔ̃ avɛk œ̃ ʒaʁdɛ̃/	They live in a big house with a garden.	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+Qui habite à côté ?<br>/ki abit a kote/	Who lives next door?	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+L'année prochaine, j'habiterai à Paris.<br>/lane pʁɔʃɛn, ʒabitʁe a paʁi/	Next year I will live in Paris.	french 1000words habiter fr-en	French::1000 words (FR-EN)::habiter — to live
+J'________ à Varsovie.<br>(AI exercise: the form of habiter)	/ʒ[abit] a vaʁsɔvi/<br>I live in Warsaw.	french 1000words habiter fr-en exercise	French::1000 words (FR-EN)::habiter — to live
+Nous ________ en Pologne.<br>(AI exercise: the form of habiter)	/nuz‿[abitɔ̃] ɑ̃ pɔlɔɲ/<br>We live in Poland.	french 1000words habiter fr-en exercise	French::1000 words (FR-EN)::habiter — to live
+Vous ________ où ?<br>(AI exercise: the form of habiter)	/vuz‿[abite] u/<br>Where do you live?	french 1000words habiter fr-en exercise	French::1000 words (FR-EN)::habiter — to live
+Ils ________ une petite maison.<br>(AI exercise: the form of habiter)	/ilz‿[abit] yn pətit mɛzɔ̃/<br>They live in a small house.	french 1000words habiter fr-en exercise	French::1000 words (FR-EN)::habiter — to live
+Avant, elle ________ à Paris.<br>(AI exercise: the form of habiter)	/avɑ̃, ɛl [abitɛ] a paʁi/<br>Before, she used to live in Paris.	french 1000words habiter fr-en exercise	French::1000 words (FR-EN)::habiter — to live
+J'habite ________ Varsovie.<br>(AI exercise: à, en, au, dans or chez?)	/ʒabit [a] vaʁsɔvi/<br>I live in Warsaw.	french 1000words habiter fr-en exercise	French::1000 words (FR-EN)::habiter — to live
+J'habite ________ Pologne.<br>(AI exercise: à, en, au, dans or chez?)	/ʒabit [ɑ̃] pɔlɔɲ/<br>I live in Poland.	french 1000words habiter fr-en exercise	French::1000 words (FR-EN)::habiter — to live
+J'habite ________ Portugal.<br>(AI exercise: à, en, au, dans or chez?)	/ʒabit [o] pɔʁtyɡal/<br>I live in Portugal.	french 1000words habiter fr-en exercise	French::1000 words (FR-EN)::habiter — to live
+J'habite ________ une grande maison.<br>(AI exercise: à, en, au, dans or chez?)	/ʒabit [dɑ̃z‿]yn ɡʁɑ̃d mɛzɔ̃/<br>I live in a big house.	french 1000words habiter fr-en exercise	French::1000 words (FR-EN)::habiter — to live
+J'habite ________ mes parents.<br>(AI exercise: à, en, au, dans or chez?)	/ʒabit [ʃe] me paʁɑ̃/<br>I live at my parents'.	french 1000words habiter fr-en exercise	French::1000 words (FR-EN)::habiter — to live
+Il ________ seul depuis un an.<br>(AI exercise: habiter or vivre?)	/il [vi] sœl dəpɥi œ̃n‿ɑ̃/<br>He has lived alone for a year.	french 1000words habiter fr-en exercise	French::1000 words (FR-EN)::habiter — to live
+Nous ________ au deuxième étage.<br>(AI exercise: habiter or vivre?)	/nuz‿[abitɔ̃] o døzjɛm‿etaʒ/<br>We live on the second floor.	french 1000words habiter fr-en exercise	French::1000 words (FR-EN)::habiter — to live
+Elle a ________ dix ans en France.<br>(AI exercise: habiter or vivre?)	/ɛl a [veky] diz‿ɑ̃ ɑ̃ fʁɑ̃s/<br>She lived in France for ten years.	french 1000words habiter fr-en exercise	French::1000 words (FR-EN)::habiter — to live

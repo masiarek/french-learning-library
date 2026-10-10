@@ -1,0 +1,70 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+une table<br>/yn tabl/	(n.f.) table	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+Il y a une table dans la cuisine.<br>/il j a yn tabl dɑ̃ la kɥizin/	There is a table in the kitchen.	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+je mets, tu mets, il met<br>/ʒə mɛ, ty mɛ, il mɛ/	I put, you put, he puts	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+nous mettons, vous mettez, ils mettent<br>/nu mɛtɔ̃, vu mɛte, il mɛt/	we put, you put, they put	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+j'ai mis<br>/ʒe mi/	I put, I have put	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+mets ! mettez !<br>/mɛ, mɛte/	put!	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+je me mets à table, nous nous mettons à table<br>/ʒə mə mɛ a tabl, nu nu mɛtɔ̃ a tabl/	I sit down to eat, we sit down to eat	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+À table !<br>/a tabl/	Dinner is served! Come and eat!	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+mettre la table<br>/mɛtʁ la tabl/	to lay the table	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+débarrasser la table<br>/debaʁase la tabl/	to clear the table	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+se mettre à table, passer à table<br>/sə mɛtʁ a tabl, pase a tabl/	to sit down to eat	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+être à table<br>/ɛtʁ a tabl/	to be at the table, eating	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+sortir de table<br>/sɔʁtiʁ də tabl/	to leave the table	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+une bonne table<br>/yn bɔn tabl/	a good restaurant, good cooking	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+les manières à table<br>/le manjɛʁ a tabl/	table manners	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+une table de cuisine<br>/yn tabl də kɥizin/	a kitchen table	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+une table à manger<br>/yn tabl a mɑ̃ʒe/	a dining table	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+une table basse<br>/yn tabl bas/	a coffee table	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+une table de nuit, une table de chevet<br>/yn tabl də nɥi, yn tabl də ʃəvɛ/	a bedside table	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+une table de jardin<br>/yn tabl də ʒaʁdɛ̃/	a garden table	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+une table pliante<br>/yn tabl plijɑ̃t/	a folding table	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+une table ronde, une table carrée<br>/yn tabl ʁɔ̃d, yn tabl kaʁe/	a round table, a square table	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+une table en bois, une table en verre<br>/yn tabl ɑ̃ bwa, yn tabl ɑ̃ vɛʁ/	a wooden table, a glass table	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+une nappe<br>/yn nap/	a tablecloth	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+une assiette, un verre<br>/yn asjɛt, œ̃ vɛʁ/	a plate, a glass	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+un couteau, une fourchette, une cuillère<br>/œ̃ kuto, yn fuʁʃɛt, yn kɥijɛʁ/	a knife, a fork, a spoon	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+une serviette<br>/yn sɛʁvjɛt/	a napkin	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+le sel et le poivre<br>/lə sɛl e lə pwavʁ/	the salt and the pepper	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+le pain, une bouteille d'eau<br>/lə pɛ̃, yn butɛj do/	the bread, a bottle of water	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+la table des matières<br>/la tabl de matjɛʁ/	the table of contents	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+la table de multiplication<br>/la tabl də myltiplikasjɔ̃/	the multiplication table	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+une table ronde<br>/yn tabl ʁɔ̃d/	a round-table discussion	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+faire table rase<br>/fɛʁ tabl ʁaz/	to make a clean sweep	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+un tableau<br>/œ̃ tablo/	a picture, a painting; the blackboard; a table of figures	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+Au tableau !<br>/o tablo/	Come up to the board!	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+une tablette<br>/yn tablɛt/	a shelf; a bar of chocolate; a tablet computer	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+un tablier<br>/œ̃ tablije/	an apron	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+une tablée<br>/yn table/	a tableful of people	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+la table – le sable – l'étable – le diable<br>/la tabl/ · /lə sabl/ · /letabl/ · /lə djabl/	the table – the sand – the cowshed – the devil: the same /abl/	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+la table – stable – confortable<br>/la tabl/ · /stabl/ · /kɔ̃fɔʁtabl/	the table – stable – comfortable: the adjectives in -able	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+la table – le tableau<br>/la tabl/ · /lə tablo/	one syllable, then two: the -e is silent, the -eau is /o/	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+Il y a une grande table dans la salle à manger.<br>/il j a yn ɡʁɑ̃d tabl dɑ̃ la sal a mɑ̃ʒe/	There is a big table in the dining room.	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+Mets la table, s'il te plaît, on mange dans dix minutes.<br>/mɛ la tabl, sil tə plɛ, ɔ̃ mɑ̃ʒ dɑ̃ di minyt/	Lay the table please, we are eating in ten minutes.	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+À table, les enfants !<br>/a tabl, lez‿ɑ̃fɑ̃/	Dinner is served, children!	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+Nous nous mettons à table à huit heures.<br>/nu nu mɛtɔ̃ a tabl a ɥit œʁ/	We sit down to eat at eight.	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+Les livres sont sur la table de la cuisine.<br>/le livʁ sɔ̃ syʁ la tabl də la kɥizin/	The books are on the kitchen table.	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+Le chat est sous la table.<br>/lə ʃa ɛ su la tabl/	The cat is under the table.	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+Qui débarrasse la table ce soir ?<br>/ki debaʁas la tabl sə swaʁ/	Who is clearing the table tonight?	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+Ma mère a acheté une table ronde en bois.<br>/ma mɛʁ a aʃte yn tabl ʁɔ̃d ɑ̃ bwa/	My mother bought a round wooden table.	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+Il y a quatre chaises autour de la table.<br>/il j a katʁ ʃɛz otuʁ də la tabl/	There are four chairs around the table.	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+La lampe est sur la table de nuit, à côté du lit.<br>/la lɑ̃p ɛ syʁ la tabl də nɥi, a kote dy li/	The lamp is on the bedside table, next to the bed.	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+Cherche le chapitre dans la table des matières.<br>/ʃɛʁʃ lə ʃapitʁ dɑ̃ la tabl de matjɛʁ/	Look for the chapter in the table of contents.	french 1000words table fr-en	French::1000 words (FR-EN)::une table — a table
+Je ________ la table.<br>(AI exercise: mettre, in the right form)	/ʒə [mɛ] la tabl/<br>I lay the table.	french 1000words table fr-en exercise	French::1000 words (FR-EN)::une table — a table
+Nous ________ la table pour six personnes.<br>(AI exercise: mettre, in the right form)	/nu [mɛtɔ̃] la tabl puʁ si pɛʁsɔn/<br>We lay the table for six people.	french 1000words table fr-en exercise	French::1000 words (FR-EN)::une table — a table
+Ils ________ la nappe sur la table.<br>(AI exercise: mettre, in the right form)	/il [mɛt] la nap syʁ la tabl/<br>They put the tablecloth on the table.	french 1000words table fr-en exercise	French::1000 words (FR-EN)::une table — a table
+J'ai ________ les verres sur la table.<br>(AI exercise: mettre, in the right form)	/ʒe [mi] le vɛʁ syʁ la tabl/<br>I put the glasses on the table.	french 1000words table fr-en exercise	French::1000 words (FR-EN)::une table — a table
+________ ! Le dîner est prêt.<br>(AI exercise: à table or la table?)	/[a tabl], lə dine ɛ pʁɛ/<br>Come and eat! Dinner is ready.	french 1000words table fr-en exercise	French::1000 words (FR-EN)::une table — a table
+Mets ________, s'il te plaît.<br>(AI exercise: à table or la table?)	/mɛ [la tabl], sil tə plɛ/<br>Lay the table, please.	french 1000words table fr-en exercise	French::1000 words (FR-EN)::une table — a table
+Les enfants sont déjà ________.<br>(AI exercise: à table or la table?)	/lez‿ɑ̃fɑ̃ sɔ̃ deʒa [a tabl]/<br>The children are already at the table.	french 1000words table fr-en exercise	French::1000 words (FR-EN)::une table — a table
+Le sac est sous ________.<br>(AI exercise: à table or la table?)	/lə sak ɛ su [la tabl]/<br>The bag is under the table.	french 1000words table fr-en exercise	French::1000 words (FR-EN)::une table — a table
+________ table<br>(AI exercise: un or une?)	/[yn] tabl/<br>a table	french 1000words table fr-en exercise	French::1000 words (FR-EN)::une table — a table
+________ tableau<br>(AI exercise: un or une?)	/[œ̃] tablo/<br>a picture	french 1000words table fr-en exercise	French::1000 words (FR-EN)::une table — a table
+________ nappe<br>(AI exercise: un or une?)	/[yn] nap/<br>a tablecloth	french 1000words table fr-en exercise	French::1000 words (FR-EN)::une table — a table
+________ couteau<br>(AI exercise: un or une?)	/[œ̃] kuto/<br>a knife	french 1000words table fr-en exercise	French::1000 words (FR-EN)::une table — a table

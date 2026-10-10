@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::la cuisine — the kitchen::Challenges
+#tags:french 1000words cuisine challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: There is a table in the kitchen.	Il y a une table dans la cuisine. /il j a yn tabl dɑ̃ la kɥizin/	say
+Say: My mother cooks every evening.	Ma mère fait la cuisine tous les soirs. /ma mɛʁ fɛ la kɥizin tu le swaʁ/	say
+Say: Who does the cooking at your place?	Qui fait la cuisine chez vous ? /ki fɛ la kɥizin ʃe vu/	say
+Say: I like Italian food.	J’aime la cuisine italienne. /ʒɛm la kɥizin italjɛn/	say
+Say: The chef is in the kitchen, he is making dinner.	Le chef est en cuisine, il prépare le dîner. /lə ʃɛf ɛt‿ɑ̃ kɥizin, il pʁepaʁ lə dine/	say
+cuisine against cousine	/kɥizin/ the kitchen, with the glide /ɥ/ of huit and lui; /kuzin/ the cousin, with the plain /u/	sound
+Two ways to say to cook	faire la cuisine /fɛʁ la kɥizin/, and cuisiner /kɥizine/: je cuisine, nous cuisinons /nu kɥizinɔ̃/	grammar
+dans la cuisine, à la cuisine, en cuisine	dans la cuisine /dɑ̃ la kɥizin/ inside the room; à la cuisine /a la kɥizin/ to the kitchen, at the kitchen as a workplace; en cuisine /ɑ̃ kɥizin/ in a restaurant’s kitchen	grammar
+The cook, the woman cook, the cooker	le cuisinier /lə kɥizinje/, la cuisinière /la kɥizinjɛʁ/, which is also the cooker: une cuisinière à gaz /yn kɥizinjɛʁ a ɡɑz/	words
+Oven, fridge, sink, dishwasher	le four /lə fuʁ/, le frigo /lə fʁiɡo/, l’évier /levje/, le lave-vaisselle /lə lavvɛsɛl/	words
+A saucepan, a frying pan, a stove	une casserole /yn kasʁɔl/, une poêle /yn pwal/ (feminine), un poêle /œ̃ pwal/ (masculine, for heating)	words
+Enjoy your meal!	Bon appétit ! /bɔn‿apeti/: bon loses its nasal before the vowel	sound

@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::aimer — to like, to love::Challenges
+#tags:french 1000words aimer challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: I like my house a lot.	J’aime beaucoup ma maison. /ʒɛm boku ma mɛzɔ̃/	say
+Say: I like my house because it is big.	J’aime ma maison parce qu’elle est grande. /ʒɛm ma mɛzɔ̃ paʁs kɛl ɛ ɡʁɑ̃d/	say
+Say: Do you like coffee? (to a friend)	Tu aimes le café ? /ty ɛm lə kafe/	say
+Say: I would like a coffee, please.	J’aimerais un café, s’il vous plaît. /ʒɛməʁɛ œ̃ kafe, sil vu plɛ/	say
+Say: I would like to live in Paris.	J’aimerais habiter à Paris. /ʒɛməʁɛ abite a paʁi/	say
+I love you, against I like you as a friend	je t’aime /ʒə tɛm/; je t’aime bien /ʒə tɛm bjɛ̃/: bien softens the verb with a person	grammar
+Aimer /eme/ against j’aime /ʒɛm/: why two vowels?	ai is the closed /e/ at the end of the syllable and the open /ɛ/ before a consonant that is said	sound
+I like chocolate: which article after aimer?	the definite one, always: j’aime le chocolat /ʒɛm lə ʃɔkɔla/, never du	grammar
+I like, we like, you like (plural), they like	j’aime /ʒɛm/, nous aimons /nuz‿emɔ̃/, vous aimez /vuz‿eme/, ils aiment /ilz‿ɛm/	grammar
+I will like, against I would like	j’aimerai /ʒɛməʁe/, j’aimerais /ʒɛməʁɛ/: the last vowel tells them apart	grammar
+I prefer tea, two ways	j’aime mieux le thé /ʒɛm mjø lə te/; je préfère le thé /ʒə pʁefɛʁ lə te/	words
+Love; in love; a friend	l’amour /lamuʁ/; amoureux /amuʁø/; un ami /œ̃n‿ami/	words

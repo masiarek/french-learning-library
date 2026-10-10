@@ -1,0 +1,59 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une table — a table
+#tags:french 1000words table en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(n.f.) table	une table<br>/yn tabl/	en-fr
+There is a table in the kitchen.	Il y a une table dans la cuisine.<br>/il j a yn tabl dɑ̃ la kɥizin/	en-fr
+I put, you put, he puts	je mets, tu mets, il met<br>/ʒə mɛ, ty mɛ, il mɛ/	en-fr
+we put, you put, they put	nous mettons, vous mettez, ils mettent<br>/nu mɛtɔ̃, vu mɛte, il mɛt/	en-fr
+I put, I have put	j'ai mis<br>/ʒe mi/	en-fr
+put!	mets ! mettez !<br>/mɛ, mɛte/	en-fr
+I sit down to eat, we sit down to eat	je me mets à table, nous nous mettons à table<br>/ʒə mə mɛ a tabl, nu nu mɛtɔ̃ a tabl/	en-fr
+Dinner is served! Come and eat!	À table !<br>/a tabl/	en-fr
+to lay the table	mettre la table<br>/mɛtʁ la tabl/	en-fr
+to clear the table	débarrasser la table<br>/debaʁase la tabl/	en-fr
+to sit down to eat	se mettre à table, passer à table<br>/sə mɛtʁ a tabl, pase a tabl/	en-fr
+to be at the table, eating	être à table<br>/ɛtʁ a tabl/	en-fr
+to leave the table	sortir de table<br>/sɔʁtiʁ də tabl/	en-fr
+a good restaurant, good cooking	une bonne table<br>/yn bɔn tabl/	en-fr
+table manners	les manières à table<br>/le manjɛʁ a tabl/	en-fr
+a kitchen table	une table de cuisine<br>/yn tabl də kɥizin/	en-fr
+a dining table	une table à manger<br>/yn tabl a mɑ̃ʒe/	en-fr
+a coffee table	une table basse<br>/yn tabl bas/	en-fr
+a bedside table	une table de nuit, une table de chevet<br>/yn tabl də nɥi, yn tabl də ʃəvɛ/	en-fr
+a garden table	une table de jardin<br>/yn tabl də ʒaʁdɛ̃/	en-fr
+a folding table	une table pliante<br>/yn tabl plijɑ̃t/	en-fr
+a round table, a square table	une table ronde, une table carrée<br>/yn tabl ʁɔ̃d, yn tabl kaʁe/	en-fr
+a wooden table, a glass table	une table en bois, une table en verre<br>/yn tabl ɑ̃ bwa, yn tabl ɑ̃ vɛʁ/	en-fr
+a tablecloth	une nappe<br>/yn nap/	en-fr
+a plate, a glass	une assiette, un verre<br>/yn asjɛt, œ̃ vɛʁ/	en-fr
+a knife, a fork, a spoon	un couteau, une fourchette, une cuillère<br>/œ̃ kuto, yn fuʁʃɛt, yn kɥijɛʁ/	en-fr
+a napkin	une serviette<br>/yn sɛʁvjɛt/	en-fr
+the salt and the pepper	le sel et le poivre<br>/lə sɛl e lə pwavʁ/	en-fr
+the bread, a bottle of water	le pain, une bouteille d'eau<br>/lə pɛ̃, yn butɛj do/	en-fr
+the table of contents	la table des matières<br>/la tabl de matjɛʁ/	en-fr
+the multiplication table	la table de multiplication<br>/la tabl də myltiplikasjɔ̃/	en-fr
+a round-table discussion	une table ronde<br>/yn tabl ʁɔ̃d/	en-fr
+to make a clean sweep	faire table rase<br>/fɛʁ tabl ʁaz/	en-fr
+a picture, a painting; the blackboard; a table of figures	un tableau<br>/œ̃ tablo/	en-fr
+Come up to the board!	Au tableau !<br>/o tablo/	en-fr
+a shelf; a bar of chocolate; a tablet computer	une tablette<br>/yn tablɛt/	en-fr
+an apron	un tablier<br>/œ̃ tablije/	en-fr
+a tableful of people	une tablée<br>/yn table/	en-fr
+the table – the sand – the cowshed – the devil: the same /abl/	la table – le sable – l'étable – le diable<br>/la tabl/ · /lə sabl/ · /letabl/ · /lə djabl/	en-fr
+the table – stable – comfortable: the adjectives in -able	la table – stable – confortable<br>/la tabl/ · /stabl/ · /kɔ̃fɔʁtabl/	en-fr
+one syllable, then two: the -e is silent, the -eau is /o/	la table – le tableau<br>/la tabl/ · /lə tablo/	en-fr
+There is a big table in the dining room.	Il y a une grande table dans la salle à manger.<br>/il j a yn ɡʁɑ̃d tabl dɑ̃ la sal a mɑ̃ʒe/	en-fr
+Lay the table please, we are eating in ten minutes.	Mets la table, s'il te plaît, on mange dans dix minutes.<br>/mɛ la tabl, sil tə plɛ, ɔ̃ mɑ̃ʒ dɑ̃ di minyt/	en-fr
+Dinner is served, children!	À table, les enfants !<br>/a tabl, lez‿ɑ̃fɑ̃/	en-fr
+We sit down to eat at eight.	Nous nous mettons à table à huit heures.<br>/nu nu mɛtɔ̃ a tabl a ɥit œʁ/	en-fr
+The books are on the kitchen table.	Les livres sont sur la table de la cuisine.<br>/le livʁ sɔ̃ syʁ la tabl də la kɥizin/	en-fr
+The cat is under the table.	Le chat est sous la table.<br>/lə ʃa ɛ su la tabl/	en-fr
+Who is clearing the table tonight?	Qui débarrasse la table ce soir ?<br>/ki debaʁas la tabl sə swaʁ/	en-fr
+My mother bought a round wooden table.	Ma mère a acheté une table ronde en bois.<br>/ma mɛʁ a aʃte yn tabl ʁɔ̃d ɑ̃ bwa/	en-fr
+There are four chairs around the table.	Il y a quatre chaises autour de la table.<br>/il j a katʁ ʃɛz otuʁ də la tabl/	en-fr
+The lamp is on the bedside table, next to the bed.	La lampe est sur la table de nuit, à côté du lit.<br>/la lɑ̃p ɛ syʁ la tabl də nɥi, a kote dy li/	en-fr
+Look for the chapter in the table of contents.	Cherche le chapitre dans la table des matières.<br>/ʃɛʁʃ lə ʃapitʁ dɑ̃ la tabl de matjɛʁ/	en-fr

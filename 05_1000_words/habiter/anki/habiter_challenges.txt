@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::habiter — to live::Challenges
+#tags:french 1000words habiter challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: I live in a big house with my family.	J’habite dans une grande maison avec ma famille. /ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/	say
+Say: Where do you live? (to a friend)	Tu habites où ? /ty abit u/	say
+Say: We live on the third floor.	Nous habitons au troisième étage. /nuz‿abitɔ̃ o tʁwazjɛm‿etaʒ/	say
+Say: She lives at her parents’.	Elle habite chez ses parents. /ɛl abit ʃe se paʁɑ̃/	say
+Say: Before, I used to live in Kraków.	Avant, j’habitais à Cracovie. /avɑ̃, ʒabitɛ a kʁakɔvi/	say
+Why is it j’habite and nous habitons with a /z/?	The h of habiter is mute: the word starts with a vowel, so je elides and the liaison is made: /ʒabit/, /nuz‿abitɔ̃/	sound
+I live, we live, you live (plural), they live	j’habite /ʒabit/, nous habitons /nuz‿abitɔ̃/, vous habitez /vuz‿abite/, ils habitent /ilz‿abit/	grammar
+In Warsaw, in Poland, in Portugal: the prepositions after habiter	à Varsovie /a vaʁsɔvi/, en Pologne /ɑ̃ pɔlɔɲ/, au Portugal /o pɔʁtyɡal/	grammar
+To live at one’s parents’; to live in a flat	habiter chez ses parents /abite ʃe se paʁɑ̃/; habiter dans un appartement /abite dɑ̃z‿œ̃n‿apaʁtəmɑ̃/	grammar
+Habiter against vivre	habiter is the address, il habite à Paris /il abit a paʁi/; vivre is life, il vit seul /il vi sœl/	grammar
+An inhabitant; to move house; to move in	un habitant /œ̃n‿abitɑ̃/; déménager /demenaʒe/; emménager /ɑ̃menaʒe/	words
+Which h blocks the liaison: the one of habiter or the one of haricots?	The aspirated h of haricots: les haricots /le aʁiko/, no liaison; habiter has a mute h, nous habitons /nuz‿abitɔ̃/	sound

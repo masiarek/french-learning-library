@@ -1,0 +1,77 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une voiture — a car
+#tags:french 1000words voiture en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(n.f.) car; carriage of a train	une voiture<br>/yn vwatyʁ/	en-fr
+My car is parked in front of the house.	Ma voiture est garée devant la maison.<br>/ma vwatyʁ ɛ ɡaʁe dəvɑ̃ la mɛzɔ̃/	en-fr
+I drive, you drive, he drives	je conduis, tu conduis, il conduit<br>/ʒə kɔ̃dɥi, ty kɔ̃dɥi, il kɔ̃dɥi/	en-fr
+we drive, you drive, they drive	nous conduisons, vous conduisez, ils conduisent<br>/nu kɔ̃dɥizɔ̃, vu kɔ̃dɥize, il kɔ̃dɥiz/	en-fr
+I drove all night	j'ai conduit toute la nuit<br>/ʒe kɔ̃dɥi tut la nɥi/	en-fr
+drive!	conduis ! conduisez !<br>/kɔ̃dɥi, kɔ̃dɥize/	en-fr
+the driving licence, to take one's driving test	le permis de conduire, passer son permis<br>/lə pɛʁmi də kɔ̃dɥiʁ, pase sɔ̃ pɛʁmi/	en-fr
+to drive the children to school	conduire les enfants à l'école<br>/kɔ̃dɥiʁ lez‿ɑ̃fɑ̃ a lekɔl/	en-fr
+by car, by train, by bus	en voiture, en train, en bus<br>/ɑ̃ vwatyʁ, ɑ̃ tʁɛ̃, ɑ̃ bys/	en-fr
+by plane, by underground, by taxi	en avion, en métro, en taxi<br>/ɑ̃n‿avjɔ̃, ɑ̃ metʁo, ɑ̃ taksi/	en-fr
+on foot, by bike, by motorbike	à pied, à vélo, à moto<br>/a pje, a velo, a mɔto/	en-fr
+to drive to work	aller au travail en voiture<br>/ale o tʁavaj ɑ̃ vwatyʁ/	en-fr
+All aboard!	En voiture !<br>/ɑ̃ vwatyʁ/	en-fr
+a car, cars	une voiture, des voitures<br>/yn vwatyʁ, de vwatyʁ/	en-fr
+a car, an automobile: the older word	une auto, une automobile<br>/yn oto, yn otɔmɔbil/	en-fr
+a driving school, the motorway	une auto-école, l'autoroute<br>/yn otoekɔl, lotɔʁut/	en-fr
+a vehicle: the official word	un véhicule<br>/œ̃ veikyl/	en-fr
+a car, in slang	une bagnole<br>/yn baɲɔl/	en-fr
+a lorry, a van	un camion, une camionnette<br>/œ̃ kamjɔ̃, yn kamjɔnɛt/	en-fr
+coach 12, seat 45: the railway carriage	voiture 12, place 45<br>/vwatyʁ duz, plas kaʁɑ̃t sɛ̃k/	en-fr
+a brand-new car	une voiture neuve<br>/yn vwatyʁ nœv/	en-fr
+a second-hand car	une voiture d'occasion<br>/yn vwatyʁ dɔkazjɔ̃/	en-fr
+a hire car	une voiture de location<br>/yn vwatyʁ də lɔkasjɔ̃/	en-fr
+a sports car, a racing car	une voiture de sport, une voiture de course<br>/yn vwatyʁ də spɔʁ, yn vwatyʁ də kuʁs/	en-fr
+an electric car	une voiture électrique<br>/yn vwatyʁ elɛktʁik/	en-fr
+a police car	une voiture de police<br>/yn vwatyʁ də pɔlis/	en-fr
+a company car	une voiture de fonction<br>/yn vwatyʁ də fɔ̃ksjɔ̃/	en-fr
+a small car, a big car	une petite voiture, une grosse voiture<br>/yn pətit vwatyʁ, yn ɡʁos vwatyʁ/	en-fr
+the steering wheel	le volant<br>/lə vɔlɑ̃/	en-fr
+the seat, the seatbelt	le siège, la ceinture de sécurité<br>/lə sjɛʒ, la sɛ̃tyʁ də sekyʁite/	en-fr
+the engine	le moteur<br>/lə mɔtœʁ/	en-fr
+a wheel, a tyre	une roue, un pneu<br>/yn ʁu, œ̃ pnø/	en-fr
+the boot	le coffre<br>/lə kɔfʁ/	en-fr
+the car door	la portière<br>/la pɔʁtjɛʁ/	en-fr
+the windscreen, the headlights	le pare-brise, les phares<br>/lə paʁbʁiz, le faʁ/	en-fr
+the horn	le klaxon<br>/lə klaksɔn/	en-fr
+petrol, to fill up	l'essence, faire le plein<br>/lesɑ̃s, fɛʁ lə plɛ̃/	en-fr
+the car keys	les clés de la voiture<br>/le kle də la vwatyʁ/	en-fr
+to drive a car	conduire une voiture<br>/kɔ̃dɥiʁ yn vwatyʁ/	en-fr
+to drive along, to drive fast, to do 130	rouler, rouler vite, rouler à cent trente<br>/ʁule, ʁule vit, ʁule a sɑ̃ tʁɑ̃t/	en-fr
+to start, to brake, to speed up	démarrer, freiner, accélérer<br>/demaʁe, fʁɛne, akseleʁe/	en-fr
+to park the car, to park	garer la voiture, se garer<br>/ɡaʁe la vwatyʁ, sə ɡaʁe/	en-fr
+to get into the car, to get out of the car	monter dans la voiture, descendre de la voiture<br>/mɔ̃te dɑ̃ la vwatyʁ, desɑ̃dʁ də la vwatyʁ/	en-fr
+to hire a car	louer une voiture<br>/lwe yn vwatyʁ/	en-fr
+to wash the car	laver la voiture<br>/lave la vwatyʁ/	en-fr
+to break down	tomber en panne<br>/tɔ̃be ɑ̃ pan/	en-fr
+to take the car	prendre la voiture<br>/pʁɑ̃dʁ la vwatyʁ/	en-fr
+Let's go!: a catchphrase	En voiture, Simone !<br>/ɑ̃ vwatyʁ, simɔn/	en-fr
+a parking space	une place de stationnement<br>/yn plas də stasjɔnmɑ̃/	en-fr
+no parking	stationnement interdit<br>/stasjɔnmɑ̃ ɛ̃tɛʁdi/	en-fr
+The car is at the garage.	La voiture est au garage.<br>/la vwatyʁ ɛ(t)‿o ɡaʁaʒ/	en-fr
+a car accident	un accident de voiture<br>/œ̃n‿aksidɑ̃ də vwatyʁ/	en-fr
+a traffic jam	un embouteillage<br>/œ̃n‿ɑ̃butɛjaʒ/	en-fr
+Do you have a driving licence?	Tu as le permis ?<br>/ty a lə pɛʁmi/	en-fr
+The car is in front of the house.	La voiture est devant la maison.<br>/la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃/	en-fr
+the car – the roof	la voiture – la toiture<br>/la vwatyʁ/ · /la twatyʁ/	en-fr
+the car – the valet who parks it	la voiture – le voiturier<br>/la vwatyʁ/ · /lə vwatyʁje/	en-fr
+the car – the paint – nature – the jam: the feminine nouns in -ure	la voiture – la peinture – la nature – la confiture<br>/la vwatyʁ/ · /la pɛ̃tyʁ/ · /la natyʁ/ · /la kɔ̃fityʁ/	en-fr
+the car, the wardrobe, three, me: the oi as /wa/	la voiture, l'armoire, trois, moi<br>/la vwatyʁ, laʁmwaʁ, tʁwa, mwa/	en-fr
+The car is in front of the house, not in the garage.	La voiture est devant la maison, pas dans le garage.<br>/la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃, pa dɑ̃ lə ɡaʁaʒ/	en-fr
+My father drives to work.	Mon père va au travail en voiture.<br>/mɔ̃ pɛʁ va o tʁavaj ɑ̃ vwatyʁ/	en-fr
+My mother drives a small red car.	Ma mère conduit une petite voiture rouge.<br>/ma mɛʁ kɔ̃dɥi yn pətit vwatyʁ ʁuʒ/	en-fr
+We are hiring a car for the holidays.	Nous louons une voiture pour les vacances.<br>/nu lwɔ̃ yn vwatyʁ puʁ le vakɑ̃s/	en-fr
+I can't find the car keys.	Je ne trouve pas les clés de la voiture.<br>/ʒə nə tʁuv pa le kle də la vwatyʁ/	en-fr
+The car won't start, it is too cold.	La voiture ne démarre pas, il fait trop froid.<br>/la vwatyʁ nə demaʁ pa, il fɛ tʁo fʁwa/	en-fr
+Get in the car, children!	Montez dans la voiture, les enfants !<br>/mɔ̃te dɑ̃ la vwatyʁ, lez‿ɑ̃fɑ̃/	en-fr
+There are a lot of cars in the street.	Il y a beaucoup de voitures dans la rue.<br>/il j a boku də vwatyʁ dɑ̃ la ʁy/	en-fr
+My sister is taking her driving test in June.	Ma sœur passe son permis de conduire en juin.<br>/ma sœʁ pas sɔ̃ pɛʁmi də kɔ̃dɥiʁ ɑ̃ ʒɥɛ̃/	en-fr
+We broke down on the motorway.	Nous sommes tombés en panne sur l'autoroute.<br>/nu sɔm tɔ̃be ɑ̃ pan syʁ lotɔʁut/	en-fr
+The bag is in the boot of the car.	Le sac est dans le coffre de la voiture.<br>/lə sak ɛ dɑ̃ lə kɔfʁ də la vwatyʁ/	en-fr

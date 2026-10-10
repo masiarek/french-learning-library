@@ -1,0 +1,81 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::un sac — a bag
+#tags:french 1000words sac fr-en
+#columns:Front	Back	Tags
+#tags column:3
+un sac<br>/œ̃ sak/	(n.m.) bag; sack	fr-en
+Elle met ses clés dans son sac.<br>/ɛl mɛ se kle dɑ̃ sɔ̃ sak/	She puts her keys in her bag.	fr-en
+un sac à main<br>/œ̃ sak a mɛ̃/	a handbag	fr-en
+un sac à dos<br>/œ̃ sak a do/	a rucksack	fr-en
+un sac de couchage<br>/œ̃ sak də kuʃaʒ/	a sleeping bag	fr-en
+un sac de voyage<br>/œ̃ sak də vwajaʒ/	a travel bag	fr-en
+un sac de sport<br>/œ̃ sak də spɔʁ/	a sports bag	fr-en
+un sac de courses, un sac à provisions<br>/œ̃ sak də kuʁs, œ̃ sak a pʁɔvizjɔ̃/	a shopping bag	fr-en
+un sac en plastique, un sac plastique<br>/œ̃ sak ɑ̃ plastik, œ̃ sak plastik/	a plastic bag	fr-en
+un sac en papier<br>/œ̃ sak ɑ̃ papje/	a paper bag	fr-en
+un sac en cuir<br>/œ̃ sak ɑ̃ kɥiʁ/	a leather bag	fr-en
+un sac poubelle<br>/œ̃ sak pubɛl/	a bin bag	fr-en
+un sac réutilisable<br>/œ̃ sak ʁeytilizabl/	a reusable bag	fr-en
+un sac de pommes de terre<br>/œ̃ sak də pɔm də tɛʁ/	a sack of potatoes	fr-en
+un sachet, un sachet de thé<br>/œ̃ saʃɛ, œ̃ saʃɛ də te/	a small bag, a sachet; a teabag	fr-en
+une sacoche<br>/yn sakɔʃ/	a satchel, a saddlebag	fr-en
+un cartable<br>/œ̃ kaʁtabl/	a schoolbag	fr-en
+une valise<br>/yn valiz/	a suitcase	fr-en
+un panier<br>/œ̃ panje/	a basket	fr-en
+un cabas<br>/œ̃ kaba/	a shopping bag	fr-en
+une poche<br>/yn pɔʃ/	a pocket	fr-en
+un porte-monnaie, un portefeuille<br>/œ̃ pɔʁtmɔnɛ, œ̃ pɔʁtəfœj/	a purse, a wallet	fr-en
+les clés<br>/le kle/	the keys	fr-en
+le portefeuille, le téléphone<br>/lə pɔʁtəfœj, lə telefɔn/	the wallet, the phone	fr-en
+un mouchoir<br>/œ̃ muʃwaʁ/	a handkerchief, a tissue	fr-en
+un livre, un cahier<br>/œ̃ livʁ, œ̃ kaje/	a book, a notebook	fr-en
+un parapluie<br>/œ̃ paʁaplɥi/	an umbrella	fr-en
+porter un sac<br>/pɔʁte œ̃ sak/	to carry a bag	fr-en
+prendre son sac, poser son sac<br>/pʁɑ̃dʁ sɔ̃ sak, poze sɔ̃ sak/	to take one's bag, to put one's bag down	fr-en
+ouvrir son sac, fermer son sac<br>/uvʁiʁ sɔ̃ sak, fɛʁme sɔ̃ sak/	to open one's bag, to close one's bag	fr-en
+mettre quelque chose dans son sac<br>/mɛtʁ kɛlkə ʃoz dɑ̃ sɔ̃ sak/	to put something in one's bag	fr-en
+fouiller dans son sac<br>/fuje dɑ̃ sɔ̃ sak/	to rummage in one's bag	fr-en
+oublier son sac, perdre son sac<br>/ublije sɔ̃ sak, pɛʁdʁ sɔ̃ sak/	to forget one's bag, to lose one's bag	fr-en
+retrouver son sac<br>/ʁətʁuve sɔ̃ sak/	to find one's bag again	fr-en
+faire son sac<br>/fɛʁ sɔ̃ sak/	to pack one's bag	fr-en
+vider son sac<br>/vide sɔ̃ sak/	to get it all off one's chest	fr-en
+L'affaire est dans le sac.<br>/lafɛʁ ɛ dɑ̃ lə sak/	It's in the bag.	fr-en
+mettre dans le même sac<br>/mɛtʁ dɑ̃ lə mɛm sak/	to lump together	fr-en
+avoir plus d'un tour dans son sac<br>/avwaʁ plys dœ̃ tuʁ dɑ̃ sɔ̃ sak/	to have more than one trick up one's sleeve	fr-en
+prendre quelqu'un la main dans le sac<br>/pʁɑ̃dʁ kɛlkœ̃ la mɛ̃ dɑ̃ lə sak/	to catch someone red-handed	fr-en
+un sac d'os<br>/œ̃ sak do/	a bag of bones	fr-en
+un sac de nœuds<br>/œ̃ sak də nø/	a tangle, a mess	fr-en
+faire les courses<br>/fɛʁ le kuʁs/	to do the shopping	fr-en
+Vous voulez un sac ?<br>/vu vule œ̃ sak/	Do you want a bag?	fr-en
+Mon sac est lourd.<br>/mɔ̃ sak ɛ luʁ/	My bag is heavy.	fr-en
+Le sac est sous la table.<br>/lə sak ɛ su la tabl/	The bag is under the table.	fr-en
+un sac – sec<br>/œ̃ sak/ · /sɛk/	a bag – dry: the vowel alone differs	fr-en
+le sac, le lac, le parc, avec, le bec<br>/lə sak, lə lak, lə paʁk, avɛk, lə bɛk/	the bag, the lake, the park, with, the beak: the c is said	fr-en
+blanc, le banc, franc, le tronc<br>/blɑ̃, lə bɑ̃, fʁɑ̃, lə tʁɔ̃/	white, the bench, frank, the trunk: silent after a nasal vowel	fr-en
+le tabac, l'estomac, le porc<br>/lə taba, lɛstɔma, lə pɔʁ/	the tobacco, the stomach, the pork: the exceptions	fr-en
+Le sac est sous la table, pas sur la chaise.<br>/lə sak ɛ su la tabl, pa syʁ la ʃɛz/	The bag is under the table, not on the chair.	fr-en
+J'ai oublié mon sac à la maison.<br>/ʒe ublije mɔ̃ sak a la mɛzɔ̃/	I left my bag at home.	fr-en
+Ma mère porte un grand sac à main.<br>/ma mɛʁ pɔʁt œ̃ ɡʁɑ̃ sak a mɛ̃/	My mother carries a big handbag.	fr-en
+Les enfants ont un sac à dos pour l'école.<br>/lez‿ɑ̃fɑ̃ ɔ̃t‿œ̃ sak a do puʁ lekɔl/	The children have a rucksack for school.	fr-en
+Vous voulez un sac ? Non merci, j'ai mon sac.<br>/vu vule œ̃ sak/ · /nɔ̃ mɛʁsi, ʒe mɔ̃ sak/	Do you want a bag? No thank you, I have my bag.	fr-en
+Ce sac est trop lourd pour moi.<br>/sə sak ɛ tʁo luʁ puʁ mwa/	This bag is too heavy for me.	fr-en
+Il y a un livre et des clés dans le sac.<br>/il j a œ̃ livʁ e de kle dɑ̃ lə sak/	There is a book and some keys in the bag.	fr-en
+Nous dormons dans des sacs de couchage.<br>/nu dɔʁmɔ̃ dɑ̃ de sak də kuʃaʒ/	We sleep in sleeping bags.	fr-en
+Pose ton sac et assieds-toi.<br>/poz tɔ̃ sak e asjetwa/	Put your bag down and sit down.	fr-en
+Je cherche mon sac. Il est derrière la porte.<br>/ʒə ʃɛʁʃ mɔ̃ sak/ · /il ɛ dɛʁjɛʁ la pɔʁt/	I am looking for my bag. It is behind the door.	fr-en
+Le sac poubelle est plein.<br>/lə sak pubɛl ɛ plɛ̃/	The bin bag is full.	fr-en
+Elle a vidé son sac sur la table.<br>/ɛl a vide sɔ̃ sak syʁ la tabl/	She emptied her bag onto the table.	fr-en
+Le sac est ________ la table.<br>(AI exercise: sous, sur, dans, derrière …?)	/lə sak ɛ [su] la tabl/<br>The bag is under the table.	exercise
+Les clés sont ________ le sac.<br>(AI exercise: sous, sur, dans, derrière …?)	/le kle sɔ̃ [dɑ̃] lə sak/<br>The keys are in the bag.	exercise
+Le sac est ________ la chaise.<br>(AI exercise: sous, sur, dans, derrière …?)	/lə sak ɛ [syʁ] la ʃɛz/<br>The bag is on the chair.	exercise
+Mon sac est ________ la porte.<br>(AI exercise: sous, sur, dans, derrière …?)	/mɔ̃ sak ɛ [dɛʁjɛʁ] la pɔʁt/<br>My bag is behind the door.	exercise
+Pour dormir sous la tente, un sac ________.<br>(AI exercise: à main, à dos, de couchage, poubelle?)	/puʁ dɔʁmiʁ su la tɑ̃t, œ̃ sak [də kuʃaʒ]/<br>For sleeping in a tent, a sleeping bag.	exercise
+Pour l'école, un sac ________.<br>(AI exercise: à main, à dos, de couchage, poubelle?)	/puʁ lekɔl, œ̃ sak [a do]/<br>For school, a rucksack.	exercise
+Pour les ordures, un sac ________.<br>(AI exercise: à main, à dos, de couchage, poubelle?)	/puʁ lez‿ɔʁdyʁ, œ̃ sak [pubɛl]/<br>For the rubbish, a bin bag.	exercise
+Ma mère a un sac ________ en cuir.<br>(AI exercise: à main, à dos, de couchage, poubelle?)	/ma mɛʁ a œ̃ sak [a mɛ̃] ɑ̃ kɥiʁ/<br>My mother has a leather handbag.	exercise
+________ sac<br>(AI exercise: un or une?)	/[œ̃] sak/<br>a bag	exercise
+________ valise<br>(AI exercise: un or une?)	/[yn] valiz/<br>a suitcase	exercise
+________ cartable<br>(AI exercise: un or une?)	/[œ̃] kaʁtabl/<br>a schoolbag	exercise
+________ poche<br>(AI exercise: un or une?)	/[yn] pɔʃ/<br>a pocket	exercise

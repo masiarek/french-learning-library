@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une salle de bains — a bathroom::Challenges
+#tags:french 1000words salledebains challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: There are two bathrooms in the house.	Il y a deux salles de bains dans la maison. /il j a dø sal də bɛ̃ dɑ̃ la mɛzɔ̃/	say
+Say: The bathroom is next to the bedroom.	La salle de bains est à côté de la chambre. /la sal də bɛ̃ ɛ(t)‿a kote də la ʃɑ̃bʁ/	say
+Say: Where is the toilet, please?	Où sont les toilettes, s’il vous plaît ? /u sɔ̃ le twalɛt, sil vu plɛ/	say
+Say: I wash my hands in the bathroom.	Je me lave les mains dans la salle de bains. /ʒə mə lav le mɛ̃ dɑ̃ la sal də bɛ̃/	say
+Say: Wash your hands before eating! (to a child)	Lave-toi les mains avant de manger ! /lav twa le mɛ̃ avɑ̃ də mɑ̃ʒe/	say
+Say: The bathroom is taken!	La salle de bains est occupée ! /la sal də bɛ̃ ɛ(t)‿ɔkype/	say
+How is bains said, and what sounds like it?	/bɛ̃/, the nasal of pain, main, fin, with a silent s; salle /sal/ sounds like sale, dirty	sound
+Bathroom or toilet: which is a room of its own in a French flat, and in what number?	les toilettes /le twalɛt/, always plural; la salle de bains /la sal də bɛ̃/ has the bath, the shower and the washbasin	words
+I wash my hands: article or possessive?	The article: je me lave les mains /ʒə mə lav le mɛ̃/	grammar
+I washed, she washed, she washed her hands	je me suis lavé /ʒə mə sɥi lave/, elle s’est lavée /ɛl sɛ lave/, elle s’est lavé les mains /ɛl sɛ lave le mɛ̃/	grammar
+To have a shower, to have a bath, to brush one’s teeth	prendre une douche /pʁɑ̃dʁ yn duʃ/, prendre un bain /pʁɑ̃dʁ œ̃ bɛ̃/, se brosser les dents /sə bʁɔse le dɑ̃/	words
+A bath, a washbasin, a towel, a tap	une baignoire /yn bɛɲwaʁ/, un lavabo /œ̃ lavabo/, une serviette /yn sɛʁvjɛt/, un robinet /œ̃ ʁɔbinɛ/	words

@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::un livre — a book::Challenges
+#tags:french 1000words livre challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: There are books on the desk.	Il y a des livres sur le bureau. /il j a de livʁ syʁ lə byʁo/	say
+Say: I read a book in bed before sleeping.	Je lis un livre au lit avant de dormir. /ʒə li œ̃ livʁ o li avɑ̃ də dɔʁmiʁ/	say
+Say: I borrowed three books from the library.	J’ai emprunté trois livres à la bibliothèque. /ʒe ɑ̃pʁœ̃te tʁwa livʁ a la biblijɔtɛk/	say
+Say: Can you lend me this book?	Tu peux me prêter ce livre ? /ty pø mə pʁɛte sə livʁ/	say
+Say: I would like a pound of butter, please.	Je voudrais une livre de beurre, s’il vous plaît. /ʒə vudʁɛ yn livʁ də bœʁ, sil vu plɛ/	say
+How many syllables in livre?	one, /livʁ/: the -e is silent and the word ends on /vʁ/, as vivre and cuivre; not two as in English liver	sound
+le livre, la livre, il livre	the book, the pound, he delivers: one sound /livʁ/; the article or the pronoun tells them apart	grammar
+Librairie or bibliothèque?	une librairie /yn libʁɛʁi/ is a bookshop, where books are bought; une bibliothèque /yn biblijɔtɛk/ a library, where they are borrowed, and a bookcase	words
+I read, we read, they read, I have read	je lis /ʒə li/, nous lisons /nu lizɔ̃/, ils lisent /il liz/, j’ai lu /ʒe ly/	grammar
+A paperback, a cookbook, a comic book	un livre de poche /œ̃ livʁ də pɔʃ/, un livre de cuisine /œ̃ livʁ də kɥizin/, une bande dessinée /yn bɑ̃d desine/	words
+To borrow, to lend, to give back a book	emprunter /ɑ̃pʁœ̃te/, prêter /pʁɛte/, rendre /ʁɑ̃dʁ/ un livre	words
+A bookworm; to talk like a book	un rat de bibliothèque /œ̃ ʁa də biblijɔtɛk/; parler comme un livre /paʁle kɔm œ̃ livʁ/	words

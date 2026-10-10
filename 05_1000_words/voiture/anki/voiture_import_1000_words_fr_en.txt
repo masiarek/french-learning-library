@@ -1,0 +1,88 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+une voiture<br>/yn vwatyʁ/	(n.f.) car; carriage of a train	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+Ma voiture est garée devant la maison.<br>/ma vwatyʁ ɛ ɡaʁe dəvɑ̃ la mɛzɔ̃/	My car is parked in front of the house.	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+je conduis, tu conduis, il conduit<br>/ʒə kɔ̃dɥi, ty kɔ̃dɥi, il kɔ̃dɥi/	I drive, you drive, he drives	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+nous conduisons, vous conduisez, ils conduisent<br>/nu kɔ̃dɥizɔ̃, vu kɔ̃dɥize, il kɔ̃dɥiz/	we drive, you drive, they drive	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+j'ai conduit toute la nuit<br>/ʒe kɔ̃dɥi tut la nɥi/	I drove all night	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+conduis ! conduisez !<br>/kɔ̃dɥi, kɔ̃dɥize/	drive!	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+le permis de conduire, passer son permis<br>/lə pɛʁmi də kɔ̃dɥiʁ, pase sɔ̃ pɛʁmi/	the driving licence, to take one's driving test	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+conduire les enfants à l'école<br>/kɔ̃dɥiʁ lez‿ɑ̃fɑ̃ a lekɔl/	to drive the children to school	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+en voiture, en train, en bus<br>/ɑ̃ vwatyʁ, ɑ̃ tʁɛ̃, ɑ̃ bys/	by car, by train, by bus	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+en avion, en métro, en taxi<br>/ɑ̃n‿avjɔ̃, ɑ̃ metʁo, ɑ̃ taksi/	by plane, by underground, by taxi	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+à pied, à vélo, à moto<br>/a pje, a velo, a mɔto/	on foot, by bike, by motorbike	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+aller au travail en voiture<br>/ale o tʁavaj ɑ̃ vwatyʁ/	to drive to work	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+En voiture !<br>/ɑ̃ vwatyʁ/	All aboard!	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+une voiture, des voitures<br>/yn vwatyʁ, de vwatyʁ/	a car, cars	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+une auto, une automobile<br>/yn oto, yn otɔmɔbil/	a car, an automobile: the older word	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+une auto-école, l'autoroute<br>/yn otoekɔl, lotɔʁut/	a driving school, the motorway	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+un véhicule<br>/œ̃ veikyl/	a vehicle: the official word	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+une bagnole<br>/yn baɲɔl/	a car, in slang	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+un camion, une camionnette<br>/œ̃ kamjɔ̃, yn kamjɔnɛt/	a lorry, a van	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+voiture 12, place 45<br>/vwatyʁ duz, plas kaʁɑ̃t sɛ̃k/	coach 12, seat 45: the railway carriage	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+une voiture neuve<br>/yn vwatyʁ nœv/	a brand-new car	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+une voiture d'occasion<br>/yn vwatyʁ dɔkazjɔ̃/	a second-hand car	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+une voiture de location<br>/yn vwatyʁ də lɔkasjɔ̃/	a hire car	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+une voiture de sport, une voiture de course<br>/yn vwatyʁ də spɔʁ, yn vwatyʁ də kuʁs/	a sports car, a racing car	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+une voiture électrique<br>/yn vwatyʁ elɛktʁik/	an electric car	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+une voiture de police<br>/yn vwatyʁ də pɔlis/	a police car	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+une voiture de fonction<br>/yn vwatyʁ də fɔ̃ksjɔ̃/	a company car	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+une petite voiture, une grosse voiture<br>/yn pətit vwatyʁ, yn ɡʁos vwatyʁ/	a small car, a big car	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+le volant<br>/lə vɔlɑ̃/	the steering wheel	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+le siège, la ceinture de sécurité<br>/lə sjɛʒ, la sɛ̃tyʁ də sekyʁite/	the seat, the seatbelt	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+le moteur<br>/lə mɔtœʁ/	the engine	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+une roue, un pneu<br>/yn ʁu, œ̃ pnø/	a wheel, a tyre	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+le coffre<br>/lə kɔfʁ/	the boot	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+la portière<br>/la pɔʁtjɛʁ/	the car door	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+le pare-brise, les phares<br>/lə paʁbʁiz, le faʁ/	the windscreen, the headlights	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+le klaxon<br>/lə klaksɔn/	the horn	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+l'essence, faire le plein<br>/lesɑ̃s, fɛʁ lə plɛ̃/	petrol, to fill up	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+les clés de la voiture<br>/le kle də la vwatyʁ/	the car keys	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+conduire une voiture<br>/kɔ̃dɥiʁ yn vwatyʁ/	to drive a car	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+rouler, rouler vite, rouler à cent trente<br>/ʁule, ʁule vit, ʁule a sɑ̃ tʁɑ̃t/	to drive along, to drive fast, to do 130	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+démarrer, freiner, accélérer<br>/demaʁe, fʁɛne, akseleʁe/	to start, to brake, to speed up	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+garer la voiture, se garer<br>/ɡaʁe la vwatyʁ, sə ɡaʁe/	to park the car, to park	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+monter dans la voiture, descendre de la voiture<br>/mɔ̃te dɑ̃ la vwatyʁ, desɑ̃dʁ də la vwatyʁ/	to get into the car, to get out of the car	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+louer une voiture<br>/lwe yn vwatyʁ/	to hire a car	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+laver la voiture<br>/lave la vwatyʁ/	to wash the car	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+tomber en panne<br>/tɔ̃be ɑ̃ pan/	to break down	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+prendre la voiture<br>/pʁɑ̃dʁ la vwatyʁ/	to take the car	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+En voiture, Simone !<br>/ɑ̃ vwatyʁ, simɔn/	Let's go!: a catchphrase	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+une place de stationnement<br>/yn plas də stasjɔnmɑ̃/	a parking space	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+stationnement interdit<br>/stasjɔnmɑ̃ ɛ̃tɛʁdi/	no parking	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+La voiture est au garage.<br>/la vwatyʁ ɛ(t)‿o ɡaʁaʒ/	The car is at the garage.	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+un accident de voiture<br>/œ̃n‿aksidɑ̃ də vwatyʁ/	a car accident	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+un embouteillage<br>/œ̃n‿ɑ̃butɛjaʒ/	a traffic jam	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+Tu as le permis ?<br>/ty a lə pɛʁmi/	Do you have a driving licence?	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+La voiture est devant la maison.<br>/la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃/	The car is in front of the house.	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+la voiture – la toiture<br>/la vwatyʁ/ · /la twatyʁ/	the car – the roof	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+la voiture – le voiturier<br>/la vwatyʁ/ · /lə vwatyʁje/	the car – the valet who parks it	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+la voiture – la peinture – la nature – la confiture<br>/la vwatyʁ/ · /la pɛ̃tyʁ/ · /la natyʁ/ · /la kɔ̃fityʁ/	the car – the paint – nature – the jam: the feminine nouns in -ure	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+la voiture, l'armoire, trois, moi<br>/la vwatyʁ, laʁmwaʁ, tʁwa, mwa/	the car, the wardrobe, three, me: the oi as /wa/	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+La voiture est devant la maison, pas dans le garage.<br>/la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃, pa dɑ̃ lə ɡaʁaʒ/	The car is in front of the house, not in the garage.	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+Mon père va au travail en voiture.<br>/mɔ̃ pɛʁ va o tʁavaj ɑ̃ vwatyʁ/	My father drives to work.	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+Ma mère conduit une petite voiture rouge.<br>/ma mɛʁ kɔ̃dɥi yn pətit vwatyʁ ʁuʒ/	My mother drives a small red car.	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+Nous louons une voiture pour les vacances.<br>/nu lwɔ̃ yn vwatyʁ puʁ le vakɑ̃s/	We are hiring a car for the holidays.	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+Je ne trouve pas les clés de la voiture.<br>/ʒə nə tʁuv pa le kle də la vwatyʁ/	I can't find the car keys.	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+La voiture ne démarre pas, il fait trop froid.<br>/la vwatyʁ nə demaʁ pa, il fɛ tʁo fʁwa/	The car won't start, it is too cold.	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+Montez dans la voiture, les enfants !<br>/mɔ̃te dɑ̃ la vwatyʁ, lez‿ɑ̃fɑ̃/	Get in the car, children!	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+Il y a beaucoup de voitures dans la rue.<br>/il j a boku də vwatyʁ dɑ̃ la ʁy/	There are a lot of cars in the street.	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+Ma sœur passe son permis de conduire en juin.<br>/ma sœʁ pas sɔ̃ pɛʁmi də kɔ̃dɥiʁ ɑ̃ ʒɥɛ̃/	My sister is taking her driving test in June.	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+Nous sommes tombés en panne sur l'autoroute.<br>/nu sɔm tɔ̃be ɑ̃ pan syʁ lotɔʁut/	We broke down on the motorway.	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+Le sac est dans le coffre de la voiture.<br>/lə sak ɛ dɑ̃ lə kɔfʁ də la vwatyʁ/	The bag is in the boot of the car.	french 1000words voiture fr-en	French::1000 words (FR-EN)::une voiture — a car
+Je vais au travail ________ voiture.<br>(AI exercise: en or à?)	/ʒə vɛ o tʁavaj [ɑ̃] vwatyʁ/<br>I drive to work.	french 1000words voiture fr-en exercise	French::1000 words (FR-EN)::une voiture — a car
+Il va à l'école ________ pied.<br>(AI exercise: en or à?)	/il va a lekɔl [a] pje/<br>He walks to school.	french 1000words voiture fr-en exercise	French::1000 words (FR-EN)::une voiture — a car
+Nous allons à Paris ________ train.<br>(AI exercise: en or à?)	/nuz‿alɔ̃ a paʁi [ɑ̃] tʁɛ̃/<br>We are going to Paris by train.	french 1000words voiture fr-en exercise	French::1000 words (FR-EN)::une voiture — a car
+Elle va au marché ________ vélo.<br>(AI exercise: en or à?)	/ɛl va o maʁʃe [a] velo/<br>She cycles to the market.	french 1000words voiture fr-en exercise	French::1000 words (FR-EN)::une voiture — a car
+Je ________ une petite voiture.<br>(AI exercise: conduire, in the right form)	/ʒə [kɔ̃dɥi] yn pətit vwatyʁ/<br>I drive a small car.	french 1000words voiture fr-en exercise	French::1000 words (FR-EN)::une voiture — a car
+Nous ________ lentement.<br>(AI exercise: conduire, in the right form)	/nu [kɔ̃dɥizɔ̃] lɑ̃tmɑ̃/<br>We drive slowly.	french 1000words voiture fr-en exercise	French::1000 words (FR-EN)::une voiture — a car
+Mon père ________ bien.<br>(AI exercise: conduire, in the right form)	/mɔ̃ pɛʁ [kɔ̃dɥi] bjɛ̃/<br>My father drives well.	french 1000words voiture fr-en exercise	French::1000 words (FR-EN)::une voiture — a car
+Ils ________ une voiture de location.<br>(AI exercise: conduire, in the right form)	/il [kɔ̃dɥiz] yn vwatyʁ də lɔkasjɔ̃/<br>They are driving a hire car.	french 1000words voiture fr-en exercise	French::1000 words (FR-EN)::une voiture — a car
+________ voiture<br>(AI exercise: un or une?)	/[yn] vwatyʁ/<br>a car	french 1000words voiture fr-en exercise	French::1000 words (FR-EN)::une voiture — a car
+________ camion<br>(AI exercise: un or une?)	/[œ̃] kamjɔ̃/<br>a lorry	french 1000words voiture fr-en exercise	French::1000 words (FR-EN)::une voiture — a car
+________ vélo<br>(AI exercise: un or une?)	/[œ̃] velo/<br>a bike	french 1000words voiture fr-en exercise	French::1000 words (FR-EN)::une voiture — a car
+________ moto<br>(AI exercise: un or une?)	/[yn] mɔto/<br>a motorbike	french 1000words voiture fr-en exercise	French::1000 words (FR-EN)::une voiture — a car

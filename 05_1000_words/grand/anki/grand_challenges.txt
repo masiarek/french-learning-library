@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::grand — big, tall::Challenges
+#tags:french 1000words grand challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: I live in a big house with my family.	J’habite dans une grande maison avec ma famille. /ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/	say
+Say: There is a big tree in front of the house.	Il y a un grand arbre devant la maison. /il j a œ̃ ɡʁɑ̃t‿aʁbʁ dəvɑ̃ la mɛzɔ̃/	say
+Say: My sister is taller than me.	Ma sœur est plus grande que moi. /ma sœʁ ɛ ply ɡʁɑ̃d kə mwa/	say
+Say: Paris is the biggest city in France.	Paris est la plus grande ville de France. /paʁi ɛ la ply ɡʁɑ̃d vil də fʁɑ̃s/	say
+Say: There is not much in the wardrobe.	Il n’y a pas grand-chose dans l’armoire. /il nj a pa ɡʁɑ̃ʃoz dɑ̃ laʁmwaʁ/	say
+The four forms of grand, with IPA	grand /ɡʁɑ̃/, grande /ɡʁɑ̃d/, grands /ɡʁɑ̃/, grandes /ɡʁɑ̃d/: the feminine -e makes the d sound, the plural -s is silent	grammar
+A tall man and a great man: which word order?	un homme grand /œ̃n‿ɔm ɡʁɑ̃/ is tall; un grand homme /œ̃ ɡʁɑ̃t‿ɔm/ is great	grammar
+What happens to the d of grand before a vowel?	It is said as a /t/: un grand homme /œ̃ ɡʁɑ̃t‿ɔm/, un grand arbre /œ̃ ɡʁɑ̃t‿aʁbʁ/; in the plural the s gives /z/: de grands arbres /də ɡʁɑ̃z‿aʁbʁ/	sound
+Big houses: why de and not des?	Before a plural adjective that precedes its noun, careful French writes de: de grandes maisons /də ɡʁɑ̃d mɛzɔ̃/; after the noun des stays: des maisons confortables /de mɛzɔ̃ kɔ̃fɔʁtabl/	grammar
+A grown-up, the summer holidays, a double bed, in French	une grande personne /yn ɡʁɑ̃d pɛʁsɔn/, les grandes vacances /le ɡʁɑ̃d vakɑ̃s/, un grand lit /œ̃ ɡʁɑ̃ li/	words
+To grow up, to enlarge, greatness, in French	grandir /ɡʁɑ̃diʁ/, agrandir /aɡʁɑ̃diʁ/, la grandeur /la ɡʁɑ̃dœʁ/	words
+Read aloud, then check: un grand lit, une grande ville, un grand appartement	/œ̃ ɡʁɑ̃ li/, /yn ɡʁɑ̃d vil/, /œ̃ ɡʁɑ̃t‿apaʁtəmɑ̃/	sound

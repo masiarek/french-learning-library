@@ -1,0 +1,54 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+parce que<br>/paʁs kə/	(conj.) because	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+J'aime ma maison parce qu'elle est grande.<br>/ʒɛm ma mɛzɔ̃ paʁs kɛl ɛ ɡʁɑ̃d/	I like my house because it is big.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Pourquoi tu restes au lit ? Parce que je suis malade.<br>/puʁkwa ty ʁɛst o li, paʁs kə ʒə sɥi malad/	Why are you staying in bed? Because I am ill.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Pourquoi est-ce que tu ris ? Parce que c'est drôle.<br>/puʁkwa ɛs kə ty ʁi, paʁs kə sɛ dʁol/	Why are you laughing? Because it is funny.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Pourquoi aime-t-il sa maison ? Parce qu'il peut jouer.<br>/puʁkwa ɛmtil sa mɛzɔ̃, paʁs kil pø ʒwe/	Why does he like his house? Because he can play.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Pourquoi ? Parce que !<br>/puʁkwa, paʁs kə/	Why? Because!	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+parce qu'il<br>/paʁs kil/	because he	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+parce qu'elle<br>/paʁs kɛl/	because she	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+parce qu'on<br>/paʁs kɔ̃/	because one, because we	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+parce qu'ils, parce qu'elles<br>/paʁs kil, paʁs kɛl/	because they	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+parce que je, parce que tu, parce que nous<br>/paʁs kə ʒə, paʁs kə ty, paʁs kə nu/	because I, because you, because we	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Je suis en retard parce que le train est en panne.<br>/ʒə sɥi ɑ̃ ʁətaʁ paʁs kə lə tʁɛ̃ ɛ(t)‿ɑ̃ pan/	I am late because the train has broken down.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Je suis en retard à cause du train.<br>/ʒə sɥi ɑ̃ ʁətaʁ a koz dy tʁɛ̃/	I am late because of the train.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Je suis à l'heure grâce à toi.<br>/ʒə sɥi a lœʁ ɡʁas a twa/	I am on time thanks to you.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+à cause de la pluie, à cause du bruit<br>/a koz də la plɥi, a koz dy bʁɥi/	because of the rain, because of the noise	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+grâce aux voisins<br>/ɡʁas o vwazɛ̃/	thanks to the neighbours	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+car<br>/kaʁ/	for, because (in writing)	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+puisque<br>/pɥisk/	since, as you know	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Puisque tu es là, aide-moi.<br>/pɥisk ty ɛ la, ɛdmwa/	Since you are here, help me.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+comme<br>/kɔm/	as, since (at the start)	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Comme il pleut, je reste à la maison.<br>/kɔm il plø, ʒə ʁɛst a la mɛzɔ̃/	As it is raining, I am staying at home.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+donc, alors<br>/dɔ̃k, alɔʁ/	so, therefore	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Il pleut, donc je reste.<br>/il plø, dɔ̃k ʒə ʁɛst/	It is raining, so I am staying.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+pour apprendre<br>/puʁ apʁɑ̃dʁ/	in order to learn: the purpose, not the cause	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+C'est parce que …<br>/sɛ paʁs kə/	It is because …	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Ce n'est pas parce qu'il est grand qu'il est fort.<br>/sə nɛ pa paʁs kil ɛ ɡʁɑ̃ kil ɛ fɔʁ/	Being tall does not make him strong.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+juste parce que<br>/ʒyst paʁs kə/	just because	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+surtout parce que<br>/syʁtu paʁs kə/	above all because	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+C'est pour ça que …<br>/sɛ puʁ sa kə/	That is why …	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+J'aime ma maison parce qu'elle est grande et confortable.<br>/ʒɛm ma mɛzɔ̃ paʁs kɛl ɛ ɡʁɑ̃d e kɔ̃fɔʁtabl/	I like my house because it is big and comfortable.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+J'aime ma chambre parce que je peux lire au lit.<br>/ʒɛm ma ʃɑ̃bʁ paʁs kə ʒə pø liʁ o li/	I like my bedroom because I can read in bed.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Je reste à la maison parce qu'il pleut.<br>/ʒə ʁɛst a la mɛzɔ̃ paʁs kil plø/	I am staying at home because it is raining.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Il dort parce qu'il est fatigué.<br>/il dɔʁ paʁs kil ɛ fatiɡe/	He is sleeping because he is tired.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Nous apprenons le français parce que nous aimons la France.<br>/nuz‿apʁənɔ̃ lə fʁɑ̃sɛ paʁs kə nuz‿emɔ̃ la fʁɑ̃s/	We are learning French because we love France.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Pourquoi tu ne viens pas ? Parce que je n'ai pas le temps.<br>/puʁkwa ty nə vjɛ̃ pa, paʁs kə ʒə ne pa lə tɑ̃/	Why aren't you coming? Because I don't have time.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Le jardin est beau parce qu'il y a beaucoup de fleurs.<br>/lə ʒaʁdɛ̃ ɛ bo paʁs kil j a boku də flœʁ/	The garden is beautiful because there are a lot of flowers.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Elle est en retard à cause de la neige, pas parce qu'elle est paresseuse.<br>/ɛl ɛ(t)‿ɑ̃ ʁətaʁ a koz də la nɛʒ, pa paʁs kɛl ɛ paʁɛsøz/	She is late because of the snow, not because she is lazy.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+C'est parce que tu lis beaucoup que tu parles bien.<br>/sɛ paʁs kə ty li boku kə ty paʁl bjɛ̃/	It is because you read a lot that you speak well.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Pourquoi ? Parce que c'est comme ça.<br>/puʁkwa, paʁs kə sɛ kɔm sa/	Why? Because that's how it is.	french 1000words parceque fr-en	French::1000 words (FR-EN)::parce que — because
+Je reste ________ il pleut.<br>(AI exercise: parce que or parce qu'?)	/ʒə ʁɛst [paʁs k]il plø/<br>I am staying because it is raining.	french 1000words parceque fr-en exercise	French::1000 words (FR-EN)::parce que — because
+Je reste ________ je suis fatigué.<br>(AI exercise: parce que or parce qu'?)	/ʒə ʁɛst [paʁs kə] ʒə sɥi fatiɡe/<br>I am staying because I am tired.	french 1000words parceque fr-en exercise	French::1000 words (FR-EN)::parce que — because
+Elle rit ________ on est drôles.<br>(AI exercise: parce que or parce qu'?)	/ɛl ʁi [paʁs k]ɔ̃n‿ɛ dʁol/<br>She is laughing because we are funny.	french 1000words parceque fr-en exercise	French::1000 words (FR-EN)::parce que — because
+Je suis en retard ________ la pluie.<br>(AI exercise: parce que, à cause de or grâce à?)	/ʒə sɥi ɑ̃ ʁətaʁ [a koz də] la plɥi/<br>I am late because of the rain.	french 1000words parceque fr-en exercise	French::1000 words (FR-EN)::parce que — because
+Je suis en retard ________ il pleut.<br>(AI exercise: parce que, à cause de or grâce à?)	/ʒə sɥi ɑ̃ ʁətaʁ [paʁs k]il plø/<br>I am late because it is raining.	french 1000words parceque fr-en exercise	French::1000 words (FR-EN)::parce que — because
+J'ai réussi ________ mon professeur.<br>(AI exercise: parce que, à cause de or grâce à?)	/ʒe ʁeysi [ɡʁas a] mɔ̃ pʁɔfɛsœʁ/<br>I passed thanks to my teacher.	french 1000words parceque fr-en exercise	French::1000 words (FR-EN)::parce que — because
+________ tu restes au lit ? ________ je suis malade.<br>(AI exercise: pourquoi or parce que?)	/[puʁkwa] ty ʁɛst o li, [paʁs kə] ʒə sɥi malad/<br>Why are you staying in bed? Because I am ill.	french 1000words parceque fr-en exercise	French::1000 words (FR-EN)::parce que — because
+________ aimes-tu ta maison ?<br>(AI exercise: pourquoi or parce que?)	/[puʁkwa] ɛmty ta mɛzɔ̃/<br>Why do you like your house?	french 1000words parceque fr-en exercise	French::1000 words (FR-EN)::parce que — because
+J'aime ma maison ________ elle est jolie.<br>(AI exercise: pourquoi or parce que?)	/ʒɛm ma mɛzɔ̃ [paʁs k]ɛl ɛ ʒɔli/<br>I like my house because it is pretty.	french 1000words parceque fr-en exercise	French::1000 words (FR-EN)::parce que — because

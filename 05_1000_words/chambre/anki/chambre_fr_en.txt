@@ -1,0 +1,77 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::une chambre — a bedroom
+#tags:french 1000words chambre fr-en
+#columns:Front	Back	Tags
+#tags column:3
+une chambre<br>/yn ʃɑ̃bʁ/	(n.f.) bedroom, room	fr-en
+Il y a trois chambres dans la maison.<br>/il j a tʁwa ʃɑ̃bʁ dɑ̃ la mɛzɔ̃/	There are three bedrooms in the house.	fr-en
+une chambre à coucher<br>/yn ʃɑ̃bʁ a kuʃe/	a bedroom	fr-en
+une chambre d'enfant<br>/yn ʃɑ̃bʁ dɑ̃fɑ̃/	a child's room	fr-en
+une chambre d'amis<br>/yn ʃɑ̃bʁ dami/	a spare room, a guest room	fr-en
+la chambre des parents<br>/la ʃɑ̃bʁ de paʁɑ̃/	the parents' bedroom	fr-en
+une chambre d'hôtel<br>/yn ʃɑ̃bʁ dotɛl/	a hotel room	fr-en
+une chambre d'hôtes<br>/yn ʃɑ̃bʁ dot/	a bed and breakfast room	fr-en
+une chambre de bonne<br>/yn ʃɑ̃bʁ də bɔn/	a maid's room, an attic room	fr-en
+une chambre d'étudiant<br>/yn ʃɑ̃bʁ detydjɑ̃/	a student room	fr-en
+réserver une chambre<br>/ʁezɛʁve yn ʃɑ̃bʁ/	to book a room	fr-en
+Je voudrais une chambre pour deux personnes.<br>/ʒə vudʁɛ yn ʃɑ̃bʁ puʁ dø pɛʁsɔn/	I would like a room for two.	fr-en
+une chambre simple, une chambre double<br>/yn ʃɑ̃bʁ sɛ̃pl, yn ʃɑ̃bʁ dubl/	a single room, a double room	fr-en
+une chambre à deux lits, une chambre avec un grand lit<br>/yn ʃɑ̃bʁ a dø li, yn ʃɑ̃bʁ avɛk œ̃ ɡʁɑ̃ li/	a twin room, a double room	fr-en
+une chambre avec salle de bains<br>/yn ʃɑ̃bʁ avɛk sal də bɛ̃/	a room with a bathroom	fr-en
+une chambre avec vue sur la mer<br>/yn ʃɑ̃bʁ avɛk vy syʁ la mɛʁ/	a room with a sea view	fr-en
+pour une nuit, pour deux nuits<br>/puʁ yn nɥi, puʁ dø nɥi/	for one night, for two nights	fr-en
+la chambre numéro douze<br>/la ʃɑ̃bʁ nymeʁo duz/	room number twelve	fr-en
+la clé de la chambre<br>/la kle də la ʃɑ̃bʁ/	the room key	fr-en
+la femme de chambre, le service en chambre<br>/la fam də ʃɑ̃bʁ, lə sɛʁvis ɑ̃ ʃɑ̃bʁ/	the chambermaid, room service	fr-en
+Le petit déjeuner est servi dans la chambre.<br>/lə pəti deʒœne ɛ sɛʁvi dɑ̃ la ʃɑ̃bʁ/	Breakfast is served in the room.	fr-en
+un lit, une table de nuit, une lampe<br>/œ̃ li, yn tabl də nɥi, yn lɑ̃p/	a bed, a bedside table, a lamp	fr-en
+une armoire, un bureau, une chaise<br>/yn aʁmwaʁ, œ̃ byʁo, yn ʃɛz/	a wardrobe, a desk, a chair	fr-en
+un tapis, des rideaux<br>/œ̃ tapi, de ʁido/	a rug, curtains	fr-en
+la porte, la fenêtre de la chambre<br>/la pɔʁt, la fənɛtʁ də la ʃɑ̃bʁ/	the bedroom door, the bedroom window	fr-en
+au premier étage, au rez-de-chaussée<br>/o pʁəmjɛʁ‿etaʒ, o ʁedʃose/	on the first floor, on the ground floor	fr-en
+ranger sa chambre<br>/ʁɑ̃ʒe sa ʃɑ̃bʁ/	to tidy one's room	fr-en
+Va dans ta chambre !<br>/va dɑ̃ ta ʃɑ̃bʁ/	Go to your room!	fr-en
+rester dans sa chambre<br>/ʁɛste dɑ̃ sa ʃɑ̃bʁ/	to stay in one's room	fr-en
+partager une chambre<br>/paʁtaʒe yn ʃɑ̃bʁ/	to share a room	fr-en
+louer une chambre<br>/lwe yn ʃɑ̃bʁ/	to rent a room	fr-en
+une chambre en désordre, une chambre bien rangée<br>/yn ʃɑ̃bʁ ɑ̃ dezɔʁdʁ, yn ʃɑ̃bʁ bjɛ̃ ʁɑ̃ʒe/	a messy room, a tidy room	fr-en
+un camarade de chambre, un colocataire<br>/œ̃ kamaʁad də ʃɑ̃bʁ, œ̃ kɔlɔkatɛʁ/	a roommate, a flatmate	fr-en
+une robe de chambre<br>/yn ʁɔb də ʃɑ̃bʁ/	a dressing gown	fr-en
+la musique de chambre<br>/la myzik də ʃɑ̃bʁ/	chamber music	fr-en
+la Chambre des députés<br>/la ʃɑ̃bʁ de depyte/	the Chamber of Deputies	fr-en
+la Chambre de commerce<br>/la ʃɑ̃bʁ də kɔmɛʁs/	the Chamber of Commerce	fr-en
+une chambre à air<br>/yn ʃɑ̃bʁ a ɛʁ/	an inner tube	fr-en
+une chambre froide<br>/yn ʃɑ̃bʁ fʁwad/	a cold room	fr-en
+chambrer un vin<br>/ʃɑ̃bʁe œ̃ vɛ̃/	to bring a wine to room temperature	fr-en
+chambrer quelqu'un<br>/ʃɑ̃bʁe kɛlkœ̃/	to tease someone (familiar)	fr-en
+une chambre<br>/yn ʃɑ̃bʁ/ (2)	a bedroom; a hotel room	fr-en
+une pièce, un appartement de trois pièces<br>/yn pjɛs, œ̃n‿apaʁtəmɑ̃ də tʁwa pjɛs/	a room; a three-room flat	fr-en
+une salle, la salle de bains, la salle à manger<br>/yn sal, la sal də bɛ̃, la sal a mɑ̃ʒe/	a large or shared room: the bathroom, the dining room	fr-en
+la chambre – l'ambre<br>/la ʃɑ̃bʁ/ · /lɑ̃bʁ/	the bedroom – amber	fr-en
+la chambre – la jambe – le jambon<br>/la ʃɑ̃bʁ/ · /la ʒɑ̃b/ · /lə ʒɑ̃bɔ̃/	the bedroom – the leg – the ham: am before b is /ɑ̃/	fr-en
+une chambre – des chambres – trois chambres<br>/yn ʃɑ̃bʁ/ · /de ʃɑ̃bʁ/ · /tʁwa ʃɑ̃bʁ/	one, some, three: the noun does not change in sound	fr-en
+Ma chambre est petite mais jolie.<br>/ma ʃɑ̃bʁ ɛ pətit mɛ ʒɔli/	My bedroom is small but pretty.	fr-en
+Dans ma chambre, il y a un lit, un bureau et une armoire.<br>/dɑ̃ ma ʃɑ̃bʁ, il j a œ̃ li, œ̃ byʁo e yn aʁmwaʁ/	In my bedroom there is a bed, a desk and a wardrobe.	fr-en
+La chambre des enfants est au premier étage.<br>/la ʃɑ̃bʁ dez‿ɑ̃fɑ̃ ɛ o pʁəmjɛʁ‿etaʒ/	The children's room is on the first floor.	fr-en
+Range ta chambre avant de sortir !<br>/ʁɑ̃ʒ ta ʃɑ̃bʁ avɑ̃ də sɔʁtiʁ/	Tidy your room before going out!	fr-en
+Je voudrais réserver une chambre pour deux nuits.<br>/ʒə vudʁɛ ʁezɛʁve yn ʃɑ̃bʁ puʁ dø nɥi/	I would like to book a room for two nights.	fr-en
+Nous avons une chambre avec vue sur la mer.<br>/nuz‿avɔ̃ yn ʃɑ̃bʁ avɛk vy syʁ la mɛʁ/	We have a room with a sea view.	fr-en
+Les deux frères partagent une chambre.<br>/le dø fʁɛʁ paʁtaʒ yn ʃɑ̃bʁ/	The two brothers share a room.	fr-en
+Il dort dans la chambre d'amis.<br>/il dɔʁ dɑ̃ la ʃɑ̃bʁ dami/	He is sleeping in the spare room.	fr-en
+La fenêtre de ma chambre donne sur le jardin.<br>/la fənɛtʁ də ma ʃɑ̃bʁ dɔn syʁ lə ʒaʁdɛ̃/	My bedroom window looks onto the garden.	fr-en
+Elle loue une chambre chez l'habitant à Paris.<br>/ɛl lu yn ʃɑ̃bʁ ʃe labitɑ̃ a paʁi/	She rents a room in a private home in Paris.	fr-en
+La maison a trois chambres et deux salles de bains.<br>/la mɛzɔ̃ a tʁwa ʃɑ̃bʁ e dø sal də bɛ̃/	The house has three bedrooms and two bathrooms.	fr-en
+Je dors dans ma ________.<br>(AI exercise: chambre, pièce or salle?)	/ʒə dɔʁ dɑ̃ ma [ʃɑ̃bʁ]/<br>I sleep in my bedroom.	exercise
+C'est un appartement de quatre ________.<br>(AI exercise: chambre, pièce or salle?)	/sɛt‿œ̃n‿apaʁtəmɑ̃ də katʁ [pjɛs]/<br>It is a four-room flat.	exercise
+La ________ de bains est à côté de ma chambre.<br>(AI exercise: chambre, pièce or salle?)	/la [sal] də bɛ̃ ɛ a kote də ma ʃɑ̃bʁ/<br>The bathroom is next to my bedroom.	exercise
+Nous avons réservé une ________ d'hôtel.<br>(AI exercise: chambre, pièce or salle?)	/nuz‿avɔ̃ ʁezɛʁve yn [ʃɑ̃bʁ] dotɛl/<br>We have booked a hotel room.	exercise
+Adam dort dans ________ chambre.<br>(AI exercise: ma, ta, sa or la?)	/adam dɔʁ dɑ̃ [sa] ʃɑ̃bʁ/<br>Adam sleeps in his bedroom.	exercise
+Va dans ________ chambre !<br>(AI exercise: ma, ta, sa or la?)	/va dɑ̃ [ta] ʃɑ̃bʁ/<br>Go to your room!	exercise
+________ chambre est au premier étage.<br>(AI exercise: ma, ta, sa or la?)	/[ma] ʃɑ̃bʁ ɛ o pʁəmjɛʁ‿etaʒ/<br>My bedroom is on the first floor.	exercise
+________ chambre des parents est grande.<br>(AI exercise: ma, ta, sa or la?)	/[la] ʃɑ̃bʁ de paʁɑ̃ ɛ ɡʁɑ̃d/<br>The parents' bedroom is big.	exercise
+________ chambre<br>(AI exercise: un or une?)	/[yn] ʃɑ̃bʁ/<br>a bedroom	exercise
+________ pièce<br>(AI exercise: un or une?)	/[yn] pjɛs/<br>a room	exercise
+________ étage<br>(AI exercise: un or une?)	/[œ̃n]‿etaʒ/<br>a floor	exercise
+________ hôtel<br>(AI exercise: un or une?)	/[œ̃n]‿otɛl/<br>a hotel	exercise

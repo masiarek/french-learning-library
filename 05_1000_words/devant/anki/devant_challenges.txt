@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::devant — in front of::Challenges
+#tags:french 1000words devant challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: The car is in front of the house.	La voiture est devant la maison. /la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃/	say
+Say: I’ll wait for you in front of the cinema.	Je t’attends devant le cinéma. /ʒə tatɑ̃ dəvɑ̃ lə sinema/	say
+Say: Look where you’re going!	Regarde devant toi ! /ʁəɡaʁd dəvɑ̃ twa/	say
+Say: She said that in front of everybody.	Elle a dit ça devant tout le monde. /ɛl a di sa dəvɑ̃ tu lə mɔ̃d/	say
+Say: Who is ahead of you in the queue?	Qui est devant toi dans la file ? /ki ɛ dəvɑ̃ twa dɑ̃ la fil/	say
+In front of the station, against before dinner	devant la gare /dəvɑ̃ la ɡaʁ/, space; avant le dîner /avɑ̃ lə dine/, time	grammar
+In front of, against opposite	devant /dəvɑ̃/, on the same side; en face de /ɑ̃ fas də/, across from	grammar
+The two pairs of opposites: space and time	devant, derrière /dəvɑ̃, dɛʁjɛʁ/; avant, après /avɑ̃, apʁɛ/	grammar
+The front door, the front of the house	la porte de devant /la pɔʁt də dəvɑ̃/, le devant de la maison /lə dəvɑ̃ də la mɛzɔ̃/	words
+To jump the queue; to take the initiative	passer devant tout le monde /pase dəvɑ̃ tu lə mɔ̃d/; prendre les devants /pʁɑ̃dʁ le dəvɑ̃/	words
+What else is spelled devant?	The present participle of devoir: devant partir /dəvɑ̃ paʁtiʁ/ having to leave	grammar
+The vowels of devant	a schwa and a nasal: /dəvɑ̃/; the final t is silent, and only optionally said before a vowel	sound

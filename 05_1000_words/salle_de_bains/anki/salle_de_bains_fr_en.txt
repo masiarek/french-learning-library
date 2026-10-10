@@ -1,0 +1,86 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::une salle de bains — a bathroom
+#tags:french 1000words salledebains fr-en
+#columns:Front	Back	Tags
+#tags column:3
+une salle de bains<br>/yn sal də bɛ̃/	(n.f.) bathroom	fr-en
+La salle de bains est à côté de la chambre.<br>/la sal də bɛ̃ ɛ(t)‿a kote də la ʃɑ̃bʁ/	The bathroom is next to the bedroom.	fr-en
+je me lave, tu te laves, il se lave<br>/ʒə mə lav, ty tə lav, il sə lav/	I wash, you wash, he washes	fr-en
+nous nous lavons, vous vous lavez, ils se lavent<br>/nu nu lavɔ̃, vu vu lave, il sə lav/	we wash, you wash, they wash	fr-en
+je me lave les mains, elle se lave les cheveux<br>/ʒə mə lav le mɛ̃, ɛl sə lav le ʃəvø/	I wash my hands, she washes her hair: the article, not the possessive	fr-en
+je me suis lavé, elle s'est lavée<br>/ʒə mə sɥi lave, ɛl sɛ lave/	I washed, she washed	fr-en
+elle s'est lavé les mains<br>/ɛl sɛ lave le mɛ̃/	she washed her hands: no agreement before the body part	fr-en
+lave-toi les mains ! lavez-vous les mains !<br>/lav twa le mɛ̃, lave vu le mɛ̃/	wash your hands!	fr-en
+prendre une douche, se doucher<br>/pʁɑ̃dʁ yn duʃ, sə duʃe/	to have a shower	fr-en
+prendre un bain<br>/pʁɑ̃dʁ œ̃ bɛ̃/	to have a bath	fr-en
+se brosser les dents<br>/sə bʁɔse le dɑ̃/	to brush one's teeth	fr-en
+se laver le visage<br>/sə lave lə vizaʒ/	to wash one's face	fr-en
+se raser<br>/sə ʁaze/	to shave	fr-en
+se coiffer<br>/sə kwafe/	to do one's hair	fr-en
+se maquiller<br>/sə makije/	to put on make-up	fr-en
+se sécher<br>/sə seʃe/	to dry oneself	fr-en
+faire sa toilette<br>/fɛʁ sa twalɛt/	to wash and dress	fr-en
+aller aux toilettes<br>/ale o twalɛt/	to go to the toilet	fr-en
+une baignoire, une douche<br>/yn bɛɲwaʁ, yn duʃ/	a bath, a shower	fr-en
+un lavabo, un robinet<br>/œ̃ lavabo, œ̃ ʁɔbinɛ/	a washbasin, a tap	fr-en
+un miroir<br>/œ̃ miʁwaʁ/	a mirror	fr-en
+une serviette<br>/yn sɛʁvjɛt/	a towel	fr-en
+le savon, le shampooing<br>/lə savɔ̃, lə ʃɑ̃pwɛ̃/	the soap, the shampoo	fr-en
+une brosse à dents, le dentifrice<br>/yn bʁɔs a dɑ̃, lə dɑ̃tifʁis/	a toothbrush, the toothpaste	fr-en
+un peigne, un rasoir<br>/œ̃ pɛɲ, œ̃ ʁazwaʁ/	a comb, a razor	fr-en
+un sèche-cheveux<br>/œ̃ sɛʃʃəvø/	a hairdryer	fr-en
+l'eau chaude, l'eau froide<br>/lo ʃod, lo fʁwad/	the hot water, the cold water	fr-en
+le carrelage<br>/lə kaʁlaʒ/	the tiles	fr-en
+la salle de bains, la salle d'eau<br>/la sal də bɛ̃, la sal do/	the bathroom, the shower room	fr-en
+la salle à manger<br>/la sal a mɑ̃ʒe/	the dining room	fr-en
+la salle de séjour<br>/la sal də seʒuʁ/	the living room	fr-en
+la salle de classe<br>/la sal də klas/	the classroom	fr-en
+la salle d'attente<br>/la sal datɑ̃t/	the waiting room	fr-en
+la salle de sport<br>/la sal də spɔʁ/	the gym	fr-en
+la salle des fêtes<br>/la sal de fɛt/	the village hall	fr-en
+une salle de cinéma, une salle de concert<br>/yn sal də sinema, yn sal də kɔ̃sɛʁ/	a cinema screen, a concert hall	fr-en
+un bain de soleil<br>/œ̃ bɛ̃ də sɔlɛj/	sunbathing	fr-en
+un bain moussant<br>/œ̃ bɛ̃ musɑ̃/	a bubble bath	fr-en
+un bain de foule<br>/œ̃ bɛ̃ də ful/	a walkabout	fr-en
+un maillot de bain<br>/œ̃ majo də bɛ̃/	a swimsuit	fr-en
+un peignoir de bain<br>/œ̃ pɛɲwaʁ də bɛ̃/	a bathrobe	fr-en
+les toilettes, les WC<br>/le twalɛt, le vese/	the toilet	fr-en
+Où sont les toilettes ?<br>/u sɔ̃ le twalɛt/	Where is the toilet?	fr-en
+Les toilettes sont au fond du couloir.<br>/le twalɛt sɔ̃t‿o fɔ̃ dy kulwaʁ/	The toilet is at the end of the corridor.	fr-en
+le papier toilette<br>/lə papje twalɛt/	toilet paper	fr-en
+occupé, libre<br>/ɔkype, libʁ/	engaged, vacant	fr-en
+La salle de bains est occupée !<br>/la sal də bɛ̃ ɛ(t)‿ɔkype/	The bathroom is taken!	fr-en
+La salle de bains est libre.<br>/la sal də bɛ̃ ɛ libʁ/	The bathroom is free.	fr-en
+Je suis dans la salle de bains.<br>/ʒə sɥi dɑ̃ la sal də bɛ̃/	I am in the bathroom.	fr-en
+une salle de bains avec baignoire<br>/yn sal də bɛ̃ avɛk bɛɲwaʁ/	a bathroom with a bath	fr-en
+une petite salle de bains, deux salles de bains<br>/yn pətit sal də bɛ̃, dø sal də bɛ̃/	a small bathroom, two bathrooms	fr-en
+Combien de salles de bains y a-t-il ?<br>/kɔ̃bjɛ̃ də sal də bɛ̃ jatil/	How many bathrooms are there?	fr-en
+la salle – sale<br>/la sal/ · /sal/	the room – dirty	fr-en
+une salle sale<br>/yn sal sal/	a dirty room	fr-en
+le bain – le pain – la main – la fin<br>/lə bɛ̃/ · /lə pɛ̃/ · /la mɛ̃/ · /la fɛ̃/	the bath – the bread – the hand – the end: the rhymes in /ɛ̃/	fr-en
+le bain – bien<br>/lə bɛ̃/ · /bjɛ̃/	the bath – well: /b/ against /bj/	fr-en
+Il y a deux salles de bains dans la maison.<br>/il j a dø sal də bɛ̃ dɑ̃ la mɛzɔ̃/	There are two bathrooms in the house.	fr-en
+Je me lave les mains dans la salle de bains.<br>/ʒə mə lav le mɛ̃ dɑ̃ la sal də bɛ̃/	I wash my hands in the bathroom.	fr-en
+Ma sœur est dans la salle de bains depuis une heure.<br>/ma sœʁ ɛ dɑ̃ la sal də bɛ̃ dəpɥi yn œʁ/	My sister has been in the bathroom for an hour.	fr-en
+Le matin, je prends une douche.<br>/lə matɛ̃, ʒə pʁɑ̃ yn duʃ/	In the morning I have a shower.	fr-en
+Les enfants se brossent les dents après le dîner.<br>/lez‿ɑ̃fɑ̃ sə bʁɔs le dɑ̃ apʁɛ lə dine/	The children brush their teeth after dinner.	fr-en
+Où sont les toilettes, s'il vous plaît ?<br>/u sɔ̃ le twalɛt, sil vu plɛ/	Where is the toilet, please?	fr-en
+Il n'y a pas de baignoire, il y a une douche.<br>/il nj a pa də bɛɲwaʁ, il j a yn duʃ/	There is no bath, there is a shower.	fr-en
+La serviette est derrière la porte de la salle de bains.<br>/la sɛʁvjɛt ɛ dɛʁjɛʁ la pɔʁt də la sal də bɛ̃/	The towel is behind the bathroom door.	fr-en
+Notre salle de bains est petite mais jolie.<br>/nɔtʁ sal də bɛ̃ ɛ pətit mɛ ʒɔli/	Our bathroom is small but pretty.	fr-en
+Lave-toi les mains avant de manger !<br>/lav twa le mɛ̃ avɑ̃ də mɑ̃ʒe/	Wash your hands before eating!	fr-en
+Elle prend un bain le soir.<br>/ɛl pʁɑ̃ œ̃ bɛ̃ lə swaʁ/	She has a bath in the evening.	fr-en
+Où sont les ________ ?<br>(AI exercise: salle de bains or toilettes?)	/u sɔ̃ le [twalɛt]/<br>Where is the toilet?	exercise
+Je prends une douche dans la ________.<br>(AI exercise: salle de bains or toilettes?)	/ʒə pʁɑ̃ yn duʃ dɑ̃ la [sal də bɛ̃]/<br>I have a shower in the bathroom.	exercise
+Il y a une baignoire dans la ________.<br>(AI exercise: salle de bains or toilettes?)	/il j a yn bɛɲwaʁ dɑ̃ la [sal də bɛ̃]/<br>There is a bath in the bathroom.	exercise
+Les ________ sont au fond du couloir.<br>(AI exercise: salle de bains or toilettes?)	/le [twalɛt] sɔ̃t‿o fɔ̃ dy kulwaʁ/<br>The toilet is at the end of the corridor.	exercise
+Je ________ les mains.<br>(AI exercise: se laver, in the right form)	/ʒə [mə lav] le mɛ̃/<br>I wash my hands.	exercise
+Nous ________ le matin.<br>(AI exercise: se laver, in the right form)	/nu [nu lavɔ̃] lə matɛ̃/<br>We wash in the morning.	exercise
+Elle ________ les cheveux.<br>(AI exercise: se laver, in the right form)	/ɛl [sə lav] le ʃəvø/<br>She washes her hair.	exercise
+________ les mains !<br>(AI exercise: se laver, in the right form)	/[lav twa] le mɛ̃/<br>Wash your hands! (to a child)	exercise
+________ salle de bains<br>(AI exercise: un or une?)	/[yn] sal də bɛ̃/<br>a bathroom	exercise
+________ bain<br>(AI exercise: un or une?)	/[œ̃] bɛ̃/<br>a bath	exercise
+________ douche<br>(AI exercise: un or une?)	/[yn] duʃ/<br>a shower	exercise
+________ lavabo<br>(AI exercise: un or une?)	/[œ̃] lavabo/<br>a washbasin	exercise

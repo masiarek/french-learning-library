@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une chambre — a bedroom::Challenges
+#tags:french 1000words chambre challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: There are three bedrooms in the house.	Il y a trois chambres dans la maison. /il j a tʁwa ʃɑ̃bʁ dɑ̃ la mɛzɔ̃/	say
+Say: My bedroom is small but pretty.	Ma chambre est petite mais jolie. /ma ʃɑ̃bʁ ɛ pətit mɛ ʒɔli/	say
+Say: Tidy your room before going out!	Range ta chambre avant de sortir ! /ʁɑ̃ʒ ta ʃɑ̃bʁ avɑ̃ də sɔʁtiʁ/	say
+Say: I would like to book a room for two nights.	Je voudrais réserver une chambre pour deux nuits. /ʒə vudʁɛ ʁezɛʁve yn ʃɑ̃bʁ puʁ dø nɥi/	say
+Say: The two brothers share a room.	Les deux frères partagent une chambre. /le dø fʁɛʁ paʁtaʒ yn ʃɑ̃bʁ/	say
+Why am and not an in chambre?	the nasal /ɑ̃/ is spelled with m before b, as in jambe, jambon: /ʃɑ̃bʁ/, one syllable, the -e silent	sound
+Chambre, pièce or salle?	une chambre /ʃɑ̃bʁ/ is the bedroom (or a hotel room); une pièce /pjɛs/ any room, counted; une salle /sal/ a large or shared room	words
+A twin room, a double room, a room with a sea view	une chambre à deux lits /yn ʃɑ̃bʁ a dø li/, une chambre avec un grand lit /avɛk œ̃ ɡʁɑ̃ li/, une chambre avec vue sur la mer /avɛk vy syʁ la mɛʁ/	words
+A spare room, a bed and breakfast, a hotel room	une chambre d’amis /yn ʃɑ̃bʁ dami/, une chambre d’hôtes /yn ʃɑ̃bʁ dot/, une chambre d’hôtel /yn ʃɑ̃bʁ dotɛl/	words
+Go to your room!	Va dans ta chambre ! /va dɑ̃ ta ʃɑ̃bʁ/: dans, not à	grammar
+A dressing gown, chamber music, an inner tube	une robe de chambre /yn ʁɔb də ʃɑ̃bʁ/, la musique de chambre /la myzik də ʃɑ̃bʁ/, une chambre à air /yn ʃɑ̃bʁ a ɛʁ/	words
+One bedroom, three bedrooms: what changes in sound?	nothing in the noun: une chambre /yn ʃɑ̃bʁ/, trois chambres /tʁwa ʃɑ̃bʁ/; the plural -s is silent	grammar

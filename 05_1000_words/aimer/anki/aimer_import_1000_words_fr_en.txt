@@ -1,0 +1,69 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+aimer<br>/eme/	(v.) to like; to love	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+J'aime beaucoup ma maison.<br>/ʒɛm boku ma mɛzɔ̃/	I like my house a lot.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+j'aime<br>/ʒɛm/	I like, I love	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+tu aimes<br>/ty ɛm/	you like	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+il aime, elle aime<br>/il ɛm, ɛl ɛm/	he likes, she likes	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+nous aimons<br>/nuz‿emɔ̃/	we like	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+vous aimez<br>/vuz‿eme/	you like	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+ils aiment, elles aiment<br>/ilz‿ɛm, ɛlz‿ɛm/	they like	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+j'ai aimé<br>/ʒe eme/	I liked, I have loved	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+j'aimais<br>/ʒɛmɛ/	I used to like, I loved	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+j'aimerai – j'aimerais<br>/ʒɛməʁe/ · /ʒɛməʁɛ/	I will like – I would like	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+ils s'aiment<br>/il sɛm/	they love each other	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Je déteste le froid.<br>/ʒə detɛst lə fʁwa/	I hate the cold.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Je n'aime pas le café.<br>/ʒə nɛm pa lə kafe/	I don't like coffee.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+J'aime bien ce film.<br>/ʒɛm bjɛ̃ sə film/	I quite like this film.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+J'aime le chocolat.<br>/ʒɛm lə ʃɔkɔla/	I like chocolate.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+J'adore Paris.<br>/ʒadɔʁ paʁi/	I love Paris.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Je t'aime.<br>/ʒə tɛm/	I love you.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Je t'aime bien.<br>/ʒə tɛm bjɛ̃/	I like you, as a friend.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Je l'aime.<br>/ʒə lɛm/	I love him, I love her.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+J'aime le café, le thé, le vin.<br>/ʒɛm lə kafe, lə te, lə vɛ̃/	I like coffee, tea, wine.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Elle aime la musique.<br>/ɛl ɛm la myzik/	She likes music.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Nous aimons les chats.<br>/nuz‿emɔ̃ le ʃa/	We like cats.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+J'aime lire au lit.<br>/ʒɛm liʁ o li/	I like reading in bed.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Il aime dormir tard.<br>/il ɛm dɔʁmiʁ taʁ/	He likes sleeping late.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+J'aimerais un café, s'il vous plaît.<br>/ʒɛməʁɛ œ̃ kafe, sil vu plɛ/	I would like a coffee, please.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+J'aimerais visiter Paris.<br>/ʒɛməʁɛ vizite paʁi/	I would like to visit Paris.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+J'aimerais bien !<br>/ʒɛməʁɛ bjɛ̃/	I'd love to!	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+J'aimerais que tu viennes.<br>/ʒɛməʁɛ kə ty vjɛn/	I would like you to come.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+J'aime mieux le thé.<br>/ʒɛm mjø lə te/	I prefer tea.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Je préfère le thé au café.<br>/ʒə pʁefɛʁ lə te o kafe/	I prefer tea to coffee.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Ça me plaît.<br>/sa mə plɛ/	I like it.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+s'il vous plaît, s'il te plaît<br>/sil vu plɛ, sil tə plɛ/	please	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+l'amour, mon amour<br>/lamuʁ, mɔ̃n‿amuʁ/	love, my love	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+amoureux, amoureuse<br>/amuʁø, amuʁøz/	in love	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+tomber amoureux de<br>/tɔ̃be amuʁø də/	to fall in love with	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+aimable<br>/ɛmabl/	kind, nice	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+un ami, une amie, l'amitié<br>/œ̃n‿ami, yn ami, lamitje/	a friend, friendship	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+aimer – aimé – aimez<br>/eme/ · /eme/ · /eme/	to love – loved – you love: three spellings, one sound	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+aime – aimes – aiment<br>/ɛm/	four forms, one sound /ɛm/	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+aimer – aimé – aimais<br>/eme/ · /eme/ · /ɛmɛ/	/e/ at the end, /ɛ/ at the end: the imparfait	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+J'aime ma maison parce qu'elle est grande.<br>/ʒɛm ma mɛzɔ̃ paʁs kɛl ɛ ɡʁɑ̃d/	I like my house because it is big.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Tu aimes le café ?<br>/ty ɛm lə kafe/	Do you like coffee?	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Elle aime beaucoup lire au lit.<br>/ɛl ɛm boku liʁ o li/	She likes reading in bed very much.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Nous aimons bien notre professeur.<br>/nuz‿emɔ̃ bjɛ̃ nɔtʁ pʁɔfɛsœʁ/	We like our teacher.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Vous aimez la musique française ?<br>/vuz‿eme la myzik fʁɑ̃sɛz/	Do you like French music?	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Les enfants aiment jouer dans le jardin.<br>/lez‿ɑ̃fɑ̃ ɛm ʒwe dɑ̃ lə ʒaʁdɛ̃/	The children like playing in the garden.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Je n'aime pas les grandes villes.<br>/ʒə nɛm pa le ɡʁɑ̃d vil/	I don't like big cities.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+J'aimerais habiter à Paris.<br>/ʒɛməʁɛ abite a paʁi/	I would like to live in Paris.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Quand j'étais petit, j'aimais les trains.<br>/kɑ̃ ʒetɛ pəti, ʒɛmɛ le tʁɛ̃/	When I was little, I loved trains.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+Je t'aime, mais je t'aime bien seulement.<br>/ʒə tɛm, mɛ ʒə tɛm bjɛ̃ sœlmɑ̃/	I love you, but only as a friend.	french 1000words aimer fr-en	French::1000 words (FR-EN)::aimer — to like, to love
+J'________ ma maison.<br>(AI exercise: the form of aimer)	/ʒ[ɛm] ma mɛzɔ̃/<br>I like my house.	french 1000words aimer fr-en exercise	French::1000 words (FR-EN)::aimer — to like, to love
+Nous ________ le chocolat.<br>(AI exercise: the form of aimer)	/nuz‿[emɔ̃] lə ʃɔkɔla/<br>We like chocolate.	french 1000words aimer fr-en exercise	French::1000 words (FR-EN)::aimer — to like, to love
+Vous ________ lire ?<br>(AI exercise: the form of aimer)	/vuz‿[eme] liʁ/<br>Do you like reading?	french 1000words aimer fr-en exercise	French::1000 words (FR-EN)::aimer — to like, to love
+Ils ________ leur jardin.<br>(AI exercise: the form of aimer)	/ilz‿[ɛm] lœʁ ʒaʁdɛ̃/<br>They like their garden.	french 1000words aimer fr-en exercise	French::1000 words (FR-EN)::aimer — to like, to love
+J'________ un café, s'il vous plaît.<br>(AI exercise: the form of aimer)	/ʒ[ɛməʁɛ] œ̃ kafe, sil vu plɛ/<br>I would like a coffee, please.	french 1000words aimer fr-en exercise	French::1000 words (FR-EN)::aimer — to like, to love
+J'aime ________ chocolat.<br>(AI exercise: le, la, les or du, de la?)	/ʒɛm [lə] ʃɔkɔla/<br>I like chocolate.	french 1000words aimer fr-en exercise	French::1000 words (FR-EN)::aimer — to like, to love
+Elle aime ________ musique.<br>(AI exercise: le, la, les or du, de la?)	/ɛl ɛm [la] myzik/<br>She likes music.	french 1000words aimer fr-en exercise	French::1000 words (FR-EN)::aimer — to like, to love
+Nous aimons ________ chats.<br>(AI exercise: le, la, les or du, de la?)	/nuz‿emɔ̃ [le] ʃa/<br>We like cats.	french 1000words aimer fr-en exercise	French::1000 words (FR-EN)::aimer — to like, to love
+Je voudrais ________ chocolat.<br>(AI exercise: le, la, les or du, de la?)	/ʒə vudʁɛ [dy] ʃɔkɔla/<br>I would like some chocolate.	french 1000words aimer fr-en exercise	French::1000 words (FR-EN)::aimer — to like, to love
+Je t'________.<br>(AI exercise: like, or love?)	/ʒə t[ɛm]/<br>I love you.	french 1000words aimer fr-en exercise	French::1000 words (FR-EN)::aimer — to like, to love
+Je t'________ ________.<br>(AI exercise: like, or love?)	/ʒə t[ɛm] [bjɛ̃]/<br>I like you, as a friend.	french 1000words aimer fr-en exercise	French::1000 words (FR-EN)::aimer — to like, to love
+J'________ Paris !<br>(AI exercise: like, or love?)	/ʒ[adɔʁ] paʁi/<br>I love Paris!	french 1000words aimer fr-en exercise	French::1000 words (FR-EN)::aimer — to like, to love

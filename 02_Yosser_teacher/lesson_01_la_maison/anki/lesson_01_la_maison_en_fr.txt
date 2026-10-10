@@ -179,6 +179,22 @@ each, every	chaque<br>/ʃak/	en-fr
 open	ouvert, ouverte<br>/uvɛʁ, uvɛʁt/	en-fr
 closed	fermé, fermée<br>/fɛʁme/	en-fr
 red	rouge<br>/ʁuʒ/	en-fr
+the living room, on a floor plan and in an advertisement	le séjour<br>/lə seʒuʁ/	en-fr
+the study, as a room	le bureau<br>/lə byʁo/	en-fr
+the corridor, the hallway	le couloir<br>/lə kulwaʁ/	en-fr
+the entrance hall	l’entrée<br>/lɑ̃tʁe/	en-fr
+the attic	le grenier<br>/lə ɡʁənje/	en-fr
+the cellar	la cave<br>/la kav/	en-fr
+the basement	le sous-sol<br>/lə susɔl/	en-fr
+the balcony	le balcon<br>/lə balkɔ̃/	en-fr
+the terrace, the patio	la terrasse<br>/la tɛʁas/	en-fr
+the laundry room	la buanderie<br>/la byɑ̃dʁi/	en-fr
+the storeroom, for food and wine	le cellier<br>/lə selje/	en-fr
+the box room	le débarras<br>/lə debaʁa/	en-fr
+the landing	le palier<br>/lə palje/	en-fr
+the built-in cupboard	le placard<br>/lə plakaʁ/	en-fr
+the main rooms, the ones an advertisement counts	les pièces principales<br>/le pjɛs pʁɛ̃sipal/	en-fr
+a flat with a living room and two bedrooms	un trois-pièces, un T3<br>/œ̃ tʁwa pjɛs, œ̃ te tʁwa/	en-fr
 How many rooms are there at your place?	Combien de pièces y a-t-il chez toi ?<br>/kɔ̃bjɛ̃ də pjɛs jatil ʃe twa/	en-fr
 What is there on your table?	Qu’est-ce qu’il y a sur ta table ?<br>/kɛs kil j a syʁ ta tabl/	en-fr
 Where is your bed?	Où est ton lit ?<br>/u ɛ tɔ̃ li/	en-fr

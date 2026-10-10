@@ -1,0 +1,83 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::joli — pretty
+#tags:french 1000words joli fr-en
+#columns:Front	Back	Tags
+#tags column:3
+joli, jolie<br>/ʒɔli, ʒɔli/	(adj.) pretty, nice, lovely	fr-en
+Ma chambre est petite mais jolie.<br>/ma ʃɑ̃bʁ ɛ pətit mɛ ʒɔli/	My bedroom is small but pretty.	fr-en
+un joli jardin<br>/œ̃ ʒɔli ʒaʁdɛ̃/	a pretty garden	fr-en
+une jolie maison<br>/yn ʒɔli mɛzɔ̃/	a pretty house	fr-en
+de jolis jardins<br>/də ʒɔli ʒaʁdɛ̃/	pretty gardens	fr-en
+de jolies maisons<br>/də ʒɔli mɛzɔ̃/	pretty houses	fr-en
+Le jardin est joli.<br>/lə ʒaʁdɛ̃ ɛ ʒɔli/	The garden is pretty.	fr-en
+La chambre est jolie.<br>/la ʃɑ̃bʁ ɛ ʒɔli/	The bedroom is pretty.	fr-en
+Les jardins sont jolis.<br>/le ʒaʁdɛ̃ sɔ̃ ʒɔli/	The gardens are pretty.	fr-en
+Les chambres sont jolies.<br>/le ʃɑ̃bʁ sɔ̃ ʒɔli/	The bedrooms are pretty.	fr-en
+vrai, vraie; bleu, bleue; fatigué, fatiguée<br>/vʁɛ, blø, fatiɡe/	true; blue; tired: the same silent agreement	fr-en
+un joli appartement<br>/œ̃ ʒɔli apaʁtəmɑ̃/	a pretty flat: no liaison, no consonant to say	fr-en
+une jolie image<br>/yn ʒɔli imaʒ/	a pretty picture	fr-en
+de jolis enfants<br>/də ʒɔliz‿ɑ̃fɑ̃/	pretty children	fr-en
+de jolies images<br>/də ʒɔliz‿imaʒ/	pretty pictures	fr-en
+de jolis appartements<br>/də ʒɔliz‿apaʁtəmɑ̃/	pretty flats	fr-en
+une jolie fille, une belle femme<br>/yn ʒɔli fij, yn bɛl fam/	a pretty girl, a beautiful woman	fr-en
+un bel homme<br>/œ̃ bɛl ɔm/	a handsome man: never joli	fr-en
+un joli village, une belle ville<br>/œ̃ ʒɔli vilaʒ, yn bɛl vil/	a pretty village, a beautiful city	fr-en
+une jolie robe, un beau manteau<br>/yn ʒɔli ʁɔb, œ̃ bo mɑ̃to/	a pretty dress, a fine coat	fr-en
+Il fait beau.<br>/il fɛ bo/	The weather is fine: never joli	fr-en
+une jolie voix, un joli nom<br>/yn ʒɔli vwa, œ̃ ʒɔli nɔ̃/	a pretty voice, a pretty name	fr-en
+mignon, mignonne<br>/miɲɔ̃, miɲɔn/	cute	fr-en
+charmant, charmante<br>/ʃaʁmɑ̃, ʃaʁmɑ̃t/	charming	fr-en
+ravissant, ravissante<br>/ʁavisɑ̃, ʁavisɑ̃t/	lovely, ravishing	fr-en
+laid, laide; moche; vilain, vilaine<br>/lɛ, lɛd, mɔʃ, vilɛ̃, vilɛn/	ugly; ugly in everyday speech; ugly, also naughty: the opposites	fr-en
+plus joli que<br>/ply ʒɔli kə/	prettier than	fr-en
+moins joli que<br>/mwɛ̃ ʒɔli kə/	less pretty than	fr-en
+aussi joli que<br>/osi ʒɔli kə/	as pretty as	fr-en
+le plus joli, la plus jolie<br>/lə ply ʒɔli, la ply ʒɔli/	the prettiest	fr-en
+Cette robe est plus jolie que l'autre.<br>/sɛt ʁɔb ɛ ply ʒɔli kə lotʁ/	This dress is prettier than the other one.	fr-en
+C'est la plus jolie chambre de la maison.<br>/sɛ la ply ʒɔli ʃɑ̃bʁ də la mɛzɔ̃/	It is the prettiest bedroom in the house.	fr-en
+très joli, vraiment joli<br>/tʁɛ ʒɔli, vʁɛmɑ̃ ʒɔli/	very pretty, really pretty	fr-en
+C'est joli !<br>/sɛ ʒɔli/	That's pretty!	fr-en
+C'est joli chez vous.<br>/sɛ ʒɔli ʃe vu/	You have a nice place.	fr-en
+joli comme un cœur<br>/ʒɔli kɔm œ̃ kœʁ/	as pretty as a picture	fr-en
+jolie à croquer<br>/ʒɔli a kʁɔke/	pretty enough to eat	fr-en
+une jolie somme<br>/yn ʒɔli sɔm/	a tidy sum	fr-en
+un joli coup<br>/œ̃ ʒɔli ku/	a clever move, a nice shot	fr-en
+un joli succès<br>/œ̃ ʒɔli syksɛ/	a nice success	fr-en
+C'est du joli !<br>/sɛ dy ʒɔli/	A fine mess! (ironic)	fr-en
+Ce n'est pas joli joli.<br>/sə nɛ pa ʒɔli ʒɔli/	It is not very nice. (familiar)	fr-en
+faire le joli cœur<br>/fɛʁ lə ʒɔli kœʁ/	to play the charmer	fr-en
+de jolies fleurs<br>/də ʒɔli flœʁ/	pretty flowers	fr-en
+joliment<br>/ʒɔlimɑ̃/	prettily; pretty, as in pretty expensive	fr-en
+joliment cher<br>/ʒɔlimɑ̃ ʃɛʁ/	pretty expensive	fr-en
+enjoliver<br>/ɑ̃ʒɔlive/	to embellish	fr-en
+un enjoliveur<br>/œ̃n‿ɑ̃ʒɔlivœʁ/	a hubcap	fr-en
+la joliesse<br>/la ʒɔljɛs/	prettiness	fr-en
+joli – jolie – jolis – jolies<br>/ʒɔli/ · /ʒɔli/ · /ʒɔli/ · /ʒɔli/	pretty, four spellings: one sound	fr-en
+joli – petit, petite<br>/ʒɔli, ʒɔli/ · /pəti, pətit/	agreement you cannot hear – agreement you can	fr-en
+joli – Julie<br>/ʒɔli/ · /ʒyli/	pretty – the name: /ɔ/ against /y/	fr-en
+joli – jauni<br>/ʒɔli/ · /ʒoni/	pretty – turned yellow: open /ɔ/ against closed /o/	fr-en
+Quelle jolie maison !<br>/kɛl ʒɔli mɛzɔ̃/	What a pretty house!	fr-en
+Il y a de jolies fleurs dans le jardin.<br>/il j a də ʒɔli flœʁ dɑ̃ lə ʒaʁdɛ̃/	There are pretty flowers in the garden.	fr-en
+Ma mère porte une jolie robe bleue.<br>/ma mɛʁ pɔʁt yn ʒɔli ʁɔb blø/	My mother is wearing a pretty blue dress.	fr-en
+C'est un joli petit village.<br>/sɛt‿œ̃ ʒɔli pəti vilaʒ/	It is a pretty little village.	fr-en
+Ils ont acheté un joli appartement.<br>/ilz‿ɔ̃ aʃte œ̃ ʒɔli apaʁtəmɑ̃/	They bought a pretty flat.	fr-en
+Le salon est joli et confortable.<br>/lə salɔ̃ ɛ ʒɔli e kɔ̃fɔʁtabl/	The living room is pretty and comfortable.	fr-en
+Elle a une jolie voix.<br>/ɛl a yn ʒɔli vwa/	She has a pretty voice.	fr-en
+C'est joli chez vous !<br>/sɛ ʒɔli ʃe vu/	You have a nice place!	fr-en
+Cette lampe est jolie mais joliment chère.<br>/sɛt lɑ̃p ɛ ʒɔli mɛ ʒɔlimɑ̃ ʃɛʁ/	This lamp is pretty but pretty expensive.	fr-en
+Les petites chambres sont les plus jolies.<br>/le pətit ʃɑ̃bʁ sɔ̃ le ply ʒɔli/	The small bedrooms are the prettiest.	fr-en
+un ________ jardin<br>(AI exercise: joli, jolie, jolis or jolies?)	/œ̃ [ʒɔli] ʒaʁdɛ̃/<br>a pretty garden	exercise
+une ________ chambre<br>(AI exercise: joli, jolie, jolis or jolies?)	/yn [ʒɔli] ʃɑ̃bʁ/<br>a pretty bedroom	exercise
+de ________ maisons<br>(AI exercise: joli, jolie, jolis or jolies?)	/də [ʒɔli] mɛzɔ̃/<br>pretty houses	exercise
+de ________ enfants<br>(AI exercise: joli, jolie, jolis or jolies?)	/də [ʒɔliz]‿ɑ̃fɑ̃/<br>pretty children	exercise
+La robe est ________.<br>(AI exercise: joli, jolie, jolis or jolies?)	/la ʁɔb ɛ [ʒɔli]/<br>The dress is pretty.	exercise
+Les jardins sont ________.<br>(AI exercise: joli, jolie, jolis or jolies?)	/le ʒaʁdɛ̃ sɔ̃ [ʒɔli]/<br>The gardens are pretty.	exercise
+C'est un ________ homme.<br>(AI exercise: joli or beau?)	/sɛt‿œ̃ [bɛl] ɔm/<br>He is a handsome man.	exercise
+Quelle ________ petite robe !<br>(AI exercise: joli or beau?)	/kɛl [ʒɔli] pətit ʁɔb/<br>What a pretty little dress!	exercise
+Il fait ________ aujourd'hui.<br>(AI exercise: joli or beau?)	/il fɛ [bo] oʒuʁdɥi/<br>The weather is fine today.	exercise
+C'est un ________ village.<br>(AI exercise: joli or beau?)	/sɛt‿œ̃ [ʒɔli] vilaʒ/<br>It is a pretty village.	exercise
+une ________ maison ________<br>(AI exercise: where does the adjective go?)	/yn [ʒɔli] mɛzɔ̃ [kɔ̃fɔʁtabl]/<br>a pretty comfortable house	exercise
+une ________ robe ________<br>(AI exercise: where does the adjective go?)	/yn [ʒɔli] ʁɔb [ʁuʒ]/<br>a pretty red dress	exercise
+un ________ jardin ________<br>(AI exercise: where does the adjective go?)	/œ̃ [ʒɔli] ʒaʁdɛ̃ [kalm]/<br>a pretty quiet garden	exercise

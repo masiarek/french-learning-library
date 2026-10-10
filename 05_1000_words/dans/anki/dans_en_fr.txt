@@ -1,0 +1,65 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::dans — in, inside
+#tags:french 1000words dans en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(prep.) in, inside, into	dans<br>/dɑ̃/	en-fr
+There is a bed in my bedroom.	Il y a un lit dans ma chambre.<br>/il j a œ̃ li dɑ̃ ma ʃɑ̃bʁ/	en-fr
+in the house	dans la maison<br>/dɑ̃ la mɛzɔ̃/	en-fr
+in the kitchen	dans la cuisine<br>/dɑ̃ la kɥizin/	en-fr
+in my bedroom	dans ma chambre<br>/dɑ̃ ma ʃɑ̃bʁ/	en-fr
+in the living room	dans le salon<br>/dɑ̃ lə salɔ̃/	en-fr
+in the garden	dans le jardin<br>/dɑ̃ lə ʒaʁdɛ̃/	en-fr
+in the bag, in the box, in the drawer	dans le sac, dans la boîte, dans le tiroir<br>/dɑ̃ lə sak, dɑ̃ la bwat, dɑ̃ lə tiʁwaʁ/	en-fr
+in the street	dans la rue<br>/dɑ̃ la ʁy/	en-fr
+on the train, on the plane, in the car	dans le train, dans l'avion, dans la voiture<br>/dɑ̃ lə tʁɛ̃, dɑ̃ lavjɔ̃, dɑ̃ la vwatyʁ/	en-fr
+in the water	dans l'eau<br>/dɑ̃ lo/	en-fr
+in the newspaper	dans le journal<br>/dɑ̃ lə ʒuʁnal/	en-fr
+in a place	dans un endroit<br>/dɑ̃z‿œ̃n‿ɑ̃dʁwa/	en-fr
+at home – inside the house	à la maison – dans la maison<br>/a la mɛzɔ̃/ · /dɑ̃ la mɛzɔ̃/	en-fr
+in bed – in the bed itself	au lit – dans le lit<br>/o li/ · /dɑ̃ lə li/	en-fr
+at the office – in the office room	au bureau – dans le bureau<br>/o byʁo/ · /dɑ̃ lə byʁo/	en-fr
+at school – in class – in the classroom	à l'école – en classe – dans la classe<br>/a lekɔl/ · /ɑ̃ klas/ · /dɑ̃ la klas/	en-fr
+in Paris – within Paris	à Paris – dans Paris<br>/a paʁi/ · /dɑ̃ paʁi/	en-fr
+in France, in Poland – in Portugal	en France, en Pologne – au Portugal<br>/ɑ̃ fʁɑ̃s, ɑ̃ pɔlɔɲ/ · /o pɔʁtyɡal/	en-fr
+in town – inside the city	en ville – dans la ville<br>/ɑ̃ vil/ · /dɑ̃ la vil/	en-fr
+in ten minutes, from now	dans dix minutes<br>/dɑ̃ di minyt/	en-fr
+in an hour	dans une heure<br>/dɑ̃z‿yn œʁ/	en-fr
+in two days, in a week	dans deux jours, dans une semaine<br>/dɑ̃ dø ʒuʁ, dɑ̃z‿yn səmɛn/	en-fr
+in a month, in a year	dans un mois, dans un an<br>/dɑ̃z‿œ̃ mwa, dɑ̃z‿œ̃n‿ɑ̃/	en-fr
+in ten minutes, the time it takes	en dix minutes<br>/ɑ̃ di minyt/	en-fr
+ten minutes ago	il y a dix minutes<br>/il j a di minyt/	en-fr
+in the nineties	dans les années quatre-vingt-dix<br>/dɑ̃ lez‿ane katʁəvɛ̃dis/	en-fr
+to drink out of a glass	boire dans un verre<br>/bwaʁ dɑ̃z‿œ̃ vɛʁ/	en-fr
+to take a book out of the bag	prendre un livre dans le sac<br>/pʁɑ̃dʁ œ̃ livʁ dɑ̃ lə sak/	en-fr
+to read in the paper	lire dans le journal<br>/liʁ dɑ̃ lə ʒuʁnal/	en-fr
+to eat off a plate	manger dans une assiette<br>/mɑ̃ʒe dɑ̃z‿yn asjɛt/	en-fr
+to copy out of a book	copier dans un livre<br>/kɔpje dɑ̃z‿œ̃ livʁ/	en-fr
+He is inside.	Il est dedans.<br>/il ɛ dədɑ̃/	en-fr
+in there	là-dedans<br>/ladədɑ̃/	en-fr
+outside, outside of	dehors, en dehors de<br>/dəɔʁ, ɑ̃ dəɔʁ də/	en-fr
+in that case	dans ce cas<br>/dɑ̃ sə ka/	en-fr
+on the whole	dans l'ensemble<br>/dɑ̃ lɑ̃sɑ̃bl/	en-fr
+basically, deep down	dans le fond<br>/dɑ̃ lə fɔ̃/	en-fr
+around ten euros	dans les dix euros<br>/dɑ̃ le diz‿øʁo/	en-fr
+to have one's head in the clouds	être dans la lune<br>/ɛtʁ dɑ̃ la lyn/	en-fr
+to be in doubt	être dans le doute<br>/ɛtʁ dɑ̃ lə dut/	en-fr
+in – a tooth – of it, from there	dans – dent – d'en<br>/dɑ̃/ · /dɑ̃/ · /dɑ̃/	en-fr
+in – whose, of which: /ɑ̃/ against /ɔ̃/	dans – dont<br>/dɑ̃/ · /dɔ̃/	en-fr
+the s is said before a vowel, silent before a consonant	dans un – dans le<br>/dɑ̃z‿œ̃/ · /dɑ̃ lə/	en-fr
+In my house there is a living room and a kitchen.	Dans ma maison, il y a un salon et une cuisine.<br>/dɑ̃ ma mɛzɔ̃, il j a œ̃ salɔ̃ e yn kɥizin/	en-fr
+The cat is sleeping in the bed.	Le chat dort dans le lit.<br>/lə ʃa dɔʁ dɑ̃ lə li/	en-fr
+My books are in my bag.	Mes livres sont dans mon sac.<br>/me livʁ sɔ̃ dɑ̃ mɔ̃ sak/	en-fr
+I'll be back in ten minutes.	Je reviens dans dix minutes.<br>/ʒə ʁəvjɛ̃ dɑ̃ di minyt/	en-fr
+We go on holiday in a week.	Nous partons en vacances dans une semaine.<br>/nu paʁtɔ̃ ɑ̃ vakɑ̃s dɑ̃z‿yn səmɛn/	en-fr
+He is drinking out of my glass!	Il boit dans mon verre !<br>/il bwa dɑ̃ mɔ̃ vɛʁ/	en-fr
+I read that in the paper.	J'ai lu ça dans le journal.<br>/ʒe ly sa dɑ̃ lə ʒuʁnal/	en-fr
+She lives in a small flat.	Elle habite dans un petit appartement.<br>/ɛl abit dɑ̃z‿œ̃ pətit‿apaʁtəmɑ̃/	en-fr
+It is cold outside, come inside the house.	Il fait froid dehors, viens dans la maison.<br>/il fɛ fʁwa dəɔʁ, vjɛ̃ dɑ̃ la mɛzɔ̃/	en-fr
+In that case I am staying at home.	Dans ce cas, je reste à la maison.<br>/dɑ̃ sə ka, ʒə ʁɛst a la mɛzɔ̃/	en-fr
+in the living room (2)	dans le salon<br>/[dɑ̃] lə salɔ̃/	en-fr
+in a living room	dans un salon<br>/[dɑ̃z‿œ̃] salɔ̃/	en-fr
+in an hour (2)	dans une heure<br>/[dɑ̃z‿yn] œʁ/	en-fr
+in the kitchen (2)	dans la cuisine<br>/[dɑ̃] la kɥizin/	en-fr

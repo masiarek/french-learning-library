@@ -1,0 +1,84 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(adj.) comfortable	confortable<br>/kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+My house is beautiful and comfortable.	Ma maison est belle et confortable.<br>/ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a comfortable bed, a comfortable chair	un lit confortable, une chaise confortable<br>/œ̃ li kɔ̃fɔʁtabl, yn ʃɛz kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+comfortable beds, comfortable chairs	des lits confortables, des chaises confortables<br>/de li kɔ̃fɔʁtabl, de ʃɛz kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+The armchair is comfortable.	Le fauteuil est confortable.<br>/lə fotœj ɛ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+The bedroom is comfortable.	La chambre est confortable.<br>/la ʃɑ̃bʁ ɛ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+The chairs are comfortable.	Les chaises sont confortables.<br>/le ʃɛz sɔ̃ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+pleasant, practical, modern, quiet: the same one form for both genders	agréable, pratique, moderne, calme<br>/aɡʁeabl, pʁatik, mɔdɛʁn, kalm/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a comfortable house	une maison confortable<br>/yn mɛzɔ̃ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+comfortable houses: des stays	des maisons confortables<br>/de mɛzɔ̃ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a big comfortable house	une grande maison confortable<br>/yn ɡʁɑ̃d mɛzɔ̃ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a small comfortable flat	un petit appartement confortable<br>/œ̃ pətit‿apaʁtəmɑ̃ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a beautiful comfortable bedroom	une belle chambre confortable<br>/yn bɛl ʃɑ̃bʁ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a red car, a quiet bedroom: colours and most adjectives follow	une voiture rouge, une chambre calme<br>/yn vwatyʁ ʁuʒ, yn ʃɑ̃bʁ kalm/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a comfortable armchair	un fauteuil confortable<br>/œ̃ fotœj kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a comfortable sofa	un canapé confortable<br>/œ̃ kanape kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a comfortable bed, a comfortable mattress	un lit confortable, un matelas confortable<br>/œ̃ li kɔ̃fɔʁtabl, œ̃ matla kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+comfortable shoes	des chaussures confortables<br>/de ʃosyʁ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+comfortable clothes	des vêtements confortables<br>/de vɛtmɑ̃ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a comfortable hotel	un hôtel confortable<br>/œ̃n‿otɛl kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a comfortable car	une voiture confortable<br>/yn vwatyʁ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a comfortable temperature	une température confortable<br>/yn tɑ̃peʁatyʁ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a comfortable salary	un salaire confortable<br>/œ̃ salɛʁ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a comfortable lead	une avance confortable<br>/yn avɑ̃s kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a comfortable majority	une majorité confortable<br>/yn maʒɔʁite kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a comfortable life	une vie confortable<br>/yn vi kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+I am comfortable here.	Je suis bien ici.<br>/ʒə sɥi bjɛ̃ isi/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+I am comfortable, at ease.	Je suis à l'aise.<br>/ʒə sɥi(z)‿a lɛz/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+Are you comfortable? Are you sitting comfortably?	Vous êtes bien installé ?<br>/vuz‿ɛt bjɛ̃n‿ɛ̃stale/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+Make yourself comfortable.	Mettez-vous à l'aise.<br>/metevu a lɛz/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+Make yourself comfortable. (2)	Installez-vous confortablement.<br>/ɛ̃stalevu kɔ̃fɔʁtabləmɑ̃/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+I am not comfortable with this idea.	Je ne suis pas à l'aise avec cette idée.<br>/ʒə nə sɥi pa(z)‿a lɛz avɛk sɛt ide/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+He is ill at ease.	Il est mal à l'aise.<br>/il ɛ mal a lɛz/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+I feel comfortable here.	Je me sens bien ici.<br>/ʒə mə sɑ̃ bjɛ̃ isi/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+to comfort someone	réconforter quelqu'un<br>/ʁekɔ̃fɔʁte kɛlkœ̃/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a word of comfort	un mot de réconfort<br>/œ̃ mo də ʁekɔ̃fɔʁ/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+more comfortable than	plus confortable que<br>/ply kɔ̃fɔʁtabl kə/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+less comfortable than	moins confortable que<br>/mwɛ̃ kɔ̃fɔʁtabl kə/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+as comfortable as	aussi confortable que<br>/osi kɔ̃fɔʁtabl kə/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+the most comfortable	le plus confortable, la plus confortable<br>/lə ply kɔ̃fɔʁtabl, la ply kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+The armchair is more comfortable than the chair.	Le fauteuil est plus confortable que la chaise.<br>/lə fotœj ɛ ply kɔ̃fɔʁtabl kə la ʃɛz/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+It is the most comfortable hotel in town.	C'est l'hôtel le plus confortable de la ville.<br>/sɛ lotɛl lə ply kɔ̃fɔʁtabl də la vil/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+comfort	le confort<br>/lə kɔ̃fɔʁ/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+a flat with every convenience	un appartement tout confort<br>/œ̃n‿apaʁtəmɑ̃ tu kɔ̃fɔʁ/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+modern comforts	le confort moderne<br>/lə kɔ̃fɔʁ mɔdɛʁn/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+comfortably	confortablement<br>/kɔ̃fɔʁtabləmɑ̃/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+to live comfortably	vivre confortablement<br>/vivʁ kɔ̃fɔʁtabləmɑ̃/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+uncomfortable	inconfortable<br>/ɛ̃kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+an uncomfortable position	une position inconfortable<br>/yn pozisjɔ̃ ɛ̃kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+discomfort	l'inconfort<br>/lɛ̃kɔ̃fɔʁ/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+cosy	douillet, douillette<br>/dujɛ, dujɛt/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+spacious	spacieux, spacieuse<br>/spasjø, spasjøz/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+soft, of a cushion or a mattress	moelleux, moelleuse<br>/mwalø, mwaløz/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+hard	dur, dure<br>/dyʁ/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+the table, capable, pleasant, comfortable: the same /abl/	la table, capable, agréable, confortable<br>/la tabl, kapabl, aɡʁeabl, kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+My bedroom is small but comfortable.	Ma chambre est petite mais confortable.<br>/ma ʃɑ̃bʁ ɛ pətit mɛ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+This armchair is very comfortable.	Ce fauteuil est très confortable.<br>/sə fotœj ɛ tʁɛ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+The hotel bed was not comfortable.	Le lit de l'hôtel n'était pas confortable.<br>/lə li də lotɛl netɛ pa kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+We are looking for a comfortable flat that is not too expensive.	Nous cherchons un appartement confortable et pas trop cher.<br>/nu ʃɛʁʃɔ̃ œ̃n‿apaʁtəmɑ̃ kɔ̃fɔʁtabl e pa tʁo ʃɛʁ/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+These shoes are comfortable for walking.	Ces chaussures sont confortables pour marcher.<br>/se ʃosyʁ sɔ̃ kɔ̃fɔʁtabl puʁ maʁʃe/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+The sofa in the living room is more comfortable than the chairs.	Le canapé du salon est plus confortable que les chaises.<br>/lə kanape dy salɔ̃ ɛ ply kɔ̃fɔʁtabl kə le ʃɛz/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+He has a comfortable salary.	Il a un salaire confortable.<br>/il a œ̃ salɛʁ kɔ̃fɔʁtabl/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+Make yourself comfortable, I will be back.	Installez-vous confortablement, je reviens.<br>/ɛ̃stalevu kɔ̃fɔʁtabləmɑ̃, ʒə ʁəvjɛ̃/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+I am comfortable in my bedroom.	Je suis bien dans ma chambre.<br>/ʒə sɥi bjɛ̃ dɑ̃ ma ʃɑ̃bʁ/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+Make yourself comfortable, treat this as your home.	Mettez-vous à l'aise, c'est chez vous ici.<br>/metevu a lɛz, sɛ ʃe vu isi/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+It is a comfortable hotel but a little expensive.	C'est un hôtel confortable mais un peu cher.<br>/sɛt‿œ̃n‿otɛl kɔ̃fɔʁtabl mɛ œ̃ pø ʃɛʁ/	french 1000words confortable en-fr	French::1000 words (EN-FR)::confortable — comfortable
+Say: My house is beautiful and comfortable.	Ma maison est belle et confortable. /ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/	french 1000words confortable challenge say	French::1000 words (EN-FR)::confortable — comfortable::Challenges
+Say: This armchair is very comfortable.	Ce fauteuil est très confortable. /sə fotœj ɛ tʁɛ kɔ̃fɔʁtabl/	french 1000words confortable challenge say	French::1000 words (EN-FR)::confortable — comfortable::Challenges
+Say: The sofa is more comfortable than the chairs.	Le canapé est plus confortable que les chaises. /lə kanape ɛ ply kɔ̃fɔʁtabl kə le ʃɛz/	french 1000words confortable challenge say	French::1000 words (EN-FR)::confortable — comfortable::Challenges
+Say: Make yourself comfortable. (politely, two ways)	Mettez-vous à l’aise. /metevu a lɛz/ Installez-vous confortablement. /ɛ̃stalevu kɔ̃fɔʁtabləmɑ̃/	french 1000words confortable challenge say	French::1000 words (EN-FR)::confortable — comfortable::Challenges
+Say: I am comfortable in my bedroom.	Je suis bien dans ma chambre. /ʒə sɥi bjɛ̃ dɑ̃ ma ʃɑ̃bʁ/	french 1000words confortable challenge say	French::1000 words (EN-FR)::confortable — comfortable::Challenges
+The forms of confortable, with IPA	confortable /kɔ̃fɔʁtabl/ for both genders, confortables /kɔ̃fɔʁtabl/ in the plural: an adjective already ending in -e adds no feminine -e, and the four are said alike	french 1000words confortable challenge grammar	French::1000 words (EN-FR)::confortable — comfortable::Challenges
+Where does confortable go, before or after the noun?	After, as most adjectives do: une maison confortable /yn mɛzɔ̃ kɔ̃fɔʁtabl/; with a short adjective before it, une grande maison confortable /yn ɡʁɑ̃d mɛzɔ̃ kɔ̃fɔʁtabl/	french 1000words confortable challenge grammar	French::1000 words (EN-FR)::confortable — comfortable::Challenges
+Can a person be confortable?	No: a chair, a bed, a house or a salary is confortable; a person is bien /bjɛ̃/, à l’aise /a lɛz/ or bien installé /bjɛ̃n‿ɛ̃stale/; je suis confortable is a Quebec anglicism	french 1000words confortable challenge grammar	French::1000 words (EN-FR)::confortable — comfortable::Challenges
+Comfort, comfortably, uncomfortable, in French	le confort /lə kɔ̃fɔʁ/, confortablement /kɔ̃fɔʁtabləmɑ̃/, inconfortable /ɛ̃kɔ̃fɔʁtabl/	french 1000words confortable challenge words	French::1000 words (EN-FR)::confortable — comfortable::Challenges
+To comfort someone: which verb?	réconforter /ʁekɔ̃fɔʁte/, with the noun le réconfort /lə ʁekɔ̃fɔʁ/; confort is the comfort of things	french 1000words confortable challenge words	French::1000 words (EN-FR)::confortable — comfortable::Challenges
+A flat with every convenience, a comfortable salary	un appartement tout confort /œ̃n‿apaʁtəmɑ̃ tu kɔ̃fɔʁ/, un salaire confortable /œ̃ salɛʁ kɔ̃fɔʁtabl/	french 1000words confortable challenge words	French::1000 words (EN-FR)::confortable — comfortable::Challenges
+Spell it: comfortable in French, and the three sounds of its syllables	confortable, with n: con- /kɔ̃/ the nasal of bon, -fort- /fɔʁ/, -able /abl/ as in la table	french 1000words confortable challenge sound	French::1000 words (EN-FR)::confortable — comfortable::Challenges

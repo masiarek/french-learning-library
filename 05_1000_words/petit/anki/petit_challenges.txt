@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::petit — small::Challenges
+#tags:french 1000words petit challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: There is also a small garden.	Il y a aussi un petit jardin. /il j a osi œ̃ pəti ʒaʁdɛ̃/	say
+Say: My bedroom is small but pretty.	Ma chambre est petite mais jolie. /ma ʃɑ̃bʁ ɛ pətit mɛ ʒɔli/	say
+Say: I have my breakfast in the kitchen.	Je prends mon petit déjeuner dans la cuisine. /ʒə pʁɑ̃ mɔ̃ pəti deʒœne dɑ̃ la kɥizin/	say
+Say: They live in a small flat.	Ils habitent dans un petit appartement. /ilz‿abit dɑ̃z‿œ̃ pətit‿apaʁtəmɑ̃/	say
+Say: My mother is short and my father is tall.	Ma mère est petite et mon père est grand. /ma mɛʁ ɛ pətit e mɔ̃ pɛʁ ɛ ɡʁɑ̃/	say
+The four forms of petit, with IPA	petit /pəti/, petite /pətit/, petits /pəti/, petites /pətit/: the feminine -e makes the t sound, the plural -s is silent	grammar
+What happens to the t of petit before a vowel?	It is said: un petit enfant /œ̃ pətit‿ɑ̃fɑ̃/, un petit ami /œ̃ pətit‿ami/; the plural s gives /z/: de petits enfants /də pətiz‿ɑ̃fɑ̃/	sound
+Small children and the grandchildren: the same sounds, what differs?	de petits enfants /də pətiz‿ɑ̃fɑ̃/ are small children; les petits-enfants /le pətiz‿ɑ̃fɑ̃/, with the hyphen, are the grandchildren	words
+She is short: petit or court?	Elle est petite. /ɛl ɛ pətit/ Of a person petit is short; court is short in length: une jupe courte /yn ʒyp kuʁt/	grammar
+A boyfriend, a girlfriend, breakfast, a little bit	un petit ami /œ̃ pətit‿ami/, une petite amie /yn pətit ami/, le petit déjeuner /lə pəti deʒœne/, un petit peu /œ̃ pəti pø/	words
+Peas: des petits pois or de petits pois?	des petits pois /de pəti pwa/: petit is part of the name, so des stays; for a description careful French writes de: de petits jardins /də pəti ʒaʁdɛ̃/	grammar
+Read aloud, then check: un petit lit, une petite table, un petit hôtel	/œ̃ pəti li/, /yn pətit tabl/, /œ̃ pətit‿otɛl/	sound

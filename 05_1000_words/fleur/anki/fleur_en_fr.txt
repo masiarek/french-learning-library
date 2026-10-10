@@ -1,0 +1,70 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une fleur — a flower
+#tags:french 1000words fleur en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(n.f.) flower; blossom	une fleur<br>/yn flœʁ/	en-fr
+He gives his mother flowers.	Il offre des fleurs à sa mère.<br>/il ɔfʁ de flœʁ a sa mɛʁ/	en-fr
+I give, you give, he gives	j'offre, tu offres, il offre<br>/ʒɔfʁ, ty ɔfʁ, il ɔfʁ/	en-fr
+we give, you give, they give	nous offrons, vous offrez, ils offrent<br>/nuz‿ɔfʁɔ̃, vuz‿ɔfʁe, ilz‿ɔfʁ/	en-fr
+I gave, he gave me flowers	j'ai offert, il m'a offert des fleurs<br>/ʒe ɔfɛʁ, il ma ɔfɛʁ de flœʁ/	en-fr
+give!	offre ! offrez !<br>/ɔfʁ, ɔfʁe/	en-fr
+to give Marie flowers	offrir des fleurs à Marie<br>/ɔfʁiʁ de flœʁ a maʁi/	en-fr
+the cherry tree is in flower, the roses are in flower	le cerisier fleurit, les roses fleurissent<br>/lə səʁizje flœʁi, le ʁoz flœʁis/	en-fr
+a garden in bloom, a street decked with flowers	un jardin fleuri, une rue fleurie<br>/œ̃ ʒaʁdɛ̃ flœʁi, yn ʁy flœʁi/	en-fr
+in bloom, the trees are in bloom	en fleurs, les arbres sont en fleurs<br>/ɑ̃ flœʁ, lez‿aʁbʁ sɔ̃t‿ɑ̃ flœʁ/	en-fr
+a flower, flowers	une fleur, des fleurs<br>/yn flœʁ, de flœʁ/	en-fr
+beautiful flowers, pretty flowers: de before the adjective	de belles fleurs, de jolies fleurs<br>/də bɛl flœʁ, də ʒɔli flœʁ/	en-fr
+There are no flowers.	Il n'y a pas de fleurs.<br>/il nj a pa də flœʁ/	en-fr
+I like flowers.	J'aime les fleurs.<br>/ʒɛm le flœʁ/	en-fr
+a red flower, red flowers	une fleur rouge, des fleurs rouges<br>/yn flœʁ ʁuʒ, de flœʁ ʁuʒ/	en-fr
+a wilted flower	une fleur fanée<br>/yn flœʁ fane/	en-fr
+a rose	une rose<br>/yn ʁoz/	en-fr
+a tulip	une tulipe<br>/yn tylip/	en-fr
+a daisy	une marguerite<br>/yn maʁɡəʁit/	en-fr
+a sunflower	un tournesol<br>/œ̃ tuʁnəsɔl/	en-fr
+a violet	une violette<br>/yn vjɔlɛt/	en-fr
+a poppy	un coquelicot<br>/œ̃ kɔkliko/	en-fr
+a lily	un lys<br>/œ̃ lis/	en-fr
+the lilac, the lily of the valley, the carnation	le lilas, le muguet, l'œillet<br>/lə lila, lə myɡɛ, lœjɛ/	en-fr
+the lily of the valley of the first of May	le muguet du premier mai<br>/lə myɡɛ dy pʁəmje mɛ/	en-fr
+to flower, in bloom	fleurir, fleuri<br>/flœʁiʁ, flœʁi/	en-fr
+a florist, at the florist's	un fleuriste, une fleuriste, chez le fleuriste<br>/œ̃ flœʁist, yn flœʁist, ʃe lə flœʁist/	en-fr
+the flowering	la floraison<br>/la flɔʁɛzɔ̃/	en-fr
+floral	floral, florale<br>/flɔʁal/	en-fr
+a bunch of flowers	un bouquet de fleurs<br>/œ̃ bukɛ də flœʁ/	en-fr
+a petal, a stem	un pétale, une tige<br>/œ̃ petal, yn tiʒ/	en-fr
+a vase, a flowerpot	un vase, un pot de fleurs<br>/œ̃ vɑz, œ̃ po də flœʁ/	en-fr
+to give flowers	offrir des fleurs<br>/ɔfʁiʁ de flœʁ/	en-fr
+to pick flowers	cueillir des fleurs<br>/kœjiʁ de flœʁ/	en-fr
+to water the flowers	arroser les fleurs<br>/aʁoze le flœʁ/	en-fr
+to plant flowers	planter des fleurs<br>/plɑ̃te de flœʁ/	en-fr
+to buy flowers at the florist's	acheter des fleurs chez le fleuriste<br>/aʃte de flœʁ ʃe lə flœʁist/	en-fr
+to put the flowers in a vase	mettre les fleurs dans un vase<br>/mɛtʁ le flœʁ dɑ̃z‿œ̃ vɑz/	en-fr
+the flowers grow, the flowers wilt	les fleurs poussent, les fleurs fanent<br>/le flœʁ pus, le flœʁ fan/	en-fr
+in the prime of life	à la fleur de l'âge<br>/a la flœʁ də lɑʒ/	en-fr
+the cream of	la fine fleur de<br>/la fin flœʁ də/	en-fr
+to do someone a favour	faire une fleur à quelqu'un<br>/fɛʁ yn flœʁ a kɛlkœ̃/	en-fr
+to turn up fresh as a daisy, without a care	arriver comme une fleur<br>/aʁive kɔm yn flœʁ/	en-fr
+to be on edge	avoir les nerfs à fleur de peau<br>/avwaʁ le nɛʁ a flœʁ də po/	en-fr
+fleur de sel, the salt skimmed from the surface	la fleur de sel<br>/la flœʁ də sɛl/	en-fr
+the fleur-de-lis, the emblem of the French kings	la fleur de lys<br>/la flœʁ də lis/	en-fr
+Say it with flowers.	Dites-le avec des fleurs.<br>/dit lə avɛk de flœʁ/	en-fr
+In the garden there are flowers.	Dans le jardin, il y a des fleurs.<br>/dɑ̃ lə ʒaʁdɛ̃, il j a de flœʁ/	en-fr
+the flower – he cries	la fleur – il pleure<br>/la flœʁ/ · /il plœʁ/	en-fr
+the flower – the river	la fleur – le fleuve<br>/la flœʁ/ · /lə flœv/	en-fr
+the flower – the sister – the heart – the fear – the hour – the butter: the rhymes in /œʁ/	la fleur – la sœur – le cœur – la peur – l'heure – le beurre<br>/la flœʁ/ · /la sœʁ/ · /lə kœʁ/ · /la pœʁ/ · /lœʁ/ · /lə bœʁ/	en-fr
+the flower – two: /œ/ before the r, /ø/ with nothing after	la fleur – deux<br>/la flœʁ/ · /dø/	en-fr
+There are flowers in the garden.	Il y a des fleurs dans le jardin.<br>/il j a de flœʁ dɑ̃ lə ʒaʁdɛ̃/	en-fr
+I am giving my mother a bunch of flowers.	J'offre un bouquet de fleurs à ma mère.<br>/ʒɔfʁ œ̃ bukɛ də flœʁ a ma mɛʁ/	en-fr
+The flowers are on the kitchen table.	Les fleurs sont sur la table de la cuisine.<br>/le flœʁ sɔ̃ syʁ la tabl də la kɥizin/	en-fr
+My sister buys flowers at the florist's.	Ma sœur achète des fleurs chez le fleuriste.<br>/ma sœʁ aʃɛt de flœʁ ʃe lə flœʁist/	en-fr
+Roses are the flowers I like best.	Les roses sont les fleurs que je préfère.<br>/le ʁoz sɔ̃ le flœʁ kə ʒə pʁefɛʁ/	en-fr
+There are no flowers in winter.	Il n'y a pas de fleurs en hiver.<br>/il nj a pa də flœʁ ɑ̃n‿ivɛʁ/	en-fr
+The trees are in bloom in spring.	Les arbres sont en fleurs au printemps.<br>/lez‿aʁbʁ sɔ̃t‿ɑ̃ flœʁ o pʁɛ̃tɑ̃/	en-fr
+We are picking pretty flowers for Mother's Day.	Nous cueillons de jolies fleurs pour la fête des mères.<br>/nu kœjɔ̃ də ʒɔli flœʁ puʁ la fɛt de mɛʁ/	en-fr
+Put the flowers in a vase with water.	Mets les fleurs dans un vase avec de l'eau.<br>/mɛ le flœʁ dɑ̃z‿œ̃ vɑz avɛk də lo/	en-fr
+These flowers have wilted.	Ces fleurs sont fanées.<br>/se flœʁ sɔ̃ fane/	en-fr
+A red flower is growing in front of the window.	Une fleur rouge pousse devant la fenêtre.<br>/yn flœʁ ʁuʒ pus dəvɑ̃ la fənɛtʁ/	en-fr

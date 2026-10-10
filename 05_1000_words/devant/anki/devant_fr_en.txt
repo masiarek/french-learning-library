@@ -1,0 +1,57 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::devant — in front of
+#tags:french 1000words devant fr-en
+#columns:Front	Back	Tags
+#tags column:3
+devant<br>/dəvɑ̃/	(prep.) in front of, before; ahead of	fr-en
+Il y a une voiture devant la maison.<br>/il j a yn vwatyʁ dəvɑ̃ la mɛzɔ̃/	There is a car in front of the house.	fr-en
+devant la maison<br>/dəvɑ̃ la mɛzɔ̃/	in front of the house	fr-en
+devant la porte<br>/dəvɑ̃ la pɔʁt/	in front of the door	fr-en
+devant la fenêtre<br>/dəvɑ̃ la fənɛtʁ/	in front of the window	fr-en
+devant le bureau<br>/dəvɑ̃ lə byʁo/	in front of the desk	fr-en
+devant moi, devant toi, devant nous<br>/dəvɑ̃ mwa, dəvɑ̃ twa, dəvɑ̃ nu/	in front of me, of you, of us	fr-en
+devant tout le monde<br>/dəvɑ̃ tu lə mɔ̃d/	in front of everybody	fr-en
+derrière la maison<br>/dɛʁjɛʁ la mɛzɔ̃/	behind the house	fr-en
+devant la gare – avant la gare<br>/dəvɑ̃ la ɡaʁ/ · /avɑ̃ la ɡaʁ/	in front of the station – before the station, on the way	fr-en
+avant le dîner, après le dîner<br>/avɑ̃ lə dine, apʁɛ lə dine/	before dinner, after dinner	fr-en
+devant, derrière – avant, après<br>/dəvɑ̃, dɛʁjɛʁ/ · /avɑ̃, apʁɛ/	space – time	fr-en
+Il attend devant la gare.<br>/il atɑ̃ dəvɑ̃ la ɡaʁ/	He is waiting in front of the station.	fr-en
+La boulangerie est en face de la gare.<br>/la bulɑ̃ʒʁi ɛ(t)‿ɑ̃ fas də la ɡaʁ/	The bakery is opposite the station.	fr-en
+Il est devant.<br>/il ɛ dəvɑ̃/	He is in front.	fr-en
+droit devant<br>/dʁwa dəvɑ̃/	straight ahead	fr-en
+par devant<br>/paʁ dəvɑ̃/	from the front	fr-en
+le devant de la maison<br>/lə dəvɑ̃ də la mɛzɔ̃/	the front of the house	fr-en
+la porte de devant<br>/la pɔʁt də dəvɑ̃/	the front door	fr-en
+les pattes de devant<br>/le pat də dəvɑ̃/	the front paws	fr-en
+passer devant<br>/pase dəvɑ̃/	to go past; to go first	fr-en
+passer devant tout le monde<br>/pase dəvɑ̃ tu lə mɔ̃d/	to jump the queue	fr-en
+regarder droit devant soi<br>/ʁəɡaʁde dʁwa dəvɑ̃ swa/	to look straight ahead	fr-en
+prendre les devants<br>/pʁɑ̃dʁ le dəvɑ̃/	to take the initiative	fr-en
+aller au-devant de quelqu'un<br>/ale odəvɑ̃ də kɛlkœ̃/	to go to meet someone	fr-en
+devant témoins<br>/dəvɑ̃ temwɛ̃/	before witnesses	fr-en
+devant la loi<br>/dəvɑ̃ la lwa/	before the law	fr-en
+devant le danger<br>/dəvɑ̃ lə dɑ̃ʒe/	in the face of danger	fr-en
+devant partir<br>/dəvɑ̃ paʁtiʁ/	having to leave: the participle of devoir	fr-en
+La voiture est devant la maison.<br>/la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃/	The car is in front of the house.	fr-en
+Il y a une chaise devant le bureau.<br>/il j a yn ʃɛz dəvɑ̃ lə byʁo/	There is a chair in front of the desk.	fr-en
+Je t'attends devant le cinéma.<br>/ʒə tatɑ̃ dəvɑ̃ lə sinema/	I'll wait for you in front of the cinema.	fr-en
+Ne reste pas devant la télévision toute la journée.<br>/nə ʁɛst pa dəvɑ̃ la televizjɔ̃ tut la ʒuʁne/	Don't stay in front of the television all day.	fr-en
+Qui est devant toi dans la file ?<br>/ki ɛ dəvɑ̃ twa dɑ̃ la fil/	Who is ahead of you in the queue?	fr-en
+Le chat est assis devant la porte.<br>/lə ʃa ɛ(t)‿asi dəvɑ̃ la pɔʁt/	The cat is sitting in front of the door.	fr-en
+Regarde devant toi !<br>/ʁəɡaʁd dəvɑ̃ twa/	Look where you're going!	fr-en
+Elle a dit ça devant tout le monde.<br>/ɛl a di sa dəvɑ̃ tu lə mɔ̃d/	She said that in front of everybody.	fr-en
+Le jardin est devant, pas derrière.<br>/lə ʒaʁdɛ̃ ɛ dəvɑ̃, pa dɛʁjɛʁ/	The garden is at the front, not at the back.	fr-en
+Nous sommes arrivés avant toi, et nous sommes devant toi.<br>/nu sɔmz‿aʁive avɑ̃ twa, e nu sɔm dəvɑ̃ twa/	We arrived before you, and we are ahead of you.	fr-en
+La voiture est ________ la maison.<br>(AI exercise: devant or derrière?)	/la vwatyʁ ɛ [dəvɑ̃] la mɛzɔ̃/<br>The car is in front of the house.	exercise
+Le jardin est ________ la maison.<br>(AI exercise: devant or derrière?)	/lə ʒaʁdɛ̃ ɛ [dɛʁjɛʁ] la mɛzɔ̃/<br>The garden is behind the house.	exercise
+Le chat se cache ________ le canapé.<br>(AI exercise: devant or derrière?)	/lə ʃa sə kaʃ [dɛʁjɛʁ] lə kanape/<br>The cat is hiding behind the sofa.	exercise
+Il y a une chaise ________ le bureau.<br>(AI exercise: devant or derrière?)	/il j a yn ʃɛz [dəvɑ̃] lə byʁo/<br>There is a chair in front of the desk.	exercise
+Je t'attends ________ la gare.<br>(AI exercise: devant or avant?)	/ʒə tatɑ̃ [dəvɑ̃] la ɡaʁ/<br>I'll wait for you in front of the station.	exercise
+Je rentre ________ le dîner.<br>(AI exercise: devant or avant?)	/ʒə ʁɑ̃tʁ [avɑ̃] lə dine/<br>I'm coming home before dinner.	exercise
+Lave-toi les mains ________ de manger.<br>(AI exercise: devant or avant?)	/lavtwa le mɛ̃ [avɑ̃] də mɑ̃ʒe/<br>Wash your hands before eating.	exercise
+Il est ________ moi dans la file.<br>(AI exercise: devant or avant?)	/il ɛ [dəvɑ̃] mwa dɑ̃ la fil/<br>He is ahead of me in the queue.	exercise
+La chaise est ________ bureau.<br>(AI exercise: devant, en face de or à côté de?)	/la ʃɛz ɛ [a kote dy] byʁo/<br>The chair is next to the desk.	exercise
+La boulangerie est ________ la gare.<br>(AI exercise: devant, en face de or à côté de?)	/la bulɑ̃ʒʁi ɛ [ɑ̃ fas də] la ɡaʁ/<br>The bakery is opposite the station.	exercise
+La voiture est ________ la maison.<br>(AI exercise: devant, en face de or à côté de?)	/la vwatyʁ ɛ [dəvɑ̃] la mɛzɔ̃/<br>The car is in front of the house.	exercise
