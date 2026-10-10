@@ -172,10 +172,10 @@ Conventions: on the [chapter page](../README.md).
 
 Mine, not the teacher's. Notes first, then each word of the lesson in set phrases, the lesson's words in new sentences, a few new words, and two exercises with the answers.
 
-- *La chambre* is a bedroom. A room in general is *la pièce* (the worksheet says it: *la pièce où on prépare les repas*). *La salle* is a large or shared room: *la salle à manger, la salle de bains, la salle de classe*.
+- *La chambre* is a bedroom. A room in general is *la pièce* (the worksheet says it: *la pièce où on prépare les repas*). *La salle* is a large or shared room: *la salle à manger, la salle de bains, la salle de classe*. The word has a page of its own, [une pièce](../../05_1000_words/piece/README.md) /yn pjɛs/, with its other senses (a coin, a play, a part, a document) and the way an advertisement counts the rooms of a flat: *un trois-pièces* /œ̃ tʁwa pjɛs/ is a living room and two bedrooms, the kitchen and the bathroom apart. The rooms the worksheet leaves out are in the table below, under “Les autres pièces de la maison”.
 - *Le bureau* is the desk and also the office: *il travaille dans un bureau*.
 - *La salle de bains* with a plural *bains* is what most books print; Szypowska's lesson 4 has *la salle de bain*. Both are seen.
-- *Il y a* never changes its form: *il y a un lit, il y a des lits*. The question is *est-ce qu'il y a … ?* or *y a-t-il … ?*, the negative *il n'y a pas de …*, and *il y en a un* says "there is one".
+- [*Il y a*](../../05_1000_words/avoir/README.md) never changes its form: *il y a un lit, il y a des lits*. The question is *est-ce qu'il y a … ?* or *y a-t-il … ?*, the negative *il n'y a pas de …*, and *il y en a un* says "there is one".
 - *Au premier étage* is the floor above the ground floor, *le rez-de-chaussée*; an American "second floor".
 - *Joli* agrees: *un joli jardin, une jolie chambre*.
 
@@ -240,6 +240,23 @@ Mine, not the teacher's. Notes first, then each word of the lesson in set phrase
 | ouvert, ouverte | open<br>otwarty, otwarta | /uvɛʁ, uvɛʁt/ |
 | fermé, fermée | closed<br>zamknięty, zamknięta | /fɛʁme/ |
 | rouge | red<br>czerwony | /ʁuʒ/ |
+| **Les autres pièces de la maison** | **The other rooms of the house, from an AI note checked below**<br>Inne pomieszczenia domu | /lez‿otʁ pjɛs də la mɛzɔ̃/ |
+| le séjour | the living room, on a floor plan and in an advertisement<br>pokój dzienny | /lə seʒuʁ/ |
+| le bureau | the study, as a room<br>gabinet | /lə byʁo/ |
+| le couloir | the corridor, the hallway<br>korytarz | /lə kulwaʁ/ |
+| l’entrée | the entrance hall<br>przedpokój | /lɑ̃tʁe/ |
+| le grenier | the attic<br>strych | /lə ɡʁənje/ |
+| la cave | the cellar<br>piwnica | /la kav/ |
+| le sous-sol | the basement<br>podziemie, kondygnacja podziemna | /lə susɔl/ |
+| le balcon | the balcony<br>balkon | /lə balkɔ̃/ |
+| la terrasse | the terrace, the patio<br>taras | /la tɛʁas/ |
+| la buanderie | the laundry room<br>pralnia | /la byɑ̃dʁi/ |
+| le cellier | the storeroom, for food and wine<br>spiżarnia | /lə selje/ |
+| le débarras | the box room<br>schowek, graciarnia | /lə debaʁa/ |
+| le palier | the landing<br>podest, półpiętro | /lə palje/ |
+| le placard | the built-in cupboard<br>szafa wnękowa | /lə plakaʁ/ |
+| les pièces principales | the main rooms, the ones an advertisement counts<br>pokoje, liczone w ogłoszeniu | /le pjɛs pʁɛ̃sipal/ |
+| un trois-pièces, un T3 | a flat with a living room and two bedrooms<br>mieszkanie trzypokojowe | /œ̃ tʁwa pjɛs, œ̃ te tʁwa/ |
 | **AI exercise: answer about your own home** | **(model answers after →)**<br>Odpowiedz o swoim domu | |
 | Combien de pièces y a-t-il chez toi ? | How many rooms are there at your place?<br>Ile pokoi jest u ciebie? | /kɔ̃bjɛ̃ də pjɛs jatil ʃe twa/ |
 | → Chez moi, il y a quatre pièces. | At my place there are four rooms.<br>U mnie są cztery pokoje. | /ʃe mwa, il j a katʁ pjɛs/ |
@@ -254,10 +271,28 @@ Mine, not the teacher's. Notes first, then each word of the lesson in set phrase
 | Le chat est ________ la table. | The cat is under the table.<br>Kot jest pod stołem. | /lə ʃa ɛ [su] la tabl/ |
 | Le fauteuil est ________ la fenêtre. | The armchair is next to the window.<br>Fotel jest obok okna. | /lə fotœj ɛ [a kote də] la fənɛtʁ/ |
 
+### An AI note on the rooms, checked
+
+The owner sent a note from another AI assistant on *les pièces de la maison* /le pjɛs də la mɛzɔ̃/ on 2026-10-10: the rooms of the house with their articles, the other senses of *pièce* /pjɛs/, and the way an advertisement counts rooms. The rooms it names are in the table above, and the word has its page, [une pièce](../../05_1000_words/piece/README.md). The claims, one by one:
+
+| Claim | Verdict | How sure | Why |
+|---|---|---|---|
+| *Pièce* /pjɛs/ is *room* in a house, and *les pièces de la maison* the rooms of the house | right | high | the worksheet's own heading; Le Robert from memory; open-dict-data's *ipa-dict* gives /pjɛs/ for both *pièce* and *pièces* |
+| It also means a piece, a coin (*pièce de monnaie* /pjɛs də mɔnɛ/) and a play | right, and short | high | add a part, *une pièce détachée* /yn pjɛs detaʃe/; a document, *une pièce d'identité* /yn pjɛs didɑ̃tite/, *une pièce jointe* /yn pjɛs ʒwɛ̃t/; and *each*, *deux euros pièce* /døz‿øʁo pjɛs/. The word page has them |
+| In a house it “strictly” means a room | nearly | medium-high | the plumber's bill for the same house still says *pièces* /pjɛs/ for parts, and *une pièce d'eau* /yn pjɛs do/ in the garden is a pond; in a sentence about the flat itself, a room, yes |
+| The nine rooms with their articles: *le salon, la salle à manger, la cuisine, la chambre (à coucher), la salle de bains, les toilettes, le bureau, le couloir, l'entrée* | all right | high | genders from memory and the lesson's rows; *l'entrée* /lɑ̃tʁe/ hides a feminine, *une entrée* /yn‿ɑ̃tʁe/; the note gave no pronunciation, the tables above do |
+| The six outside and below: *le grenier, la cave, le garage, le balcon, la terrasse, le jardin* | right, one gloss too wide | high | *la cave* /la kav/ is the cellar, a room; the basement as a floor is *le sous-sol* /lə susɔl/ |
+| Advertisements count *pièces principales* /pjɛs pʁɛ̃sipal/, and a “3 pièces” is a living room and two bedrooms, kitchen and bathroom not counted | right | high | the housing code's split into *pièces principales* and *pièces de service* /pjɛs də sɛʁvis/, from memory; the count is what every listing shows |
+| The number is “often shortened to the number followed by P” | partly | medium-high | *T3* /te tʁwa/ is the usual label, *F3* /ɛf tʁwa/ the older one still seen, *3P* on some sites; all three say the same |
+| Not in the note: the plural *pièces* /pjɛs/ sounds like the singular; the gender; *la place* /la plas/ for *room* as space; *le séjour* /lə seʒuʁ/ for the living room on a plan | added | high | on the word page; and the Polish count works the same way, *mieszkanie trzypokojowe* is a flat of three *pièces* /pjɛs/ with the kitchen apart, from memory |
+
 ## See also
 
 - [Yosser (teacher)](../README.md) — the chapter this lesson opens
+- [une pièce](../../05_1000_words/piece/README.md) — the word behind *les pièces de la maison* /le pjɛs də la mɛzɔ̃/: its other senses, *la pièce* /la pjɛs/ against *la chambre, la salle* /la ʃɑ̃bʁ, la sal/ and *la place* /la plas/, and how an advertisement counts rooms
+- [avoir](../../05_1000_words/avoir/README.md) — the verb behind *il y a* /il j a/: the present, *il n’y a pas de* /il nja pa də/, and the other places where English says *to be*
+- [être](../../05_1000_words/etre/README.md) — the *est* /ɛ/ of *ma maison est belle* /ma mɛzɔ̃ ɛ bɛl/ and of the prepositions of place, *le livre est sur le bureau* /lə livʁ ɛ syʁ lə byʁo/: the whole verb, with *c’est* /sɛ/ against *il est* /il ɛ/
 - [English and French in the IPA](../../01_Sounds/ipa_english_vs_french/README.md) — the inventory the program checks against, and the Assimil dialogue read the same way
 - [Szypowska (Polish material)](../../03_Szypowska/README.md) — the textbook chapter, where lesson 4 shows the same rooms of a flat in French and Polish
 - [Glossary](../../GLOSSARY.md) — liaison, e muet, nasal vowel
-- Le Robert, *Dictionnaire de la langue française*, pronunciation key, from memory
+- Le Robert, *Dictionnaire de la langue française*, pronunciation key, from memory; open-dict-data's *ipa-dict* for the rooms added on 2026-10-10

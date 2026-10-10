@@ -107,6 +107,7 @@ Conventions: on the [chapter page](../README.md).
 - [aller](../aller/README.md) and [venir](../venir/README.md) — the two verbs that take *être* in the compound tenses, and *aller* for health
 - [tout](../tout/README.md) — *Tout homme est mortel*, the app’s example there
 - [Le son ɛ](../../04_Pronunciation/son_e_ouvert/README.md) — /ɛ/ against /e/, *est* against *et*, and *être* itself
+- [Lesson 1: La maison](../../02_Yosser_teacher/lesson_01_la_maison/README.md) — *est* /ɛ/ in a worksheet: *ma maison est belle* /ma mɛzɔ̃ ɛ bɛl/, *ma chambre est au premier étage* /ma ʃɑ̃bʁ ɛ o pʁəmjɛʁ‿etaʒ/, and the prepositions of place, *le livre est sur le bureau* /lə livʁ ɛ syʁ lə byʁo/; [its reading page](../../02_Yosser_teacher/lesson_01_lecture_ma_maison/README.md) has each sentence with its IPA, to read aloud
 - [Lesson 5: Dialogue](../../03_Szypowska/lecon_05_dialogue/README.md) — *avoir* in the present, the negative and the question
 - [Lesson 6: En visite](../../03_Szypowska/lecon_06_en_visite/README.md) — adjective agreement, *généreux, généreuse*
 - [Glossary](../../GLOSSARY.md) — auxiliary, passé simple, past participle, subjunctive

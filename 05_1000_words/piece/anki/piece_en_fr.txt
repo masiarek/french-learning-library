@@ -1,0 +1,81 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une pièce — a room, a piece, a coin
+#tags:french 1000words piece en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(n.f.) room; piece, part; coin; play; document	une pièce<br>/yn pjɛs/	en-fr
+This flat has three rooms.	Cet appartement a trois pièces.<br>/sɛt‿apaʁtəmɑ̃ a tʁwa pjɛs/	en-fr
+the living room, on a floor plan	le séjour, la salle de séjour<br>/lə seʒuʁ, la sal də seʒuʁ/	en-fr
+the living room, the sitting room	le salon<br>/lə salɔ̃/	en-fr
+the dining room	la salle à manger<br>/la sal a mɑ̃ʒe/	en-fr
+the bedroom	la chambre, la chambre à coucher<br>/la ʃɑ̃bʁ, la ʃɑ̃bʁ a kuʃe/	en-fr
+the guest room	la chambre d'amis<br>/la ʃɑ̃bʁ dami/	en-fr
+the study, when it is a room of its own	le bureau<br>/lə byʁo/	en-fr
+the kitchen	la cuisine<br>/la kɥizin/	en-fr
+the bathroom	la salle de bains<br>/la sal də bɛ̃/	en-fr
+the shower room	la salle d'eau<br>/la sal do/	en-fr
+the toilet	les toilettes, les W.-C.<br>/le twalɛt, le vese/	en-fr
+the laundry room	la buanderie<br>/la byɑ̃dʁi/	en-fr
+the storeroom, for food and wine	le cellier<br>/lə selje/	en-fr
+the box room, the junk room	le débarras<br>/lə debaʁa/	en-fr
+the built-in cupboard	le placard<br>/lə plakaʁ/	en-fr
+the entrance hall	l'entrée<br>/lɑ̃tʁe/	en-fr
+the corridor, the hallway	le couloir<br>/lə kulwaʁ/	en-fr
+the staircase, the landing	l'escalier, le palier<br>/lɛskalje, lə palje/	en-fr
+the cellar	la cave<br>/la kav/	en-fr
+the basement	le sous-sol<br>/lə susɔl/	en-fr
+the attic	le grenier<br>/lə ɡʁənje/	en-fr
+the garage	le garage<br>/lə ɡaʁaʒ/	en-fr
+the balcony, the terrace	le balcon, la terrasse<br>/lə balkɔ̃, la tɛʁas/	en-fr
+the garden, the courtyard	le jardin, la cour<br>/lə ʒaʁdɛ̃, la kuʁ/	en-fr
+a one-room flat, with a kitchen corner	un studio<br>/œ̃ stydjo/	en-fr
+a one-bedroom flat: a living room and a bedroom	un deux-pièces, un T2<br>/œ̃ dø pjɛs, œ̃ te dø/	en-fr
+a two-bedroom flat: a living room and two bedrooms	un trois-pièces, un T3<br>/œ̃ tʁwa pjɛs, œ̃ te tʁwa/	en-fr
+a four-room flat	un appartement de quatre pièces<br>/œ̃n‿apaʁtəmɑ̃ də katʁ pjɛs/	en-fr
+an open-plan kitchen	une cuisine ouverte, une cuisine américaine<br>/yn kɥizin uvɛʁt, yn kɥizin ameʁikɛn/	en-fr
+on one level	de plain-pied<br>/də plɛ̃ pje/	en-fr
+a coin	une pièce de monnaie<br>/yn pjɛs də mɔnɛ/	en-fr
+a two-euro coin	une pièce de deux euros<br>/yn pjɛs də døz‿øʁo/	en-fr
+coins and notes	les pièces et les billets<br>/le pjɛs e le bijɛ/	en-fr
+a play	une pièce de théâtre<br>/yn pjɛs də teatʁ/	en-fr
+a play in three acts	une pièce en trois actes<br>/yn pjɛs ɑ̃ tʁwaz‿akt/	en-fr
+to stage a play	monter une pièce<br>/mɔ̃te yn pjɛs/	en-fr
+a piece for piano	une pièce pour piano<br>/yn pjɛs puʁ pjano/	en-fr
+a spare part	une pièce détachée, une pièce de rechange<br>/yn pjɛs detaʃe, yn pjɛs də ʁəʃɑ̃ʒ/	en-fr
+a length of cloth	une pièce de tissu<br>/yn pjɛs də tisy/	en-fr
+a cut of meat	une pièce de viande<br>/yn pjɛs də vjɑ̃d/	en-fr
+an identity document	une pièce d'identité<br>/yn pjɛs didɑ̃tite/	en-fr
+an attachment	une pièce jointe<br>/yn pjɛs ʒwɛ̃t/	en-fr
+the papers in the file	les pièces du dossier<br>/le pjɛs dy dosje/	en-fr
+a supporting document, a receipt	une pièce justificative<br>/yn pjɛs ʒystifikativ/	en-fr
+an exhibit, in court	une pièce à conviction<br>/yn pjɛs a kɔ̃viksjɔ̃/	en-fr
+two euros each	deux euros pièce<br>/døz‿øʁo pjɛs/	en-fr
+sold singly	vendu à la pièce<br>/vɑ̃dy a la pjɛs/	en-fr
+to tear to pieces	mettre en pièces<br>/mɛtʁ ɑ̃ pjɛs/	en-fr
+to make up entirely	inventer de toutes pièces<br>/ɛ̃vɑ̃te də tut pjɛs/	en-fr
+all of a piece, blunt	tout d'une pièce<br>/tu dyn pjɛs/	en-fr
+the centrepiece	la pièce maîtresse<br>/la pjɛs mɛtʁɛs/	en-fr
+a tiered wedding cake	une pièce montée<br>/yn pjɛs mɔ̃te/	en-fr
+a one-off	une pièce unique<br>/yn pjɛs ynik/	en-fr
+a one-piece swimsuit, a bikini	un maillot une pièce, un deux-pièces<br>/œ̃ majo yn pjɛs, œ̃ dø pjɛs/	en-fr
+a three-piece suit	un costume trois-pièces<br>/œ̃ kɔstym tʁwa pjɛs/	en-fr
+the room – the rooms: the s is silent	la pièce – les pièces<br>/la pjɛs/ · /le pjɛs/	en-fr
+the room – the niece	la pièce – la nièce<br>/la pjɛs/ · /la njɛs/	en-fr
+the room – the trap: /s/ against /ʒ/	la pièce – le piège<br>/la pjɛs/ · /lə pjɛʒ/	en-fr
+the room – the stone	la pièce – la pierre<br>/la pjɛs/ · /la pjɛʁ/	en-fr
+the room – the foot: open /ɛ/ against closed /e/	la pièce – le pied<br>/la pjɛs/ · /lə pje/	en-fr
+the room – room as space, the seat, the square	la pièce – la place<br>/la pjɛs/ · /la plas/	en-fr
+Our flat has four rooms: a living room, two bedrooms and a study.	Notre appartement a quatre pièces : un séjour, deux chambres et un bureau.<br>/nɔtʁ apaʁtəmɑ̃ a katʁ pjɛs : œ̃ seʒuʁ, dø ʃɑ̃bʁ e œ̃ byʁo/	en-fr
+The kitchen does not count as a room in an advertisement.	La cuisine ne compte pas comme une pièce dans une annonce.<br>/la kɥizin nə kɔ̃t pa kɔm yn pjɛs dɑ̃z‿yn‿anɔ̃s/	en-fr
+It is a two-bedroom flat on the second floor, with a balcony.	C'est un trois-pièces au deuxième étage, avec un balcon.<br>/sɛt‿œ̃ tʁwa pjɛs o døzjɛm etaʒ, avɛk œ̃ balkɔ̃/	en-fr
+This room is dark, it looks onto the courtyard.	Cette pièce est sombre, elle donne sur la cour.<br>/sɛt pjɛs ɛ sɔ̃bʁ, ɛl dɔn syʁ la kuʁ/	en-fr
+Which is the biggest room in the house?	Quelle est la plus grande pièce de la maison ?<br>/kɛl ɛ la ply ɡʁɑ̃d pjɛs də la mɛzɔ̃/	en-fr
+He paid with a two-euro coin.	Il a payé avec une pièce de deux euros.<br>/il a peje avɛk yn pjɛs də døz‿øʁo/	en-fr
+We saw a play by Molière at the theatre.	Nous avons vu une pièce de Molière au théâtre.<br>/nuz‿avɔ̃ vy yn pjɛs də mɔljɛʁ o teatʁ/	en-fr
+Don't forget the attachment!	N'oubliez pas la pièce jointe !<br>/nublije pa la pjɛs ʒwɛ̃t/	en-fr
+Do you have an identity document?	Vous avez une pièce d'identité ?<br>/vuz‿ave yn pjɛs didɑ̃tite/	en-fr
+The croissants are one euro each.	Les croissants sont à un euro pièce.<br>/le kʁwasɑ̃ sɔ̃ a œ̃n‿øʁo pjɛs/	en-fr
+The mechanic is waiting for a spare part.	Le mécanicien attend une pièce détachée.<br>/lə mekanisjɛ̃ atɑ̃ yn pjɛs detaʃe/	en-fr
+He made that story up from nothing.	Il a inventé cette histoire de toutes pièces.<br>/il a ɛ̃vɑ̃te sɛt istwaʁ də tut pjɛs/	en-fr
