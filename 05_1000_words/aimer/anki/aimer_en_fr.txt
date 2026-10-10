@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::aimer — to like, to love
+#tags:french 1000words aimer en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(v.) to like; to love	aimer<br>/eme/	en-fr
+I like my house a lot.	J'aime beaucoup ma maison.<br>/ʒɛm boku ma mɛzɔ̃/	en-fr
+I like, I love	j'aime<br>/ʒɛm/	en-fr
+you like	tu aimes<br>/ty ɛm/	en-fr
+he likes, she likes	il aime, elle aime<br>/il ɛm, ɛl ɛm/	en-fr
+we like	nous aimons<br>/nuz‿emɔ̃/	en-fr
+you like (2)	vous aimez<br>/vuz‿eme/	en-fr
+they like	ils aiment, elles aiment<br>/ilz‿ɛm, ɛlz‿ɛm/	en-fr
+I liked, I have loved	j'ai aimé<br>/ʒe eme/	en-fr
+I used to like, I loved	j'aimais<br>/ʒɛmɛ/	en-fr
+I will like – I would like	j'aimerai – j'aimerais<br>/ʒɛməʁe/ · /ʒɛməʁɛ/	en-fr
+they love each other	ils s'aiment<br>/il sɛm/	en-fr
+I hate the cold.	Je déteste le froid.<br>/ʒə detɛst lə fʁwa/	en-fr
+I don't like coffee.	Je n'aime pas le café.<br>/ʒə nɛm pa lə kafe/	en-fr
+I quite like this film.	J'aime bien ce film.<br>/ʒɛm bjɛ̃ sə film/	en-fr
+I like chocolate.	J'aime le chocolat.<br>/ʒɛm lə ʃɔkɔla/	en-fr
+I love Paris.	J'adore Paris.<br>/ʒadɔʁ paʁi/	en-fr
+I love you.	Je t'aime.<br>/ʒə tɛm/	en-fr
+I like you, as a friend.	Je t'aime bien.<br>/ʒə tɛm bjɛ̃/	en-fr
+I love him, I love her.	Je l'aime.<br>/ʒə lɛm/	en-fr
+I like coffee, tea, wine.	J'aime le café, le thé, le vin.<br>/ʒɛm lə kafe, lə te, lə vɛ̃/	en-fr
+She likes music.	Elle aime la musique.<br>/ɛl ɛm la myzik/	en-fr
+We like cats.	Nous aimons les chats.<br>/nuz‿emɔ̃ le ʃa/	en-fr
+I like reading in bed.	J'aime lire au lit.<br>/ʒɛm liʁ o li/	en-fr
+He likes sleeping late.	Il aime dormir tard.<br>/il ɛm dɔʁmiʁ taʁ/	en-fr
+I would like a coffee, please.	J'aimerais un café, s'il vous plaît.<br>/ʒɛməʁɛ œ̃ kafe, sil vu plɛ/	en-fr
+I would like to visit Paris.	J'aimerais visiter Paris.<br>/ʒɛməʁɛ vizite paʁi/	en-fr
+I'd love to!	J'aimerais bien !<br>/ʒɛməʁɛ bjɛ̃/	en-fr
+I would like you to come.	J'aimerais que tu viennes.<br>/ʒɛməʁɛ kə ty vjɛn/	en-fr
+I prefer tea.	J'aime mieux le thé.<br>/ʒɛm mjø lə te/	en-fr
+I prefer tea to coffee.	Je préfère le thé au café.<br>/ʒə pʁefɛʁ lə te o kafe/	en-fr
+I like it.	Ça me plaît.<br>/sa mə plɛ/	en-fr
+please	s'il vous plaît, s'il te plaît<br>/sil vu plɛ, sil tə plɛ/	en-fr
+love, my love	l'amour, mon amour<br>/lamuʁ, mɔ̃n‿amuʁ/	en-fr
+in love	amoureux, amoureuse<br>/amuʁø, amuʁøz/	en-fr
+to fall in love with	tomber amoureux de<br>/tɔ̃be amuʁø də/	en-fr
+kind, nice	aimable<br>/ɛmabl/	en-fr
+a friend, friendship	un ami, une amie, l'amitié<br>/œ̃n‿ami, yn ami, lamitje/	en-fr
+to love – loved – you love: three spellings, one sound	aimer – aimé – aimez<br>/eme/ · /eme/ · /eme/	en-fr
+four forms, one sound /ɛm/	aime – aimes – aiment<br>/ɛm/	en-fr
+/e/ at the end, /ɛ/ at the end: the imparfait	aimer – aimé – aimais<br>/eme/ · /eme/ · /ɛmɛ/	en-fr
+I like my house because it is big.	J'aime ma maison parce qu'elle est grande.<br>/ʒɛm ma mɛzɔ̃ paʁs kɛl ɛ ɡʁɑ̃d/	en-fr
+Do you like coffee?	Tu aimes le café ?<br>/ty ɛm lə kafe/	en-fr
+She likes reading in bed very much.	Elle aime beaucoup lire au lit.<br>/ɛl ɛm boku liʁ o li/	en-fr
+We like our teacher.	Nous aimons bien notre professeur.<br>/nuz‿emɔ̃ bjɛ̃ nɔtʁ pʁɔfɛsœʁ/	en-fr
+Do you like French music?	Vous aimez la musique française ?<br>/vuz‿eme la myzik fʁɑ̃sɛz/	en-fr
+The children like playing in the garden.	Les enfants aiment jouer dans le jardin.<br>/lez‿ɑ̃fɑ̃ ɛm ʒwe dɑ̃ lə ʒaʁdɛ̃/	en-fr
+I don't like big cities.	Je n'aime pas les grandes villes.<br>/ʒə nɛm pa le ɡʁɑ̃d vil/	en-fr
+I would like to live in Paris.	J'aimerais habiter à Paris.<br>/ʒɛməʁɛ abite a paʁi/	en-fr
+When I was little, I loved trains.	Quand j'étais petit, j'aimais les trains.<br>/kɑ̃ ʒetɛ pəti, ʒɛmɛ le tʁɛ̃/	en-fr
+I love you, but only as a friend.	Je t'aime, mais je t'aime bien seulement.<br>/ʒə tɛm, mɛ ʒə tɛm bjɛ̃ sœlmɑ̃/	en-fr

@@ -1,0 +1,82 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::un jardin — a garden
+#tags:french 1000words jardin fr-en
+#columns:Front	Back	Tags
+#tags column:3
+un jardin<br>/œ̃ ʒaʁdɛ̃/	(n.m.) garden; park	fr-en
+Les enfants jouent dans le jardin.<br>/lez‿ɑ̃fɑ̃ ʒu dɑ̃ lə ʒaʁdɛ̃/	The children are playing in the garden.	fr-en
+un jardin, des jardins<br>/œ̃ ʒaʁdɛ̃, de ʒaʁdɛ̃/	a garden, gardens	fr-en
+jardiner<br>/ʒaʁdine/	to garden	fr-en
+le jardinage, faire du jardinage<br>/lə ʒaʁdinaʒ, fɛʁ dy ʒaʁdinaʒ/	gardening, to do some gardening	fr-en
+un jardinier, une jardinière<br>/œ̃ ʒaʁdinje, yn ʒaʁdinjɛʁ/	a gardener (a man, a woman)	fr-en
+une jardinière<br>/yn ʒaʁdinjɛʁ/	a window box, a planter	fr-en
+une jardinerie<br>/yn ʒaʁdinʁi/	a garden centre	fr-en
+je jardine, tu jardines, il jardine<br>/ʒə ʒaʁdin, ty ʒaʁdin, il ʒaʁdin/	I garden, you garden, he gardens	fr-en
+nous jardinons, vous jardinez, ils jardinent<br>/nu ʒaʁdinɔ̃, vu ʒaʁdine, il ʒaʁdin/	we garden, you garden, they garden	fr-en
+j'ai jardiné tout l'après-midi<br>/ʒe ʒaʁdine tu lapʁɛmidi/	I gardened all afternoon	fr-en
+un jardin public<br>/œ̃ ʒaʁdɛ̃ pyblik/	a public garden, a park	fr-en
+un jardin potager, un potager<br>/œ̃ ʒaʁdɛ̃ pɔtaʒe, œ̃ pɔtaʒe/	a vegetable garden	fr-en
+un jardin d'enfants<br>/œ̃ ʒaʁdɛ̃ dɑ̃fɑ̃/	a kindergarten	fr-en
+un jardin botanique<br>/œ̃ ʒaʁdɛ̃ bɔtanik/	a botanical garden	fr-en
+un jardin à la française<br>/œ̃ ʒaʁdɛ̃ a la fʁɑ̃sɛz/	a formal garden, with straight paths and clipped hedges	fr-en
+un jardin anglais<br>/œ̃ ʒaʁdɛ̃ ɑ̃ɡlɛ/	a landscape garden	fr-en
+le Jardin du Luxembourg, le Jardin des Plantes<br>/lə ʒaʁdɛ̃ dy lyksɑ̃buʁ, lə ʒaʁdɛ̃ de plɑ̃t/	the Luxembourg Garden, the Jardin des Plantes, two parks of Paris	fr-en
+un petit jardin, un grand jardin, un joli jardin<br>/œ̃ pəti ʒaʁdɛ̃, œ̃ ɡʁɑ̃ ʒaʁdɛ̃, œ̃ ʒɔli ʒaʁdɛ̃/	a small garden, a big garden, a pretty garden	fr-en
+un parc<br>/œ̃ paʁk/	a park	fr-en
+la pelouse, l'herbe<br>/la pəluz, lɛʁb/	the lawn, the grass	fr-en
+un arbre, des arbres<br>/œ̃n‿aʁbʁ, dez‿aʁbʁ/	a tree, trees	fr-en
+une fleur, des fleurs<br>/yn flœʁ, de flœʁ/	a flower, flowers	fr-en
+une haie, la haie, les haies<br>/yn ɛ, la ɛ, le ɛ/	a hedge, the hedge, the hedges: the h is aspirate, no liaison	fr-en
+une allée<br>/yn ale/	a path	fr-en
+un banc, une chaise de jardin, une table de jardin<br>/œ̃ bɑ̃, yn ʃɛz də ʒaʁdɛ̃, yn tabl də ʒaʁdɛ̃/	a bench, a garden chair, a garden table	fr-en
+un arrosoir<br>/œ̃n‿aʁozwaʁ/	a watering can	fr-en
+les légumes<br>/le leɡym/	the vegetables	fr-en
+un mur, un portail<br>/œ̃ myʁ, œ̃ pɔʁtaj/	a wall, a gate	fr-en
+arroser les fleurs<br>/aʁoze le flœʁ/	to water the flowers	fr-en
+planter un arbre<br>/plɑ̃te œ̃n‿aʁbʁ/	to plant a tree	fr-en
+cueillir des fleurs, je cueille<br>/kœjiʁ de flœʁ, ʒə kœj/	to pick flowers, I pick	fr-en
+tondre la pelouse<br>/tɔ̃dʁ la pəluz/	to mow the lawn	fr-en
+les fleurs poussent<br>/le flœʁ pus/	the flowers grow	fr-en
+jouer dans le jardin<br>/ʒwe dɑ̃ lə ʒaʁdɛ̃/	to play in the garden	fr-en
+dans le jardin<br>/dɑ̃ lə ʒaʁdɛ̃/	in the garden	fr-en
+au jardin, aller au jardin<br>/o ʒaʁdɛ̃, ale o ʒaʁdɛ̃/	in the garden, to go into the garden	fr-en
+les légumes du jardin<br>/le leɡym dy ʒaʁdɛ̃/	the vegetables from the garden	fr-en
+la porte du jardin<br>/la pɔʁt dy ʒaʁdɛ̃/	the garden gate	fr-en
+au fond du jardin<br>/o fɔ̃ dy ʒaʁdɛ̃/	at the bottom of the garden	fr-en
+derrière la maison, devant la maison<br>/dɛʁjɛʁ la mɛzɔ̃, dəvɑ̃ la mɛzɔ̃/	behind the house, in front of the house	fr-en
+cultiver son jardin<br>/kyltive sɔ̃ ʒaʁdɛ̃/	to mind one's own small affairs	fr-en
+Il faut cultiver notre jardin.<br>/il fo kyltive nɔtʁ ʒaʁdɛ̃/	We must cultivate our garden: the last line of Candide	fr-en
+un jardin secret<br>/œ̃ ʒaʁdɛ̃ səkʁɛ/	a private world	fr-en
+côté jardin, côté cour<br>/kote ʒaʁdɛ̃, kote kuʁ/	stage left, stage right	fr-en
+jeter une pierre dans le jardin de quelqu'un<br>/ʒəte yn pjɛʁ dɑ̃ lə ʒaʁdɛ̃ də kɛlkœ̃/	to take a dig at someone	fr-en
+Il y a aussi un petit jardin.<br>/il j a osi œ̃ pəti ʒaʁdɛ̃/	There is also a small garden.	fr-en
+Est-ce qu'il y a un jardin ?<br>/ɛs kil j a œ̃ ʒaʁdɛ̃/	Is there a garden?	fr-en
+le jardin – jardiner<br>/lə ʒaʁdɛ̃/ · /ʒaʁdine/	the garden – to garden	fr-en
+le cousin – la cousine<br>/lə kuzɛ̃/ · /la kuzin/	the cousin, a man – a woman	fr-en
+le voisin – la voisine<br>/lə vwazɛ̃/ · /la vwazin/	the neighbour, a man – a woman	fr-en
+le matin, le vin, le pain, le chemin<br>/lə matɛ̃, lə vɛ̃, lə pɛ̃, lə ʃəmɛ̃/	the morning, the wine, the bread, the way	fr-en
+Il y a un petit jardin derrière la maison.<br>/il j a œ̃ pəti ʒaʁdɛ̃ dɛʁjɛʁ la mɛzɔ̃/	There is a small garden behind the house.	fr-en
+Ma mère arrose les fleurs du jardin.<br>/ma mɛʁ aʁoz le flœʁ dy ʒaʁdɛ̃/	My mother is watering the flowers in the garden.	fr-en
+Le chat dort au soleil dans le jardin.<br>/lə ʃa dɔʁ o sɔlɛj dɑ̃ lə ʒaʁdɛ̃/	The cat is sleeping in the sun in the garden.	fr-en
+Nous mangeons dans le jardin quand il fait beau.<br>/nu mɑ̃ʒɔ̃ dɑ̃ lə ʒaʁdɛ̃ kɑ̃t‿il fɛ bo/	We eat in the garden when the weather is fine.	fr-en
+Mon père jardine le dimanche.<br>/mɔ̃ pɛʁ ʒaʁdin lə dimɑ̃ʃ/	My father gardens on Sundays.	fr-en
+Il y a des légumes dans le potager.<br>/il j a de leɡym dɑ̃ lə pɔtaʒe/	There are vegetables in the vegetable garden.	fr-en
+Le dimanche, nous allons au Jardin du Luxembourg.<br>/lə dimɑ̃ʃ, nuz‿alɔ̃ o ʒaʁdɛ̃ dy lyksɑ̃buʁ/	On Sundays we go to the Luxembourg Garden.	fr-en
+La porte du jardin est ouverte.<br>/la pɔʁt dy ʒaʁdɛ̃ ɛ(t)‿uvɛʁt/	The garden gate is open.	fr-en
+Il n'y a pas de jardin, mais il y a un balcon.<br>/il nj a pa də ʒaʁdɛ̃, mɛ il j a œ̃ balkɔ̃/	There is no garden, but there is a balcony.	fr-en
+Les voisins ont un grand jardin avec des arbres.<br>/le vwazɛ̃ ɔ̃t‿œ̃ ɡʁɑ̃ ʒaʁdɛ̃ avɛk dez‿aʁbʁ/	The neighbours have a big garden with trees.	fr-en
+Je cueille des fleurs dans le jardin pour ma mère.<br>/ʒə kœj de flœʁ dɑ̃ lə ʒaʁdɛ̃ puʁ ma mɛʁ/	I am picking flowers in the garden for my mother.	fr-en
+Les enfants jouent ________ jardin.<br>(AI exercise: dans le, au, du …?)	/lez‿ɑ̃fɑ̃ ʒu [dɑ̃ lə] ʒaʁdɛ̃/<br>The children are playing in the garden.	exercise
+Les légumes ________ jardin sont bons.<br>(AI exercise: dans le, au, du …?)	/le leɡym [dy] ʒaʁdɛ̃ sɔ̃ bɔ̃/<br>The vegetables from the garden are good.	exercise
+Nous allons ________ Jardin du Luxembourg.<br>(AI exercise: dans le, au, du …?)	/nuz‿alɔ̃ [o] ʒaʁdɛ̃ dy lyksɑ̃buʁ/<br>We are going to the Luxembourg Garden.	exercise
+Il y a un banc ________ fond ________ jardin.<br>(AI exercise: dans le, au, du …?)	/il j a œ̃ bɑ̃ [o] fɔ̃ [dy] ʒaʁdɛ̃/<br>There is a bench at the bottom of the garden.	exercise
+Le ________ est derrière la maison.<br>(AI exercise: the nasal, or the n that is said?)	/lə [ʒaʁdɛ̃] ɛ dɛʁjɛʁ la mɛzɔ̃/<br>The garden is behind the house.	exercise
+Mon père aime ________.<br>(AI exercise: the nasal, or the n that is said?)	/mɔ̃ pɛʁ ɛm [ʒaʁdine]/<br>My father likes gardening. (the verb)	exercise
+Un ________ travaille dans le parc.<br>(AI exercise: the nasal, or the n that is said?)	/œ̃ [ʒaʁdinje] tʁavaj dɑ̃ lə paʁk/<br>A gardener is working in the park.	exercise
+Ma cousine ________ le samedi.<br>(AI exercise: the nasal, or the n that is said?)	/ma kuzin [ʒaʁdin] lə samdi/<br>My cousin gardens on Saturdays.	exercise
+________ jardin<br>(AI exercise: un or une?)	/[œ̃] ʒaʁdɛ̃/<br>a garden	exercise
+________ pelouse<br>(AI exercise: un or une?)	/[yn] pəluz/<br>a lawn	exercise
+________ arbre<br>(AI exercise: un or une?)	/[œ̃n]‿aʁbʁ/<br>a tree	exercise
+________ fleur<br>(AI exercise: un or une?)	/[yn] flœʁ/<br>a flower	exercise

@@ -1,0 +1,46 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::devant — in front of
+#tags:french 1000words devant en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(prep.) in front of, before; ahead of	devant<br>/dəvɑ̃/	en-fr
+There is a car in front of the house.	Il y a une voiture devant la maison.<br>/il j a yn vwatyʁ dəvɑ̃ la mɛzɔ̃/	en-fr
+in front of the house	devant la maison<br>/dəvɑ̃ la mɛzɔ̃/	en-fr
+in front of the door	devant la porte<br>/dəvɑ̃ la pɔʁt/	en-fr
+in front of the window	devant la fenêtre<br>/dəvɑ̃ la fənɛtʁ/	en-fr
+in front of the desk	devant le bureau<br>/dəvɑ̃ lə byʁo/	en-fr
+in front of me, of you, of us	devant moi, devant toi, devant nous<br>/dəvɑ̃ mwa, dəvɑ̃ twa, dəvɑ̃ nu/	en-fr
+in front of everybody	devant tout le monde<br>/dəvɑ̃ tu lə mɔ̃d/	en-fr
+behind the house	derrière la maison<br>/dɛʁjɛʁ la mɛzɔ̃/	en-fr
+in front of the station – before the station, on the way	devant la gare – avant la gare<br>/dəvɑ̃ la ɡaʁ/ · /avɑ̃ la ɡaʁ/	en-fr
+before dinner, after dinner	avant le dîner, après le dîner<br>/avɑ̃ lə dine, apʁɛ lə dine/	en-fr
+space – time	devant, derrière – avant, après<br>/dəvɑ̃, dɛʁjɛʁ/ · /avɑ̃, apʁɛ/	en-fr
+He is waiting in front of the station.	Il attend devant la gare.<br>/il atɑ̃ dəvɑ̃ la ɡaʁ/	en-fr
+The bakery is opposite the station.	La boulangerie est en face de la gare.<br>/la bulɑ̃ʒʁi ɛ(t)‿ɑ̃ fas də la ɡaʁ/	en-fr
+He is in front.	Il est devant.<br>/il ɛ dəvɑ̃/	en-fr
+straight ahead	droit devant<br>/dʁwa dəvɑ̃/	en-fr
+from the front	par devant<br>/paʁ dəvɑ̃/	en-fr
+the front of the house	le devant de la maison<br>/lə dəvɑ̃ də la mɛzɔ̃/	en-fr
+the front door	la porte de devant<br>/la pɔʁt də dəvɑ̃/	en-fr
+the front paws	les pattes de devant<br>/le pat də dəvɑ̃/	en-fr
+to go past; to go first	passer devant<br>/pase dəvɑ̃/	en-fr
+to jump the queue	passer devant tout le monde<br>/pase dəvɑ̃ tu lə mɔ̃d/	en-fr
+to look straight ahead	regarder droit devant soi<br>/ʁəɡaʁde dʁwa dəvɑ̃ swa/	en-fr
+to take the initiative	prendre les devants<br>/pʁɑ̃dʁ le dəvɑ̃/	en-fr
+to go to meet someone	aller au-devant de quelqu'un<br>/ale odəvɑ̃ də kɛlkœ̃/	en-fr
+before witnesses	devant témoins<br>/dəvɑ̃ temwɛ̃/	en-fr
+before the law	devant la loi<br>/dəvɑ̃ la lwa/	en-fr
+in the face of danger	devant le danger<br>/dəvɑ̃ lə dɑ̃ʒe/	en-fr
+having to leave: the participle of devoir	devant partir<br>/dəvɑ̃ paʁtiʁ/	en-fr
+The car is in front of the house.	La voiture est devant la maison.<br>/la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃/	en-fr
+There is a chair in front of the desk.	Il y a une chaise devant le bureau.<br>/il j a yn ʃɛz dəvɑ̃ lə byʁo/	en-fr
+I'll wait for you in front of the cinema.	Je t'attends devant le cinéma.<br>/ʒə tatɑ̃ dəvɑ̃ lə sinema/	en-fr
+Don't stay in front of the television all day.	Ne reste pas devant la télévision toute la journée.<br>/nə ʁɛst pa dəvɑ̃ la televizjɔ̃ tut la ʒuʁne/	en-fr
+Who is ahead of you in the queue?	Qui est devant toi dans la file ?<br>/ki ɛ dəvɑ̃ twa dɑ̃ la fil/	en-fr
+The cat is sitting in front of the door.	Le chat est assis devant la porte.<br>/lə ʃa ɛ(t)‿asi dəvɑ̃ la pɔʁt/	en-fr
+Look where you're going!	Regarde devant toi !<br>/ʁəɡaʁd dəvɑ̃ twa/	en-fr
+She said that in front of everybody.	Elle a dit ça devant tout le monde.<br>/ɛl a di sa dəvɑ̃ tu lə mɔ̃d/	en-fr
+The garden is at the front, not at the back.	Le jardin est devant, pas derrière.<br>/lə ʒaʁdɛ̃ ɛ dəvɑ̃, pa dɛʁjɛʁ/	en-fr
+We arrived before you, and we are ahead of you.	Nous sommes arrivés avant toi, et nous sommes devant toi.<br>/nu sɔmz‿aʁive avɑ̃ twa, e nu sɔm dəvɑ̃ twa/	en-fr

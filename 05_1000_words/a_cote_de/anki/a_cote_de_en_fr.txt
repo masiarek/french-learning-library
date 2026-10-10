@@ -1,0 +1,53 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::à côté de — next to
+#tags:french 1000words acotede en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(prep.) next to, beside; compared with	à côté de<br>/a kote də/	en-fr
+The chair is next to the desk.	La chaise est à côté du bureau.<br>/la ʃɛz ɛ(t)‿a kote dy byʁo/	en-fr
+next to the desk	à côté du bureau<br>/a kote dy byʁo/	en-fr
+next to the bed	à côté du lit<br>/a kote dy li/	en-fr
+next to the window	à côté de la fenêtre<br>/a kote də la fənɛtʁ/	en-fr
+next to the door	à côté de la porte<br>/a kote də la pɔʁt/	en-fr
+next to the wardrobe	à côté de l'armoire<br>/a kote də laʁmwaʁ/	en-fr
+next to the chairs	à côté des chaises<br>/a kote de ʃɛz/	en-fr
+next to me, next to you	à côté de moi, à côté de toi<br>/a kote də mwa, a kote də twa/	en-fr
+next to him, next to her	à côté de lui, à côté d'elle<br>/a kote də lɥi, a kote dɛl/	en-fr
+near	près de<br>/pʁɛ də/	en-fr
+far from	loin de<br>/lwɛ̃ də/	en-fr
+opposite	en face de<br>/ɑ̃ fas də/	en-fr
+in the middle of	au milieu de<br>/o miljø də/	en-fr
+at the end of	au bout de<br>/o bu də/	en-fr
+around	autour de<br>/otuʁ də/	en-fr
+above, below	au-dessus de, au-dessous de<br>/odəsy də, odəsu də/	en-fr
+to the left of, to the right of	à gauche de, à droite de<br>/a ɡoʃ də, a dʁwat də/	en-fr
+at the top of, at the bottom of	en haut de, en bas de<br>/ɑ̃ o də, ɑ̃ ba də/	en-fr
+He lives next door.	Il habite à côté.<br>/il abit a kote/	en-fr
+the house next door	la maison d'à côté<br>/la mɛzɔ̃ dakote/	en-fr
+the next-door neighbours	les voisins d'à côté<br>/le vwazɛ̃ dakote/	en-fr
+the next room	la pièce d'à côté<br>/la pjɛs dakote/	en-fr
+right next door	juste à côté<br>/ʒyst a kote/	en-fr
+to answer beside the question	répondre à côté<br>/ʁepɔ̃dʁ a kote/	en-fr
+to miss something	passer à côté de quelque chose<br>/pase a kote də kɛlkə ʃoz/	en-fr
+on this side	de ce côté<br>/də sə kote/	en-fr
+on the other side of the street	de l'autre côté de la rue<br>/də lotʁ kote də la ʁy/	en-fr
+over towards the station	du côté de la gare<br>/dy kote də la ɡaʁ/	en-fr
+on the one hand … on the other	d'un côté … de l'autre<br>/dœ̃ kote … də lotʁ/	en-fr
+side by side	côte à côte<br>/kot a kot/	en-fr
+to put money aside	mettre de l'argent de côté<br>/mɛtʁ də laʁʒɑ̃ də kote/	en-fr
+to leave aside	laisser de côté<br>/lese də kote/	en-fr
+the bright side of things	le bon côté des choses<br>/lə bɔ̃ kote de ʃoz/	en-fr
+the side – the rib, the coast, the slope	le côté – la côte<br>/lə kote/ · /la kot/	en-fr
+the Riviera	la Côte d'Azur<br>/la kot dazyʁ/	en-fr
+a pork chop	une côte de porc<br>/yn kot də pɔʁ/	en-fr
+The wardrobe is next to the window.	L'armoire est à côté de la fenêtre.<br>/laʁmwaʁ ɛ(t)‿a kote də la fənɛtʁ/	en-fr
+Sit next to me.	Assieds-toi à côté de moi.<br>/asjetwa a kote də mwa/	en-fr
+My parents live right next door.	Mes parents habitent juste à côté.<br>/me paʁɑ̃ abit ʒyst a kote/	en-fr
+The bakery is next to the school.	La boulangerie est à côté de l'école.<br>/la bulɑ̃ʒʁi ɛ(t)‿a kote də lekɔl/	en-fr
+There is a lamp next to the bed.	Il y a une lampe à côté du lit.<br>/il j a yn lɑ̃p a kote dy li/	en-fr
+The chemist's is on the other side of the street.	La pharmacie est de l'autre côté de la rue.<br>/la faʁmasi ɛ də lotʁ kote də la ʁy/	en-fr
+I put a little money aside every month.	Je mets un peu d'argent de côté chaque mois.<br>/ʒə mɛ œ̃ pø daʁʒɑ̃ də kote ʃak mwa/	en-fr
+We live near the station, next to the park.	Nous habitons près de la gare, à côté du parc.<br>/nuz‿abitɔ̃ pʁɛ də la ɡaʁ, a kote dy paʁk/	en-fr
+The two children walk side by side.	Les deux enfants marchent côte à côte.<br>/le døz‿ɑ̃fɑ̃ maʁʃ kot a kot/	en-fr

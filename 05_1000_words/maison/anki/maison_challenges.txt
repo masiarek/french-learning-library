@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une maison — a house::Challenges
+#tags:french 1000words maison challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: I live in a big house with my family.	J’habite dans une grande maison avec ma famille. /ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/	say
+Say: I go home at six.	Je rentre à la maison à six heures. /ʒə ʁɑ̃tʁ a la mɛzɔ̃ a siz‿œʁ/	say
+Say: Tonight we are staying at home.	Ce soir, nous restons à la maison. /sə swaʁ, nu ʁɛstɔ̃ a la mɛzɔ̃/	say
+Say: The car is in front of the house and the garden is behind.	La voiture est devant la maison et le jardin est derrière. /la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃ e lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ/	say
+Say: Everything is home-made in this restaurant.	Tout est fait maison dans ce restaurant. /tut‿ɛ fɛ mɛzɔ̃ dɑ̃ sə ʁɛstoʁɑ̃/	say
+The three sounds that spell maison	ai as the open /ɛ/, s between vowels as /z/, -on as the nasal /ɔ̃/: /mɛzɔ̃/, rhyming with raison and saison	sound
+I live, we live, they live	j’habite /ʒabit/, nous habitons /nuz‿abitɔ̃/, ils habitent /ilz‿abit/: the h is mute, so elision and liaison apply	grammar
+To live in a house, in Paris, in France	habiter dans une maison /abite dɑ̃z‿yn mɛzɔ̃/, habiter à Paris /abite a paʁi/, habiter en France /abite ɑ̃ fʁɑ̃s/	grammar
+At home, two ways	à la maison /a la mɛzɔ̃/, whoever’s home it is; chez moi /ʃe mwa/, chez nous /ʃe nu/, at my place, at our place	grammar
+A house, a block of flats, a flat	une maison /yn mɛzɔ̃/, un immeuble /œ̃n‿imœbl/, un appartement /œ̃n‿apaʁtəmɑ̃/	words
+To move house, to move in, the rent	déménager /demenaʒe/, emménager /ɑ̃menaʒe/, le loyer /lə lwaje/	words
+The roof, the walls, the cellar, the attic, the stairs	le toit /lə twa/, les murs /le myʁ/, la cave /la kav/, le grenier /lə ɡʁənje/, l’escalier /lɛskalje/	words

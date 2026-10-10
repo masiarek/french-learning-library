@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+à côté de<br>/a kote də/	(prep.) next to, beside; compared with	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+La chaise est à côté du bureau.<br>/la ʃɛz ɛ(t)‿a kote dy byʁo/	The chair is next to the desk.	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+à côté du bureau<br>/a kote dy byʁo/	next to the desk	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+à côté du lit<br>/a kote dy li/	next to the bed	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+à côté de la fenêtre<br>/a kote də la fənɛtʁ/	next to the window	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+à côté de la porte<br>/a kote də la pɔʁt/	next to the door	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+à côté de l'armoire<br>/a kote də laʁmwaʁ/	next to the wardrobe	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+à côté des chaises<br>/a kote de ʃɛz/	next to the chairs	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+à côté de moi, à côté de toi<br>/a kote də mwa, a kote də twa/	next to me, next to you	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+à côté de lui, à côté d'elle<br>/a kote də lɥi, a kote dɛl/	next to him, next to her	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+près de<br>/pʁɛ də/	near	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+loin de<br>/lwɛ̃ də/	far from	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+en face de<br>/ɑ̃ fas də/	opposite	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+au milieu de<br>/o miljø də/	in the middle of	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+au bout de<br>/o bu də/	at the end of	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+autour de<br>/otuʁ də/	around	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+au-dessus de, au-dessous de<br>/odəsy də, odəsu də/	above, below	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+à gauche de, à droite de<br>/a ɡoʃ də, a dʁwat də/	to the left of, to the right of	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+en haut de, en bas de<br>/ɑ̃ o də, ɑ̃ ba də/	at the top of, at the bottom of	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+Il habite à côté.<br>/il abit a kote/	He lives next door.	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+la maison d'à côté<br>/la mɛzɔ̃ dakote/	the house next door	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+les voisins d'à côté<br>/le vwazɛ̃ dakote/	the next-door neighbours	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+la pièce d'à côté<br>/la pjɛs dakote/	the next room	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+juste à côté<br>/ʒyst a kote/	right next door	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+répondre à côté<br>/ʁepɔ̃dʁ a kote/	to answer beside the question	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+passer à côté de quelque chose<br>/pase a kote də kɛlkə ʃoz/	to miss something	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+de ce côté<br>/də sə kote/	on this side	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+de l'autre côté de la rue<br>/də lotʁ kote də la ʁy/	on the other side of the street	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+du côté de la gare<br>/dy kote də la ɡaʁ/	over towards the station	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+d'un côté … de l'autre<br>/dœ̃ kote … də lotʁ/	on the one hand … on the other	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+côte à côte<br>/kot a kot/	side by side	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+mettre de l'argent de côté<br>/mɛtʁ də laʁʒɑ̃ də kote/	to put money aside	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+laisser de côté<br>/lese də kote/	to leave aside	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+le bon côté des choses<br>/lə bɔ̃ kote de ʃoz/	the bright side of things	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+le côté – la côte<br>/lə kote/ · /la kot/	the side – the rib, the coast, the slope	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+la Côte d'Azur<br>/la kot dazyʁ/	the Riviera	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+une côte de porc<br>/yn kot də pɔʁ/	a pork chop	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+L'armoire est à côté de la fenêtre.<br>/laʁmwaʁ ɛ(t)‿a kote də la fənɛtʁ/	The wardrobe is next to the window.	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+Assieds-toi à côté de moi.<br>/asjetwa a kote də mwa/	Sit next to me.	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+Mes parents habitent juste à côté.<br>/me paʁɑ̃ abit ʒyst a kote/	My parents live right next door.	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+La boulangerie est à côté de l'école.<br>/la bulɑ̃ʒʁi ɛ(t)‿a kote də lekɔl/	The bakery is next to the school.	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+Il y a une lampe à côté du lit.<br>/il j a yn lɑ̃p a kote dy li/	There is a lamp next to the bed.	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+La pharmacie est de l'autre côté de la rue.<br>/la faʁmasi ɛ də lotʁ kote də la ʁy/	The chemist's is on the other side of the street.	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+Je mets un peu d'argent de côté chaque mois.<br>/ʒə mɛ œ̃ pø daʁʒɑ̃ də kote ʃak mwa/	I put a little money aside every month.	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+Nous habitons près de la gare, à côté du parc.<br>/nuz‿abitɔ̃ pʁɛ də la ɡaʁ, a kote dy paʁk/	We live near the station, next to the park.	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+Les deux enfants marchent côte à côte.<br>/le døz‿ɑ̃fɑ̃ maʁʃ kot a kot/	The two children walk side by side.	french 1000words acotede fr-en	French::1000 words (FR-EN)::à côté de — next to
+La chaise est à côté ________ bureau.<br>(AI exercise: du, de la, de l' or des?)	/la ʃɛz ɛ(t)‿a kote [dy] byʁo/<br>The chair is next to the desk.	french 1000words acotede fr-en exercise	French::1000 words (FR-EN)::à côté de — next to
+Le lit est à côté ________ fenêtre.<br>(AI exercise: du, de la, de l' or des?)	/lə li ɛ(t)‿a kote [də la] fənɛtʁ/<br>The bed is next to the window.	french 1000words acotede fr-en exercise	French::1000 words (FR-EN)::à côté de — next to
+La lampe est à côté ________ armoire.<br>(AI exercise: du, de la, de l' or des?)	/la lɑ̃p ɛ(t)‿a kote [də l]aʁmwaʁ/<br>The lamp is next to the wardrobe.	french 1000words acotede fr-en exercise	French::1000 words (FR-EN)::à côté de — next to
+Le chat dort à côté ________ chaises.<br>(AI exercise: du, de la, de l' or des?)	/lə ʃa dɔʁ a kote [de] ʃɛz/<br>The cat is sleeping next to the chairs.	french 1000words acotede fr-en exercise	French::1000 words (FR-EN)::à côté de — next to
+La boulangerie est ________ la gare.<br>(AI exercise: à côté de, près de, en face de or loin de?)	/la bulɑ̃ʒʁi ɛ [ɑ̃ fas də] la ɡaʁ/<br>The bakery is opposite the station.	french 1000words acotede fr-en exercise	French::1000 words (FR-EN)::à côté de — next to
+J'habite ________ mes parents.<br>(AI exercise: à côté de, près de, en face de or loin de?)	/ʒabit [lwɛ̃ də] me paʁɑ̃/<br>I live far from my parents.	french 1000words acotede fr-en exercise	French::1000 words (FR-EN)::à côté de — next to
+La chaise est ________ bureau.<br>(AI exercise: à côté de, près de, en face de or loin de?)	/la ʃɛz ɛ [a kote dy] byʁo/<br>The chair is next to the desk.	french 1000words acotede fr-en exercise	French::1000 words (FR-EN)::à côté de — next to
+L'école est ________ la maison.<br>(AI exercise: à côté de, près de, en face de or loin de?)	/lekɔl ɛ [pʁɛ də] la mɛzɔ̃/<br>The school is near the house.	french 1000words acotede fr-en exercise	French::1000 words (FR-EN)::à côté de — next to
+De l'autre ________ de la rue.<br>(AI exercise: côté or côte?)	/də lotʁ [kote] də la ʁy/<br>On the other side of the street.	french 1000words acotede fr-en exercise	French::1000 words (FR-EN)::à côté de — next to
+Ils marchent ________ à ________.<br>(AI exercise: côté or côte?)	/il maʁʃ [kot] a [kot]/<br>They walk side by side.	french 1000words acotede fr-en exercise	French::1000 words (FR-EN)::à côté de — next to
+Nous allons sur la ________ cet été.<br>(AI exercise: côté or côte?)	/nuz‿alɔ̃ syʁ la [kot] sɛt‿ete/<br>We are going to the coast this summer.	french 1000words acotede fr-en exercise	French::1000 words (FR-EN)::à côté de — next to

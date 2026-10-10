@@ -1,0 +1,72 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+sous<br>/su/	(prep.) under, beneath, below	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+Le chat dort sous la table.<br>/lə ʃa dɔʁ su la tabl/	The cat is sleeping under the table.	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous la table<br>/su la tabl/	under the table	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous le lit<br>/su lə li/	under the bed	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous la chaise<br>/su la ʃɛz/	under the chair	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous le canapé<br>/su lə kanape/	under the sofa	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous un arbre<br>/suz‿œ̃n‿aʁbʁ/	under a tree	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous le pont<br>/su lə pɔ̃/	under the bridge	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous terre, sous l'eau<br>/su tɛʁ, su lo/	underground, under water	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous zéro<br>/su zeʁo/	below zero	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous la pluie<br>/su la plɥi/	in the rain	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous la neige<br>/su la nɛʒ/	in the snow	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous le soleil<br>/su lə sɔlɛj/	in the sun	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous la douche<br>/su la duʃ/	in the shower	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous clé<br>/su kle/	under lock and key	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous enveloppe<br>/suz‿ɑ̃vlɔp/	in an envelope	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous peu<br>/su pø/	shortly	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous huit jours<br>/su ɥi ʒuʁ/	within a week	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous Louis XIV<br>/su lwi katɔʁz/	in the reign of Louis XIV	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous la direction de<br>/su la diʁɛksjɔ̃ də/	under the direction of	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous pression<br>/su pʁɛsjɔ̃/	under pressure	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous forme de<br>/su fɔʁm də/	in the form of	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous le nom de<br>/su lə nɔ̃ də/	under the name of	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+Le chat est dessous.<br>/lə ʃa ɛ dəsu/	The cat is underneath.	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+en dessous, en dessous de<br>/ɑ̃ dəsu, ɑ̃ dəsu də/	underneath, below	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+au-dessous de la fenêtre<br>/odəsu də la fənɛtʁ/	below the window	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+là-dessous<br>/ladəsu/	under there	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+le dessous, les dessous<br>/lə dəsu, le dəsu/	the underside, underwear	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sens dessus dessous<br>/sɑ̃ dəsy dəsu/	upside down, in chaos	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+dessus – dessous<br>/dəsy/ · /dəsu/	on top – underneath	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+le sous-sol<br>/lə susɔl/	the basement	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+un sous-marin<br>/œ̃ sumaʁɛ̃/	a submarine	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+les sous-titres<br>/le sutitʁ/	the subtitles	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+un film en français avec des sous-titres<br>/œ̃ film ɑ̃ fʁɑ̃sɛ avɛk de sutitʁ/	a film in French with subtitles	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+un sous-vêtement<br>/œ̃ suvɛtmɑ̃/	an undergarment	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+un sous-entendu<br>/œ̃ suzɑ̃tɑ̃dy/	an insinuation, something implied	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+souligner<br>/suliɲe/	to underline	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+soutenir<br>/sutniʁ/	to support, to hold up	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous – un sou – saoul<br>/su/ · /œ̃ su/ · /su/	under – a penny – drunk	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous – su<br>/su/ · /sy/	under – known: /u/ against /y/	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous – sur<br>/su/ · /syʁ/	under – on	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sous un – sous le<br>/suz‿œ̃/ · /su lə/	the s is said before a vowel, silent before a consonant	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+Le sac est sous la table.<br>/lə sak ɛ su la tabl/	The bag is under the table.	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+Mes chaussures sont sous le lit.<br>/me ʃosyʁ sɔ̃ su lə li/	My shoes are under the bed.	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+Nous marchons sous la pluie.<br>/nu maʁʃɔ̃ su la plɥi/	We are walking in the rain.	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+Le chat dort sous la chaise.<br>/lə ʃa dɔʁ su la ʃɛz/	The cat is sleeping under the chair.	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+Je regarde les films français avec des sous-titres.<br>/ʒə ʁəɡaʁd le film fʁɑ̃sɛ avɛk de sutitʁ/	I watch French films with subtitles.	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+La cave est au sous-sol.<br>/la kav ɛ o susɔl/	The cellar is in the basement.	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+Il est sous la douche.<br>/il ɛ su la duʃ/	He is in the shower.	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+Le journal est sous le canapé, pas dessus.<br>/lə ʒuʁnal ɛ su lə kanape, pa dəsy/	The paper is under the sofa, not on it.	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+Tu as mis le livre sous un autre livre.<br>/ty a mi lə livʁ suz‿œ̃n‿otʁ livʁ/	You put the book under another book.	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+Sous Louis XIV, la cour habite à Versailles.<br>/su lwi katɔʁz, la kuʁ abit a vɛʁsaj/	Under Louis XIV the court lives at Versailles.	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+Le chat dort ________ la table.<br>(AI exercise: sous or sur?)	/lə ʃa dɔʁ [su] la tabl/<br>The cat is sleeping under the table.	french 1000words sous fr-en exercise	French::1000 words (FR-EN)::sous — under
+Le livre est ________ le bureau.<br>(AI exercise: sous or sur?)	/lə livʁ ɛ [syʁ] lə byʁo/<br>The book is on the desk.	french 1000words sous fr-en exercise	French::1000 words (FR-EN)::sous — under
+Mes chaussures sont ________ le lit.<br>(AI exercise: sous or sur?)	/me ʃosyʁ sɔ̃ [su] lə li/<br>My shoes are under the bed.	french 1000words sous fr-en exercise	French::1000 words (FR-EN)::sous — under
+Nous marchons ________ la pluie.<br>(AI exercise: sous or sur?)	/nu maʁʃɔ̃ [su] la plɥi/<br>We are walking in the rain.	french 1000words sous fr-en exercise	French::1000 words (FR-EN)::sous — under
+Il y a un tapis ________ le sol.<br>(AI exercise: sous or sur?)	/il j a œ̃ tapi [syʁ] lə sɔl/<br>There is a carpet on the floor.	french 1000words sous fr-en exercise	French::1000 words (FR-EN)::sous — under
+Le chat est ________ la chaise.<br>(AI exercise: sous, dessous or sous-?)	/lə ʃa ɛ [su] la ʃɛz/<br>The cat is under the chair.	french 1000words sous fr-en exercise	French::1000 words (FR-EN)::sous — under
+Le chat est ________.<br>(AI exercise: sous, dessous or sous-?)	/lə ʃa ɛ [dəsu]/<br>The cat is underneath.	french 1000words sous fr-en exercise	French::1000 words (FR-EN)::sous — under
+Il habite au ________-sol.<br>(AI exercise: sous, dessous or sous-?)	/il abit o [su]sɔl/<br>He lives in the basement.	french 1000words sous fr-en exercise	French::1000 words (FR-EN)::sous — under
+Je lis les ________-titres.<br>(AI exercise: sous, dessous or sous-?)	/ʒə li le [su]titʁ/<br>I read the subtitles.	french 1000words sous fr-en exercise	French::1000 words (FR-EN)::sous — under
+sous<br>/[su]/	under	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+su<br>/[sy]/	known	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+sur<br>/[syʁ]/	on	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+tout<br>/[tu]/	all	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under
+tu<br>/[ty]/	you	french 1000words sous fr-en	French::1000 words (FR-EN)::sous — under

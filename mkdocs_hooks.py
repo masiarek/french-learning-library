@@ -19,7 +19,10 @@ Three jobs, all about finding your way around:
 3. **Keep the topic map complete.** `TOPICS.md` groups every lesson by subject.
    A lesson missing from it is logged as a warning, and `mkdocs build --strict`
    (what CI runs) fails on a warning, so a new lesson cannot ship without a
-   place on the map.
+   place on the map. A chapter listed in `INDEXED_CHAPTERS` is a dictionary
+   rather than an argument (one page per word, dozens of them): there the
+   chapter's own `README.md` is the index, a page linked from it has its place,
+   and `TOPICS.md` keeps one line for the chapter.
 
 Why order here rather than by renaming files: a filename is a permanent URL.
 Renumbering `03_` to `04_` to insert a lesson would move every page after it and
@@ -50,6 +53,11 @@ CHAPTERS = "*chapters*"
 LESSON = re.compile(r"^(?!00_)\d+_[^/]+/[^/]+/README\.md$")
 TOPIC_MAP = "TOPICS.md"
 LINK = re.compile(r"\]\(([^)#\s]+\.md)(?:#[^)]*)?\)")
+
+# Chapters whose own README.md indexes their pages, one line per word, so that
+# TOPICS.md need not repeat the list: a page of such a chapter has its place
+# when the chapter page links it.
+INDEXED_CHAPTERS = {"05_1000_words"}
 
 log = logging.getLogger("mkdocs.hooks.topic_map")
 
@@ -229,7 +237,17 @@ def on_files(files, config):
         (topic_map.parent / target).resolve()
         for target in LINK.findall(topic_map.read_text(encoding="utf-8"))
     }
+    for chapter in INDEXED_CHAPTERS:
+        index = docs / chapter / "README.md"
+        if index.exists():
+            linked |= {
+                (index.parent / target).resolve()
+                for target in LINK.findall(index.read_text(encoding="utf-8"))
+            }
     for page in files.documentation_pages():
         if LESSON.match(page.src_uri) and (docs / page.src_uri).resolve() not in linked:
-            log.warning("%s has no place in %s; add it to the tree", page.src_uri, TOPIC_MAP)
+            where = TOPIC_MAP
+            if page.src_uri.split("/")[0] in INDEXED_CHAPTERS:
+                where = f"{page.src_uri.split('/')[0]}/README.md or {TOPIC_MAP}"
+            log.warning("%s has no place in %s; add it to the index", page.src_uri, where)
     return files

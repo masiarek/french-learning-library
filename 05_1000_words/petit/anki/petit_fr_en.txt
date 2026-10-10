@@ -1,0 +1,84 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::petit — small
+#tags:french 1000words petit fr-en
+#columns:Front	Back	Tags
+#tags column:3
+petit, petite<br>/pəti, pətit/	(adj.) small, little; short	fr-en
+Il y a aussi un petit jardin.<br>/il j a osi œ̃ pəti ʒaʁdɛ̃/	There is also a small garden.	fr-en
+un petit jardin<br>/œ̃ pəti ʒaʁdɛ̃/	a small garden	fr-en
+une petite maison<br>/yn pətit mɛzɔ̃/	a small house	fr-en
+de petits jardins<br>/də pəti ʒaʁdɛ̃/	small gardens	fr-en
+de petites maisons<br>/də pətit mɛzɔ̃/	small houses	fr-en
+Le salon est petit.<br>/lə salɔ̃ ɛ pəti/	The living room is small.	fr-en
+La chambre est petite.<br>/la ʃɑ̃bʁ ɛ pətit/	The bedroom is small.	fr-en
+Les jardins sont petits.<br>/le ʒaʁdɛ̃ sɔ̃ pəti/	The gardens are small.	fr-en
+Les chambres sont petites.<br>/le ʃɑ̃bʁ sɔ̃ pətit/	The bedrooms are small.	fr-en
+un petit enfant<br>/œ̃ pətit‿ɑ̃fɑ̃/	a small child	fr-en
+un petit appartement<br>/œ̃ pətit‿apaʁtəmɑ̃/	a small flat	fr-en
+un petit hôtel<br>/œ̃ pətit‿otɛl/	a small hotel	fr-en
+le petit écran<br>/lə pətit‿ekʁɑ̃/	the small screen, television	fr-en
+de petits enfants<br>/də pətiz‿ɑ̃fɑ̃/	small children	fr-en
+les petits-enfants<br>/le pətiz‿ɑ̃fɑ̃/	the grandchildren	fr-en
+un petit ami, une petite amie<br>/œ̃ pətit‿ami, yn pətit ami/	a boyfriend, a girlfriend	fr-en
+petit à petit<br>/pətit‿a pəti/	little by little	fr-en
+Il est petit. Elle est petite.<br>/il ɛ pəti, ɛl ɛ pətit/	He is short. She is short.	fr-en
+une jupe courte, une rue courte<br>/yn ʒyp kuʁt, yn ʁy kuʁt/	a short skirt, a short street	fr-en
+un petit paquet, un gros paquet<br>/œ̃ pəti pakɛ, œ̃ ɡʁo pakɛ/	a small parcel, a big parcel	fr-en
+grand, grande<br>/ɡʁɑ̃, ɡʁɑ̃d/	big, tall: the opposite	fr-en
+plus petit que<br>/ply pəti kə/	smaller than	fr-en
+moins petit que<br>/mwɛ̃ pəti kə/	less small than	fr-en
+aussi petit que<br>/osi pəti kə/	as small as	fr-en
+le plus petit, la plus petite<br>/lə ply pəti, la ply pətit/	the smallest	fr-en
+Ma chambre est plus petite que le salon.<br>/ma ʃɑ̃bʁ ɛ ply pətit kə lə salɔ̃/	My bedroom is smaller than the living room.	fr-en
+C'est la plus petite chambre de la maison.<br>/sɛ la ply pətit ʃɑ̃bʁ də la mɛzɔ̃/	It is the smallest bedroom in the house.	fr-en
+le moindre, la moindre<br>/lə mwɛ̃dʁ, la mwɛ̃dʁ/	the least, the slightest	fr-en
+sans le moindre doute<br>/sɑ̃ lə mwɛ̃dʁ dut/	without the least doubt	fr-en
+Je n'en ai pas la moindre idée.<br>/ʒə nɑ̃n‿e pa la mwɛ̃dʁ ide/	I have not the faintest idea.	fr-en
+le petit déjeuner<br>/lə pəti deʒœne/	breakfast	fr-en
+un petit peu<br>/œ̃ pəti pø/	a little bit	fr-en
+un petit café<br>/œ̃ pəti kafe/	a quick coffee	fr-en
+un petit mot<br>/œ̃ pəti mo/	a short note	fr-en
+un petit cadeau<br>/œ̃ pəti kado/	a little present	fr-en
+mon petit frère, ma petite sœur<br>/mɔ̃ pəti fʁɛʁ, ma pətit sœʁ/	my little brother, my little sister	fr-en
+des petits pois, des petits pains<br>/de pəti pwa, de pəti pɛ̃/	peas, bread rolls: des stays, the name is one word	fr-en
+les petites annonces<br>/le pətit anɔ̃s/	the classified ads	fr-en
+le Petit Prince, le Petit Chaperon rouge<br>/lə pəti pʁɛ̃s, lə pəti ʃapʁɔ̃ ʁuʒ/	the Little Prince, Little Red Riding Hood	fr-en
+Petit à petit, l'oiseau fait son nid.<br>/pətit‿a pəti, lwazo fɛ sɔ̃ ni/	Little by little, the bird builds its nest.	fr-en
+le petit, la petite<br>/lə pəti, la pətit/	the little one, the kid	fr-en
+les petits et les grands<br>/le pəti e le ɡʁɑ̃/	the little ones and the big ones	fr-en
+la chatte et ses petits<br>/la ʃat e se pəti/	the cat and her kittens	fr-en
+mon petit, ma petite<br>/mɔ̃ pəti, ma pətit/	my dear, to a child	fr-en
+le petit-fils, la petite-fille, les petits-enfants<br>/lə pətifis, la pətitfij, le pətiz‿ɑ̃fɑ̃/	the grandson, the granddaughter, the grandchildren	fr-en
+la petitesse<br>/la pətitɛs/	smallness; pettiness	fr-en
+rapetisser<br>/ʁapətise/	to shrink, to make smaller	fr-en
+petit – petits<br>/pəti/ · /pəti/	small, singular and plural: the same sound	fr-en
+petite – petites<br>/pətit/ · /pətit/	small, feminine singular and plural: the same sound	fr-en
+petit – petite<br>/pəti/ · /pətit/	the t is heard only in the feminine	fr-en
+petit – joli<br>/pəti, pətit/ · /ʒɔli, ʒɔli/	the t heard in the feminine – nothing heard in the feminine	fr-en
+Ma chambre est petite mais jolie.<br>/ma ʃɑ̃bʁ ɛ pətit mɛ ʒɔli/	My bedroom is small but pretty.	fr-en
+Nous avons un petit jardin derrière la maison.<br>/nuz‿avɔ̃ œ̃ pəti ʒaʁdɛ̃ dɛʁjɛʁ la mɛzɔ̃/	We have a small garden behind the house.	fr-en
+Je prends mon petit déjeuner dans la cuisine.<br>/ʒə pʁɑ̃ mɔ̃ pəti deʒœne dɑ̃ la kɥizin/	I have my breakfast in the kitchen.	fr-en
+Mon petit frère dort dans un petit lit.<br>/mɔ̃ pəti fʁɛʁ dɔʁ dɑ̃z‿œ̃ pəti li/	My little brother sleeps in a small bed.	fr-en
+Ils habitent dans un petit appartement.<br>/ilz‿abit dɑ̃z‿œ̃ pətit‿apaʁtəmɑ̃/	They live in a small flat.	fr-en
+Ma mère est petite et mon père est grand.<br>/ma mɛʁ ɛ pətit e mɔ̃ pɛʁ ɛ ɡʁɑ̃/	My mother is short and my father is tall.	fr-en
+Tu veux un petit café ?<br>/ty vø œ̃ pəti kafe/	Do you want a quick coffee?	fr-en
+Attends un petit peu !<br>/atɑ̃ œ̃ pəti pø/	Wait a little bit!	fr-en
+Les petits dorment, les grands lisent.<br>/le pəti dɔʁm, le ɡʁɑ̃ liz/	The little ones are sleeping, the big ones are reading.	fr-en
+Il y a de petites fenêtres dans la chambre.<br>/il j a də pətit fənɛtʁ dɑ̃ la ʃɑ̃bʁ/	There are small windows in the bedroom.	fr-en
+Ma grand-mère a cinq petits-enfants.<br>/ma ɡʁɑ̃mɛʁ a sɛ̃k pətiz‿ɑ̃fɑ̃/	My grandmother has five grandchildren.	fr-en
+un ________ jardin<br>(AI exercise: petit, petite, petits or petites?)	/œ̃ [pəti] ʒaʁdɛ̃/<br>a small garden	exercise
+une ________ chambre<br>(AI exercise: petit, petite, petits or petites?)	/yn [pətit] ʃɑ̃bʁ/<br>a small bedroom	exercise
+de ________ maisons<br>(AI exercise: petit, petite, petits or petites?)	/də [pətit] mɛzɔ̃/<br>small houses	exercise
+de ________ enfants<br>(AI exercise: petit, petite, petits or petites?)	/də [pətiz]‿ɑ̃fɑ̃/<br>small children	exercise
+Mon frère est ________.<br>(AI exercise: petit, petite, petits or petites?)	/mɔ̃ fʁɛʁ ɛ [pəti]/<br>My brother is short.	exercise
+Mes sœurs sont ________.<br>(AI exercise: petit, petite, petits or petites?)	/me sœʁ sɔ̃ [pətit]/<br>My sisters are short.	exercise
+un petit lit<br>/œ̃ pəti li/	a small bed	fr-en
+une petite table<br>/yn pətit tabl/	a small table	fr-en
+un petit ami<br>/œ̃ pətit‿ami/	a boyfriend	fr-en
+une petite amie<br>/yn pətit ami/	a girlfriend	fr-en
+Elle est ________.<br>(AI exercise: petit, court or gros?)	/ɛl ɛ [pətit]/<br>She is short.	exercise
+une robe ________<br>(AI exercise: petit, court or gros?)	/yn ʁɔb [kuʁt]/<br>a short dress	exercise
+un ________ chien<br>(AI exercise: petit, court or gros?)	/œ̃ [ɡʁo] ʃjɛ̃/<br>a fat dog	exercise
+un ________ chien<br>(AI exercise: petit, court or gros?) (2)	/œ̃ [pəti] ʃjɛ̃/<br>a small dog	exercise

@@ -1,0 +1,71 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::une table — a table
+#tags:french 1000words table fr-en
+#columns:Front	Back	Tags
+#tags column:3
+une table<br>/yn tabl/	(n.f.) table	fr-en
+Il y a une table dans la cuisine.<br>/il j a yn tabl dɑ̃ la kɥizin/	There is a table in the kitchen.	fr-en
+je mets, tu mets, il met<br>/ʒə mɛ, ty mɛ, il mɛ/	I put, you put, he puts	fr-en
+nous mettons, vous mettez, ils mettent<br>/nu mɛtɔ̃, vu mɛte, il mɛt/	we put, you put, they put	fr-en
+j'ai mis<br>/ʒe mi/	I put, I have put	fr-en
+mets ! mettez !<br>/mɛ, mɛte/	put!	fr-en
+je me mets à table, nous nous mettons à table<br>/ʒə mə mɛ a tabl, nu nu mɛtɔ̃ a tabl/	I sit down to eat, we sit down to eat	fr-en
+À table !<br>/a tabl/	Dinner is served! Come and eat!	fr-en
+mettre la table<br>/mɛtʁ la tabl/	to lay the table	fr-en
+débarrasser la table<br>/debaʁase la tabl/	to clear the table	fr-en
+se mettre à table, passer à table<br>/sə mɛtʁ a tabl, pase a tabl/	to sit down to eat	fr-en
+être à table<br>/ɛtʁ a tabl/	to be at the table, eating	fr-en
+sortir de table<br>/sɔʁtiʁ də tabl/	to leave the table	fr-en
+une bonne table<br>/yn bɔn tabl/	a good restaurant, good cooking	fr-en
+les manières à table<br>/le manjɛʁ a tabl/	table manners	fr-en
+une table de cuisine<br>/yn tabl də kɥizin/	a kitchen table	fr-en
+une table à manger<br>/yn tabl a mɑ̃ʒe/	a dining table	fr-en
+une table basse<br>/yn tabl bas/	a coffee table	fr-en
+une table de nuit, une table de chevet<br>/yn tabl də nɥi, yn tabl də ʃəvɛ/	a bedside table	fr-en
+une table de jardin<br>/yn tabl də ʒaʁdɛ̃/	a garden table	fr-en
+une table pliante<br>/yn tabl plijɑ̃t/	a folding table	fr-en
+une table ronde, une table carrée<br>/yn tabl ʁɔ̃d, yn tabl kaʁe/	a round table, a square table	fr-en
+une table en bois, une table en verre<br>/yn tabl ɑ̃ bwa, yn tabl ɑ̃ vɛʁ/	a wooden table, a glass table	fr-en
+une nappe<br>/yn nap/	a tablecloth	fr-en
+une assiette, un verre<br>/yn asjɛt, œ̃ vɛʁ/	a plate, a glass	fr-en
+un couteau, une fourchette, une cuillère<br>/œ̃ kuto, yn fuʁʃɛt, yn kɥijɛʁ/	a knife, a fork, a spoon	fr-en
+une serviette<br>/yn sɛʁvjɛt/	a napkin	fr-en
+le sel et le poivre<br>/lə sɛl e lə pwavʁ/	the salt and the pepper	fr-en
+le pain, une bouteille d'eau<br>/lə pɛ̃, yn butɛj do/	the bread, a bottle of water	fr-en
+la table des matières<br>/la tabl de matjɛʁ/	the table of contents	fr-en
+la table de multiplication<br>/la tabl də myltiplikasjɔ̃/	the multiplication table	fr-en
+une table ronde<br>/yn tabl ʁɔ̃d/	a round-table discussion	fr-en
+faire table rase<br>/fɛʁ tabl ʁaz/	to make a clean sweep	fr-en
+un tableau<br>/œ̃ tablo/	a picture, a painting; the blackboard; a table of figures	fr-en
+Au tableau !<br>/o tablo/	Come up to the board!	fr-en
+une tablette<br>/yn tablɛt/	a shelf; a bar of chocolate; a tablet computer	fr-en
+un tablier<br>/œ̃ tablije/	an apron	fr-en
+une tablée<br>/yn table/	a tableful of people	fr-en
+la table – le sable – l'étable – le diable<br>/la tabl/ · /lə sabl/ · /letabl/ · /lə djabl/	the table – the sand – the cowshed – the devil: the same /abl/	fr-en
+la table – stable – confortable<br>/la tabl/ · /stabl/ · /kɔ̃fɔʁtabl/	the table – stable – comfortable: the adjectives in -able	fr-en
+la table – le tableau<br>/la tabl/ · /lə tablo/	one syllable, then two: the -e is silent, the -eau is /o/	fr-en
+Il y a une grande table dans la salle à manger.<br>/il j a yn ɡʁɑ̃d tabl dɑ̃ la sal a mɑ̃ʒe/	There is a big table in the dining room.	fr-en
+Mets la table, s'il te plaît, on mange dans dix minutes.<br>/mɛ la tabl, sil tə plɛ, ɔ̃ mɑ̃ʒ dɑ̃ di minyt/	Lay the table please, we are eating in ten minutes.	fr-en
+À table, les enfants !<br>/a tabl, lez‿ɑ̃fɑ̃/	Dinner is served, children!	fr-en
+Nous nous mettons à table à huit heures.<br>/nu nu mɛtɔ̃ a tabl a ɥit œʁ/	We sit down to eat at eight.	fr-en
+Les livres sont sur la table de la cuisine.<br>/le livʁ sɔ̃ syʁ la tabl də la kɥizin/	The books are on the kitchen table.	fr-en
+Le chat est sous la table.<br>/lə ʃa ɛ su la tabl/	The cat is under the table.	fr-en
+Qui débarrasse la table ce soir ?<br>/ki debaʁas la tabl sə swaʁ/	Who is clearing the table tonight?	fr-en
+Ma mère a acheté une table ronde en bois.<br>/ma mɛʁ a aʃte yn tabl ʁɔ̃d ɑ̃ bwa/	My mother bought a round wooden table.	fr-en
+Il y a quatre chaises autour de la table.<br>/il j a katʁ ʃɛz otuʁ də la tabl/	There are four chairs around the table.	fr-en
+La lampe est sur la table de nuit, à côté du lit.<br>/la lɑ̃p ɛ syʁ la tabl də nɥi, a kote dy li/	The lamp is on the bedside table, next to the bed.	fr-en
+Cherche le chapitre dans la table des matières.<br>/ʃɛʁʃ lə ʃapitʁ dɑ̃ la tabl de matjɛʁ/	Look for the chapter in the table of contents.	fr-en
+Je ________ la table.<br>(AI exercise: mettre, in the right form)	/ʒə [mɛ] la tabl/<br>I lay the table.	exercise
+Nous ________ la table pour six personnes.<br>(AI exercise: mettre, in the right form)	/nu [mɛtɔ̃] la tabl puʁ si pɛʁsɔn/<br>We lay the table for six people.	exercise
+Ils ________ la nappe sur la table.<br>(AI exercise: mettre, in the right form)	/il [mɛt] la nap syʁ la tabl/<br>They put the tablecloth on the table.	exercise
+J'ai ________ les verres sur la table.<br>(AI exercise: mettre, in the right form)	/ʒe [mi] le vɛʁ syʁ la tabl/<br>I put the glasses on the table.	exercise
+________ ! Le dîner est prêt.<br>(AI exercise: à table or la table?)	/[a tabl], lə dine ɛ pʁɛ/<br>Come and eat! Dinner is ready.	exercise
+Mets ________, s'il te plaît.<br>(AI exercise: à table or la table?)	/mɛ [la tabl], sil tə plɛ/<br>Lay the table, please.	exercise
+Les enfants sont déjà ________.<br>(AI exercise: à table or la table?)	/lez‿ɑ̃fɑ̃ sɔ̃ deʒa [a tabl]/<br>The children are already at the table.	exercise
+Le sac est sous ________.<br>(AI exercise: à table or la table?)	/lə sak ɛ su [la tabl]/<br>The bag is under the table.	exercise
+________ table<br>(AI exercise: un or une?)	/[yn] tabl/<br>a table	exercise
+________ tableau<br>(AI exercise: un or une?)	/[œ̃] tablo/<br>a picture	exercise
+________ nappe<br>(AI exercise: un or une?)	/[yn] nap/<br>a tablecloth	exercise
+________ couteau<br>(AI exercise: un or une?)	/[œ̃] kuto/<br>a knife	exercise

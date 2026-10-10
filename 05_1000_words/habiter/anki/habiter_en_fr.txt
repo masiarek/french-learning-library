@@ -1,0 +1,51 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::habiter — to live
+#tags:french 1000words habiter en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(v.) to live in a place, to inhabit	habiter<br>/abite/	en-fr
+I live in a big house.	J'habite dans une grande maison.<br>/ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃/	en-fr
+I live	j'habite<br>/ʒabit/	en-fr
+you live	tu habites<br>/ty abit/	en-fr
+he lives, she lives	il habite, elle habite<br>/il abit, ɛl abit/	en-fr
+we live	nous habitons<br>/nuz‿abitɔ̃/	en-fr
+you live (2)	vous habitez<br>/vuz‿abite/	en-fr
+they live	ils habitent, elles habitent<br>/ilz‿abit, ɛlz‿abit/	en-fr
+I lived, I have lived	j'ai habité<br>/ʒe abite/	en-fr
+I used to live	j'habitais<br>/ʒabitɛ/	en-fr
+I will live	j'habiterai<br>/ʒabitʁe/	en-fr
+Where do you live?	Tu habites où ? Vous habitez où ?<br>/ty abit u, vuz‿abite u/	en-fr
+to live in Warsaw, in Paris	habiter à Varsovie, à Paris<br>/abite a vaʁsɔvi, a paʁi/	en-fr
+to live in Poland, in France	habiter en Pologne, en France<br>/abite ɑ̃ pɔlɔɲ, ɑ̃ fʁɑ̃s/	en-fr
+to live in Portugal, in the United States	habiter au Portugal, aux États-Unis<br>/abite o pɔʁtyɡal, oz‿etazyni/	en-fr
+to live in a house, in a flat	habiter dans une maison, dans un appartement<br>/abite dɑ̃z‿yn mɛzɔ̃, dɑ̃z‿œ̃n‿apaʁtəmɑ̃/	en-fr
+to live on the first floor	habiter au premier étage<br>/abite o pʁəmjɛʁ‿etaʒ/	en-fr
+to live at one's parents'	habiter chez ses parents<br>/abite ʃe se paʁɑ̃/	en-fr
+to live in the rue de la Paix	habiter rue de la Paix<br>/abite ʁy də la pɛ/	en-fr
+to live in a big house	habiter une grande maison<br>/abite yn ɡʁɑ̃d mɛzɔ̃/	en-fr
+to live in the country, in town	habiter à la campagne, en ville<br>/abite a la kɑ̃paɲ, ɑ̃ vil/	en-fr
+He lives in Paris. (both)	Il habite à Paris. Il vit à Paris.<br>/il abit a paʁi, il vi a paʁi/	en-fr
+He lives alone.	Il vit seul.<br>/il vi sœl/	en-fr
+She lived in France for ten years.	Elle a vécu dix ans en France.<br>/ɛl a veky diz‿ɑ̃ ɑ̃ fʁɑ̃s/	en-fr
+to lodge, to reside, to dwell	loger, résider, demeurer<br>/lɔʒe, ʁezide, dəmœʁe/	en-fr
+an inhabitant, the inhabitants	un habitant, les habitants<br>/œ̃n‿abitɑ̃, lez‿abitɑ̃/	en-fr
+a dwelling	une habitation<br>/yn abitasjɔ̃/	en-fr
+fit to live in, uninhabited	habitable, inhabité<br>/abitabl, inabite/	en-fr
+the neighbours	les voisins<br>/le vwazɛ̃/	en-fr
+the address	l'adresse<br>/ladʁɛs/	en-fr
+to move house, to move in	déménager, emménager<br>/demenaʒe, ɑ̃menaʒe/	en-fr
+the h of habiter is mute: elision and liaison	j'habite, nous habitons<br>/ʒabit, nuz‿abitɔ̃/	en-fr
+mute h	l'homme, l'hôtel, l'heure<br>/lɔm, lotɛl, lœʁ/	en-fr
+aspirated h: no elision, no liaison	le haut, les haricots, le héros<br>/lə o, le aʁiko, lə eʁo/	en-fr
+I live in Warsaw, in Poland.	J'habite à Varsovie, en Pologne.<br>/ʒabit a vaʁsɔvi, ɑ̃ pɔlɔɲ/	en-fr
+Where do you live? (2)	Tu habites où ?<br>/ty abit u/	en-fr
+My parents live in a small house.	Mes parents habitent dans une petite maison.<br>/me paʁɑ̃ abit dɑ̃z‿yn pətit mɛzɔ̃/	en-fr
+We live on the third floor.	Nous habitons au troisième étage.<br>/nuz‿abitɔ̃ o tʁwazjɛm‿etaʒ/	en-fr
+She lives at her parents'.	Elle habite chez ses parents.<br>/ɛl abit ʃe se paʁɑ̃/	en-fr
+Have you lived here long?	Vous habitez ici depuis longtemps ?<br>/vuz‿abite isi dəpɥi lɔ̃tɑ̃/	en-fr
+Before, I used to live in Kraków.	Avant, j'habitais à Cracovie.<br>/avɑ̃, ʒabitɛ a kʁakɔvi/	en-fr
+They live in a big house with a garden.	Ils habitent une grande maison avec un jardin.<br>/ilz‿abit yn ɡʁɑ̃d mɛzɔ̃ avɛk œ̃ ʒaʁdɛ̃/	en-fr
+Who lives next door?	Qui habite à côté ?<br>/ki abit a kote/	en-fr
+Next year I will live in Paris.	L'année prochaine, j'habiterai à Paris.<br>/lane pʁɔʃɛn, ʒabitʁe a paʁi/	en-fr

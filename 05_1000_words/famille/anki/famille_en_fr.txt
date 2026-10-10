@@ -1,0 +1,72 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une famille — a family
+#tags:french 1000words famille en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(n.f.) family	une famille<br>/yn famij/	en-fr
+The whole family is at the table.	Toute la famille est à table.<br>/tut la famij ɛ(t)‿a tabl/	en-fr
+the grandparents, the grandfather, the grandmother	les grands-parents, le grand-père, la grand-mère<br>/le ɡʁɑ̃paʁɑ̃, lə ɡʁɑ̃pɛʁ, la ɡʁɑ̃mɛʁ/	en-fr
+the uncle, the aunt	l'oncle, la tante<br>/lɔ̃kl, la tɑ̃t/	en-fr
+the nephew, the niece	le neveu, la nièce<br>/lə nəvø, la njɛs/	en-fr
+the cousin (a man, a woman)	le cousin, la cousine<br>/lə kuzɛ̃, la kuzin/	en-fr
+the husband, the wife	le mari, la femme<br>/lə maʁi, la fam/	en-fr
+my husband, my wife	mon mari, ma femme<br>/mɔ̃ maʁi, ma fam/	en-fr
+the grandson, the granddaughter, the grandchildren	le petit-fils, la petite-fille, les petits-enfants<br>/lə pətifis, la pətitfij, le pətiz‿ɑ̃fɑ̃/	en-fr
+the brother-in-law, the sister-in-law	le beau-frère, la belle-sœur<br>/lə bofʁɛʁ, la bɛlsœʁ/	en-fr
+the son-in-law, the daughter-in-law or stepdaughter	le gendre, la belle-fille<br>/lə ʒɑ̃dʁ, la bɛlfij/	en-fr
+the eldest (a boy, a girl)	l'aîné, l'aînée<br>/lene, lene/	en-fr
+the younger one	le cadet, la cadette<br>/lə kadɛ, la kadɛt/	en-fr
+the youngest	le benjamin, la benjamine<br>/lə bɛ̃ʒamɛ̃, la bɛ̃ʒamin/	en-fr
+twins (boys, girls)	les jumeaux, les jumelles<br>/le ʒymo, le ʒymɛl/	en-fr
+an only child	un enfant unique<br>/œ̃n‿ɑ̃fɑ̃ ynik/	en-fr
+a parent or a relative, a distant relative, the close family	un parent, un parent éloigné, les proches<br>/œ̃ paʁɑ̃, œ̃ paʁɑ̃ elwaɲe, le pʁɔʃ/	en-fr
+a big family, a small family	une grande famille, une petite famille<br>/yn ɡʁɑ̃d famij, yn pətit famij/	en-fr
+a large family, three children or more	une famille nombreuse<br>/yn famij nɔ̃bʁøz/	en-fr
+a host family, a foster family	une famille d'accueil<br>/yn famij dakœj/	en-fr
+a blended family	une famille recomposée<br>/yn famij ʁəkɔ̃poze/	en-fr
+a single-parent family	une famille monoparentale<br>/yn famij mɔnopaʁɑ̃tal/	en-fr
+the royal family	la famille royale<br>/la famij ʁwajal/	en-fr
+the Lefèvre family, the Lefèvres: no plural -s on a surname	la famille Lefèvre, les Lefèvre<br>/la famij ləfɛvʁ, le ləfɛvʁ/	en-fr
+family (as an adjective)	familial, familiale<br>/familjal/	en-fr
+a family gathering	une réunion familiale<br>/yn ʁeynjɔ̃ familjal/	en-fr
+child benefit	les allocations familiales<br>/lez‿alɔkasjɔ̃ familjal/	en-fr
+familiar; colloquial	familier, familière<br>/familje, familjɛʁ/	en-fr
+a colloquial word	un mot familier<br>/œ̃ mo familje/	en-fr
+to get used to	se familiariser avec<br>/sə familjaʁize avɛk/	en-fr
+kinship	la parenté<br>/la paʁɑ̃te/	en-fr
+as a family, to have dinner as a family	en famille, dîner en famille<br>/ɑ̃ famij, dine ɑ̃ famij/	en-fr
+to spend Christmas with the family	passer Noël en famille<br>/pase nɔɛl ɑ̃ famij/	en-fr
+with my family, the whole family	avec ma famille, toute la famille<br>/avɛk ma famij, tut la famij/	en-fr
+a surname, a first name	un nom de famille, un prénom<br>/œ̃ nɔ̃ də famij, œ̃ pʁenɔ̃/	en-fr
+a family photo	une photo de famille<br>/yn fɔto də famij/	en-fr
+a family meal, a family celebration	un repas de famille, une fête de famille<br>/œ̃ ʁəpa də famij, yn fɛt də famij/	en-fr
+family life	la vie de famille<br>/la vi də famij/	en-fr
+a family tree	un arbre généalogique<br>/œ̃n‿aʁbʁ ʒenealɔʒik/	en-fr
+a family likeness	un air de famille<br>/œ̃n‿ɛʁ də famij/	en-fr
+to start a family	fonder une famille<br>/fɔ̃de yn famij/	en-fr
+to have relatives in Paris	avoir de la famille à Paris<br>/avwaʁ də la famij a paʁi/	en-fr
+It runs in the family.	C'est de famille.<br>/sɛ də famij/	en-fr
+Like father, like son.	Tel père, tel fils.<br>/tɛl pɛʁ, tɛl fis/	en-fr
+the head of the family	le chef de famille<br>/lə ʃɛf də famij/	en-fr
+How is the family?	Comment va la famille ?<br>/kɔmɑ̃ va la famij/	en-fr
+Hello to the whole family!	Bonjour à toute la famille !<br>/bɔ̃ʒuʁ a tut la famij/	en-fr
+You choose your friends, not your family.	On choisit ses amis, pas sa famille.<br>/ɔ̃ ʃwazi sez‿ami, pa sa famij/	en-fr
+I live in a big house with my family.	J'habite dans une grande maison avec ma famille.<br>/ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/	en-fr
+the family, the daughter, kind, the vanilla, a marble: -ille is /ij/	la famille, la fille, gentille, la vanille, une bille<br>/la famij, la fij, ʒɑ̃tij, la vanij, yn bij/	en-fr
+the town, a thousand, calm, Lille: -ille is /il/	la ville, mille, tranquille, Lille<br>/la vil, mil, tʁɑ̃kil, lil/	en-fr
+My family lives in a big house.	Ma famille habite dans une grande maison.<br>/ma famij abit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃/	en-fr
+We have dinner as a family on Sundays.	Nous dînons en famille le dimanche.<br>/nu dinɔ̃ ɑ̃ famij lə dimɑ̃ʃ/	en-fr
+My family is Polish.	Ma famille est polonaise.<br>/ma famij ɛ pɔlɔnɛz/	en-fr
+My uncle and my aunt have a large family.	Mon oncle et ma tante ont une famille nombreuse.<br>/mɔ̃n‿ɔ̃kl e ma tɑ̃t ɔ̃t‿yn famij nɔ̃bʁøz/	en-fr
+It is a photo of my family.	C'est une photo de ma famille.<br>/sɛt‿yn fɔto də ma famij/	en-fr
+He has relatives in Warsaw.	Il a de la famille à Varsovie.<br>/il a də la famij a vaʁsɔvi/	en-fr
+What is your surname?	Quel est votre nom de famille ?<br>/kɛl ɛ vɔtʁ nɔ̃ də famij/	en-fr
+My cousin looks like her mother: it runs in the family.	Ma cousine ressemble à sa mère : c'est de famille.<br>/ma kuzin ʁəsɑ̃bl a sa mɛʁ : sɛ də famij/	en-fr
+The Lefèvre family has a flat in Paris.	La famille Lefèvre a un appartement à Paris.<br>/la famij ləfɛvʁ a œ̃n‿apaʁtəmɑ̃ a paʁi/	en-fr
+We spend Christmas with the family.	Nous passons Noël en famille.<br>/nu pasɔ̃ nɔɛl ɑ̃ famij/	en-fr
+My nephews and my nieces are coming on Sunday.	Mes neveux et mes nièces viennent dimanche.<br>/me nəvø e me njɛs vjɛn dimɑ̃ʃ/	en-fr
+the family, the town	la famille, la ville<br>/la [famij], la [vil]/	en-fr
+the daughter, a thousand	la fille, mille<br>/la [fij], [mil]/	en-fr
+kind, calm	gentille, tranquille<br>/[ʒɑ̃tij], [tʁɑ̃kil]/	en-fr

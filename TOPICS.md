@@ -30,26 +30,10 @@
         - [Lesson 6: En visite](03_Szypowska/lecon_06_en_visite/README.md) — a Sunday visit, the numbers six to twelve, the dative with au, à la, à l', aux, adjective agreement, plurals in -eaux, messieurs and mesdames, the article for a kind, inversion after direct speech, flowers
     - ↪ [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md) — the inventory the tables' IPA is checked against
 - **Words**
-    - **The thousand words, one page each** · from [1000 words](05_1000_words/README.md)
-        - [aller](05_1000_words/aller/README.md) — to go, to be of health; three stems, the near future, être as its auxiliary, comment allez-vous, vas-y
-        - [une armoire](05_1000_words/armoire/README.md) — a wardrobe; oi as /wa/, l'armoire and mon armoire before the vowel, ranger and nous rangeons, placard, commode, étagère, the clothes, armoire à glace
-        - [avoir](05_1000_words/avoir/README.md) — to have; ils ont against ils sont, eu said /y/, the auxiliary, avoir faim and the other to be of English, il y a, pas de, a and à
-        - [un bureau](05_1000_words/bureau/README.md) — a desk, an office; /y/ and /o/, the plural in -eaux, au bureau, bureau de poste, de tabac, de vote, the desk's drawer, computer and lamp, bureau against bourreau
-        - [une chaise](05_1000_words/chaise/README.md) — a chair; ch as /ʃ/ and -aise as /ɛz/, the feminine of -aise, s'asseoir and être assis, sur and sous, fauteuil, tabouret, banc, chaise against chez and chaire
-        - [devoir](05_1000_words/devoir/README.md) — must, to owe; two stems, dû against du, devrais as should, must of probability, the noun le devoir
-        - [dormir](05_1000_words/dormir/README.md) — to sleep; the partir pattern of -ir verbs, the singular that drops a consonant, as-tu bien dormi, s'endormir
-        - [être](05_1000_words/etre/README.md) — to be, a being; three stems, fus of the books, soyez, été, the auxiliary of movement and reflexive verbs, avoir for faim and froid
-        - [une fenêtre](05_1000_words/fenetre/README.md) — a window; the circumflex of a lost s, ouvrir and fermer, ouverte and fermée, par la fenêtre, donner sur, vitre, volet, rideau, store
-        - [la lie](05_1000_words/lie/README.md) — the lees, the dregs; the silent -e, la lie against le lit, il lit and il lie, the partitive de la lie and pas de lie, lier and un lien, the wine words, sur lie, la lie de la société, boire le calice jusqu'à la lie
-        - [un lit](05_1000_words/lit/README.md) — a bed; the silent t, le lit against il lit, la lie and il lie, lu, au lit and du lit, se coucher, lire and lier, the kinds of bed, drap, couverture, oreiller
-        - [une mère](05_1000_words/mere/README.md) — a mother; the article as the gender, sa as his or her, the possessives, de for possession, the feminine française, the family words, mère, mer and maire
-        - [une pièce](05_1000_words/piece/README.md) — a room; a piece, a coin, a play, a document; ie as /jɛ/, the silent plural s, pièce against chambre, salle and place, the sense picked by the complement, pièce jointe and pièce d'identité, deux euros pièce, how an advertisement counts rooms, un trois-pièces, T3
-        - [une porte](05_1000_words/porte/README.md) — a door; the open /ɔ/, la porte against il porte, à la porte, frapper, sonner, fermer à clé, claquer, the doors of a house, la porte à côté
-        - [pour](05_1000_words/pour/README.md) — for, to; the stressed pronouns, pour with an infinitive, pour que and the subjunctive, pour against pendant and par, merci pour and merci de
-        - [sur](05_1000_words/sur/README.md) — on; where English says in or at, about, out of; sur and sûr, sous and dans, the vowel /y/
-        - [un tapis](05_1000_words/tapis/README.md) — a carpet, a rug; the silent s and the plural that does not change, tapis, moquette, paillasson, the floor, tapis roulant, tapis rouge, tapis against tapir
-        - [tout](05_1000_words/tout/README.md) — all, every, the whole; tout, toute, tous, toutes, /tu/ against /tus/, the adverb that agrees by sound, tout à fait
-        - [venir](05_1000_words/venir/README.md) — to come; two stems and the denasalised viennent, the recent past venir de, origin with de, tenir and the family
+    - **The thousand words, one page each** · from [1000 words](05_1000_words/README.md) — the chapter page is the index, numbered in order of arrival; the sidebar lists the pages A to Z. A few of them belong to other branches as well:
+        - ↪ [avoir](05_1000_words/avoir/README.md), [être](05_1000_words/etre/README.md), [aller](05_1000_words/aller/README.md), [venir](05_1000_words/venir/README.md), [devoir](05_1000_words/devoir/README.md) — the verbs that run a sentence, each with the tense English hides in it
+        - ↪ [dans](05_1000_words/dans/README.md), [sur](05_1000_words/sur/README.md), [sous](05_1000_words/sous/README.md), [devant](05_1000_words/devant/README.md), [derrière](05_1000_words/derriere/README.md), [à côté de](05_1000_words/a_cote_de/README.md) — the prepositions of place of the teacher's first lesson, one page each
+        - ↪ [un lit](05_1000_words/lit/README.md), [la lie](05_1000_words/lie/README.md), [une mère](05_1000_words/mere/README.md), [une porte](05_1000_words/porte/README.md), [sur](05_1000_words/sur/README.md) — the word pages that set a homophone pair, beside the Sounds lesson on homophones
     - ↪ [Lesson 5: Dialogue](03_Szypowska/lecon_05_dialogue/README.md) — avoir in the present, the verb the être page sets against être
 
 ## Threads

@@ -1,0 +1,73 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::la cuisine — the kitchen
+#tags:french 1000words cuisine fr-en
+#columns:Front	Back	Tags
+#tags column:3
+la cuisine<br>/la kɥizin/	(n.f.) kitchen; cooking, cuisine	fr-en
+Il y a une table dans la cuisine.<br>/il j a yn tabl dɑ̃ la kɥizin/	There is a table in the kitchen.	fr-en
+je cuisine, tu cuisines, il cuisine<br>/ʒə kɥizin, ty kɥizin, il kɥizin/	I cook, you cook, he cooks	fr-en
+nous cuisinons, vous cuisinez, ils cuisinent<br>/nu kɥizinɔ̃, vu kɥizine, il kɥizin/	we cook, you cook, they cook	fr-en
+j'ai cuisiné<br>/ʒe kɥizine/	I cooked, I have cooked	fr-en
+faire la cuisine<br>/fɛʁ la kɥizin/	to do the cooking	fr-en
+faire cuire, cuire<br>/fɛʁ kɥiʁ, kɥiʁ/	to cook (something); to cook (of the food)	fr-en
+Ma mère est dans la cuisine.<br>/ma mɛʁ ɛ dɑ̃ la kɥizin/	My mother is in the kitchen.	fr-en
+Va à la cuisine chercher du pain.<br>/va a la kɥizin ʃɛʁʃe dy pɛ̃/	Go to the kitchen and get some bread.	fr-en
+Le chef est en cuisine.<br>/lə ʃɛf ɛt‿ɑ̃ kɥizin/	The chef is in the kitchen (of the restaurant).	fr-en
+la table de la cuisine<br>/la tabl də la kɥizin/	the kitchen table	fr-en
+un placard de cuisine<br>/œ̃ plakaʁ də kɥizin/	a kitchen cupboard	fr-en
+la cuisine française, italienne, polonaise<br>/la kɥizin fʁɑ̃sɛz, italjɛn, pɔlɔnɛz/	French, Italian, Polish cooking	fr-en
+la bonne cuisine<br>/la bɔn kɥizin/	good cooking	fr-en
+la cuisine maison<br>/la kɥizin mɛzɔ̃/	home cooking	fr-en
+la nouvelle cuisine<br>/la nuvɛl kɥizin/	the nouvelle cuisine	fr-en
+un livre de cuisine<br>/œ̃ livʁ də kɥizin/	a cookbook	fr-en
+une recette de cuisine<br>/yn ʁəsɛt də kɥizin/	a recipe	fr-en
+un cours de cuisine<br>/œ̃ kuʁ də kɥizin/	a cooking class	fr-en
+aimer la cuisine<br>/eme la kɥizin/	to like cooking, to like good food	fr-en
+le cuisinier, la cuisinière<br>/lə kɥizinje, la kɥizinjɛʁ/	the cook (a man, a woman)	fr-en
+une cuisinière à gaz, une cuisinière électrique<br>/yn kɥizinjɛʁ a ɡɑz, yn kɥizinjɛʁ elɛktʁik/	a gas cooker, an electric cooker	fr-en
+le chef, un chef cuisinier<br>/lə ʃɛf, œ̃ ʃɛf kɥizinje/	the chef	fr-en
+un bon cuisinier, une bonne cuisinière<br>/œ̃ bɔ̃ kɥizinje, yn bɔn kɥizinjɛʁ/	a good cook	fr-en
+une cuisine équipée<br>/yn kɥizin ekipe/	a fitted kitchen	fr-en
+une cuisine américaine, une cuisine ouverte<br>/yn kɥizin ameʁikɛn, yn kɥizin uvɛʁt/	an open-plan kitchen	fr-en
+une grande cuisine, une petite cuisine<br>/yn ɡʁɑ̃d kɥizin, yn pətit kɥizin/	a big kitchen, a small kitchen	fr-en
+une cuisine moderne<br>/yn kɥizin mɔdɛʁn/	a modern kitchen	fr-en
+le four, le frigo, le réfrigérateur<br>/lə fuʁ, lə fʁiɡo, lə ʁefʁiʒeʁatœʁ/	the oven, the fridge	fr-en
+l'évier, le lave-vaisselle<br>/levje, lə lavvɛsɛl/	the sink, the dishwasher	fr-en
+le placard, le plan de travail<br>/lə plakaʁ, lə plɑ̃ də tʁavaj/	the cupboard, the worktop	fr-en
+une casserole, une poêle<br>/yn kasʁɔl, yn pwal/	a saucepan, a frying pan	fr-en
+un poêle<br>/œ̃ pwal/	a stove, for heating: masculine	fr-en
+la table et les chaises de la cuisine<br>/la tabl e le ʃɛz də la kɥizin/	the kitchen table and chairs	fr-en
+un repas, préparer le repas<br>/œ̃ ʁəpa, pʁepaʁe lə ʁəpa/	a meal, to make the meal	fr-en
+le petit déjeuner, le déjeuner, le dîner<br>/lə pəti deʒœne, lə deʒœne, lə dine/	breakfast, lunch, dinner	fr-en
+faire la vaisselle<br>/fɛʁ la vɛsɛl/	to wash up	fr-en
+Bon appétit !<br>/bɔn‿apeti/	Enjoy your meal!	fr-en
+Qu'est-ce qu'on mange ce soir ?<br>/kɛs kɔ̃ mɑ̃ʒ sə swaʁ/	What are we eating tonight?	fr-en
+la cuisine – la cousine<br>/la kɥizin/ · /la kuzin/	the kitchen – the cousin: /ɥi/ against /u/	fr-en
+la cuisine – la piscine<br>/la kɥizin/ · /la pisin/	the kitchen – the swimming pool: the same -ine	fr-en
+la cuisine – le cuir – cuire – huit – lui<br>/la kɥizin/ · /lə kɥiʁ/ · /kɥiʁ/ · /ɥit/ · /lɥi/	the kitchen – leather – to cook – eight – him: the glide /ɥ/	fr-en
+Dans la cuisine, il y a une table, quatre chaises et un grand frigo.<br>/dɑ̃ la kɥizin, il j a yn tabl, katʁ ʃɛz e œ̃ ɡʁɑ̃ fʁiɡo/	In the kitchen there is a table, four chairs and a big fridge.	fr-en
+Ma mère fait la cuisine tous les soirs.<br>/ma mɛʁ fɛ la kɥizin tu le swaʁ/	My mother cooks every evening.	fr-en
+J'aime la cuisine italienne.<br>/ʒɛm la kɥizin italjɛn/	I like Italian food.	fr-en
+Qui fait la cuisine chez vous ?<br>/ki fɛ la kɥizin ʃe vu/	Who does the cooking at your place?	fr-en
+Nous cuisinons ensemble le dimanche.<br>/nu kɥizinɔ̃ ɑ̃sɑ̃bl lə dimɑ̃ʃ/	We cook together on Sundays.	fr-en
+La cuisine est petite mais moderne.<br>/la kɥizin ɛ pətit mɛ mɔdɛʁn/	The kitchen is small but modern.	fr-en
+Mon père est un très bon cuisinier.<br>/mɔ̃ pɛʁ ɛt‿œ̃ tʁɛ bɔ̃ kɥizinje/	My father is a very good cook.	fr-en
+Les assiettes sont dans le placard de la cuisine.<br>/lez‿asjɛt sɔ̃ dɑ̃ lə plakaʁ də la kɥizin/	The plates are in the kitchen cupboard.	fr-en
+Le chef est en cuisine, il prépare le dîner.<br>/lə ʃɛf ɛt‿ɑ̃ kɥizin, il pʁepaʁ lə dine/	The chef is in the kitchen, he is making dinner.	fr-en
+Il y a un livre de cuisine sur la table.<br>/il j a œ̃ livʁ də kɥizin syʁ la tabl/	There is a cookbook on the table.	fr-en
+Va à la cuisine et mets la table, s'il te plaît.<br>/va a la kɥizin e mɛ la tabl, sil tə plɛ/	Go to the kitchen and lay the table, please.	fr-en
+Ma mère est une bonne ________.<br>(AI exercise: cuisine, cuisinier, cuisinière or cuisiner?)	/ma mɛʁ ɛt‿yn bɔn [kɥizinjɛʁ]/<br>My mother is a good cook.	exercise
+Mon père aime ________.<br>(AI exercise: cuisine, cuisinier, cuisinière or cuisiner?)	/mɔ̃ pɛʁ ɛm [kɥizine]/<br>My father likes cooking.	exercise
+Le frigo est dans la ________.<br>(AI exercise: cuisine, cuisinier, cuisinière or cuisiner?)	/lə fʁiɡo ɛ dɑ̃ la [kɥizin]/<br>The fridge is in the kitchen.	exercise
+Le ________ du restaurant est français.<br>(AI exercise: cuisine, cuisinier, cuisinière or cuisiner?)	/lə [kɥizinje] dy ʁɛstoʁɑ̃ ɛ fʁɑ̃sɛ/<br>The restaurant's cook is French.	exercise
+Nous ________ ensemble le samedi.<br>(AI exercise: cuisine, cuisinier, cuisinière or cuisiner?)	/nu [kɥizinɔ̃] ɑ̃sɑ̃bl lə samdi/<br>We cook together on Saturdays.	exercise
+Il y a une table ________ cuisine.<br>(AI exercise: dans la, à la or en?)	/il j a yn tabl [dɑ̃ la] kɥizin/<br>There is a table in the kitchen.	exercise
+Va ________ cuisine chercher un verre.<br>(AI exercise: dans la, à la or en?)	/va [a la] kɥizin ʃɛʁʃe œ̃ vɛʁ/<br>Go to the kitchen and get a glass.	exercise
+Le chef est ________ cuisine.<br>(AI exercise: dans la, à la or en?)	/lə ʃɛf ɛt‿[ɑ̃] kɥizin/<br>The chef is in the kitchen.	exercise
+________ cuisine<br>(AI exercise: un or une?)	/[yn] kɥizin/<br>a kitchen	exercise
+________ four<br>(AI exercise: un or une?)	/[œ̃] fuʁ/<br>an oven	exercise
+________ casserole<br>(AI exercise: un or une?)	/[yn] kasʁɔl/<br>a saucepan	exercise
+________ poêle à frire<br>(AI exercise: un or une?)	/[yn] pwal a fʁiʁ/<br>a frying pan	exercise
+________ repas<br>(AI exercise: un or une?)	/[œ̃] ʁəpa/<br>a meal	exercise

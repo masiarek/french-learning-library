@@ -1,0 +1,72 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::beau — beautiful
+#tags:french 1000words beau en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(adj.) beautiful, handsome, fine	beau, bel, belle, beaux, belles<br>/bo, bɛl, bɛl, bo, bɛl/	en-fr
+My house is beautiful and comfortable.	Ma maison est belle et confortable.<br>/ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/	en-fr
+a beautiful garden	un beau jardin<br>/œ̃ bo ʒaʁdɛ̃/	en-fr
+a beautiful flat	un bel appartement<br>/œ̃ bɛl apaʁtəmɑ̃/	en-fr
+a handsome man	un bel homme<br>/œ̃ bɛl ɔm/	en-fr
+a beautiful house	une belle maison<br>/yn bɛl mɛzɔ̃/	en-fr
+beautiful gardens	de beaux jardins<br>/də bo ʒaʁdɛ̃/	en-fr
+beautiful houses	de belles maisons<br>/də bɛl mɛzɔ̃/	en-fr
+The garden is beautiful.	Le jardin est beau.<br>/lə ʒaʁdɛ̃ ɛ bo/	en-fr
+The bedroom is beautiful.	La chambre est belle.<br>/la ʃɑ̃bʁ ɛ bɛl/	en-fr
+The gardens are beautiful.	Les jardins sont beaux.<br>/le ʒaʁdɛ̃ sɔ̃ bo/	en-fr
+The bedrooms are beautiful.	Les chambres sont belles.<br>/le ʃɑ̃bʁ sɔ̃ bɛl/	en-fr
+a beautiful tree, a beautiful child, a fine summer	un bel arbre, un bel enfant, un bel été<br>/œ̃ bɛl aʁbʁ, œ̃ bɛl ɑ̃fɑ̃, œ̃ bɛl ete/	en-fr
+a fine hotel, a fine age	un bel hôtel, un bel âge<br>/œ̃ bɛl otɛl, œ̃ bɛl ɑʒ/	en-fr
+beautiful eyes	de beaux yeux<br>/də boz‿jø/	en-fr
+beautiful pictures	de belles images<br>/də bɛlz‿imaʒ/	en-fr
+the fine arts	les beaux-arts<br>/le boz‿aʁ/	en-fr
+a new flat, an old man: the same rule	un nouvel appartement, un vieil homme<br>/œ̃ nuvɛl apaʁtəmɑ̃, œ̃ vjɛj ɔm/	en-fr
+a beautiful woman, a handsome man	une belle femme, un bel homme<br>/yn bɛl fam, œ̃ bɛl ɔm/	en-fr
+a pretty girl, a pretty village	une jolie fille, un joli village<br>/yn ʒɔli fij, œ̃ ʒɔli vilaʒ/	en-fr
+The weather is fine.	Il fait beau.<br>/il fɛ bo/	en-fr
+a fine piece of work	un beau travail<br>/œ̃ bo tʁavaj/	en-fr
+ugly; ugly in everyday speech: the opposites	laid, laide, moche<br>/lɛ, lɛd, mɔʃ/	en-fr
+more beautiful than	plus beau que, plus belle que<br>/ply bo kə, ply bɛl kə/	en-fr
+as beautiful as	aussi beau que<br>/osi bo kə/	en-fr
+the most beautiful	le plus beau, la plus belle<br>/lə ply bo, la ply bɛl/	en-fr
+the most beautiful flat in town	le plus bel appartement de la ville<br>/lə ply bɛl apaʁtəmɑ̃ də la vil/	en-fr
+It is the most beautiful house in the village.	C'est la plus belle maison du village.<br>/sɛ la ply bɛl mɛzɔ̃ dy vilaʒ/	en-fr
+It is fine. It is very fine.	Il fait beau. Il fait très beau.<br>/il fɛ bo, il fɛ tʁɛ bo/	en-fr
+It will be fine tomorrow.	Il va faire beau demain.<br>/il va fɛʁ bo dəmɛ̃/	en-fr
+fine weather	le beau temps<br>/lə bo tɑ̃/	en-fr
+one fine day	un beau jour<br>/œ̃ bo ʒuʁ/	en-fr
+a beautiful day	une belle journée<br>/yn bɛl ʒuʁne/	en-fr
+father-in-law or stepfather, mother-in-law or stepmother	le beau-père, la belle-mère<br>/lə bopɛʁ, la bɛlmɛʁ/	en-fr
+brother-in-law, sister-in-law	le beau-frère, la belle-sœur<br>/lə bofʁɛʁ, la bɛlsœʁ/	en-fr
+son-in-law or stepson, daughter-in-law or stepdaughter	le beau-fils, la belle-fille<br>/lə bofis, la bɛlfij/	en-fr
+the parents-in-law	les beaux-parents<br>/le bopaʁɑ̃/	en-fr
+a beautiful girl – a daughter-in-law	une belle fille – une belle-fille<br>/yn bɛl fij/ · /yn bɛlfij/	en-fr
+What a beautiful garden! What a beautiful house!	Quel beau jardin ! Quelle belle maison !<br>/kɛl bo ʒaʁdɛ̃, kɛl bɛl mɛzɔ̃/	en-fr
+a fine gesture	un beau geste<br>/œ̃ bo ʒɛst/	en-fr
+a tidy sum	une belle somme<br>/yn bɛl sɔm/	en-fr
+to get dressed up	se faire beau, se faire belle<br>/sə fɛʁ bo, sə fɛʁ bɛl/	en-fr
+well and truly	bel et bien<br>/bɛl e bjɛ̃/	en-fr
+more than ever, with renewed vigour	de plus belle<br>/də ply bɛl/	en-fr
+to do something in vain	avoir beau faire<br>/avwaʁ bo fɛʁ/	en-fr
+However much I look, I cannot find my keys.	J'ai beau chercher, je ne trouve pas mes clés.<br>/ʒe bo ʃɛʁʃe, ʒə nə tʁuv pa me kle/	en-fr
+Sleeping Beauty	la Belle au bois dormant<br>/la bɛl o bwa dɔʁmɑ̃/	en-fr
+Beauty and the Beast	la Belle et la Bête<br>/la bɛl e la bɛt/	en-fr
+beauty	la beauté<br>/la bote/	en-fr
+a beauty salon	un salon de beauté<br>/œ̃ salɔ̃ də bote/	en-fr
+to make or become more beautiful	embellir<br>/ɑ̃beliʁ/	en-fr
+a lot: beau and coup, a fine blow	beaucoup<br>/boku/	en-fr
+beautiful, singular and plural: the same sound	beau – beaux<br>/bo/ · /bo/	en-fr
+the masculine before a vowel and the feminine: the same sound	bel – belle<br>/bɛl/ · /bɛl/	en-fr
+beautiful – good – end – drunk: four vowels	beau – bon – bout – bu<br>/bo/ · /bɔ̃/ · /bu/ · /by/	en-fr
+The weather is fine today.	Il fait beau aujourd'hui.<br>/il fɛ bo oʒuʁdɥi/	en-fr
+They have a beautiful flat in Paris.	Ils ont un bel appartement à Paris.<br>/ilz‿ɔ̃ œ̃ bɛl apaʁtəmɑ̃ a paʁi/	en-fr
+My mother has beautiful eyes.	Ma mère a de beaux yeux.<br>/ma mɛʁ a də boz‿jø/	en-fr
+What a beautiful garden you have!	Quel beau jardin vous avez !<br>/kɛl bo ʒaʁdɛ̃ vuz‿ave/	en-fr
+It is the most beautiful bedroom in the house.	C'est la plus belle chambre de la maison.<br>/sɛ la ply bɛl ʃɑ̃bʁ də la mɛzɔ̃/	en-fr
+You look beautiful in that dress.	Tu es belle dans cette robe.<br>/ty ɛ bɛl dɑ̃ sɛt ʁɔb/	en-fr
+My mother-in-law is coming on Sunday.	Ma belle-mère vient dimanche.<br>/ma bɛlmɛʁ vjɛ̃ dimɑ̃ʃ/	en-fr
+The living room is beautiful but small.	Le salon est beau mais petit.<br>/lə salɔ̃ ɛ bo mɛ pəti/	en-fr
+One fine day, he left.	Un beau jour, il est parti.<br>/œ̃ bo ʒuʁ, il ɛ paʁti/	en-fr
+There are beautiful flowers in the garden.	Il y a de belles fleurs dans le jardin.<br>/il j a də bɛl flœʁ dɑ̃ lə ʒaʁdɛ̃/	en-fr

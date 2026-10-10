@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::un jardin — a garden::Challenges
+#tags:french 1000words jardin challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: There is also a small garden.	Il y a aussi un petit jardin. /il j a osi œ̃ pəti ʒaʁdɛ̃/	say
+Say: The garden is behind the house.	Le jardin est derrière la maison. /lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ la mɛzɔ̃/	say
+Say: The children are playing in the garden.	Les enfants jouent dans le jardin. /lez‿ɑ̃fɑ̃ ʒu dɑ̃ lə ʒaʁdɛ̃/	say
+Say: My mother is watering the flowers in the garden.	Ma mère arrose les fleurs du jardin. /ma mɛʁ aʁoz le flœʁ dy ʒaʁdɛ̃/	say
+Say: There is no garden, but there is a balcony.	Il n’y a pas de jardin, mais il y a un balcon. /il nj a pa də ʒaʁdɛ̃, mɛ il j a œ̃ balkɔ̃/	say
+Why is jardin /ʒaʁdɛ̃/ but jardiner /ʒaʁdine/?	At the end of a word -in is the nasal vowel /ɛ̃/ and no n is said; before a vowel the n is said and the vowel turns oral, as in cousin, cousine /kuzɛ̃, kuzin/	sound
+The garden, to garden, gardening, a gardener	le jardin /lə ʒaʁdɛ̃/, jardiner /ʒaʁdine/, le jardinage /lə ʒaʁdinaʒ/, un jardinier /œ̃ ʒaʁdinje/	words
+In the garden, from the garden, at the bottom of the garden	dans le jardin /dɑ̃ lə ʒaʁdɛ̃/, du jardin /dy ʒaʁdɛ̃/, au fond du jardin /o fɔ̃ dy ʒaʁdɛ̃/	grammar
+A park, a vegetable garden, a kindergarten	un jardin public /œ̃ ʒaʁdɛ̃ pyblik/, un potager /œ̃ pɔtaʒe/, un jardin d’enfants /œ̃ ʒaʁdɛ̃ dɑ̃fɑ̃/	words
+The lawn, a tree, a hedge, a watering can	la pelouse /la pəluz/, un arbre /œ̃n‿aʁbʁ/, une haie /yn ɛ/ (aspirate h, no liaison), un arrosoir /œ̃n‿aʁozwaʁ/	words
+To water, to plant, to pick, to mow the lawn	arroser /aʁoze/, planter /plɑ̃te/, cueillir /kœjiʁ/, tondre la pelouse /tɔ̃dʁ la pəluz/	words
+To mind one’s own small affairs, after Voltaire	cultiver son jardin /kyltive sɔ̃ ʒaʁdɛ̃/ (Il faut cultiver notre jardin, the last line of Candide)	words

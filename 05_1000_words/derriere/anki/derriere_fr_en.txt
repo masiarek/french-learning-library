@@ -1,0 +1,57 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::derrière — behind
+#tags:french 1000words derriere fr-en
+#columns:Front	Back	Tags
+#tags column:3
+derrière<br>/dɛʁjɛʁ/	(prep.) behind, at the back of	fr-en
+Le jardin est derrière la maison.<br>/lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ la mɛzɔ̃/	The garden is behind the house.	fr-en
+derrière la maison<br>/dɛʁjɛʁ la mɛzɔ̃/	behind the house	fr-en
+derrière la porte<br>/dɛʁjɛʁ la pɔʁt/	behind the door	fr-en
+derrière le canapé<br>/dɛʁjɛʁ lə kanape/	behind the sofa	fr-en
+derrière l'armoire<br>/dɛʁjɛʁ laʁmwaʁ/	behind the wardrobe	fr-en
+derrière moi, derrière toi, derrière nous<br>/dɛʁjɛʁ mwa, dɛʁjɛʁ twa, dɛʁjɛʁ nu/	behind me, behind you, behind us	fr-en
+l'un derrière l'autre<br>/lœ̃ dɛʁjɛʁ lotʁ/	one behind the other	fr-en
+devant la maison<br>/dəvɑ̃ la mɛzɔ̃/	in front of the house	fr-en
+derrière la gare – après la gare<br>/dɛʁjɛʁ la ɡaʁ/ · /apʁɛ la ɡaʁ/	behind the station – past the station, on the way	fr-en
+après le dîner<br>/apʁɛ lə dine/	after dinner	fr-en
+devant, derrière – avant, après<br>/dəvɑ̃, dɛʁjɛʁ/ · /avɑ̃, apʁɛ/	space – time	fr-en
+le siège arrière<br>/lə sjɛʒ aʁjɛʁ/	the back seat	fr-en
+à l'arrière de la voiture<br>/a laʁjɛʁ də la vwatyʁ/	at the back of the car	fr-en
+en arrière<br>/ɑ̃n‿aʁjɛʁ/	backwards	fr-en
+faire marche arrière<br>/fɛʁ maʁʃ aʁjɛʁ/	to reverse	fr-en
+la porte de derrière<br>/la pɔʁt də dɛʁjɛʁ/	the back door	fr-en
+Il est derrière.<br>/il ɛ dɛʁjɛʁ/	He is behind, at the back.	fr-en
+par-derrière<br>/paʁdɛʁjɛʁ/	from behind; behind one's back	fr-en
+le derrière de la maison<br>/lə dɛʁjɛʁ də la mɛzɔ̃/	the back of the house	fr-en
+le derrière<br>/lə dɛʁjɛʁ/	the behind, the bottom	fr-en
+se cacher derrière<br>/sə kaʃe dɛʁjɛʁ/	to hide behind	fr-en
+regarder derrière soi<br>/ʁəɡaʁde dɛʁjɛʁ swa/	to look behind oneself	fr-en
+laisser derrière soi<br>/lese dɛʁjɛʁ swa/	to leave behind	fr-en
+fermer la porte derrière soi<br>/fɛʁme la pɔʁt dɛʁjɛʁ swa/	to close the door behind oneself	fr-en
+avoir toute l'équipe derrière soi<br>/avwaʁ tut lekip dɛʁjɛʁ swa/	to have the whole team behind one	fr-en
+Il y a quelque chose derrière.<br>/il j a kɛlkə ʃoz dɛʁjɛʁ/	There is something behind this.	fr-en
+derrière les barreaux<br>/dɛʁjɛʁ le baʁo/	behind bars	fr-en
+derrière – première – bière – lumière<br>/dɛʁjɛʁ/ · /pʁəmjɛʁ/ · /bjɛʁ/ · /lymjɛʁ/	behind – first – beer – light	fr-en
+derrière – arrière<br>/dɛʁjɛʁ/ · /aʁjɛʁ/	behind – the back part	fr-en
+Le chat se cache derrière le canapé.<br>/lə ʃa sə kaʃ dɛʁjɛʁ lə kanape/	The cat is hiding behind the sofa.	fr-en
+Qui est derrière la porte ?<br>/ki ɛ dɛʁjɛʁ la pɔʁt/	Who is behind the door?	fr-en
+Ferme la porte derrière toi.<br>/fɛʁm la pɔʁt dɛʁjɛʁ twa/	Close the door behind you.	fr-en
+Les enfants sont assis derrière, dans la voiture.<br>/lez‿ɑ̃fɑ̃ sɔ̃t‿asi dɛʁjɛʁ, dɑ̃ la vwatyʁ/	The children are sitting in the back of the car.	fr-en
+Il y a un petit jardin derrière la maison.<br>/il j a œ̃ pəti ʒaʁdɛ̃ dɛʁjɛʁ la mɛzɔ̃/	There is a small garden behind the house.	fr-en
+Ne regarde pas derrière toi.<br>/nə ʁəɡaʁd pa dɛʁjɛʁ twa/	Don't look behind you.	fr-en
+La voiture est devant, le jardin est derrière.<br>/la vwatyʁ ɛ dəvɑ̃, lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ/	The car is at the front, the garden at the back.	fr-en
+Mes clés sont tombées derrière l'armoire.<br>/me kle sɔ̃ tɔ̃be dɛʁjɛʁ laʁmwaʁ/	My keys fell behind the wardrobe.	fr-en
+Nous marchons l'un derrière l'autre.<br>/nu maʁʃɔ̃ lœ̃ dɛʁjɛʁ lotʁ/	We walk one behind the other.	fr-en
+Le jardin est ________ la maison.<br>(AI exercise: derrière or devant?)	/lə ʒaʁdɛ̃ ɛ [dɛʁjɛʁ] la mɛzɔ̃/<br>The garden is behind the house.	exercise
+La voiture est ________ la maison.<br>(AI exercise: derrière or devant?)	/la vwatyʁ ɛ [dəvɑ̃] la mɛzɔ̃/<br>The car is in front of the house.	exercise
+Le chat est ________ le canapé.<br>(AI exercise: derrière or devant?)	/lə ʃa ɛ [dɛʁjɛʁ] lə kanape/<br>The cat is behind the sofa.	exercise
+Je t'attends ________ le cinéma.<br>(AI exercise: derrière or devant?)	/ʒə tatɑ̃ [dəvɑ̃] lə sinema/<br>I'll wait for you in front of the cinema.	exercise
+Le jardin est ________ la maison.<br>(AI exercise: derrière or après?)	/lə ʒaʁdɛ̃ ɛ [dɛʁjɛʁ] la mɛzɔ̃/<br>The garden is behind the house.	exercise
+Nous sortons ________ le dîner.<br>(AI exercise: derrière or après?)	/nu sɔʁtɔ̃ [apʁɛ] lə dine/<br>We go out after dinner.	exercise
+Il est ________ moi dans la file.<br>(AI exercise: derrière or après?)	/il ɛ [dɛʁjɛʁ] mwa dɑ̃ la fil/<br>He is behind me in the queue.	exercise
+________ la gare, tournez à gauche.<br>(AI exercise: derrière or après?)	/[apʁɛ] la ɡaʁ, tuʁne a ɡoʃ/<br>After the station, turn left.	exercise
+Les enfants sont à l'________.<br>(AI exercise: derrière or arrière?)	/lez‿ɑ̃fɑ̃ sɔ̃t‿a l[aʁjɛʁ]/<br>The children are in the back.	exercise
+Le ballon est ________ la porte.<br>(AI exercise: derrière or arrière?)	/lə balɔ̃ ɛ [dɛʁjɛʁ] la pɔʁt/<br>The ball is behind the door.	exercise
+Il fait marche ________.<br>(AI exercise: derrière or arrière?)	/il fɛ maʁʃ [aʁjɛʁ]/<br>He is reversing.	exercise

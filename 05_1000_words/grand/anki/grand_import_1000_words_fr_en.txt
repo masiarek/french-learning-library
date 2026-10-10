@@ -1,0 +1,82 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+grand, grande<br>/ɡʁɑ̃, ɡʁɑ̃d/	(adj.) big, large, tall; great	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+J'habite dans une grande maison avec ma famille.<br>/ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/	I live in a big house with my family.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+un grand jardin<br>/œ̃ ɡʁɑ̃ ʒaʁdɛ̃/	a big garden	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+une grande maison<br>/yn ɡʁɑ̃d mɛzɔ̃/	a big house	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+de grands jardins<br>/də ɡʁɑ̃ ʒaʁdɛ̃/	big gardens	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+de grandes maisons<br>/də ɡʁɑ̃d mɛzɔ̃/	big houses	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Le salon est grand.<br>/lə salɔ̃ ɛ ɡʁɑ̃/	The living room is big.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+La chambre est grande.<br>/la ʃɑ̃bʁ ɛ ɡʁɑ̃d/	The bedroom is big.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Les jardins sont grands.<br>/le ʒaʁdɛ̃ sɔ̃ ɡʁɑ̃/	The gardens are big.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Les chambres sont grandes.<br>/le ʃɑ̃bʁ sɔ̃ ɡʁɑ̃d/	The bedrooms are big.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+un grand homme<br>/œ̃ ɡʁɑ̃t‿ɔm/	a great man	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+un grand arbre<br>/œ̃ ɡʁɑ̃t‿aʁbʁ/	a big tree	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+un grand appartement<br>/œ̃ ɡʁɑ̃t‿apaʁtəmɑ̃/	a big flat	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+un grand ami<br>/œ̃ ɡʁɑ̃t‿ami/	a great friend	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+de grands arbres<br>/də ɡʁɑ̃z‿aʁbʁ/	big trees	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+les grands hommes<br>/le ɡʁɑ̃z‿ɔm/	the great men	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+une grande armoire, une grande amie<br>/yn ɡʁɑ̃d aʁmwaʁ, yn ɡʁɑ̃d ami/	a big wardrobe, a great friend: no liaison needed	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+un homme grand<br>/œ̃n‿ɔm ɡʁɑ̃/	a tall man	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+une femme grande<br>/yn fam ɡʁɑ̃d/	a tall woman	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+une grande femme<br>/yn ɡʁɑ̃d fam/	a great woman; also a tall woman	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+un gros homme<br>/œ̃ ɡʁoz‿ɔm/	a fat man	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Il est grand pour son âge.<br>/il ɛ ɡʁɑ̃ puʁ sɔ̃n‿ɑʒ/	He is tall for his age.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+un grand écrivain<br>/œ̃ ɡʁɑ̃t‿ekʁivɛ̃/	a great writer	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Alexandre le Grand<br>/alɛksɑ̃dʁ lə ɡʁɑ̃/	Alexander the Great	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+plus grand que<br>/ply ɡʁɑ̃ kə/	bigger than, taller than	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+moins grand que<br>/mwɛ̃ ɡʁɑ̃ kə/	smaller than, less tall than	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+aussi grand que<br>/osi ɡʁɑ̃ kə/	as big as, as tall as	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+le plus grand, la plus grande<br>/lə ply ɡʁɑ̃, la ply ɡʁɑ̃d/	the biggest, the tallest	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Ma sœur est plus grande que moi.<br>/ma sœʁ ɛ ply ɡʁɑ̃d kə mwa/	My sister is taller than me.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Il est aussi grand que son père.<br>/il ɛ osi ɡʁɑ̃ kə sɔ̃ pɛʁ/	He is as tall as his father.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Paris est la plus grande ville de France.<br>/paʁi ɛ la ply ɡʁɑ̃d vil də fʁɑ̃s/	Paris is the biggest city in France.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+bon, meilleur, le meilleur<br>/bɔ̃, mɛjœʁ, lə mɛjœʁ/	good, better, the best: the irregular comparative of bon	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+une grande personne<br>/yn ɡʁɑ̃d pɛʁsɔn/	a grown-up	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+les grands et les petits<br>/le ɡʁɑ̃ e le pəti/	the big ones and the little ones, the older and the younger children	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+les grandes vacances<br>/le ɡʁɑ̃d vakɑ̃s/	the summer holidays	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+mon grand frère, ma grande sœur<br>/mɔ̃ ɡʁɑ̃ fʁɛʁ, ma ɡʁɑ̃d sœʁ/	my big brother, my big sister	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+un grand lit<br>/œ̃ ɡʁɑ̃ li/	a double bed	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+un grand magasin<br>/œ̃ ɡʁɑ̃ maɡazɛ̃/	a department store	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+une grande ville<br>/yn ɡʁɑ̃d vil/	a big city	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+un grand verre d'eau<br>/œ̃ ɡʁɑ̃ vɛʁ do/	a large glass of water	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+la porte grande ouverte<br>/la pɔʁt ɡʁɑ̃d uvɛʁt/	the door wide open	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+au grand air<br>/o ɡʁɑ̃t‿ɛʁ/	in the open air	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+pas grand-chose<br>/pa ɡʁɑ̃ʃoz/	not much	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+grand-mère, grand-père, les grands-parents<br>/ɡʁɑ̃mɛʁ, ɡʁɑ̃pɛʁ, le ɡʁɑ̃paʁɑ̃/	grandmother, grandfather, the grandparents	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+grandir<br>/ɡʁɑ̃diʁ/	to grow, to grow up	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+il grandit, ils grandissent, il a grandi<br>/il ɡʁɑ̃di, il ɡʁɑ̃dis, il a ɡʁɑ̃di/	he grows, they grow, he has grown	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+agrandir<br>/aɡʁɑ̃diʁ/	to enlarge, to extend	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+la grandeur<br>/la ɡʁɑ̃dœʁ/	size; greatness	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+grandement<br>/ɡʁɑ̃dmɑ̃/	greatly, amply	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+petit, petite<br>/pəti, pətit/	small: the opposite	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+grand – grands<br>/ɡʁɑ̃/ · /ɡʁɑ̃/	big, singular and plural: the same sound	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+grande – grandes<br>/ɡʁɑ̃d/ · /ɡʁɑ̃d/	big, feminine singular and plural: the same sound	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+grand – grande<br>/ɡʁɑ̃/ · /ɡʁɑ̃d/	the d is heard only in the feminine	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+grand – quand<br>/ɡʁɑ̃/ · /kɑ̃/	big – when: the same /ɑ̃/, and /t/ in liaison for both	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Ma maison est grande, belle et confortable.<br>/ma mɛzɔ̃ ɛ ɡʁɑ̃d, bɛl e kɔ̃fɔʁtabl/	My house is big, beautiful and comfortable.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Il y a un grand lit dans ma chambre.<br>/il j a œ̃ ɡʁɑ̃ li dɑ̃ ma ʃɑ̃bʁ/	There is a double bed in my bedroom.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Le salon est grand mais le jardin est petit.<br>/lə salɔ̃ ɛ ɡʁɑ̃ mɛ lə ʒaʁdɛ̃ ɛ pəti/	The living room is big but the garden is small.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Nous avons une grande cuisine.<br>/nuz‿avɔ̃ yn ɡʁɑ̃d kɥizin/	We have a big kitchen.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Il y a un grand arbre devant la maison.<br>/il j a œ̃ ɡʁɑ̃t‿aʁbʁ dəvɑ̃ la mɛzɔ̃/	There is a big tree in front of the house.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Mon frère est très grand.<br>/mɔ̃ fʁɛʁ ɛ tʁɛ ɡʁɑ̃/	My brother is very tall.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Ma grand-mère habite dans une grande ville.<br>/ma ɡʁɑ̃mɛʁ abit dɑ̃z‿yn ɡʁɑ̃d vil/	My grandmother lives in a big city.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Les enfants grandissent vite.<br>/lez‿ɑ̃fɑ̃ ɡʁɑ̃dis vit/	Children grow up fast.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Nous voulons agrandir la cuisine.<br>/nu vulɔ̃ aɡʁɑ̃diʁ la kɥizin/	We want to extend the kitchen.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Les grandes vacances commencent en juillet.<br>/le ɡʁɑ̃d vakɑ̃s kɔmɑ̃s ɑ̃ ʒɥijɛ/	The summer holidays start in July.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+Il n'y a pas grand-chose dans l'armoire.<br>/il nj a pa ɡʁɑ̃ʃoz dɑ̃ laʁmwaʁ/	There is not much in the wardrobe.	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+une ________ maison<br>(AI exercise: grand, grande, grands or grandes?)	/yn [ɡʁɑ̃d] mɛzɔ̃/<br>a big house	french 1000words grand fr-en exercise	French::1000 words (FR-EN)::grand — big, tall
+un ________ jardin<br>(AI exercise: grand, grande, grands or grandes?)	/œ̃ [ɡʁɑ̃] ʒaʁdɛ̃/<br>a big garden	french 1000words grand fr-en exercise	French::1000 words (FR-EN)::grand — big, tall
+de ________ chambres<br>(AI exercise: grand, grande, grands or grandes?)	/də [ɡʁɑ̃d] ʃɑ̃bʁ/<br>big bedrooms	french 1000words grand fr-en exercise	French::1000 words (FR-EN)::grand — big, tall
+de ________ arbres<br>(AI exercise: grand, grande, grands or grandes?)	/də [ɡʁɑ̃z]‿aʁbʁ/<br>big trees	french 1000words grand fr-en exercise	French::1000 words (FR-EN)::grand — big, tall
+Ma sœur est ________.<br>(AI exercise: grand, grande, grands or grandes?)	/ma sœʁ ɛ [ɡʁɑ̃d]/<br>My sister is tall.	french 1000words grand fr-en exercise	French::1000 words (FR-EN)::grand — big, tall
+Mes frères sont ________.<br>(AI exercise: grand, grande, grands or grandes?)	/me fʁɛʁ sɔ̃ [ɡʁɑ̃]/<br>My brothers are tall.	french 1000words grand fr-en exercise	French::1000 words (FR-EN)::grand — big, tall
+une grande femme<br>/yn ɡʁɑ̃d fam/ (2)	a great woman	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+les grands magasins<br>/le ɡʁɑ̃ maɡazɛ̃/	the department stores	french 1000words grand fr-en	French::1000 words (FR-EN)::grand — big, tall
+un homme ________<br>(AI exercise: tall or great? Translate the word order)	/œ̃n‿ɔm [ɡʁɑ̃]/<br>a tall man	french 1000words grand fr-en exercise	French::1000 words (FR-EN)::grand — big, tall
+un ________ homme<br>(AI exercise: tall or great? Translate the word order)	/œ̃ [ɡʁɑ̃t]‿ɔm/<br>a great man	french 1000words grand fr-en exercise	French::1000 words (FR-EN)::grand — big, tall
+une ________ personne<br>(AI exercise: tall or great? Translate the word order)	/yn [ɡʁɑ̃d] pɛʁsɔn/<br>a grown-up	french 1000words grand fr-en exercise	French::1000 words (FR-EN)::grand — big, tall

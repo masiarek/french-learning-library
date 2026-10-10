@@ -1,0 +1,81 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(n.f.) flower; blossom	une fleur<br>/yn flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+He gives his mother flowers.	Il offre des fleurs à sa mère.<br>/il ɔfʁ de flœʁ a sa mɛʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+I give, you give, he gives	j'offre, tu offres, il offre<br>/ʒɔfʁ, ty ɔfʁ, il ɔfʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+we give, you give, they give	nous offrons, vous offrez, ils offrent<br>/nuz‿ɔfʁɔ̃, vuz‿ɔfʁe, ilz‿ɔfʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+I gave, he gave me flowers	j'ai offert, il m'a offert des fleurs<br>/ʒe ɔfɛʁ, il ma ɔfɛʁ de flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+give!	offre ! offrez !<br>/ɔfʁ, ɔfʁe/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+to give Marie flowers	offrir des fleurs à Marie<br>/ɔfʁiʁ de flœʁ a maʁi/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+the cherry tree is in flower, the roses are in flower	le cerisier fleurit, les roses fleurissent<br>/lə səʁizje flœʁi, le ʁoz flœʁis/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+a garden in bloom, a street decked with flowers	un jardin fleuri, une rue fleurie<br>/œ̃ ʒaʁdɛ̃ flœʁi, yn ʁy flœʁi/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+in bloom, the trees are in bloom	en fleurs, les arbres sont en fleurs<br>/ɑ̃ flœʁ, lez‿aʁbʁ sɔ̃t‿ɑ̃ flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+a flower, flowers	une fleur, des fleurs<br>/yn flœʁ, de flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+beautiful flowers, pretty flowers: de before the adjective	de belles fleurs, de jolies fleurs<br>/də bɛl flœʁ, də ʒɔli flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+There are no flowers.	Il n'y a pas de fleurs.<br>/il nj a pa də flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+I like flowers.	J'aime les fleurs.<br>/ʒɛm le flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+a red flower, red flowers	une fleur rouge, des fleurs rouges<br>/yn flœʁ ʁuʒ, de flœʁ ʁuʒ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+a wilted flower	une fleur fanée<br>/yn flœʁ fane/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+a rose	une rose<br>/yn ʁoz/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+a tulip	une tulipe<br>/yn tylip/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+a daisy	une marguerite<br>/yn maʁɡəʁit/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+a sunflower	un tournesol<br>/œ̃ tuʁnəsɔl/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+a violet	une violette<br>/yn vjɔlɛt/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+a poppy	un coquelicot<br>/œ̃ kɔkliko/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+a lily	un lys<br>/œ̃ lis/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+the lilac, the lily of the valley, the carnation	le lilas, le muguet, l'œillet<br>/lə lila, lə myɡɛ, lœjɛ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+the lily of the valley of the first of May	le muguet du premier mai<br>/lə myɡɛ dy pʁəmje mɛ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+to flower, in bloom	fleurir, fleuri<br>/flœʁiʁ, flœʁi/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+a florist, at the florist's	un fleuriste, une fleuriste, chez le fleuriste<br>/œ̃ flœʁist, yn flœʁist, ʃe lə flœʁist/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+the flowering	la floraison<br>/la flɔʁɛzɔ̃/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+floral	floral, florale<br>/flɔʁal/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+a bunch of flowers	un bouquet de fleurs<br>/œ̃ bukɛ də flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+a petal, a stem	un pétale, une tige<br>/œ̃ petal, yn tiʒ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+a vase, a flowerpot	un vase, un pot de fleurs<br>/œ̃ vɑz, œ̃ po də flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+to give flowers	offrir des fleurs<br>/ɔfʁiʁ de flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+to pick flowers	cueillir des fleurs<br>/kœjiʁ de flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+to water the flowers	arroser les fleurs<br>/aʁoze le flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+to plant flowers	planter des fleurs<br>/plɑ̃te de flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+to buy flowers at the florist's	acheter des fleurs chez le fleuriste<br>/aʃte de flœʁ ʃe lə flœʁist/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+to put the flowers in a vase	mettre les fleurs dans un vase<br>/mɛtʁ le flœʁ dɑ̃z‿œ̃ vɑz/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+the flowers grow, the flowers wilt	les fleurs poussent, les fleurs fanent<br>/le flœʁ pus, le flœʁ fan/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+in the prime of life	à la fleur de l'âge<br>/a la flœʁ də lɑʒ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+the cream of	la fine fleur de<br>/la fin flœʁ də/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+to do someone a favour	faire une fleur à quelqu'un<br>/fɛʁ yn flœʁ a kɛlkœ̃/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+to turn up fresh as a daisy, without a care	arriver comme une fleur<br>/aʁive kɔm yn flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+to be on edge	avoir les nerfs à fleur de peau<br>/avwaʁ le nɛʁ a flœʁ də po/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+fleur de sel, the salt skimmed from the surface	la fleur de sel<br>/la flœʁ də sɛl/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+the fleur-de-lis, the emblem of the French kings	la fleur de lys<br>/la flœʁ də lis/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+Say it with flowers.	Dites-le avec des fleurs.<br>/dit lə avɛk de flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+In the garden there are flowers.	Dans le jardin, il y a des fleurs.<br>/dɑ̃ lə ʒaʁdɛ̃, il j a de flœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+the flower – he cries	la fleur – il pleure<br>/la flœʁ/ · /il plœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+the flower – the river	la fleur – le fleuve<br>/la flœʁ/ · /lə flœv/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+the flower – the sister – the heart – the fear – the hour – the butter: the rhymes in /œʁ/	la fleur – la sœur – le cœur – la peur – l'heure – le beurre<br>/la flœʁ/ · /la sœʁ/ · /lə kœʁ/ · /la pœʁ/ · /lœʁ/ · /lə bœʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+the flower – two: /œ/ before the r, /ø/ with nothing after	la fleur – deux<br>/la flœʁ/ · /dø/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+There are flowers in the garden.	Il y a des fleurs dans le jardin.<br>/il j a de flœʁ dɑ̃ lə ʒaʁdɛ̃/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+I am giving my mother a bunch of flowers.	J'offre un bouquet de fleurs à ma mère.<br>/ʒɔfʁ œ̃ bukɛ də flœʁ a ma mɛʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+The flowers are on the kitchen table.	Les fleurs sont sur la table de la cuisine.<br>/le flœʁ sɔ̃ syʁ la tabl də la kɥizin/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+My sister buys flowers at the florist's.	Ma sœur achète des fleurs chez le fleuriste.<br>/ma sœʁ aʃɛt de flœʁ ʃe lə flœʁist/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+Roses are the flowers I like best.	Les roses sont les fleurs que je préfère.<br>/le ʁoz sɔ̃ le flœʁ kə ʒə pʁefɛʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+There are no flowers in winter.	Il n'y a pas de fleurs en hiver.<br>/il nj a pa də flœʁ ɑ̃n‿ivɛʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+The trees are in bloom in spring.	Les arbres sont en fleurs au printemps.<br>/lez‿aʁbʁ sɔ̃t‿ɑ̃ flœʁ o pʁɛ̃tɑ̃/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+We are picking pretty flowers for Mother's Day.	Nous cueillons de jolies fleurs pour la fête des mères.<br>/nu kœjɔ̃ də ʒɔli flœʁ puʁ la fɛt de mɛʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+Put the flowers in a vase with water.	Mets les fleurs dans un vase avec de l'eau.<br>/mɛ le flœʁ dɑ̃z‿œ̃ vɑz avɛk də lo/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+These flowers have wilted.	Ces fleurs sont fanées.<br>/se flœʁ sɔ̃ fane/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+A red flower is growing in front of the window.	Une fleur rouge pousse devant la fenêtre.<br>/yn flœʁ ʁuʒ pus dəvɑ̃ la fənɛtʁ/	french 1000words fleur en-fr	French::1000 words (EN-FR)::une fleur — a flower
+Say: In the garden there are flowers.	Dans le jardin, il y a des fleurs. /dɑ̃ lə ʒaʁdɛ̃, il j a de flœʁ/	french 1000words fleur challenge say	French::1000 words (EN-FR)::une fleur — a flower::Challenges
+Say: He gives his mother flowers.	Il offre des fleurs à sa mère. /il ɔfʁ de flœʁ a sa mɛʁ/	french 1000words fleur challenge say	French::1000 words (EN-FR)::une fleur — a flower::Challenges
+Say: I like flowers.	J’aime les fleurs. /ʒɛm le flœʁ/	french 1000words fleur challenge say	French::1000 words (EN-FR)::une fleur — a flower::Challenges
+Say: There are no flowers in winter.	Il n’y a pas de fleurs en hiver. /il nj a pa də flœʁ ɑ̃n‿ivɛʁ/	french 1000words fleur challenge say	French::1000 words (EN-FR)::une fleur — a flower::Challenges
+Say: The trees are in bloom in spring.	Les arbres sont en fleurs au printemps. /lez‿aʁbʁ sɔ̃t‿ɑ̃ flœʁ o pʁɛ̃tɑ̃/	french 1000words fleur challenge say	French::1000 words (EN-FR)::une fleur — a flower::Challenges
+Why is fleur /flœʁ/ but deux /dø/?	Before a consonant that is said, here the r, eu is the open /œ/; with nothing after it, the closed /ø/: the rule of position	french 1000words fleur challenge sound	French::1000 words (EN-FR)::une fleur — a flower::Challenges
+A bunch of flowers, a florist, to flower, in bloom	un bouquet de fleurs /œ̃ bukɛ də flœʁ/, un fleuriste /œ̃ flœʁist/, fleurir /flœʁiʁ/, en fleurs /ɑ̃ flœʁ/	french 1000words fleur challenge words	French::1000 words (EN-FR)::une fleur — a flower::Challenges
+I give, we give, he gave me flowers	j’offre /ʒɔfʁ/, nous offrons /nuz‿ɔfʁɔ̃/, il m’a offert des fleurs /il ma ɔfɛʁ de flœʁ/	french 1000words fleur challenge grammar	French::1000 words (EN-FR)::une fleur — a flower::Challenges
+Flowers, beautiful flowers, no flowers	des fleurs /de flœʁ/, de belles fleurs /də bɛl flœʁ/, pas de fleurs /pa də flœʁ/	french 1000words fleur challenge grammar	French::1000 words (EN-FR)::une fleur — a flower::Challenges
+A rose, a tulip, a daisy, a sunflower	une rose /yn ʁoz/, une tulipe /yn tylip/, une marguerite /yn maʁɡəʁit/, un tournesol /œ̃ tuʁnəsɔl/	french 1000words fleur challenge words	French::1000 words (EN-FR)::une fleur — a flower::Challenges
+The flower, against he cries	la fleur /la flœʁ/, il pleure /il plœʁ/: /f/ against /p/, the vowel the same	french 1000words fleur challenge sound	French::1000 words (EN-FR)::une fleur — a flower::Challenges
+In the prime of life, in French	à la fleur de l’âge /a la flœʁ də lɑʒ/	french 1000words fleur challenge words	French::1000 words (EN-FR)::une fleur — a flower::Challenges

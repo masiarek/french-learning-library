@@ -1,0 +1,79 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::un livre — a book
+#tags:french 1000words livre fr-en
+#columns:Front	Back	Tags
+#tags column:3
+un livre<br>/œ̃ livʁ, la livʁ/	(n.m.) book; la livre (n.f.) the pound	fr-en
+Il y a des livres sur le bureau.<br>/il j a de livʁ syʁ lə byʁo/	There are books on the desk.	fr-en
+le livre – la livre – il livre<br>/lə livʁ/ · /la livʁ/ · /il livʁ/	the book – the pound – he delivers	fr-en
+une livre de beurre, une demi-livre<br>/yn livʁ də bœʁ, yn dəmi livʁ/	a pound of butter, half a pound	fr-en
+la livre anglaise, cent livres<br>/la livʁ ɑ̃ɡlɛz, sɑ̃ livʁ/	the pound sterling, a hundred pounds	fr-en
+livrer, je livre, nous livrons, livré<br>/livʁe, ʒə livʁ, nu livʁɔ̃, livʁe/	to deliver, I deliver, we deliver, delivered	fr-en
+la livraison, le livreur<br>/la livʁɛzɔ̃, lə livʁœʁ/	the delivery, the delivery man	fr-en
+je lis, tu lis, il lit<br>/ʒə li, ty li, il li/	I read, you read, he reads	fr-en
+nous lisons, vous lisez, ils lisent<br>/nu lizɔ̃, vu lize, il liz/	we read, you read, they read	fr-en
+j'ai lu<br>/ʒe ly/	I read, I have read	fr-en
+la lecture, le lecteur, la lectrice<br>/la lɛktyʁ, lə lɛktœʁ, la lɛktʁis/	reading, the reader	fr-en
+lire un livre<br>/liʁ œ̃ livʁ/	to read a book	fr-en
+ouvrir, fermer un livre<br>/uvʁiʁ, fɛʁme œ̃ livʁ/	to open, to close a book	fr-en
+feuilleter un livre<br>/fœjte œ̃ livʁ/	to leaf through a book	fr-en
+acheter un livre<br>/aʃte œ̃ livʁ/	to buy a book	fr-en
+emprunter, prêter, rendre un livre<br>/ɑ̃pʁœ̃te, pʁɛte, ʁɑ̃dʁ œ̃ livʁ/	to borrow, to lend, to give back a book	fr-en
+écrire un livre, publier un livre<br>/ekʁiʁ œ̃ livʁ, pyblije œ̃ livʁ/	to write a book, to publish a book	fr-en
+offrir un livre<br>/ɔfʁiʁ œ̃ livʁ/	to give a book as a present	fr-en
+une librairie, le libraire<br>/yn libʁɛʁi, lə libʁɛʁ/	a bookshop, the bookseller	fr-en
+une bibliothèque, le bibliothécaire<br>/yn biblijɔtɛk, lə biblijɔtekɛʁ/	a library, the librarian; a bookcase	fr-en
+la bibliothèque municipale<br>/la biblijɔtɛk mynisipal/	the public library	fr-en
+acheter un livre à la librairie<br>/aʃte œ̃ livʁ a la libʁɛʁi/	to buy a book at the bookshop	fr-en
+emprunter un livre à la bibliothèque<br>/ɑ̃pʁœ̃te œ̃ livʁ a la biblijɔtɛk/	to borrow a book from the library	fr-en
+un bouquin, bouquiner<br>/œ̃ bukɛ̃, bukine/	a book, to read (familiar)	fr-en
+les bouquinistes<br>/le bukinist/	the second-hand booksellers of the Seine	fr-en
+un livre de poche<br>/œ̃ livʁ də pɔʃ/	a paperback	fr-en
+un livre de cuisine<br>/œ̃ livʁ də kɥizin/	a cookbook	fr-en
+un livre d'images, un livre pour enfants<br>/œ̃ livʁ dimaʒ, œ̃ livʁ puʁ ɑ̃fɑ̃/	a picture book, a children's book	fr-en
+un livre d'or<br>/œ̃ livʁ dɔʁ/	a visitors' book	fr-en
+un livre numérique, un livre audio<br>/œ̃ livʁ nymeʁik, œ̃ livʁ odjo/	an e-book, an audiobook	fr-en
+un manuel, un livre de classe<br>/œ̃ manɥɛl, œ̃ livʁ də klas/	a textbook	fr-en
+un roman, un dictionnaire<br>/œ̃ ʁɔmɑ̃, œ̃ diksjɔnɛʁ/	a novel, a dictionary	fr-en
+une bande dessinée, une BD<br>/yn bɑ̃d desine, yn bede/	a comic book	fr-en
+un cahier<br>/œ̃ kaje/	a notebook	fr-en
+la couverture, le titre<br>/la kuvɛʁtyʁ, lə titʁ/	the cover, the title	fr-en
+l'auteur, un écrivain<br>/lotœʁ, œ̃n‿ekʁivɛ̃/	the author, a writer	fr-en
+une page, un chapitre<br>/yn paʒ, œ̃ ʃapitʁ/	a page, a chapter	fr-en
+la table des matières<br>/la tabl de matjɛʁ/	the table of contents	fr-en
+le début, la fin<br>/lə deby, la fɛ̃/	the beginning, the end	fr-en
+un bon livre, un gros livre<br>/œ̃ bɔ̃ livʁ, œ̃ ɡʁo livʁ/	a good book, a thick book	fr-en
+parler comme un livre<br>/paʁle kɔm œ̃ livʁ/	to talk like a book	fr-en
+traduire à livre ouvert<br>/tʁadɥiʁ a livʁ uvɛʁ/	to translate at sight	fr-en
+un rat de bibliothèque<br>/œ̃ ʁa də biblijɔtɛk/	a bookworm	fr-en
+le Salon du livre<br>/lə salɔ̃ dy livʁ/	the book fair	fr-en
+C'est un livre qui se lit facilement.<br>/sɛt‿œ̃ livʁ ki sə li fasilmɑ̃/	It is an easy read.	fr-en
+le livre – la livre – il livre<br>/lə livʁ/ · /la livʁ/ · /il livʁ/ (2)	the book – the pound – he delivers: one sound	fr-en
+le livre – libre<br>/lə livʁ/ · /libʁ/	the book – free: /v/ against /b/	fr-en
+le livre – ivre – vivre – le cuivre<br>/lə livʁ/ · /ivʁ/ · /vivʁ/ · /lə kɥivʁ/	the book – drunk – to live – copper: the same /ivʁ/	fr-en
+le livre – le lit – il lit<br>/lə livʁ/ · /lə li/ · /il li/	the book – the bed – he reads	fr-en
+Sur mon bureau, il y a mes livres et mes cahiers.<br>/syʁ mɔ̃ byʁo, il j a me livʁ e me kaje/	On my desk there are my books and my notebooks.	fr-en
+Je lis un livre au lit avant de dormir.<br>/ʒə li œ̃ livʁ o li avɑ̃ də dɔʁmiʁ/	I read a book in bed before sleeping.	fr-en
+Ma mère a acheté un livre de cuisine à la librairie.<br>/ma mɛʁ a aʃte œ̃ livʁ də kɥizin a la libʁɛʁi/	My mother bought a cookbook at the bookshop.	fr-en
+J'ai emprunté trois livres à la bibliothèque.<br>/ʒe ɑ̃pʁœ̃te tʁwa livʁ a la biblijɔtɛk/	I borrowed three books from the library.	fr-en
+Ce livre est très intéressant.<br>/sə livʁ ɛ tʁɛ ɛ̃teʁesɑ̃/	This book is very interesting.	fr-en
+Tu peux me prêter ce livre ?<br>/ty pø mə pʁɛte sə livʁ/	Can you lend me this book?	fr-en
+Il y a beaucoup de livres dans la bibliothèque du salon.<br>/il j a boku də livʁ dɑ̃ la biblijɔtɛk dy salɔ̃/	There are a lot of books in the bookcase in the living room.	fr-en
+Les enfants aiment les livres d'images.<br>/lez‿ɑ̃fɑ̃ ɛm le livʁ dimaʒ/	Children like picture books.	fr-en
+Le livreur livre les livres à la maison.<br>/lə livʁœʁ livʁ le livʁ a la mɛzɔ̃/	The delivery man delivers the books to the house.	fr-en
+Je voudrais une livre de beurre, s'il vous plaît.<br>/ʒə vudʁɛ yn livʁ də bœʁ, sil vu plɛ/	I would like a pound of butter, please.	fr-en
+Ce roman coûte dix livres en Angleterre.<br>/sə ʁɔmɑ̃ kut di livʁ ɑ̃n‿ɑ̃ɡlətɛʁ/	This novel costs ten pounds in England.	fr-en
+________ livre est sur le bureau.<br>(AI exercise: le livre or la livre?)	/[lə] livʁ ɛ syʁ lə byʁo/<br>The book is on the desk.	exercise
+Je voudrais ________ livre de beurre.<br>(AI exercise: le livre or la livre?)	/ʒə vudʁɛ [yn] livʁ də bœʁ/<br>I would like a pound of butter.	exercise
+________ livre anglaise est une monnaie.<br>(AI exercise: le livre or la livre?)	/[la] livʁ ɑ̃ɡlɛz ɛt‿yn mɔnɛ/<br>The pound sterling is a currency.	exercise
+J'ai lu ________ livre en deux jours.<br>(AI exercise: le livre or la livre?)	/ʒe ly [lə] livʁ ɑ̃ dø ʒuʁ/<br>I read the book in two days.	exercise
+J'achète un livre à la ________.<br>(AI exercise: librairie or bibliothèque?)	/ʒaʃɛt œ̃ livʁ a la [libʁɛʁi]/<br>I am buying a book at the bookshop.	exercise
+J'emprunte un livre à la ________.<br>(AI exercise: librairie or bibliothèque?)	/ʒɑ̃pʁœ̃t œ̃ livʁ a la [biblijɔtɛk]/<br>I am borrowing a book from the library.	exercise
+Les livres sont rangés dans la ________ du salon.<br>(AI exercise: librairie or bibliothèque?)	/le livʁ sɔ̃ ʁɑ̃ʒe dɑ̃ la [biblijɔtɛk] dy salɔ̃/<br>The books are put away in the bookcase in the living room.	exercise
+________ livre (à lire)<br>(AI exercise: un or une?)	/[œ̃] livʁ/<br>a book	exercise
+________ livre (de beurre)<br>(AI exercise: un or une?)	/[yn] livʁ/<br>a pound	exercise
+________ librairie<br>(AI exercise: un or une?)	/[yn] libʁɛʁi/<br>a bookshop	exercise
+________ roman<br>(AI exercise: un or une?)	/[œ̃] ʁɔmɑ̃/<br>a novel	exercise
+________ page<br>(AI exercise: un or une?)	/[yn] paʒ/<br>a page	exercise

@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::beaucoup — a lot::Challenges
+#tags:french 1000words beaucoup challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: I like my house a lot.	J’aime beaucoup ma maison. /ʒɛm boku ma mɛzɔ̃/	say
+Say: Thank you very much for the flowers!	Merci beaucoup pour les fleurs ! /mɛʁsi boku puʁ le flœʁ/	say
+Say: There are a lot of books on the desk.	Il y a beaucoup de livres sur le bureau. /il j a boku də livʁ syʁ lə byʁo/	say
+Say: I don’t have much time.	Je n’ai pas beaucoup de temps. /ʒə ne pa boku də tɑ̃/	say
+Say: It is far too expensive.	C’est beaucoup trop cher. /sɛ boku tʁo ʃɛʁ/	say
+Very hungry, very big, likes a lot: beaucoup or très?	j’ai très faim /ʒe tʁɛ fɛ̃/, très grand /tʁɛ ɡʁɑ̃/, with an adjective; j’aime beaucoup /ʒɛm boku/, with a verb	grammar
+Many books: what comes between beaucoup and the noun?	de, and no article: beaucoup de livres /boku də livʁ/; beaucoup des livres only for “many of the books”	grammar
+A little, enough, too much, how many: all with de	un peu de /œ̃ pø də/, assez de /ase də/, trop de /tʁo də/, combien de /kɔ̃bjɛ̃ də/	grammar
+A lot of people; I have a lot of them	beaucoup de monde /boku də mɔ̃d/; j’en ai beaucoup /ʒɑ̃n‿e boku/	words
+Much bigger; much better; by far	beaucoup plus grand /boku ply ɡʁɑ̃/; beaucoup mieux /boku mjø/; de beaucoup /də boku/	words
+The two vowels of beaucoup	the closed /o/ of eau and the /u/ of ou: /boku/; the final p is silent	sound
+Where does beaucoup go in “he works a lot”?	after the verb: il travaille beaucoup /il tʁavaj boku/	grammar

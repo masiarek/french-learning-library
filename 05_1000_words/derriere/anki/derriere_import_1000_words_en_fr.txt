@@ -1,0 +1,57 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(prep.) behind, at the back of	derrière<br>/dɛʁjɛʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+The garden is behind the house.	Le jardin est derrière la maison.<br>/lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ la mɛzɔ̃/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+behind the house	derrière la maison<br>/dɛʁjɛʁ la mɛzɔ̃/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+behind the door	derrière la porte<br>/dɛʁjɛʁ la pɔʁt/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+behind the sofa	derrière le canapé<br>/dɛʁjɛʁ lə kanape/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+behind the wardrobe	derrière l'armoire<br>/dɛʁjɛʁ laʁmwaʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+behind me, behind you, behind us	derrière moi, derrière toi, derrière nous<br>/dɛʁjɛʁ mwa, dɛʁjɛʁ twa, dɛʁjɛʁ nu/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+one behind the other	l'un derrière l'autre<br>/lœ̃ dɛʁjɛʁ lotʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+in front of the house	devant la maison<br>/dəvɑ̃ la mɛzɔ̃/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+behind the station – past the station, on the way	derrière la gare – après la gare<br>/dɛʁjɛʁ la ɡaʁ/ · /apʁɛ la ɡaʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+after dinner	après le dîner<br>/apʁɛ lə dine/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+space – time	devant, derrière – avant, après<br>/dəvɑ̃, dɛʁjɛʁ/ · /avɑ̃, apʁɛ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+the back seat	le siège arrière<br>/lə sjɛʒ aʁjɛʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+at the back of the car	à l'arrière de la voiture<br>/a laʁjɛʁ də la vwatyʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+backwards	en arrière<br>/ɑ̃n‿aʁjɛʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+to reverse	faire marche arrière<br>/fɛʁ maʁʃ aʁjɛʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+the back door	la porte de derrière<br>/la pɔʁt də dɛʁjɛʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+He is behind, at the back.	Il est derrière.<br>/il ɛ dɛʁjɛʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+from behind; behind one's back	par-derrière<br>/paʁdɛʁjɛʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+the back of the house	le derrière de la maison<br>/lə dɛʁjɛʁ də la mɛzɔ̃/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+the behind, the bottom	le derrière<br>/lə dɛʁjɛʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+to hide behind	se cacher derrière<br>/sə kaʃe dɛʁjɛʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+to look behind oneself	regarder derrière soi<br>/ʁəɡaʁde dɛʁjɛʁ swa/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+to leave behind	laisser derrière soi<br>/lese dɛʁjɛʁ swa/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+to close the door behind oneself	fermer la porte derrière soi<br>/fɛʁme la pɔʁt dɛʁjɛʁ swa/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+to have the whole team behind one	avoir toute l'équipe derrière soi<br>/avwaʁ tut lekip dɛʁjɛʁ swa/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+There is something behind this.	Il y a quelque chose derrière.<br>/il j a kɛlkə ʃoz dɛʁjɛʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+behind bars	derrière les barreaux<br>/dɛʁjɛʁ le baʁo/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+behind – first – beer – light	derrière – première – bière – lumière<br>/dɛʁjɛʁ/ · /pʁəmjɛʁ/ · /bjɛʁ/ · /lymjɛʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+behind – the back part	derrière – arrière<br>/dɛʁjɛʁ/ · /aʁjɛʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+The cat is hiding behind the sofa.	Le chat se cache derrière le canapé.<br>/lə ʃa sə kaʃ dɛʁjɛʁ lə kanape/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+Who is behind the door?	Qui est derrière la porte ?<br>/ki ɛ dɛʁjɛʁ la pɔʁt/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+Close the door behind you.	Ferme la porte derrière toi.<br>/fɛʁm la pɔʁt dɛʁjɛʁ twa/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+The children are sitting in the back of the car.	Les enfants sont assis derrière, dans la voiture.<br>/lez‿ɑ̃fɑ̃ sɔ̃t‿asi dɛʁjɛʁ, dɑ̃ la vwatyʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+There is a small garden behind the house.	Il y a un petit jardin derrière la maison.<br>/il j a œ̃ pəti ʒaʁdɛ̃ dɛʁjɛʁ la mɛzɔ̃/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+Don't look behind you.	Ne regarde pas derrière toi.<br>/nə ʁəɡaʁd pa dɛʁjɛʁ twa/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+The car is at the front, the garden at the back.	La voiture est devant, le jardin est derrière.<br>/la vwatyʁ ɛ dəvɑ̃, lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+My keys fell behind the wardrobe.	Mes clés sont tombées derrière l'armoire.<br>/me kle sɔ̃ tɔ̃be dɛʁjɛʁ laʁmwaʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+We walk one behind the other.	Nous marchons l'un derrière l'autre.<br>/nu maʁʃɔ̃ lœ̃ dɛʁjɛʁ lotʁ/	french 1000words derriere en-fr	French::1000 words (EN-FR)::derrière — behind
+Say: The garden is behind the house.	Le jardin est derrière la maison. /lə ʒaʁdɛ̃ ɛ dɛʁjɛʁ la mɛzɔ̃/	french 1000words derriere challenge say	French::1000 words (EN-FR)::derrière — behind::Challenges
+Say: The cat is hiding behind the sofa.	Le chat se cache derrière le canapé. /lə ʃa sə kaʃ dɛʁjɛʁ lə kanape/	french 1000words derriere challenge say	French::1000 words (EN-FR)::derrière — behind::Challenges
+Say: Close the door behind you.	Ferme la porte derrière toi. /fɛʁm la pɔʁt dɛʁjɛʁ twa/	french 1000words derriere challenge say	French::1000 words (EN-FR)::derrière — behind::Challenges
+Say: Who is behind the door?	Qui est derrière la porte ? /ki ɛ dɛʁjɛʁ la pɔʁt/	french 1000words derriere challenge say	French::1000 words (EN-FR)::derrière — behind::Challenges
+Say: We walk one behind the other.	Nous marchons l’un derrière l’autre. /nu maʁʃɔ̃ lœ̃ dɛʁjɛʁ lotʁ/	french 1000words derriere challenge say	French::1000 words (EN-FR)::derrière — behind::Challenges
+Behind the station, against after dinner	derrière la gare /dɛʁjɛʁ la ɡaʁ/, space; après le dîner /apʁɛ lə dine/, time	french 1000words derriere challenge grammar	French::1000 words (EN-FR)::derrière — behind::Challenges
+Behind the car, against the back of the car	derrière la voiture /dɛʁjɛʁ la vwatyʁ/; l’arrière de la voiture /laʁjɛʁ də la vwatyʁ/	french 1000words derriere challenge grammar	French::1000 words (EN-FR)::derrière — behind::Challenges
+The back seat; to reverse	le siège arrière /lə sjɛʒ aʁjɛʁ/; faire marche arrière /fɛʁ maʁʃ aʁjɛʁ/	french 1000words derriere challenge words	French::1000 words (EN-FR)::derrière — behind::Challenges
+The back door, the front door	la porte de derrière /la pɔʁt də dɛʁjɛʁ/, la porte de devant /la pɔʁt də dəvɑ̃/	french 1000words derriere challenge words	French::1000 words (EN-FR)::derrière — behind::Challenges
+To leave behind; to have the team behind one	laisser derrière soi /lese dɛʁjɛʁ swa/; avoir l’équipe derrière soi /avwaʁ lekip dɛʁjɛʁ swa/	french 1000words derriere challenge words	French::1000 words (EN-FR)::derrière — behind::Challenges
+The vowels of derrière	two open /ɛ/, each before a consonant that is said: /dɛʁjɛʁ/; -ière is /jɛʁ/ as in première, bière	french 1000words derriere challenge sound	French::1000 words (EN-FR)::derrière — behind::Challenges
+Behind bars; there is something behind this	derrière les barreaux /dɛʁjɛʁ le baʁo/; il y a quelque chose derrière /il j a kɛlkə ʃoz dɛʁjɛʁ/	french 1000words derriere challenge words	French::1000 words (EN-FR)::derrière — behind::Challenges

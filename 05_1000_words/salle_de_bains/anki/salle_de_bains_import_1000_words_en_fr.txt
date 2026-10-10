@@ -1,0 +1,85 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(n.f.) bathroom	une salle de bains<br>/yn sal də bɛ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+The bathroom is next to the bedroom.	La salle de bains est à côté de la chambre.<br>/la sal də bɛ̃ ɛ(t)‿a kote də la ʃɑ̃bʁ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+I wash, you wash, he washes	je me lave, tu te laves, il se lave<br>/ʒə mə lav, ty tə lav, il sə lav/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+we wash, you wash, they wash	nous nous lavons, vous vous lavez, ils se lavent<br>/nu nu lavɔ̃, vu vu lave, il sə lav/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+I wash my hands, she washes her hair: the article, not the possessive	je me lave les mains, elle se lave les cheveux<br>/ʒə mə lav le mɛ̃, ɛl sə lav le ʃəvø/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+I washed, she washed	je me suis lavé, elle s'est lavée<br>/ʒə mə sɥi lave, ɛl sɛ lave/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+she washed her hands: no agreement before the body part	elle s'est lavé les mains<br>/ɛl sɛ lave le mɛ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+wash your hands!	lave-toi les mains ! lavez-vous les mains !<br>/lav twa le mɛ̃, lave vu le mɛ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+to have a shower	prendre une douche, se doucher<br>/pʁɑ̃dʁ yn duʃ, sə duʃe/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+to have a bath	prendre un bain<br>/pʁɑ̃dʁ œ̃ bɛ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+to brush one's teeth	se brosser les dents<br>/sə bʁɔse le dɑ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+to wash one's face	se laver le visage<br>/sə lave lə vizaʒ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+to shave	se raser<br>/sə ʁaze/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+to do one's hair	se coiffer<br>/sə kwafe/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+to put on make-up	se maquiller<br>/sə makije/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+to dry oneself	se sécher<br>/sə seʃe/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+to wash and dress	faire sa toilette<br>/fɛʁ sa twalɛt/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+to go to the toilet	aller aux toilettes<br>/ale o twalɛt/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+a bath, a shower	une baignoire, une douche<br>/yn bɛɲwaʁ, yn duʃ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+a washbasin, a tap	un lavabo, un robinet<br>/œ̃ lavabo, œ̃ ʁɔbinɛ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+a mirror	un miroir<br>/œ̃ miʁwaʁ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+a towel	une serviette<br>/yn sɛʁvjɛt/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+the soap, the shampoo	le savon, le shampooing<br>/lə savɔ̃, lə ʃɑ̃pwɛ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+a toothbrush, the toothpaste	une brosse à dents, le dentifrice<br>/yn bʁɔs a dɑ̃, lə dɑ̃tifʁis/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+a comb, a razor	un peigne, un rasoir<br>/œ̃ pɛɲ, œ̃ ʁazwaʁ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+a hairdryer	un sèche-cheveux<br>/œ̃ sɛʃʃəvø/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+the hot water, the cold water	l'eau chaude, l'eau froide<br>/lo ʃod, lo fʁwad/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+the tiles	le carrelage<br>/lə kaʁlaʒ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+the bathroom, the shower room	la salle de bains, la salle d'eau<br>/la sal də bɛ̃, la sal do/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+the dining room	la salle à manger<br>/la sal a mɑ̃ʒe/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+the living room	la salle de séjour<br>/la sal də seʒuʁ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+the classroom	la salle de classe<br>/la sal də klas/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+the waiting room	la salle d'attente<br>/la sal datɑ̃t/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+the gym	la salle de sport<br>/la sal də spɔʁ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+the village hall	la salle des fêtes<br>/la sal de fɛt/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+a cinema screen, a concert hall	une salle de cinéma, une salle de concert<br>/yn sal də sinema, yn sal də kɔ̃sɛʁ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+sunbathing	un bain de soleil<br>/œ̃ bɛ̃ də sɔlɛj/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+a bubble bath	un bain moussant<br>/œ̃ bɛ̃ musɑ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+a walkabout	un bain de foule<br>/œ̃ bɛ̃ də ful/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+a swimsuit	un maillot de bain<br>/œ̃ majo də bɛ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+a bathrobe	un peignoir de bain<br>/œ̃ pɛɲwaʁ də bɛ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+the toilet	les toilettes, les WC<br>/le twalɛt, le vese/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+Where is the toilet?	Où sont les toilettes ?<br>/u sɔ̃ le twalɛt/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+The toilet is at the end of the corridor.	Les toilettes sont au fond du couloir.<br>/le twalɛt sɔ̃t‿o fɔ̃ dy kulwaʁ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+toilet paper	le papier toilette<br>/lə papje twalɛt/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+engaged, vacant	occupé, libre<br>/ɔkype, libʁ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+The bathroom is taken!	La salle de bains est occupée !<br>/la sal də bɛ̃ ɛ(t)‿ɔkype/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+The bathroom is free.	La salle de bains est libre.<br>/la sal də bɛ̃ ɛ libʁ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+I am in the bathroom.	Je suis dans la salle de bains.<br>/ʒə sɥi dɑ̃ la sal də bɛ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+a bathroom with a bath	une salle de bains avec baignoire<br>/yn sal də bɛ̃ avɛk bɛɲwaʁ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+a small bathroom, two bathrooms	une petite salle de bains, deux salles de bains<br>/yn pətit sal də bɛ̃, dø sal də bɛ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+How many bathrooms are there?	Combien de salles de bains y a-t-il ?<br>/kɔ̃bjɛ̃ də sal də bɛ̃ jatil/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+the room – dirty	la salle – sale<br>/la sal/ · /sal/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+a dirty room	une salle sale<br>/yn sal sal/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+the bath – the bread – the hand – the end: the rhymes in /ɛ̃/	le bain – le pain – la main – la fin<br>/lə bɛ̃/ · /lə pɛ̃/ · /la mɛ̃/ · /la fɛ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+the bath – well: /b/ against /bj/	le bain – bien<br>/lə bɛ̃/ · /bjɛ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+There are two bathrooms in the house.	Il y a deux salles de bains dans la maison.<br>/il j a dø sal də bɛ̃ dɑ̃ la mɛzɔ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+I wash my hands in the bathroom.	Je me lave les mains dans la salle de bains.<br>/ʒə mə lav le mɛ̃ dɑ̃ la sal də bɛ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+My sister has been in the bathroom for an hour.	Ma sœur est dans la salle de bains depuis une heure.<br>/ma sœʁ ɛ dɑ̃ la sal də bɛ̃ dəpɥi yn œʁ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+In the morning I have a shower.	Le matin, je prends une douche.<br>/lə matɛ̃, ʒə pʁɑ̃ yn duʃ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+The children brush their teeth after dinner.	Les enfants se brossent les dents après le dîner.<br>/lez‿ɑ̃fɑ̃ sə bʁɔs le dɑ̃ apʁɛ lə dine/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+Where is the toilet, please?	Où sont les toilettes, s'il vous plaît ?<br>/u sɔ̃ le twalɛt, sil vu plɛ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+There is no bath, there is a shower.	Il n'y a pas de baignoire, il y a une douche.<br>/il nj a pa də bɛɲwaʁ, il j a yn duʃ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+The towel is behind the bathroom door.	La serviette est derrière la porte de la salle de bains.<br>/la sɛʁvjɛt ɛ dɛʁjɛʁ la pɔʁt də la sal də bɛ̃/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+Our bathroom is small but pretty.	Notre salle de bains est petite mais jolie.<br>/nɔtʁ sal də bɛ̃ ɛ pətit mɛ ʒɔli/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+Wash your hands before eating!	Lave-toi les mains avant de manger !<br>/lav twa le mɛ̃ avɑ̃ də mɑ̃ʒe/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+She has a bath in the evening.	Elle prend un bain le soir.<br>/ɛl pʁɑ̃ œ̃ bɛ̃ lə swaʁ/	french 1000words salledebains en-fr	French::1000 words (EN-FR)::une salle de bains — a bathroom
+Say: There are two bathrooms in the house.	Il y a deux salles de bains dans la maison. /il j a dø sal də bɛ̃ dɑ̃ la mɛzɔ̃/	french 1000words salledebains challenge say	French::1000 words (EN-FR)::une salle de bains — a bathroom::Challenges
+Say: The bathroom is next to the bedroom.	La salle de bains est à côté de la chambre. /la sal də bɛ̃ ɛ(t)‿a kote də la ʃɑ̃bʁ/	french 1000words salledebains challenge say	French::1000 words (EN-FR)::une salle de bains — a bathroom::Challenges
+Say: Where is the toilet, please?	Où sont les toilettes, s’il vous plaît ? /u sɔ̃ le twalɛt, sil vu plɛ/	french 1000words salledebains challenge say	French::1000 words (EN-FR)::une salle de bains — a bathroom::Challenges
+Say: I wash my hands in the bathroom.	Je me lave les mains dans la salle de bains. /ʒə mə lav le mɛ̃ dɑ̃ la sal də bɛ̃/	french 1000words salledebains challenge say	French::1000 words (EN-FR)::une salle de bains — a bathroom::Challenges
+Say: Wash your hands before eating! (to a child)	Lave-toi les mains avant de manger ! /lav twa le mɛ̃ avɑ̃ də mɑ̃ʒe/	french 1000words salledebains challenge say	French::1000 words (EN-FR)::une salle de bains — a bathroom::Challenges
+Say: The bathroom is taken!	La salle de bains est occupée ! /la sal də bɛ̃ ɛ(t)‿ɔkype/	french 1000words salledebains challenge say	French::1000 words (EN-FR)::une salle de bains — a bathroom::Challenges
+How is bains said, and what sounds like it?	/bɛ̃/, the nasal of pain, main, fin, with a silent s; salle /sal/ sounds like sale, dirty	french 1000words salledebains challenge sound	French::1000 words (EN-FR)::une salle de bains — a bathroom::Challenges
+Bathroom or toilet: which is a room of its own in a French flat, and in what number?	les toilettes /le twalɛt/, always plural; la salle de bains /la sal də bɛ̃/ has the bath, the shower and the washbasin	french 1000words salledebains challenge words	French::1000 words (EN-FR)::une salle de bains — a bathroom::Challenges
+I wash my hands: article or possessive?	The article: je me lave les mains /ʒə mə lav le mɛ̃/	french 1000words salledebains challenge grammar	French::1000 words (EN-FR)::une salle de bains — a bathroom::Challenges
+I washed, she washed, she washed her hands	je me suis lavé /ʒə mə sɥi lave/, elle s’est lavée /ɛl sɛ lave/, elle s’est lavé les mains /ɛl sɛ lave le mɛ̃/	french 1000words salledebains challenge grammar	French::1000 words (EN-FR)::une salle de bains — a bathroom::Challenges
+To have a shower, to have a bath, to brush one’s teeth	prendre une douche /pʁɑ̃dʁ yn duʃ/, prendre un bain /pʁɑ̃dʁ œ̃ bɛ̃/, se brosser les dents /sə bʁɔse le dɑ̃/	french 1000words salledebains challenge words	French::1000 words (EN-FR)::une salle de bains — a bathroom::Challenges
+A bath, a washbasin, a towel, a tap	une baignoire /yn bɛɲwaʁ/, un lavabo /œ̃ lavabo/, une serviette /yn sɛʁvjɛt/, un robinet /œ̃ ʁɔbinɛ/	french 1000words salledebains challenge words	French::1000 words (EN-FR)::une salle de bains — a bathroom::Challenges

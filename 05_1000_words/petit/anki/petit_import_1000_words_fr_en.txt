@@ -1,0 +1,83 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+petit, petite<br>/pəti, pətit/	(adj.) small, little; short	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Il y a aussi un petit jardin.<br>/il j a osi œ̃ pəti ʒaʁdɛ̃/	There is also a small garden.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+un petit jardin<br>/œ̃ pəti ʒaʁdɛ̃/	a small garden	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+une petite maison<br>/yn pətit mɛzɔ̃/	a small house	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+de petits jardins<br>/də pəti ʒaʁdɛ̃/	small gardens	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+de petites maisons<br>/də pətit mɛzɔ̃/	small houses	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Le salon est petit.<br>/lə salɔ̃ ɛ pəti/	The living room is small.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+La chambre est petite.<br>/la ʃɑ̃bʁ ɛ pətit/	The bedroom is small.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Les jardins sont petits.<br>/le ʒaʁdɛ̃ sɔ̃ pəti/	The gardens are small.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Les chambres sont petites.<br>/le ʃɑ̃bʁ sɔ̃ pətit/	The bedrooms are small.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+un petit enfant<br>/œ̃ pətit‿ɑ̃fɑ̃/	a small child	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+un petit appartement<br>/œ̃ pətit‿apaʁtəmɑ̃/	a small flat	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+un petit hôtel<br>/œ̃ pətit‿otɛl/	a small hotel	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+le petit écran<br>/lə pətit‿ekʁɑ̃/	the small screen, television	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+de petits enfants<br>/də pətiz‿ɑ̃fɑ̃/	small children	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+les petits-enfants<br>/le pətiz‿ɑ̃fɑ̃/	the grandchildren	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+un petit ami, une petite amie<br>/œ̃ pətit‿ami, yn pətit ami/	a boyfriend, a girlfriend	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+petit à petit<br>/pətit‿a pəti/	little by little	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Il est petit. Elle est petite.<br>/il ɛ pəti, ɛl ɛ pətit/	He is short. She is short.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+une jupe courte, une rue courte<br>/yn ʒyp kuʁt, yn ʁy kuʁt/	a short skirt, a short street	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+un petit paquet, un gros paquet<br>/œ̃ pəti pakɛ, œ̃ ɡʁo pakɛ/	a small parcel, a big parcel	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+grand, grande<br>/ɡʁɑ̃, ɡʁɑ̃d/	big, tall: the opposite	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+plus petit que<br>/ply pəti kə/	smaller than	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+moins petit que<br>/mwɛ̃ pəti kə/	less small than	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+aussi petit que<br>/osi pəti kə/	as small as	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+le plus petit, la plus petite<br>/lə ply pəti, la ply pətit/	the smallest	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Ma chambre est plus petite que le salon.<br>/ma ʃɑ̃bʁ ɛ ply pətit kə lə salɔ̃/	My bedroom is smaller than the living room.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+C'est la plus petite chambre de la maison.<br>/sɛ la ply pətit ʃɑ̃bʁ də la mɛzɔ̃/	It is the smallest bedroom in the house.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+le moindre, la moindre<br>/lə mwɛ̃dʁ, la mwɛ̃dʁ/	the least, the slightest	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+sans le moindre doute<br>/sɑ̃ lə mwɛ̃dʁ dut/	without the least doubt	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Je n'en ai pas la moindre idée.<br>/ʒə nɑ̃n‿e pa la mwɛ̃dʁ ide/	I have not the faintest idea.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+le petit déjeuner<br>/lə pəti deʒœne/	breakfast	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+un petit peu<br>/œ̃ pəti pø/	a little bit	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+un petit café<br>/œ̃ pəti kafe/	a quick coffee	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+un petit mot<br>/œ̃ pəti mo/	a short note	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+un petit cadeau<br>/œ̃ pəti kado/	a little present	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+mon petit frère, ma petite sœur<br>/mɔ̃ pəti fʁɛʁ, ma pətit sœʁ/	my little brother, my little sister	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+des petits pois, des petits pains<br>/de pəti pwa, de pəti pɛ̃/	peas, bread rolls: des stays, the name is one word	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+les petites annonces<br>/le pətit anɔ̃s/	the classified ads	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+le Petit Prince, le Petit Chaperon rouge<br>/lə pəti pʁɛ̃s, lə pəti ʃapʁɔ̃ ʁuʒ/	the Little Prince, Little Red Riding Hood	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Petit à petit, l'oiseau fait son nid.<br>/pətit‿a pəti, lwazo fɛ sɔ̃ ni/	Little by little, the bird builds its nest.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+le petit, la petite<br>/lə pəti, la pətit/	the little one, the kid	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+les petits et les grands<br>/le pəti e le ɡʁɑ̃/	the little ones and the big ones	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+la chatte et ses petits<br>/la ʃat e se pəti/	the cat and her kittens	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+mon petit, ma petite<br>/mɔ̃ pəti, ma pətit/	my dear, to a child	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+le petit-fils, la petite-fille, les petits-enfants<br>/lə pətifis, la pətitfij, le pətiz‿ɑ̃fɑ̃/	the grandson, the granddaughter, the grandchildren	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+la petitesse<br>/la pətitɛs/	smallness; pettiness	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+rapetisser<br>/ʁapətise/	to shrink, to make smaller	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+petit – petits<br>/pəti/ · /pəti/	small, singular and plural: the same sound	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+petite – petites<br>/pətit/ · /pətit/	small, feminine singular and plural: the same sound	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+petit – petite<br>/pəti/ · /pətit/	the t is heard only in the feminine	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+petit – joli<br>/pəti, pətit/ · /ʒɔli, ʒɔli/	the t heard in the feminine – nothing heard in the feminine	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Ma chambre est petite mais jolie.<br>/ma ʃɑ̃bʁ ɛ pətit mɛ ʒɔli/	My bedroom is small but pretty.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Nous avons un petit jardin derrière la maison.<br>/nuz‿avɔ̃ œ̃ pəti ʒaʁdɛ̃ dɛʁjɛʁ la mɛzɔ̃/	We have a small garden behind the house.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Je prends mon petit déjeuner dans la cuisine.<br>/ʒə pʁɑ̃ mɔ̃ pəti deʒœne dɑ̃ la kɥizin/	I have my breakfast in the kitchen.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Mon petit frère dort dans un petit lit.<br>/mɔ̃ pəti fʁɛʁ dɔʁ dɑ̃z‿œ̃ pəti li/	My little brother sleeps in a small bed.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Ils habitent dans un petit appartement.<br>/ilz‿abit dɑ̃z‿œ̃ pətit‿apaʁtəmɑ̃/	They live in a small flat.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Ma mère est petite et mon père est grand.<br>/ma mɛʁ ɛ pətit e mɔ̃ pɛʁ ɛ ɡʁɑ̃/	My mother is short and my father is tall.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Tu veux un petit café ?<br>/ty vø œ̃ pəti kafe/	Do you want a quick coffee?	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Attends un petit peu !<br>/atɑ̃ œ̃ pəti pø/	Wait a little bit!	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Les petits dorment, les grands lisent.<br>/le pəti dɔʁm, le ɡʁɑ̃ liz/	The little ones are sleeping, the big ones are reading.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Il y a de petites fenêtres dans la chambre.<br>/il j a də pətit fənɛtʁ dɑ̃ la ʃɑ̃bʁ/	There are small windows in the bedroom.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Ma grand-mère a cinq petits-enfants.<br>/ma ɡʁɑ̃mɛʁ a sɛ̃k pətiz‿ɑ̃fɑ̃/	My grandmother has five grandchildren.	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+un ________ jardin<br>(AI exercise: petit, petite, petits or petites?)	/œ̃ [pəti] ʒaʁdɛ̃/<br>a small garden	french 1000words petit fr-en exercise	French::1000 words (FR-EN)::petit — small
+une ________ chambre<br>(AI exercise: petit, petite, petits or petites?)	/yn [pətit] ʃɑ̃bʁ/<br>a small bedroom	french 1000words petit fr-en exercise	French::1000 words (FR-EN)::petit — small
+de ________ maisons<br>(AI exercise: petit, petite, petits or petites?)	/də [pətit] mɛzɔ̃/<br>small houses	french 1000words petit fr-en exercise	French::1000 words (FR-EN)::petit — small
+de ________ enfants<br>(AI exercise: petit, petite, petits or petites?)	/də [pətiz]‿ɑ̃fɑ̃/<br>small children	french 1000words petit fr-en exercise	French::1000 words (FR-EN)::petit — small
+Mon frère est ________.<br>(AI exercise: petit, petite, petits or petites?)	/mɔ̃ fʁɛʁ ɛ [pəti]/<br>My brother is short.	french 1000words petit fr-en exercise	French::1000 words (FR-EN)::petit — small
+Mes sœurs sont ________.<br>(AI exercise: petit, petite, petits or petites?)	/me sœʁ sɔ̃ [pətit]/<br>My sisters are short.	french 1000words petit fr-en exercise	French::1000 words (FR-EN)::petit — small
+un petit lit<br>/œ̃ pəti li/	a small bed	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+une petite table<br>/yn pətit tabl/	a small table	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+un petit ami<br>/œ̃ pətit‿ami/	a boyfriend	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+une petite amie<br>/yn pətit ami/	a girlfriend	french 1000words petit fr-en	French::1000 words (FR-EN)::petit — small
+Elle est ________.<br>(AI exercise: petit, court or gros?)	/ɛl ɛ [pətit]/<br>She is short.	french 1000words petit fr-en exercise	French::1000 words (FR-EN)::petit — small
+une robe ________<br>(AI exercise: petit, court or gros?)	/yn ʁɔb [kuʁt]/<br>a short dress	french 1000words petit fr-en exercise	French::1000 words (FR-EN)::petit — small
+un ________ chien<br>(AI exercise: petit, court or gros?)	/œ̃ [ɡʁo] ʃjɛ̃/<br>a fat dog	french 1000words petit fr-en exercise	French::1000 words (FR-EN)::petit — small
+un ________ chien<br>(AI exercise: petit, court or gros?) (2)	/œ̃ [pəti] ʃjɛ̃/<br>a small dog	french 1000words petit fr-en exercise	French::1000 words (FR-EN)::petit — small

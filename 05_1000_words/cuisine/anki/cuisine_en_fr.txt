@@ -1,0 +1,60 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::la cuisine — the kitchen
+#tags:french 1000words cuisine en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(n.f.) kitchen; cooking, cuisine	la cuisine<br>/la kɥizin/	en-fr
+There is a table in the kitchen.	Il y a une table dans la cuisine.<br>/il j a yn tabl dɑ̃ la kɥizin/	en-fr
+I cook, you cook, he cooks	je cuisine, tu cuisines, il cuisine<br>/ʒə kɥizin, ty kɥizin, il kɥizin/	en-fr
+we cook, you cook, they cook	nous cuisinons, vous cuisinez, ils cuisinent<br>/nu kɥizinɔ̃, vu kɥizine, il kɥizin/	en-fr
+I cooked, I have cooked	j'ai cuisiné<br>/ʒe kɥizine/	en-fr
+to do the cooking	faire la cuisine<br>/fɛʁ la kɥizin/	en-fr
+to cook (something); to cook (of the food)	faire cuire, cuire<br>/fɛʁ kɥiʁ, kɥiʁ/	en-fr
+My mother is in the kitchen.	Ma mère est dans la cuisine.<br>/ma mɛʁ ɛ dɑ̃ la kɥizin/	en-fr
+Go to the kitchen and get some bread.	Va à la cuisine chercher du pain.<br>/va a la kɥizin ʃɛʁʃe dy pɛ̃/	en-fr
+The chef is in the kitchen (of the restaurant).	Le chef est en cuisine.<br>/lə ʃɛf ɛt‿ɑ̃ kɥizin/	en-fr
+the kitchen table	la table de la cuisine<br>/la tabl də la kɥizin/	en-fr
+a kitchen cupboard	un placard de cuisine<br>/œ̃ plakaʁ də kɥizin/	en-fr
+French, Italian, Polish cooking	la cuisine française, italienne, polonaise<br>/la kɥizin fʁɑ̃sɛz, italjɛn, pɔlɔnɛz/	en-fr
+good cooking	la bonne cuisine<br>/la bɔn kɥizin/	en-fr
+home cooking	la cuisine maison<br>/la kɥizin mɛzɔ̃/	en-fr
+the nouvelle cuisine	la nouvelle cuisine<br>/la nuvɛl kɥizin/	en-fr
+a cookbook	un livre de cuisine<br>/œ̃ livʁ də kɥizin/	en-fr
+a recipe	une recette de cuisine<br>/yn ʁəsɛt də kɥizin/	en-fr
+a cooking class	un cours de cuisine<br>/œ̃ kuʁ də kɥizin/	en-fr
+to like cooking, to like good food	aimer la cuisine<br>/eme la kɥizin/	en-fr
+the cook (a man, a woman)	le cuisinier, la cuisinière<br>/lə kɥizinje, la kɥizinjɛʁ/	en-fr
+a gas cooker, an electric cooker	une cuisinière à gaz, une cuisinière électrique<br>/yn kɥizinjɛʁ a ɡɑz, yn kɥizinjɛʁ elɛktʁik/	en-fr
+the chef	le chef, un chef cuisinier<br>/lə ʃɛf, œ̃ ʃɛf kɥizinje/	en-fr
+a good cook	un bon cuisinier, une bonne cuisinière<br>/œ̃ bɔ̃ kɥizinje, yn bɔn kɥizinjɛʁ/	en-fr
+a fitted kitchen	une cuisine équipée<br>/yn kɥizin ekipe/	en-fr
+an open-plan kitchen	une cuisine américaine, une cuisine ouverte<br>/yn kɥizin ameʁikɛn, yn kɥizin uvɛʁt/	en-fr
+a big kitchen, a small kitchen	une grande cuisine, une petite cuisine<br>/yn ɡʁɑ̃d kɥizin, yn pətit kɥizin/	en-fr
+a modern kitchen	une cuisine moderne<br>/yn kɥizin mɔdɛʁn/	en-fr
+the oven, the fridge	le four, le frigo, le réfrigérateur<br>/lə fuʁ, lə fʁiɡo, lə ʁefʁiʒeʁatœʁ/	en-fr
+the sink, the dishwasher	l'évier, le lave-vaisselle<br>/levje, lə lavvɛsɛl/	en-fr
+the cupboard, the worktop	le placard, le plan de travail<br>/lə plakaʁ, lə plɑ̃ də tʁavaj/	en-fr
+a saucepan, a frying pan	une casserole, une poêle<br>/yn kasʁɔl, yn pwal/	en-fr
+a stove, for heating: masculine	un poêle<br>/œ̃ pwal/	en-fr
+the kitchen table and chairs	la table et les chaises de la cuisine<br>/la tabl e le ʃɛz də la kɥizin/	en-fr
+a meal, to make the meal	un repas, préparer le repas<br>/œ̃ ʁəpa, pʁepaʁe lə ʁəpa/	en-fr
+breakfast, lunch, dinner	le petit déjeuner, le déjeuner, le dîner<br>/lə pəti deʒœne, lə deʒœne, lə dine/	en-fr
+to wash up	faire la vaisselle<br>/fɛʁ la vɛsɛl/	en-fr
+Enjoy your meal!	Bon appétit !<br>/bɔn‿apeti/	en-fr
+What are we eating tonight?	Qu'est-ce qu'on mange ce soir ?<br>/kɛs kɔ̃ mɑ̃ʒ sə swaʁ/	en-fr
+the kitchen – the cousin: /ɥi/ against /u/	la cuisine – la cousine<br>/la kɥizin/ · /la kuzin/	en-fr
+the kitchen – the swimming pool: the same -ine	la cuisine – la piscine<br>/la kɥizin/ · /la pisin/	en-fr
+the kitchen – leather – to cook – eight – him: the glide /ɥ/	la cuisine – le cuir – cuire – huit – lui<br>/la kɥizin/ · /lə kɥiʁ/ · /kɥiʁ/ · /ɥit/ · /lɥi/	en-fr
+In the kitchen there is a table, four chairs and a big fridge.	Dans la cuisine, il y a une table, quatre chaises et un grand frigo.<br>/dɑ̃ la kɥizin, il j a yn tabl, katʁ ʃɛz e œ̃ ɡʁɑ̃ fʁiɡo/	en-fr
+My mother cooks every evening.	Ma mère fait la cuisine tous les soirs.<br>/ma mɛʁ fɛ la kɥizin tu le swaʁ/	en-fr
+I like Italian food.	J'aime la cuisine italienne.<br>/ʒɛm la kɥizin italjɛn/	en-fr
+Who does the cooking at your place?	Qui fait la cuisine chez vous ?<br>/ki fɛ la kɥizin ʃe vu/	en-fr
+We cook together on Sundays.	Nous cuisinons ensemble le dimanche.<br>/nu kɥizinɔ̃ ɑ̃sɑ̃bl lə dimɑ̃ʃ/	en-fr
+The kitchen is small but modern.	La cuisine est petite mais moderne.<br>/la kɥizin ɛ pətit mɛ mɔdɛʁn/	en-fr
+My father is a very good cook.	Mon père est un très bon cuisinier.<br>/mɔ̃ pɛʁ ɛt‿œ̃ tʁɛ bɔ̃ kɥizinje/	en-fr
+The plates are in the kitchen cupboard.	Les assiettes sont dans le placard de la cuisine.<br>/lez‿asjɛt sɔ̃ dɑ̃ lə plakaʁ də la kɥizin/	en-fr
+The chef is in the kitchen, he is making dinner.	Le chef est en cuisine, il prépare le dîner.<br>/lə ʃɛf ɛt‿ɑ̃ kɥizin, il pʁepaʁ lə dine/	en-fr
+There is a cookbook on the table.	Il y a un livre de cuisine sur la table.<br>/il j a œ̃ livʁ də kɥizin syʁ la tabl/	en-fr
+Go to the kitchen and lay the table, please.	Va à la cuisine et mets la table, s'il te plaît.<br>/va a la kɥizin e mɛ la tabl, sil tə plɛ/	en-fr

@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une voiture — a car::Challenges
+#tags:french 1000words voiture challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: The car is in front of the house.	La voiture est devant la maison. /la vwatyʁ ɛ dəvɑ̃ la mɛzɔ̃/	say
+Say: My car is parked in front of the house.	Ma voiture est garée devant la maison. /ma vwatyʁ ɛ ɡaʁe dəvɑ̃ la mɛzɔ̃/	say
+Say: My father drives to work.	Mon père va au travail en voiture. /mɔ̃ pɛʁ va o tʁavaj ɑ̃ vwatyʁ/	say
+Say: I can’t find the car keys.	Je ne trouve pas les clés de la voiture. /ʒə nə tʁuv pa le kle də la vwatyʁ/	say
+Say: The car won’t start, it is too cold.	La voiture ne démarre pas, il fait trop froid. /la vwatyʁ nə demaʁ pa, il fɛ tʁo fʁwa/	say
+Say: Get in the car, children!	Montez dans la voiture, les enfants ! /mɔ̃te dɑ̃ la vwatyʁ, lez‿ɑ̃fɑ̃/	say
+What sounds are oi and u in voiture?	oi is /wa/, u is /y/: /vwatyʁ/, rhyming with la toiture /la twatyʁ/, the roof	sound
+By car, by train, on foot, by bike	en voiture /ɑ̃ vwatyʁ/, en train /ɑ̃ tʁɛ̃/, à pied /a pje/, à vélo /a velo/: en for what one sits inside, à otherwise, no article	grammar
+I drive, we drive, they drive, I drove	je conduis /ʒə kɔ̃dɥi/, nous conduisons /nu kɔ̃dɥizɔ̃/, ils conduisent /il kɔ̃dɥiz/, j’ai conduit /ʒe kɔ̃dɥi/	grammar
+The driving licence; to take one’s driving test	le permis de conduire /lə pɛʁmi də kɔ̃dɥiʁ/; passer son permis /pase sɔ̃ pɛʁmi/	words
+To park the car, to hire a car, to break down, to fill up	garer la voiture /ɡaʁe la vwatyʁ/, louer une voiture /lwe yn vwatyʁ/, tomber en panne /tɔ̃be ɑ̃ pan/, faire le plein /fɛʁ lə plɛ̃/	words
+The steering wheel, the boot, a tyre, the car door	le volant /lə vɔlɑ̃/, le coffre /lə kɔfʁ/, un pneu /œ̃ pnø/, la portière /la pɔʁtjɛʁ/	words

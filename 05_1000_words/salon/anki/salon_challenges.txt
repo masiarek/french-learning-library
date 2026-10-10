@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::le salon — the living room::Challenges
+#tags:french 1000words salon challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: There is a sofa in the living room.	Il y a un canapé dans le salon. /il j a œ̃ kanape dɑ̃ lə salɔ̃/	say
+Say: The guests are in the living room.	Les invités sont au salon. /lez‿ɛ̃vite sɔ̃t‿o salɔ̃/	say
+Say: Let us go through to the living room!	Passons au salon ! /pasɔ̃ o salɔ̃/	say
+Say: My mother is at the hairdresser’s.	Ma mère est au salon de coiffure. /ma mɛʁ ɛ o salɔ̃ də kwafyʁ/	say
+Say: There is no dining room, we eat in the living room.	Il n’y a pas de salle à manger, nous mangeons dans le salon. /il nj a pa də sal a mɑ̃ʒe, nu mɑ̃ʒɔ̃ dɑ̃ lə salɔ̃/	say
+The vowel of -on in salon	the nasal /ɔ̃/, as in bon, non, maison: /salɔ̃/; the n is not said as a consonant	sound
+In the living room, to the living room	dans le salon /dɑ̃ lə salɔ̃/ for what is in it, au salon /o salɔ̃/ for being or going there: à + le	grammar
+Salon, séjour, salle, pièce, chambre	le salon /salɔ̃/ and le séjour /seʒuʁ/ the living room; la salle /sal/ a large or shared room; la pièce /pjɛs/ a room counted; la chambre /ʃɑ̃bʁ/ the bedroom only	words
+A hairdresser’s, a tea room, a beauty salon	un salon de coiffure /œ̃ salɔ̃ də kwafyʁ/, un salon de thé /œ̃ salɔ̃ də te/, un salon de beauté /œ̃ salɔ̃ də bote/	words
+The book fair, the motor show	le Salon du livre /lə salɔ̃ dy livʁ/, le Salon de l’auto /lə salɔ̃ də loto/	words
+Coffee table, bookcase, curtains, fireplace	une table basse /yn tabl bas/, une bibliothèque /yn biblijɔtɛk/, des rideaux /de ʁido/, une cheminée /yn ʃəmine/	words
+la salle and sale	the room /la sal/ and dirty /sal/ sound the same; le salon /salɔ̃/ is la salle with a suffix	sound
