@@ -10,7 +10,6 @@ Say: The weather is fine today.	Il fait beau aujourd’hui. /il fɛ bo oʒuʁdɥ
 Say: They have a beautiful flat in Paris.	Ils ont un bel appartement à Paris. /ilz‿ɔ̃ œ̃ bɛl apaʁtəmɑ̃ a paʁi/	say
 Say: My mother has beautiful eyes.	Ma mère a de beaux yeux. /ma mɛʁ a də boz‿jø/	say
 Say: It is the most beautiful bedroom in the house.	C’est la plus belle chambre de la maison. /sɛ la ply bɛl ʃɑ̃bʁ də la mɛzɔ̃/	say
-Say: What a beautiful garden you have!	Quel beau jardin vous avez ! /kɛl bo ʒaʁdɛ̃ vuz‿ave/	say
 The five forms of beau, with IPA	beau /bo/, bel /bɛl/, belle /bɛl/, beaux /bo/, belles /bɛl/: five spellings, two sounds	grammar
 When is the masculine bel used?	Before a masculine noun starting with a vowel or a mute h, in the singular: un bel appartement /œ̃ bɛl apaʁtəmɑ̃/, un bel homme /œ̃ bɛl ɔm/; after être it is beau: cet homme est beau /sɛt‿ɔm ɛ bo/	grammar
 Beautiful eyes: why de and not des, and what is the liaison?	Before a plural adjective that precedes its noun des becomes de, and the x is said as /z/: de beaux yeux /də boz‿jø/	grammar
@@ -18,4 +17,3 @@ Beau or joli: a handsome man, fine weather, a pretty village	un bel homme /œ̃ 
 Mother-in-law, father-in-law, brother-in-law, sister-in-law	la belle-mère /la bɛlmɛʁ/, le beau-père /lə bopɛʁ/, le beau-frère /lə bofʁɛʁ/, la belle-sœur /la bɛlsœʁ/	words
 A beautiful girl and a daughter-in-law: what tells them apart?	The hyphen: une belle fille /yn bɛl fij/ is beautiful, une belle-fille /yn bɛlfij/ is a daughter-in-law	words
 Read aloud, then check: beau, bon, bout, bu	/bo/ beautiful, /bɔ̃/ good, /bu/ end, /by/ drunk: four vowels on one consonant	sound
-However much I look, I cannot find my keys: with avoir beau	J’ai beau chercher, je ne trouve pas mes clés. /ʒe bo ʃɛʁʃe, ʒə nə tʁuv pa me kle/	words

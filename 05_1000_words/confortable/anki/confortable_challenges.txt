@@ -10,7 +10,6 @@ Say: This armchair is very comfortable.	Ce fauteuil est très confortable. /sə 
 Say: The sofa is more comfortable than the chairs.	Le canapé est plus confortable que les chaises. /lə kanape ɛ ply kɔ̃fɔʁtabl kə le ʃɛz/	say
 Say: Make yourself comfortable. (politely, two ways)	Mettez-vous à l’aise. /metevu a lɛz/ Installez-vous confortablement. /ɛ̃stalevu kɔ̃fɔʁtabləmɑ̃/	say
 Say: I am comfortable in my bedroom.	Je suis bien dans ma chambre. /ʒə sɥi bjɛ̃ dɑ̃ ma ʃɑ̃bʁ/	say
-Say: These shoes are comfortable for walking.	Ces chaussures sont confortables pour marcher. /se ʃosyʁ sɔ̃ kɔ̃fɔʁtabl puʁ maʁʃe/	say
 The forms of confortable, with IPA	confortable /kɔ̃fɔʁtabl/ for both genders, confortables /kɔ̃fɔʁtabl/ in the plural: an adjective already ending in -e adds no feminine -e, and the four are said alike	grammar
 Where does confortable go, before or after the noun?	After, as most adjectives do: une maison confortable /yn mɛzɔ̃ kɔ̃fɔʁtabl/; with a short adjective before it, une grande maison confortable /yn ɡʁɑ̃d mɛzɔ̃ kɔ̃fɔʁtabl/	grammar
 Can a person be confortable?	No: a chair, a bed, a house or a salary is confortable; a person is bien /bjɛ̃/, à l’aise /a lɛz/ or bien installé /bjɛ̃n‿ɛ̃stale/; je suis confortable is a Quebec anglicism	grammar

@@ -5,10 +5,10 @@
 Conventions: on the [chapter page](../README.md).
 
 - *beau* /bo/: three letters, *eau*, for one closed /o/, as in *l'eau* /lo/, *un bureau* /œ̃ byʁo/, *un gâteau* /œ̃ ɡɑto/. The plural takes *-x*, *beaux* /bo/, like every word in *-eau*, and nothing changes in sound.
-- The feminine is another word altogether, *belle* /bɛl/, with the open /ɛ/ of [Le son ɛ](../../04_Pronunciation/son_e_ouvert/README.md) and a final /l/ that is said: *une belle maison* /yn bɛl mɛzɔ̃/, *de belles maisons* /də bɛl mɛzɔ̃/. So the adjective has five spellings, *beau, bel, belle, beaux, belles*, and two sounds, /bo/ and /bɛl/.
+- The feminine is another word altogether, *belle* /bɛl/, with the open /ɛ/ of [Le son ɛ](../../04_Pronunciation/son_e_ouvert/README.md) and a final /l/ that is said: *une belle maison* /yn bɛl mɛzɔ̃/, *de belles maisons* /də bɛl mɛzɔ̃/. So the adjective has five spellings, *beau, bel, belle, beaux, belles* /bo, bɛl, bɛl, bo, bɛl/, and two sounds, /bo/ and /bɛl/.
 - *Bel* /bɛl/ is the masculine before a vowel or a mute *h*: *un bel appartement* /œ̃ bɛl apaʁtəmɑ̃/, *un bel homme* /œ̃ bɛl ɔm/, *un bel arbre* /œ̃ bɛl aʁbʁ/. It sounds exactly like the feminine. *Nouveau, nouvel, nouvelle* /nuvo, nuvɛl, nuvɛl/ and *vieux, vieil, vieille* /vjø, vjɛj, vjɛj/ do the same.
-- *Beau* goes **before** the noun, with *grand, petit, joli* /ɡʁɑ̃, pəti, ʒɔli/: *un beau jardin* /œ̃ bo ʒaʁdɛ̃/, *une belle chambre* /yn bɛl ʃɑ̃bʁ/, *de beaux yeux* /də boz‿jø/ with the liaison of the plural. It is beautiful, handsome, and also fine or good: *un beau travail* /œ̃ bo tʁavaj/ a fine piece of work, *il fait beau* /il fɛ bo/ the weather is fine, *un beau jour* /œ̃ bo ʒuʁ/ one fine day.
-- The teacher's first lesson has it in Adam's second sentence, *Ma maison est belle et confortable* /ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/, in [La maison](../../02_Yosser_teacher/lesson_01_la_maison/README.md). The in-laws are *beau* too: *beau-père, belle-mère* /bopɛʁ, bɛlmɛʁ/.
+- *Beau* /bo/ goes **before** the noun, with *grand, petit, joli* /ɡʁɑ̃, pəti, ʒɔli/: *un beau jardin* /œ̃ bo ʒaʁdɛ̃/, *une belle chambre* /yn bɛl ʃɑ̃bʁ/, *de beaux yeux* /də boz‿jø/ with the liaison of the plural. It is beautiful, handsome, and also fine or good: *un beau travail* /œ̃ bo tʁavaj/ a fine piece of work, *il fait beau* /il fɛ bo/ the weather is fine, *un beau jour* /œ̃ bo ʒuʁ/ one fine day.
+- The teacher's first lesson has it in Adam's second sentence, *Ma maison est belle et confortable* /ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/, in [La maison](../../02_Yosser_teacher/lesson_01_la_maison/README.md). The in-laws are *beau* /bo/ too: *beau-père, belle-mère* /bopɛʁ, bɛlmɛʁ/.
 
 ## The table
 
@@ -20,12 +20,12 @@ Conventions: on the [chapter page](../README.md).
 
 ## AI section: grammar, phrases, examples, exercises
 
-- **Five forms, two sounds.** *Beau* /bo/ masculine singular before a consonant, *bel* /bɛl/ masculine singular before a vowel or a mute *h*, *belle* /bɛl/ feminine singular, *beaux* /bo/ masculine plural, *belles* /bɛl/ feminine plural. The *-x* of the plural is the one of *bureaux, gâteaux, oiseaux* /byʁo, ɡɑto, wazo/ in Szypowska's [lesson 6](../../03_Szypowska/lecon_06_en_visite/README.md). *Bel* exists only in the singular and only before the noun: *cet homme est beau* /sɛt‿ɔm ɛ bo/, not *bel*, since nothing follows.
-- **Before the noun, and des becomes de.** *Un beau jardin* /œ̃ bo ʒaʁdɛ̃/, *une belle maison* /yn bɛl mɛzɔ̃/; in the plural, careful French says *de beaux jardins* /də bo ʒaʁdɛ̃/, *de belles maisons* /də bɛl mɛzɔ̃/, *des* giving way to *de* before an adjective that precedes its noun. Before a vowel the plural *x* and *s* are said as /z/: *de beaux yeux* /də boz‿jø/, *de beaux arbres* /də boz‿aʁbʁ/, *de belles images* /də bɛlz‿imaʒ/, *les beaux-arts* /le boz‿aʁ/. Before an aspirated *h* *beau* stays and there is no liaison: *un beau héros* /œ̃ bo eʁo/.
-- **Beautiful, handsome, fine.** Of a woman, *belle* /bɛl/; of a man, *beau* /bo/, *un bel homme* /œ̃ bɛl ɔm/ a handsome man; of weather, *il fait beau* /il fɛ bo/; of work, a gesture, a sum or a day, *beau* is fine or handsome: *un beau travail* /œ̃ bo tʁavaj/, *un beau geste* /œ̃ bo ʒɛst/, *une belle somme* /yn bɛl sɔm/ a tidy sum, *une belle journée* /yn bɛl ʒuʁne/. *Joli* /ʒɔli/ is pretty, smaller in scale, and has its page, [joli](../joli/README.md); *magnifique* /maɲifik/ and *superbe* /sypɛʁb/ are stronger. The opposite is *laid, laide* /lɛ, lɛd/, in everyday speech *moche* /mɔʃ/.
+- **Five forms, two sounds.** *Beau* /bo/ masculine singular before a consonant, *bel* /bɛl/ masculine singular before a vowel or a mute *h*, *belle* /bɛl/ feminine singular, *beaux* /bo/ masculine plural, *belles* /bɛl/ feminine plural. The *-x* of the plural is the one of *bureaux, gâteaux, oiseaux* /byʁo, ɡɑto, wazo/ in Szypowska's [lesson 6](../../03_Szypowska/lecon_06_en_visite/README.md). *Bel* /bɛl/ exists only in the singular and only before the noun: *cet homme est beau* /sɛt‿ɔm ɛ bo/, not *bel* /bɛl/, since nothing follows.
+- **Before the noun, and des becomes de.** *Un beau jardin* /œ̃ bo ʒaʁdɛ̃/, *une belle maison* /yn bɛl mɛzɔ̃/; in the plural, careful French says *de beaux jardins* /də bo ʒaʁdɛ̃/, *de belles maisons* /də bɛl mɛzɔ̃/, *des* /de/ giving way to *de* /də/ before an adjective that precedes its noun. Before a vowel the plural *x* and *s* are said as /z/: *de beaux yeux* /də boz‿jø/, *de beaux arbres* /də boz‿aʁbʁ/, *de belles images* /də bɛlz‿imaʒ/, *les beaux-arts* /le boz‿aʁ/. Before an aspirated *h* *beau* /bo/ stays and there is no liaison: *un beau héros* /œ̃ bo eʁo/.
+- **Beautiful, handsome, fine.** Of a woman, *belle* /bɛl/; of a man, *beau* /bo/, *un bel homme* /œ̃ bɛl ɔm/ a handsome man; of weather, *il fait beau* /il fɛ bo/; of work, a gesture, a sum or a day, *beau* /bo/ is fine or handsome: *un beau travail* /œ̃ bo tʁavaj/, *un beau geste* /œ̃ bo ʒɛst/, *une belle somme* /yn bɛl sɔm/ a tidy sum, *une belle journée* /yn bɛl ʒuʁne/. *Joli* /ʒɔli/ is pretty, smaller in scale, and has its page, [joli](../joli/README.md); *magnifique* /maɲifik/ and *superbe* /sypɛʁb/ are stronger. The opposite is *laid, laide* /lɛ, lɛd/, in everyday speech *moche* /mɔʃ/.
 - **Comparing.** *Plus beau que* /ply bo kə/, *moins beau que* /mwɛ̃ bo kə/, *aussi beau que* /osi bo kə/; *le plus beau* /lə ply bo/, *la plus belle* /la ply bɛl/, *le plus bel appartement* /lə ply bɛl apaʁtəmɑ̃/, *les plus beaux jardins* /le ply bo ʒaʁdɛ̃/. *Le plus beau, c'est que…* /lə ply bo, sɛ kə/ the best of it is that…
-- **The in-laws.** *Beau-* and *belle-* make the family by marriage and the step-family alike: *le beau-père* /lə bopɛʁ/ father-in-law or stepfather, *la belle-mère* /la bɛlmɛʁ/ mother-in-law or stepmother, *le beau-frère* /lə bofʁɛʁ/, *la belle-sœur* /la bɛlsœʁ/, *le beau-fils* /lə bofis/ son-in-law or stepson, *la belle-fille* /la bɛlfij/, *les beaux-parents* /le bopaʁɑ̃/, *la belle-famille* /la bɛlfamij/. The hyphen is the whole difference between *une belle fille* /yn bɛl fij/ a beautiful girl and *une belle-fille* /yn bɛlfij/ a daughter-in-law. The family words are on the page of [une mère](../mere/README.md).
-- **The family of the word.** *La beauté* /la bote/ beauty, *un salon de beauté* /œ̃ salɔ̃ də bote/; *embellir* /ɑ̃beliʁ/ to make or become more beautiful; *beaucoup* /boku/ a lot is *beau* and *coup* /ku/, a fine blow. *Avoir beau* with an infinitive means in vain: *j'ai beau chercher* /ʒe bo ʃɛʁʃe/ however much I look. *Bel et bien* /bɛl e bjɛ̃/ well and truly, *de plus belle* /də ply bɛl/ more than ever, *se faire beau, se faire belle* /sə fɛʁ bo, sə fɛʁ bɛl/ to get dressed up.
+- **The in-laws.** *Beau-* /bo/ and *belle-* /bɛl/ make the family by marriage and the step-family alike: *le beau-père* /lə bopɛʁ/ father-in-law or stepfather, *la belle-mère* /la bɛlmɛʁ/ mother-in-law or stepmother, *le beau-frère* /lə bofʁɛʁ/, *la belle-sœur* /la bɛlsœʁ/, *le beau-fils* /lə bofis/ son-in-law or stepson, *la belle-fille* /la bɛlfij/, *les beaux-parents* /le bopaʁɑ̃/, *la belle-famille* /la bɛlfamij/. The hyphen is the whole difference between *une belle fille* /yn bɛl fij/ a beautiful girl and *une belle-fille* /yn bɛlfij/ a daughter-in-law. The family words are on the page of [une mère](../mere/README.md).
+- **The family of the word.** *La beauté* /la bote/ beauty, *un salon de beauté* /œ̃ salɔ̃ də bote/; *embellir* /ɑ̃beliʁ/ to make or become more beautiful; *beaucoup* /boku/ a lot is *beau* /bo/ and *coup* /ku/, a fine blow. *Avoir beau* /avwaʁ bo/ with an infinitive means in vain: *j'ai beau chercher* /ʒe bo ʃɛʁʃe/ however much I look. *Bel et bien* /bɛl e bjɛ̃/ well and truly, *de plus belle* /də ply bɛl/ more than ever, *se faire beau, se faire belle* /sə fɛʁ bo, sə fɛʁ bɛl/ to get dressed up.
 
 | French | English | IPA |
 |---|---|---|
@@ -44,7 +44,6 @@ Conventions: on the [chapter page](../README.md).
 | un bel arbre, un bel enfant, un bel été | a beautiful tree, a beautiful child, a fine summer | /œ̃ bɛl aʁbʁ, œ̃ bɛl ɑ̃fɑ̃, œ̃ bɛl ete/ |
 | un bel hôtel, un bel âge | a fine hotel, a fine age | /œ̃ bɛl otɛl, œ̃ bɛl ɑʒ/ |
 | de beaux yeux | beautiful eyes | /də boz‿jø/ |
-| de beaux arbres, de beaux enfants | beautiful trees, beautiful children | /də boz‿aʁbʁ, də boz‿ɑ̃fɑ̃/ |
 | de belles images | beautiful pictures | /də bɛlz‿imaʒ/ |
 | les beaux-arts | the fine arts | /le boz‿aʁ/ |
 | un nouvel appartement, un vieil homme | a new flat, an old man: the same rule | /œ̃ nuvɛl apaʁtəmɑ̃, œ̃ vjɛj ɔm/ |
@@ -53,7 +52,6 @@ Conventions: on the [chapter page](../README.md).
 | une jolie fille, un joli village | a pretty girl, a pretty village | /yn ʒɔli fij, œ̃ ʒɔli vilaʒ/ |
 | Il fait beau. | The weather is fine. | /il fɛ bo/ |
 | un beau travail | a fine piece of work | /œ̃ bo tʁavaj/ |
-| magnifique, superbe | magnificent, superb: stronger than beau | /maɲifik, sypɛʁb/ |
 | laid, laide, moche | ugly; ugly in everyday speech: the opposites | /lɛ, lɛd, mɔʃ/ |
 | **Le comparatif et le superlatif** | **Comparative and superlative** | /lə kɔ̃paʁatif e lə sypɛʁlatif/ |
 | plus beau que, plus belle que | more beautiful than | /ply bo kə, ply bɛl kə/ |
@@ -61,14 +59,12 @@ Conventions: on the [chapter page](../README.md).
 | le plus beau, la plus belle | the most beautiful | /lə ply bo, la ply bɛl/ |
 | le plus bel appartement de la ville | the most beautiful flat in town | /lə ply bɛl apaʁtəmɑ̃ də la vil/ |
 | C'est la plus belle maison du village. | It is the most beautiful house in the village. | /sɛ la ply bɛl mɛzɔ̃ dy vilaʒ/ |
-| Le plus beau, c'est que… | The best of it is that… | /lə ply bo, sɛ kə/ |
 | **Le temps qu'il fait** | **The weather** | /lə tɑ̃ kil fɛ/ |
 | Il fait beau. Il fait très beau. | It is fine. It is very fine. | /il fɛ bo, il fɛ tʁɛ bo/ |
 | Il va faire beau demain. | It will be fine tomorrow. | /il va fɛʁ bo dəmɛ̃/ |
 | le beau temps | fine weather | /lə bo tɑ̃/ |
 | un beau jour | one fine day | /œ̃ bo ʒuʁ/ |
 | une belle journée | a beautiful day | /yn bɛl ʒuʁne/ |
-| Il fait mauvais. | The weather is bad. | /il fɛ movɛ/ |
 | **La belle-famille** | **The in-laws** | /la bɛlfamij/ |
 | le beau-père, la belle-mère | father-in-law or stepfather, mother-in-law or stepmother | /lə bopɛʁ, la bɛlmɛʁ/ |
 | le beau-frère, la belle-sœur | brother-in-law, sister-in-law | /lə bofʁɛʁ, la bɛlsœʁ/ |
@@ -79,14 +75,11 @@ Conventions: on the [chapter page](../README.md).
 | Quel beau jardin ! Quelle belle maison ! | What a beautiful garden! What a beautiful house! | /kɛl bo ʒaʁdɛ̃, kɛl bɛl mɛzɔ̃/ |
 | un beau geste | a fine gesture | /œ̃ bo ʒɛst/ |
 | une belle somme | a tidy sum | /yn bɛl sɔm/ |
-| un beau cadeau | a lovely present | /œ̃ bo kado/ |
 | se faire beau, se faire belle | to get dressed up | /sə fɛʁ bo, sə fɛʁ bɛl/ |
 | bel et bien | well and truly | /bɛl e bjɛ̃/ |
 | de plus belle | more than ever, with renewed vigour | /də ply bɛl/ |
 | avoir beau faire | to do something in vain | /avwaʁ bo fɛʁ/ |
 | J'ai beau chercher, je ne trouve pas mes clés. | However much I look, I cannot find my keys. | /ʒe bo ʃɛʁʃe, ʒə nə tʁuv pa me kle/ |
-| un beau parleur | a smooth talker | /œ̃ bo paʁlœʁ/ |
-| les beaux quartiers | the smart districts | /le bo kaʁtje/ |
 | la Belle au bois dormant | Sleeping Beauty | /la bɛl o bwa dɔʁmɑ̃/ |
 | la Belle et la Bête | Beauty and the Beast | /la bɛl e la bɛt/ |
 | **La famille de beau** | **The family of beau** | /la famij də bo/ |
@@ -98,7 +91,6 @@ Conventions: on the [chapter page](../README.md).
 | beau – beaux | beautiful, singular and plural: the same sound | /bo/ · /bo/ |
 | bel – belle | the masculine before a vowel and the feminine: the same sound | /bɛl/ · /bɛl/ |
 | beau – bon – bout – bu | beautiful – good – end – drunk: four vowels | /bo/ · /bɔ̃/ · /bu/ · /by/ |
-| beau – l'eau – le dos – le mot | beautiful – the water – the back – the word: the same /o/ | /bo/ · /lo/ · /lə do/ · /lə mo/ |
 | **Mes exemples** | **My examples** | /mez‿ɛɡzɑ̃pl/ |
 | Ma maison est belle et confortable. | My house is beautiful and comfortable. | /ma mɛzɔ̃ ɛ bɛl e kɔ̃fɔʁtabl/ |
 | Il fait beau aujourd'hui. | The weather is fine today. | /il fɛ bo oʒuʁdɥi/ |

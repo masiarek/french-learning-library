@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une famille — a family::Challenges
+#tags:french 1000words famille challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: I live in a big house with my family.	J’habite dans une grande maison avec ma famille. /ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/	say
+Say: The whole family is at the table.	Toute la famille est à table. /tut la famij ɛ(t)‿a tabl/	say
+Say: We have dinner as a family on Sundays.	Nous dînons en famille le dimanche. /nu dinɔ̃ ɑ̃ famij lə dimɑ̃ʃ/	say
+Say: What is your surname?	Quel est votre nom de famille ? /kɛl ɛ vɔtʁ nɔ̃ də famij/	say
+Say: He has relatives in Warsaw.	Il a de la famille à Varsovie. /il a də la famij a vaʁsɔvi/	say
+Why is famille /famij/ but ville /vil/?	-ille at the end of a word is /ij/ (famille, fille, gentille); ville, mille, tranquille and Lille keep the /l/	sound
+The uncle, the aunt, the nephew, the niece	l’oncle /lɔ̃kl/, la tante /la tɑ̃t/, le neveu /lə nəvø/, la nièce /la njɛs/	words
+The husband, the wife, the brother-in-law, the son-in-law	le mari /lə maʁi/, la femme /la fam/, le beau-frère /lə bofʁɛʁ/, le gendre /lə ʒɑ̃dʁ/	words
+The eldest, the youngest, an only child, twins	l’aîné /lene/, le benjamin /lə bɛ̃ʒamɛ̃/, un enfant unique /œ̃n‿ɑ̃fɑ̃ ynik/, les jumeaux /le ʒymo/	words
+My family is Polish: singular or plural verb?	Singular: Ma famille est polonaise. /ma famij ɛ pɔlɔnɛz/	grammar
+The Lefèvres, in French	les Lefèvre /le ləfɛvʁ/: a surname takes no plural -s	grammar
+It runs in the family; like father, like son	C’est de famille. /sɛ də famij/; Tel père, tel fils. /tɛl pɛʁ, tɛl fis/	words

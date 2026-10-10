@@ -6,8 +6,8 @@ Conventions: on the [chapter page](../README.md).
 
 - *grand* /ɡʁɑ̃/: the *an* is the nasal /ɑ̃/ of [Les sons ɑ̃ et ɔ̃](../../04_Pronunciation/sons_an_on/README.md), and the final *d* is silent. The feminine *grande* /ɡʁɑ̃d/ adds a written *-e* and so makes the *d* sound: this is agreement you can hear, as *petit, petite* /pəti, pətit/ and *français, française* /fʁɑ̃sɛ, fʁɑ̃sɛz/ on the page of [une mère](../mere/README.md). The plurals *grands, grandes* /ɡʁɑ̃, ɡʁɑ̃d/ add an *s* that is silent, so the four spellings make two sounds.
 - Before a vowel the silent *d* comes back as a /t/, not a /d/: *un grand homme* /œ̃ ɡʁɑ̃t‿ɔm/, *un grand arbre* /œ̃ ɡʁɑ̃t‿aʁbʁ/, *un grand appartement* /œ̃ ɡʁɑ̃t‿apaʁtəmɑ̃/; in the plural the *s* gives /z/, *de grands arbres* /də ɡʁɑ̃z‿aʁbʁ/, *les grands hommes* /le ɡʁɑ̃z‿ɔm/.
-- *Grand* goes **before** the noun, with the handful of short adjectives of size, age, beauty and goodness: *une grande maison* /yn ɡʁɑ̃d mɛzɔ̃/, *un grand jardin* /œ̃ ɡʁɑ̃ ʒaʁdɛ̃/, *un grand lit* /œ̃ ɡʁɑ̃ li/. Most adjectives follow their noun, *une maison confortable* /yn mɛzɔ̃ kɔ̃fɔʁtabl/, *une voiture rouge* /yn vwatyʁ ʁuʒ/; the page of [confortable](../confortable/README.md) has that side.
-- Of a thing *grand* is big or large; of a person it is tall, *il est grand* /il ɛ ɡʁɑ̃/, and, before the noun, great: *un grand homme* /œ̃ ɡʁɑ̃t‿ɔm/ is a great man, *un homme grand* /œ̃n‿ɔm ɡʁɑ̃/ a tall man. *Une grande personne* /yn ɡʁɑ̃d pɛʁsɔn/ is a grown-up, *les grandes vacances* /le ɡʁɑ̃d vakɑ̃s/ the summer holidays, and *grand-mère, grand-père* /ɡʁɑ̃mɛʁ, ɡʁɑ̃pɛʁ/ the grandparents.
+- *Grand* /ɡʁɑ̃/ goes **before** the noun, with the handful of short adjectives of size, age, beauty and goodness: *une grande maison* /yn ɡʁɑ̃d mɛzɔ̃/, *un grand jardin* /œ̃ ɡʁɑ̃ ʒaʁdɛ̃/, *un grand lit* /œ̃ ɡʁɑ̃ li/. Most adjectives follow their noun, *une maison confortable* /yn mɛzɔ̃ kɔ̃fɔʁtabl/, *une voiture rouge* /yn vwatyʁ ʁuʒ/; the page of [confortable](../confortable/README.md) has that side.
+- Of a thing *grand* /ɡʁɑ̃/ is big or large; of a person it is tall, *il est grand* /il ɛ ɡʁɑ̃/, and, before the noun, great: *un grand homme* /œ̃ ɡʁɑ̃t‿ɔm/ is a great man, *un homme grand* /œ̃n‿ɔm ɡʁɑ̃/ a tall man. *Une grande personne* /yn ɡʁɑ̃d pɛʁsɔn/ is a grown-up, *les grandes vacances* /le ɡʁɑ̃d vakɑ̃s/ the summer holidays, and *grand-mère, grand-père* /ɡʁɑ̃mɛʁ, ɡʁɑ̃pɛʁ/ the grandparents.
 - The teacher's first lesson opens with it: *J'habite dans une grande maison avec ma famille* /ʒabit dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk ma famij/, in [La maison](../../02_Yosser_teacher/lesson_01_la_maison/README.md).
 
 ## The table
@@ -21,11 +21,11 @@ Conventions: on the [chapter page](../README.md).
 ## AI section: grammar, phrases, examples, exercises
 
 - **Agreement.** The adjective takes the gender and number of its noun: *grand* /ɡʁɑ̃/ masculine singular, *grande* /ɡʁɑ̃d/ feminine singular, *grands* /ɡʁɑ̃/ masculine plural, *grandes* /ɡʁɑ̃d/ feminine plural. The feminine *-e* makes the *d* sound; the plural *-s* changes nothing in sound unless a vowel follows. So *la maison est grande* /la mɛzɔ̃ ɛ ɡʁɑ̃d/ and *le jardin est grand* /lə ʒaʁdɛ̃ ɛ ɡʁɑ̃/: the ear hears the gender in the adjective.
-- **Before the noun, and des becomes de.** *Grand* precedes its noun, like *petit, beau, joli, bon, mauvais, jeune, vieux, nouveau* /pəti, bo, ʒɔli, bɔ̃, movɛ, ʒœn, vjø, nuvo/. When a plural adjective stands before the noun, careful French turns *des* into *de*: *de grandes maisons* /də ɡʁɑ̃d mɛzɔ̃/, *de grands jardins* /də ɡʁɑ̃ ʒaʁdɛ̃/, against *des maisons confortables* /de mɛzɔ̃ kɔ̃fɔʁtabl/ where the adjective follows. Everyday speech often keeps *des grandes maisons* /de ɡʁɑ̃d mɛzɔ̃/; the pages write *de*.
+- **Before the noun, and des becomes de.** *Grand* /ɡʁɑ̃/ precedes its noun, like *petit, beau, joli, bon, mauvais, jeune, vieux, nouveau* /pəti, bo, ʒɔli, bɔ̃, movɛ, ʒœn, vjø, nuvo/. When a plural adjective stands before the noun, careful French turns *des* /de/ into *de* /də/: *de grandes maisons* /də ɡʁɑ̃d mɛzɔ̃/, *de grands jardins* /də ɡʁɑ̃ ʒaʁdɛ̃/, against *des maisons confortables* /de mɛzɔ̃ kɔ̃fɔʁtabl/ where the adjective follows. Everyday speech often keeps *des grandes maisons* /de ɡʁɑ̃d mɛzɔ̃/; the pages write *de* /də/.
 - **The liaison.** Before a vowel or a mute *h* the final letter is said: *un grand homme* /œ̃ ɡʁɑ̃t‿ɔm/, *un grand ami* /œ̃ ɡʁɑ̃t‿ami/, *un grand immeuble* /œ̃ ɡʁɑ̃t‿imœbl/, with a /t/ for the written *d*, as the *d* of *quand* /kɑ̃/ in *quand il* /kɑ̃t‿il/; *de grands hommes* /də ɡʁɑ̃z‿ɔm/, *les grands arbres* /le ɡʁɑ̃z‿aʁbʁ/ with /z/. The feminine needs none: *une grande armoire* /yn ɡʁɑ̃d aʁmwaʁ/ already ends in /d/.
-- **Tall or great.** Of a person, after the noun or after *être*, *grand* is tall: *un homme grand* /œ̃n‿ɔm ɡʁɑ̃/, *elle est grande* /ɛl ɛ ɡʁɑ̃d/ she is tall, *il est grand pour son âge* /il ɛ ɡʁɑ̃ puʁ sɔ̃n‿ɑʒ/. Before the noun it is great: *un grand homme* /œ̃ ɡʁɑ̃t‿ɔm/, *un grand écrivain* /œ̃ ɡʁɑ̃t‿ekʁivɛ̃/ a great writer, *Alexandre le Grand* /alɛksɑ̃dʁ lə ɡʁɑ̃/. English *big* of a person is *gros, grosse* /ɡʁo, ɡʁos/, which means fat; keep *grand* for height.
-- **Comparing.** *Plus grand que* /ply ɡʁɑ̃ kə/ bigger than, *moins grand que* /mwɛ̃ ɡʁɑ̃ kə/, *aussi grand que* /osi ɡʁɑ̃ kə/ as big as; the superlative adds the article, *le plus grand* /lə ply ɡʁɑ̃/, *la plus grande* /la ply ɡʁɑ̃d/, and *de* for the group, *la plus grande ville de France* /la ply ɡʁɑ̃d vil də fʁɑ̃s/. *Plus* is /ply/ here, the *s* silent before a consonant. Only *bon* /bɔ̃/ has an irregular comparative, *meilleur* /mɛjœʁ/; *grand* is regular.
-- **The family.** *Grandir* /ɡʁɑ̃diʁ/ to grow, to grow up, an *-ir* verb of the *finir* type: *il grandit* /il ɡʁɑ̃di/, *ils grandissent* /il ɡʁɑ̃dis/, *il a grandi* /il a ɡʁɑ̃di/; *agrandir* /aɡʁɑ̃diʁ/ to enlarge; *la grandeur* /la ɡʁɑ̃dœʁ/ size and greatness; *grandement* /ɡʁɑ̃dmɑ̃/ greatly, amply; *grandiose* /ɡʁɑ̃djoz/. The opposite is *petit* /pəti/, with a page of its own, [petit](../petit/README.md).
+- **Tall or great.** Of a person, after the noun or after *être* /ɛtʁ/, *grand* /ɡʁɑ̃/ is tall: *un homme grand* /œ̃n‿ɔm ɡʁɑ̃/, *elle est grande* /ɛl ɛ ɡʁɑ̃d/ she is tall, *il est grand pour son âge* /il ɛ ɡʁɑ̃ puʁ sɔ̃n‿ɑʒ/. Before the noun it is great: *un grand homme* /œ̃ ɡʁɑ̃t‿ɔm/, *un grand écrivain* /œ̃ ɡʁɑ̃t‿ekʁivɛ̃/ a great writer, *Alexandre le Grand* /alɛksɑ̃dʁ lə ɡʁɑ̃/. English *big* of a person is *gros, grosse* /ɡʁo, ɡʁos/, which means fat; keep *grand* /ɡʁɑ̃/ for height.
+- **Comparing.** *Plus grand que* /ply ɡʁɑ̃ kə/ bigger than, *moins grand que* /mwɛ̃ ɡʁɑ̃ kə/, *aussi grand que* /osi ɡʁɑ̃ kə/ as big as; the superlative adds the article, *le plus grand* /lə ply ɡʁɑ̃/, *la plus grande* /la ply ɡʁɑ̃d/, and *de* for the group, *la plus grande ville de France* /la ply ɡʁɑ̃d vil də fʁɑ̃s/. *Plus* is /ply/ here, the *s* silent before a consonant. Of the common adjectives, *bon* /bɔ̃/ has an irregular comparative, *meilleur* /mɛjœʁ/, and *mauvais* /movɛ/ has *pire* /piʁ/; *grand* /ɡʁɑ̃/ is regular.
+- **The family.** *Grandir* /ɡʁɑ̃diʁ/ to grow, to grow up, an *-ir* verb of the *finir* /finiʁ/ type: *il grandit* /il ɡʁɑ̃di/, *ils grandissent* /il ɡʁɑ̃dis/, *il a grandi* /il a ɡʁɑ̃di/; *agrandir* /aɡʁɑ̃diʁ/ to enlarge; *la grandeur* /la ɡʁɑ̃dœʁ/ size and greatness; *grandement* /ɡʁɑ̃dmɑ̃/ greatly, amply; *grandiose* /ɡʁɑ̃djoz/. The opposite is *petit* /pəti/, with a page of its own, [petit](../petit/README.md).
 
 | French | English | IPA |
 |---|---|---|
@@ -63,7 +63,7 @@ Conventions: on the [chapter page](../README.md).
 | Ma sœur est plus grande que moi. | My sister is taller than me. | /ma sœʁ ɛ ply ɡʁɑ̃d kə mwa/ |
 | Il est aussi grand que son père. | He is as tall as his father. | /il ɛ osi ɡʁɑ̃ kə sɔ̃ pɛʁ/ |
 | Paris est la plus grande ville de France. | Paris is the biggest city in France. | /paʁi ɛ la ply ɡʁɑ̃d vil də fʁɑ̃s/ |
-| bon, meilleur, le meilleur | good, better, the best: the one irregular comparative | /bɔ̃, mɛjœʁ, lə mɛjœʁ/ |
+| bon, meilleur, le meilleur | good, better, the best: the irregular comparative of bon | /bɔ̃, mɛjœʁ, lə mɛjœʁ/ |
 | **Expressions** | **Set phrases** | /ɛkspʁɛsjɔ̃/ |
 | une grande personne | a grown-up | /yn ɡʁɑ̃d pɛʁsɔn/ |
 | les grands et les petits | the big ones and the little ones, the older and the younger children | /le ɡʁɑ̃ e le pəti/ |
@@ -75,18 +75,14 @@ Conventions: on the [chapter page](../README.md).
 | un grand verre d'eau | a large glass of water | /œ̃ ɡʁɑ̃ vɛʁ do/ |
 | la porte grande ouverte | the door wide open | /la pɔʁt ɡʁɑ̃d uvɛʁt/ |
 | au grand air | in the open air | /o ɡʁɑ̃t‿ɛʁ/ |
-| au grand jour | in broad daylight; openly | /o ɡʁɑ̃ ʒuʁ/ |
 | pas grand-chose | not much | /pa ɡʁɑ̃ʃoz/ |
-| la Grande-Bretagne | Great Britain | /la ɡʁɑ̃d bʁətaɲ/ |
 | **La famille de grand** | **The family of grand** | /la famij də ɡʁɑ̃/ |
 | grand-mère, grand-père, les grands-parents | grandmother, grandfather, the grandparents | /ɡʁɑ̃mɛʁ, ɡʁɑ̃pɛʁ, le ɡʁɑ̃paʁɑ̃/ |
 | grandir | to grow, to grow up | /ɡʁɑ̃diʁ/ |
 | il grandit, ils grandissent, il a grandi | he grows, they grow, he has grown | /il ɡʁɑ̃di, il ɡʁɑ̃dis, il a ɡʁɑ̃di/ |
 | agrandir | to enlarge, to extend | /aɡʁɑ̃diʁ/ |
 | la grandeur | size; greatness | /la ɡʁɑ̃dœʁ/ |
-| la folie des grandeurs | delusions of grandeur | /la fɔli de ɡʁɑ̃dœʁ/ |
 | grandement | greatly, amply | /ɡʁɑ̃dmɑ̃/ |
-| grandiose | grandiose, magnificent | /ɡʁɑ̃djoz/ |
 | petit, petite | small: the opposite | /pəti, pətit/ |
 | **Les mots qui sonnent comme grand** | **The words that sound like grand** | /le mo ki sɔn kɔm ɡʁɑ̃/ |
 | grand – grands | big, singular and plural: the same sound | /ɡʁɑ̃/ · /ɡʁɑ̃/ |
