@@ -60,7 +60,7 @@ The examples are **stdlib-only, on purpose**. If you have `python3`, you can run
 
 - [Topic map](TOPICS.md): every page by subject.
 - [Glossary](GLOSSARY.md): the terms, each with the page that explains it.
-- [Resources](RESOURCES.md): the dictionaries and books behind the pages.
+- [Resources](RESOURCES.md): the dictionaries and books behind the pages, and which books with audio to study from.
 - [Roadmap](ROADMAP.md): what is written and what is deliberately not written yet.
 - [Conventions](CONTRIBUTING.md): the house rules for adding a page.
 
