@@ -246,4 +246,5 @@ J’aime beaucoup ma maison.<br>/ʒɛm boku ma mɛzɔ̃/
 
 - [Lesson 1: La maison — français, anglais, IPA](../lesson_01_la_maison/README.md) — the whole worksheet with the English, the exercises and the Anki decks
 - [Yosser (teacher)](../README.md) — the chapter and its conventions
+- [avoir](../../05_1000_words/avoir/README.md) and [être](../../05_1000_words/etre/README.md) — the two verbs of the text: *il y a* /il j a/ in every room, *est* /ɛ/ in *ma maison est belle* /ma mɛzɔ̃ ɛ bɛl/ and in the prepositions of place
 - [un lit](../../05_1000_words/lit/README.md), [un bureau](../../05_1000_words/bureau/README.md), [une chaise](../../05_1000_words/chaise/README.md), [une armoire](../../05_1000_words/armoire/README.md) — the four things in Adam's bedroom, one page each
