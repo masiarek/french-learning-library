@@ -1,10 +1,12 @@
 # The French alphabet: the 26 letter names in the IPA
 
-**Level:** 101 · for anyone who has to spell a name aloud in French, or read *ça s'écrit avec un accent grave*
+**Level:** 101 · for anyone who has to spell a name aloud in French, or read *ça s'écrit avec un accent grave* /sa sekʁi avɛk œ̃n‿aksɑ̃ ɡʁav/
 
 **One line:** The 26 letters have names, and the names are French words: *bé* /be/, *effe* /ɛf/, *i grec* /iɡʁɛk/. Written in the IPA they use 24 of Le Robert's 36 symbols and drill five of the sounds English lacks, among them the /y/ of *u* and the /ʁ/ of *erre*. They obey the rules of any French word: the *e* of a name is the closed /e/ when it ends the name and the open /ɛ/ when a consonant follows, sixteen times out of sixteen. And whether the vowel comes after the consonant (*bé*) or before it (*effe*) was settled in Latin, by the sound the letter had then, which is why *cé* and *gé* keep the shape of a stop's name while they sound /s/ and /ʒ/.
 
-## The alphabet
+## The alphabet: l'alphabet /lalfabɛ/
+
+*L'alphabet français* /lalfabɛ fʁɑ̃sɛ/ has twenty-six letters, *vingt-six lettres* /vɛ̃tsis lɛtʁ/, and its own name ends in a silent *t*. *Réciter l'alphabet* /ʁesite lalfabɛ/ is to say it through, *épeler un mot* /eple œ̃ mo/ to spell a word, and *l'ordre alphabétique* /lɔʁdʁ alfabetik/ is the order of a dictionary.
 
 The names follow Le Robert, which writes them between square brackets; here they are between slashes like every transcription in this library. The Note column gives the accented forms of the letter and the name to say when spelling them aloud.
 
@@ -12,11 +14,11 @@ The names follow Le Robert, which writes them between square brackets; here they
 |---|---|---|---|
 | A a | *a* | /a/ | also *à, â*, and the rare ligature *æ* (*ex æquo* /ɛɡzeko/); French Wikipedia writes the name /ɑ/, see [how sure](#how-sure-is-each-claim) |
 | B b | *bé* | /be/ | |
-| C c | *cé* | /se/ | the soft *c* of *ce*; also *ç*, spelled aloud *c cédille* /se sedij/ |
+| C c | *cé* | /se/ | the soft *c* of *ce* /sə/; also *ç*, spelled aloud *c cédille* /se sedij/ |
 | D d | *dé* | /de/ | |
-| E e | *e* | /ə/ | the vowel of *le*; also *é, è, ê, ë*, spelled aloud *e accent aigu, e accent grave, e accent circonflexe, e tréma* |
+| E e | *e* | /ə/ | the vowel of *le* /lə/; also *é, è, ê, ë*, spelled aloud *e accent aigu, e accent grave, e accent circonflexe, e tréma* /ə aksɑ̃t‿eɡy, ə aksɑ̃ ɡʁav, ə aksɑ̃ siʁkɔ̃flɛks, ə tʁema/ |
 | F f | *effe* | /ɛf/ | |
-| G g | *gé* | /ʒe/ | the soft *g* of *gens*, not the hard one of *gare* |
+| G g | *gé* | /ʒe/ | the soft *g* of *gens* /ʒɑ̃/, not the hard one of *gare* /ɡaʁ/ |
 | H h | *ache* | /aʃ/ | the one name without its letter's sound: *h* has none |
 | I i | *i* | /i/ | also *î, ï* |
 | J j | *ji* | /ʒi/ | named like *g*, with the vowel of *i* |
@@ -24,9 +26,9 @@ The names follow Le Robert, which writes them between square brackets; here they
 | L l | *elle* | /ɛl/ | |
 | M m | *emme* | /ɛm/ | |
 | N n | *enne* | /ɛn/ | |
-| O o | *o* | /o/ | also *ô*, and the ligature *œ* of *cœur*, spelled aloud *e dans l'o* /ə dɑ̃ lo/ |
+| O o | *o* | /o/ | also *ô*, and the ligature *œ* of *cœur* /kœʁ/, spelled aloud *e dans l'o* /ə dɑ̃ lo/ |
 | P p | *pé* | /pe/ | |
-| Q q | *ku* | /ky/ | the vowel of *tu*; the name is also spelled *qu* |
+| Q q | *ku* | /ky/ | the vowel of *tu* /ty/; the name is also spelled *qu* |
 | R r | *erre* | /ɛʁ/ | |
 | S s | *esse* | /ɛs/ | |
 | T t | *té* | /te/ | |
@@ -45,11 +47,11 @@ Nothing in the Note column is a letter of the alphabet. The accents, the cédill
 
 **2. Vowel after or vowel before was settled in Latin.** Latin named its stops with a vowel after them, *be, ce, de, ge, ka, pe, qu, te*, because a stop cannot be heard until something is released after it, and its continuants with a vowel before them, *ef, el, em, en, er, es*, because a continuant can be held and heard on its own. French took the names over and let their sounds change: Latin *ce* /ke/ became /se/ when *c* softened before *e*, and *ge* /ɡe/ became /ʒe/. The names kept the shape of the old sound. So a rule stated on the French sound of the letter fails four times, on *c* and *g* and on the two letters added later on the same pattern, *j* named like *g* and *v* named like *b*; a rule stated on the Latin class of the letter fits all fourteen Latin consonant letters. The six names left over are the ones Latin did not have or named otherwise: *ache* for the letter that lost its sound, *double vé*, *ics* from Latin *ix*, *i grec* for the letter borrowed with Greek words, and *zède* from Greek *zeta*.
 
-**3. Every name but one carries a sound its letter spells.** *Cé* carries the soft /s/ of *ce, ci*, *gé* the soft /ʒ/ of *ge, gi*, *double vé* the /v/ of *wagon* /vaɡɔ̃/ rather than the /w/ of *week-end* /wikɛnd/, *i grec* the /i/ of *stylo* /stilo/. The exception is *ache*: *h* spells no sound in French, so its name cannot contain one.
+**3. Every name but one carries a sound its letter spells.** *Cé* carries the soft /s/ of *ce, ci* /sə, si/, *gé* the soft /ʒ/ of *ge, gi* /ʒə, ʒi/, *double vé* the /v/ of *wagon* /vaɡɔ̃/ rather than the /w/ of *week-end* /wikɛnd/, *i grec* the /i/ of *stylo* /stilo/. The exception is *ache*: *h* spells no sound in French, so its name cannot contain one.
 
 ## What the alphabet drills
 
-The 26 names use 24 symbols, and five of them are on the first lesson's list of the 15 sounds [French has and English lacks](../ipa_english_vs_french/README.md): /a/ in *a, ka, ache*, /o/ in *o*, /y/ in *u* and *ku*, /ɛ/ in the eight names with an open *e*, and /ʁ/ in *erre* and *i grec*. A learner who can say *u, q, r* has the front rounded vowel and the uvular r, two of the sounds English speakers find hardest, in the first minute of French. What the alphabet leaves out is the nose: none of the four nasal vowels, and none of /ø œ ɥ ɲ/.
+The 26 names use 24 symbols, and five of them are on the first lesson's list of the 15 sounds [French has and English lacks](../ipa_english_vs_french/README.md): /a/ in *a, ka, ache*, /o/ in *o*, /y/ in *u* and *ku*, /ɛ/ in the eight names with an open *e*, and /ʁ/ in *erre* and *i grec*. A learner who can say *u, q, r* /y, ky, ɛʁ/ has the front rounded vowel and the uvular r, two of the sounds English speakers find hardest, in the first minute of French. What the alphabet leaves out is the nose: none of the four nasal vowels, and none of /ø œ ɥ ɲ/.
 
 ## Spelling aloud
 
@@ -57,6 +59,10 @@ The words you need when a name has to be spelled over the phone. Accents are sai
 
 | French | English | IPA |
 |---|---|---|
+| *l'alphabet* | the alphabet | /lalfabɛ/ |
+| *une lettre* | a letter | /yn lɛtʁ/ |
+| *une voyelle, une consonne* | a vowel, a consonant | /yn vwajɛl, yn kɔ̃sɔn/ |
+| *dans l'ordre alphabétique* | in alphabetical order | /dɑ̃ lɔʁdʁ alfabetik/ |
 | *Comment ça s'écrit ?* | How is it spelled? | /kɔmɑ̃ sa sekʁi/ |
 | *Vous pouvez épeler ?* | Can you spell it? | /vu puve eple/ |
 | *Ça s'écrit F, R, A, N, C cédille, A, I, S.* | It is spelled f, r, a, n, c-cedilla, a, i, s. | /sa sekʁi ɛf, ɛʁ, a, ɛn, se sedij, a, i, ɛs/ |
@@ -219,5 +225,5 @@ Three things to read off the output:
 - [Le son ɛ](../../04_Pronunciation/son_e_ouvert/README.md) — the open *e* drilled on words, the rule the letter names obey without exception
 - [Glossary](../../GLOSSARY.md) — *accent, cédille, tréma, ligature, loi de position*, each with its page
 - French Wikipedia, *Alphabet français* ↗ (<https://fr.wikipedia.org/wiki/Alphabet_fran%C3%A7ais>), the table of the 26 letters, read from the owner's screenshot
-- Le Robert, *Dictionnaire de la langue française*, the entries for the letters, from memory
+- Le Robert, *Dictionnaire de la langue française*, the entries for the letters, from memory; open-dict-data's *ipa-dict* for *alphabet, lettre, voyelle, consonne, épeler, réciter* on 2026-10-10
 - Arthur E. Gordon, *The Letter Names of the Latin Alphabet* (University of California Press, 1973), from memory
