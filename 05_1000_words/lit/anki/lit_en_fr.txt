@@ -1,0 +1,65 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::un lit — a bed
+#tags:french 1000words lit en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(n.m.) bed	un lit<br>/œ̃ li/	en-fr
+I go to bed at ten o'clock.	Je vais au lit à dix heures.<br>/ʒə vɛ o li a diz‿œʁ/	en-fr
+I go to bed	je me couche<br>/ʒə mə kuʃ/	en-fr
+you go to bed	tu te couches<br>/ty tə kuʃ/	en-fr
+he goes to bed, she goes to bed	il se couche, elle se couche<br>/il sə kuʃ, ɛl sə kuʃ/	en-fr
+we go to bed	nous nous couchons<br>/nu nu kuʃɔ̃/	en-fr
+you go to bed (2)	vous vous couchez<br>/vu vu kuʃe/	en-fr
+they go to bed	ils se couchent, elles se couchent<br>/il sə kuʃ, ɛl sə kuʃ/	en-fr
+I went to bed, she went to bed	je me suis couché, elle s'est couchée<br>/ʒə mə sɥi kuʃe, ɛl sɛ kuʃe/	en-fr
+go to bed!	couche-toi ! couchez-vous !<br>/kuʃtwa, kuʃevu/	en-fr
+I read, you read, he reads	je lis, tu lis, il lit<br>/ʒə li, ty li, il li/	en-fr
+we read, you read, they read	nous lisons, vous lisez, ils lisent<br>/nu lizɔ̃, vu lize, il liz/	en-fr
+I read, I have read	j'ai lu<br>/ʒe ly/	en-fr
+to go to bed	aller au lit<br>/ale o li/	en-fr
+to be in bed	être au lit<br>/ɛtʁ o li/	en-fr
+to get into bed	se mettre au lit<br>/sə mɛtʁ o li/	en-fr
+to stay in bed	rester au lit<br>/ʁɛste o li/	en-fr
+to stay in bed, ill	garder le lit<br>/ɡaʁde lə li/	en-fr
+to get out of bed	sortir du lit<br>/sɔʁtiʁ dy li/	en-fr
+to make one's bed	faire son lit<br>/fɛʁ sɔ̃ li/	en-fr
+an unmade bed	un lit défait<br>/œ̃ li defɛ/	en-fr
+on getting up, first thing	au saut du lit<br>/o so dy li/	en-fr
+Bed time!	Au lit !<br>/o li/	en-fr
+a double bed	un grand lit, un lit double<br>/œ̃ ɡʁɑ̃ li, œ̃ li dubl/	en-fr
+a single bed	un lit simple, un lit d'une personne<br>/œ̃ li sɛ̃pl, œ̃ li dyn pɛʁsɔn/	en-fr
+twin beds	des lits jumeaux<br>/de li ʒymo/	en-fr
+bunk beds	des lits superposés<br>/de li sypɛʁpoze/	en-fr
+a cot	un lit d'enfant<br>/œ̃ li dɑ̃fɑ̃/	en-fr
+a sofa bed	un canapé-lit<br>/œ̃ kanapeli/	en-fr
+a camp bed	un lit de camp<br>/œ̃ li də kɑ̃/	en-fr
+a twin room	une chambre à deux lits<br>/yn ʃɑ̃bʁ a dø li/	en-fr
+a double room	une chambre avec un grand lit<br>/yn ʃɑ̃bʁ avɛk œ̃ ɡʁɑ̃ li/	en-fr
+a sheet, sheets	un drap, des draps<br>/œ̃ dʁa, de dʁa/	en-fr
+a blanket	une couverture<br>/yn kuvɛʁtyʁ/	en-fr
+a duvet	une couette<br>/yn kwɛt/	en-fr
+a pillow, a pillowcase	un oreiller, une taie d'oreiller<br>/œ̃n‿ɔʁeje, yn tɛ dɔʁeje/	en-fr
+a mattress	un matelas<br>/œ̃ matla/	en-fr
+the bedding	la literie<br>/la litʁi/	en-fr
+the bedside table	la table de nuit, la table de chevet<br>/la tabl də nɥi, la tabl də ʃəvɛ/	en-fr
+You have made your bed, now lie in it.	Comme on fait son lit, on se couche.<br>/kɔm ɔ̃ fɛ sɔ̃ li, ɔ̃ sə kuʃ/	en-fr
+the river bed	le lit de la rivière<br>/lə li də la ʁivjɛʁ/	en-fr
+a child of the first marriage	un enfant du premier lit<br>/œ̃n‿ɑ̃fɑ̃ dy pʁəmje li/	en-fr
+to die in one's bed	mourir dans son lit<br>/muʁiʁ dɑ̃ sɔ̃ li/	en-fr
+the bed – he reads – the dregs	le lit – il lit – la lie<br>/lə li/ · /il li/ · /la li/	en-fr
+the bed – the lily: the s is said	le lit – le lis<br>/lə li/ · /lə lis/	en-fr
+bed – read, the participle: /i/ against /y/	lit – lu<br>/li/ · /ly/	en-fr
+bed – milk	lit – lait<br>/li/ · /lɛ/	en-fr
+In my bedroom there is a double bed.	Dans ma chambre, il y a un grand lit.<br>/dɑ̃ ma ʃɑ̃bʁ, il j a œ̃ ɡʁɑ̃ li/	en-fr
+The children are already in bed.	Les enfants sont déjà au lit.<br>/lez‿ɑ̃fɑ̃ sɔ̃ deʒa o li/	en-fr
+I have to make my bed every morning.	Je dois faire mon lit tous les matins.<br>/ʒə dwa fɛʁ mɔ̃ li tu le matɛ̃/	en-fr
+She reads in bed before sleeping.	Elle lit au lit avant de dormir.<br>/ɛl li o li avɑ̃ də dɔʁmiʁ/	en-fr
+He is ill, he is staying in bed.	Il est malade, il garde le lit.<br>/il ɛ malad, il ɡaʁd lə li/	en-fr
+We want a twin room.	Nous voulons une chambre à deux lits.<br>/nu vulɔ̃ yn ʃɑ̃bʁ a dø li/	en-fr
+The cat is sleeping on my bed.	Le chat dort sur mon lit.<br>/lə ʃa dɔʁ syʁ mɔ̃ li/	en-fr
+Go to bed, it is late!	Va au lit, il est tard !<br>/va o li, il ɛ taʁ/	en-fr
+I go to bed at eleven and get up at seven.	Je me couche à onze heures et je me lève à sept heures.<br>/ʒə mə kuʃ a ɔ̃z œʁ e ʒə mə lɛv a sɛt œʁ/	en-fr
+This bed is too small for two people.	Ce lit est trop petit pour deux personnes.<br>/sə li ɛ tʁo pəti puʁ dø pɛʁsɔn/	en-fr
+His mother has just got out of bed.	Sa mère vient de sortir du lit.<br>/sa mɛʁ vjɛ̃ də sɔʁtiʁ dy li/	en-fr

@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::un tapis — a carpet, a rug
+#tags:french 1000words tapis fr-en
+#columns:Front	Back	Tags
+#tags column:3
+un tapis<br>/œ̃ tapi/	(n.m.) carpet, rug	fr-en
+Il y a un tapis devant le canapé.<br>/il j a œ̃ tapi dəvɑ̃ lə kanape/	There is a rug in front of the sofa.	fr-en
+le sol<br>/lə sɔl/	the floor, the ground	fr-en
+le plancher, le parquet<br>/lə plɑ̃ʃe, lə paʁkɛ/	the wooden floor	fr-en
+le carrelage<br>/lə kaʁlaʒ/	the tiled floor	fr-en
+la moquette<br>/la mɔkɛt/	the fitted carpet	fr-en
+un tapis, des tapis<br>/œ̃ tapi, de tapi/	a rug, rugs	fr-en
+le paillasson<br>/lə pajasɔ̃/	the doormat	fr-en
+un tapis de bain<br>/œ̃ tapi də bɛ̃/	a bath mat	fr-en
+un tapis de souris<br>/œ̃ tapi də suʁi/	a mouse mat	fr-en
+un tapis de yoga<br>/œ̃ tapi də jɔɡa/	a yoga mat	fr-en
+un tapis de sol<br>/œ̃ tapi də sɔl/	a ground sheet, a floor mat	fr-en
+un tapis roulant<br>/œ̃ tapi ʁulɑ̃/	a treadmill; a conveyor belt; a moving walkway	fr-en
+un tapis volant<br>/œ̃ tapi vɔlɑ̃/	a flying carpet	fr-en
+un tapis persan<br>/œ̃ tapi pɛʁsɑ̃/	a Persian rug	fr-en
+le tapis rouge<br>/lə tapi ʁuʒ/	the red carpet	fr-en
+un fils, des fils<br>/œ̃ fis, de fis/	a son, sons	fr-en
+un bras, des bras<br>/œ̃ bʁa, de bʁa/	an arm, arms	fr-en
+un prix, des prix<br>/œ̃ pʁi, de pʁi/	a price, prices	fr-en
+une voix, des voix<br>/yn vwa, de vwa/	a voice, voices	fr-en
+un nez, des nez<br>/œ̃ ne, de ne/	a nose, noses	fr-en
+mettre une question sur le tapis<br>/mɛtʁ yn kɛstjɔ̃ syʁ lə tapi/	to bring a question up	fr-en
+dérouler le tapis rouge<br>/deʁule lə tapi ʁuʒ/	to roll out the red carpet	fr-en
+envoyer quelqu'un au tapis<br>/ɑ̃vwaje kɛlkœ̃ o tapi/	to floor someone, in boxing	fr-en
+passer l'aspirateur sur le tapis<br>/pase laspiʁatœʁ syʁ lə tapi/	to vacuum the rug	fr-en
+secouer le tapis<br>/səkwe lə tapi/	to shake the rug	fr-en
+une tache sur le tapis<br>/yn taʃ syʁ lə tapi/	a stain on the rug	fr-en
+essuyer ses pieds sur le paillasson<br>/esɥije se pje syʁ lə pajasɔ̃/	to wipe one's feet on the doormat	fr-en
+le tapis – le tapir<br>/lə tapi/ · /lə tapiʁ/	the rug – the tapir: the r is said	fr-en
+le tapis – il tape<br>/lə tapi/ · /il tap/	the rug – he types, he hits	fr-en
+le tapis – le taxi<br>/lə tapi/ · /lə taksi/	the rug – the taxi	fr-en
+Il y a un grand tapis dans le salon.<br>/il j a œ̃ ɡʁɑ̃ tapi dɑ̃ lə salɔ̃/	There is a big rug in the living room.	fr-en
+Le chat dort sur le tapis.<br>/lə ʃa dɔʁ syʁ lə tapi/	The cat is sleeping on the rug.	fr-en
+Ce tapis vient de Turquie.<br>/sə tapi vjɛ̃ də tyʁki/	This rug comes from Turkey.	fr-en
+Les enfants jouent sur le tapis.<br>/lez‿ɑ̃fɑ̃ ʒu syʁ lə tapi/	The children are playing on the rug.	fr-en
+Je dois passer l'aspirateur sur le tapis.<br>/ʒə dwa pase laspiʁatœʁ syʁ lə tapi/	I have to vacuum the rug.	fr-en
+Il y a une tache de café sur le tapis.<br>/il j a yn taʃ də kafe syʁ lə tapi/	There is a coffee stain on the rug.	fr-en
+Nous voulons acheter un tapis pour la chambre.<br>/nu vulɔ̃ aʃte œ̃ tapi puʁ la ʃɑ̃bʁ/	We want to buy a rug for the bedroom.	fr-en
+Ma mère secoue le tapis par la fenêtre.<br>/ma mɛʁ səku lə tapi paʁ la fənɛtʁ/	My mother is shaking the rug out of the window.	fr-en
+Il court sur le tapis roulant tous les matins.<br>/il kuʁ syʁ lə tapi ʁulɑ̃ tu le matɛ̃/	He runs on the treadmill every morning.	fr-en
+Essuie tes pieds sur le paillasson !<br>/esɥi te pje syʁ lə pajasɔ̃/	Wipe your feet on the doormat!	fr-en
+un tapis → ________<br>(AI exercise: the plural, with its article)	/[de tapi]/<br>rugs	exercise
+un prix → ________<br>(AI exercise: the plural, with its article)	/[de pʁi]/<br>prices	exercise
+un bureau → ________<br>(AI exercise: the plural, with its article)	/[de byʁo]/<br>desks	exercise
+une chaise → ________<br>(AI exercise: the plural, with its article)	/[de ʃɛz]/<br>chairs	exercise
+Essuie tes pieds sur le ________.<br>(AI exercise: tapis, moquette or paillasson?)	/esɥi te pje syʁ lə [pajasɔ̃]/<br>Wipe your feet on the doormat.	exercise
+Il y a de la ________ dans toute la maison.<br>(AI exercise: tapis, moquette or paillasson?)	/il j a də la [mɔkɛt] dɑ̃ tut la mɛzɔ̃/<br>There is fitted carpet all over the house.	exercise
+Le chat dort sur le ________ devant le canapé.<br>(AI exercise: tapis, moquette or paillasson?)	/lə ʃa dɔʁ syʁ lə [tapi] dəvɑ̃ lə kanape/<br>The cat sleeps on the rug in front of the sofa.	exercise
+Le tapis est ________ la table.<br>(AI exercise: sur, sous or devant?)	/lə tapi ɛ [su] la tabl/<br>The rug is under the table.	exercise
+Le chien dort ________ le tapis.<br>(AI exercise: sur, sous or devant?)	/lə ʃjɛ̃ dɔʁ [syʁ] lə tapi/<br>The dog is sleeping on the rug.	exercise
+Le tapis est ________ le canapé.<br>(AI exercise: sur, sous or devant?)	/lə tapi ɛ [dəvɑ̃] lə kanape/<br>The rug is in front of the sofa.	exercise

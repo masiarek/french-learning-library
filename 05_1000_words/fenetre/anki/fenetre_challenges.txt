@@ -1,0 +1,18 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une fenêtre — a window::Challenges
+#tags:french 1000words fenetre challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: Close the window, it is cold.	Ferme la fenêtre, il fait froid. /fɛʁm la fənɛtʁ, il fɛ fʁwa/	say
+Say: The kitchen window looks onto the street.	La fenêtre de la cuisine donne sur la rue. /la fənɛtʁ də la kɥizin dɔn syʁ la ʁy/	say
+Say: The cat is looking out of the window.	Le chat regarde par la fenêtre. /lə ʃa ʁəɡaʁd paʁ la fənɛtʁ/	say
+Say: I would like a window seat.	Je voudrais une place côté fenêtre. /ʒə vudʁɛ yn plas kote fənɛtʁ/	say
+Say: The windows are open because it is hot.	Les fenêtres sont ouvertes parce qu'il fait chaud. /le fənɛtʁ sɔ̃t‿uvɛʁt paʁs kil fɛ ʃo/	say
+What does the circumflex of fenêtre tell?	An open /ɛ/, and a lost s: Latin fenestra, English defenestration; the same in fête, tête, forêt	sound
+I open, we open, open! (politely)	j'ouvre /ʒuvʁ/, nous ouvrons /nuz‿uvʁɔ̃/, ouvrez /uvʁe/	grammar
+Open and closed, of a window	ouverte /uvɛʁt/ and fermée /fɛʁme/: the participle agrees with the feminine noun, la fenêtre est ouverte	grammar
+Through the window, onto the garden	par la fenêtre /paʁ la fənɛtʁ/, donner sur le jardin /dɔne syʁ lə ʒaʁdɛ̃/	words
+Pane, shutter, curtain, blind	la vitre /la vitʁ/, le volet /lə vɔlɛ/, le rideau /lə ʁido/, le store /lə stɔʁ/	words
+To throw money away, in French	jeter l'argent par les fenêtres /ʒəte laʁʒɑ̃ paʁ le fənɛtʁ/	words

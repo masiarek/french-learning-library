@@ -1,0 +1,77 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::un lit — a bed
+#tags:french 1000words lit fr-en
+#columns:Front	Back	Tags
+#tags column:3
+un lit<br>/œ̃ li/	(n.m.) bed	fr-en
+Je vais au lit à dix heures.<br>/ʒə vɛ o li a diz‿œʁ/	I go to bed at ten o'clock.	fr-en
+je me couche<br>/ʒə mə kuʃ/	I go to bed	fr-en
+tu te couches<br>/ty tə kuʃ/	you go to bed	fr-en
+il se couche, elle se couche<br>/il sə kuʃ, ɛl sə kuʃ/	he goes to bed, she goes to bed	fr-en
+nous nous couchons<br>/nu nu kuʃɔ̃/	we go to bed	fr-en
+vous vous couchez<br>/vu vu kuʃe/	you go to bed	fr-en
+ils se couchent, elles se couchent<br>/il sə kuʃ, ɛl sə kuʃ/	they go to bed	fr-en
+je me suis couché, elle s'est couchée<br>/ʒə mə sɥi kuʃe, ɛl sɛ kuʃe/	I went to bed, she went to bed	fr-en
+couche-toi ! couchez-vous !<br>/kuʃtwa, kuʃevu/	go to bed!	fr-en
+je lis, tu lis, il lit<br>/ʒə li, ty li, il li/	I read, you read, he reads	fr-en
+nous lisons, vous lisez, ils lisent<br>/nu lizɔ̃, vu lize, il liz/	we read, you read, they read	fr-en
+j'ai lu<br>/ʒe ly/	I read, I have read	fr-en
+aller au lit<br>/ale o li/	to go to bed	fr-en
+être au lit<br>/ɛtʁ o li/	to be in bed	fr-en
+se mettre au lit<br>/sə mɛtʁ o li/	to get into bed	fr-en
+rester au lit<br>/ʁɛste o li/	to stay in bed	fr-en
+garder le lit<br>/ɡaʁde lə li/	to stay in bed, ill	fr-en
+sortir du lit<br>/sɔʁtiʁ dy li/	to get out of bed	fr-en
+faire son lit<br>/fɛʁ sɔ̃ li/	to make one's bed	fr-en
+un lit défait<br>/œ̃ li defɛ/	an unmade bed	fr-en
+au saut du lit<br>/o so dy li/	on getting up, first thing	fr-en
+Au lit !<br>/o li/	Bed time!	fr-en
+un grand lit, un lit double<br>/œ̃ ɡʁɑ̃ li, œ̃ li dubl/	a double bed	fr-en
+un lit simple, un lit d'une personne<br>/œ̃ li sɛ̃pl, œ̃ li dyn pɛʁsɔn/	a single bed	fr-en
+des lits jumeaux<br>/de li ʒymo/	twin beds	fr-en
+des lits superposés<br>/de li sypɛʁpoze/	bunk beds	fr-en
+un lit d'enfant<br>/œ̃ li dɑ̃fɑ̃/	a cot	fr-en
+un canapé-lit<br>/œ̃ kanapeli/	a sofa bed	fr-en
+un lit de camp<br>/œ̃ li də kɑ̃/	a camp bed	fr-en
+une chambre à deux lits<br>/yn ʃɑ̃bʁ a dø li/	a twin room	fr-en
+une chambre avec un grand lit<br>/yn ʃɑ̃bʁ avɛk œ̃ ɡʁɑ̃ li/	a double room	fr-en
+un drap, des draps<br>/œ̃ dʁa, de dʁa/	a sheet, sheets	fr-en
+une couverture<br>/yn kuvɛʁtyʁ/	a blanket	fr-en
+une couette<br>/yn kwɛt/	a duvet	fr-en
+un oreiller, une taie d'oreiller<br>/œ̃n‿ɔʁeje, yn tɛ dɔʁeje/	a pillow, a pillowcase	fr-en
+un matelas<br>/œ̃ matla/	a mattress	fr-en
+la literie<br>/la litʁi/	the bedding	fr-en
+la table de nuit, la table de chevet<br>/la tabl də nɥi, la tabl də ʃəvɛ/	the bedside table	fr-en
+Comme on fait son lit, on se couche.<br>/kɔm ɔ̃ fɛ sɔ̃ li, ɔ̃ sə kuʃ/	You have made your bed, now lie in it.	fr-en
+le lit de la rivière<br>/lə li də la ʁivjɛʁ/	the river bed	fr-en
+un enfant du premier lit<br>/œ̃n‿ɑ̃fɑ̃ dy pʁəmje li/	a child of the first marriage	fr-en
+mourir dans son lit<br>/muʁiʁ dɑ̃ sɔ̃ li/	to die in one's bed	fr-en
+le lit – il lit – la lie<br>/lə li/ · /il li/ · /la li/	the bed – he reads – the dregs	fr-en
+le lit – le lis<br>/lə li/ · /lə lis/	the bed – the lily: the s is said	fr-en
+lit – lu<br>/li/ · /ly/	bed – read, the participle: /i/ against /y/	fr-en
+lit – lait<br>/li/ · /lɛ/	bed – milk	fr-en
+Dans ma chambre, il y a un grand lit.<br>/dɑ̃ ma ʃɑ̃bʁ, il j a œ̃ ɡʁɑ̃ li/	In my bedroom there is a double bed.	fr-en
+Les enfants sont déjà au lit.<br>/lez‿ɑ̃fɑ̃ sɔ̃ deʒa o li/	The children are already in bed.	fr-en
+Je dois faire mon lit tous les matins.<br>/ʒə dwa fɛʁ mɔ̃ li tu le matɛ̃/	I have to make my bed every morning.	fr-en
+Elle lit au lit avant de dormir.<br>/ɛl li o li avɑ̃ də dɔʁmiʁ/	She reads in bed before sleeping.	fr-en
+Il est malade, il garde le lit.<br>/il ɛ malad, il ɡaʁd lə li/	He is ill, he is staying in bed.	fr-en
+Nous voulons une chambre à deux lits.<br>/nu vulɔ̃ yn ʃɑ̃bʁ a dø li/	We want a twin room.	fr-en
+Le chat dort sur mon lit.<br>/lə ʃa dɔʁ syʁ mɔ̃ li/	The cat is sleeping on my bed.	fr-en
+Va au lit, il est tard !<br>/va o li, il ɛ taʁ/	Go to bed, it is late!	fr-en
+Je me couche à onze heures et je me lève à sept heures.<br>/ʒə mə kuʃ a ɔ̃z œʁ e ʒə mə lɛv a sɛt œʁ/	I go to bed at eleven and get up at seven.	fr-en
+Ce lit est trop petit pour deux personnes.<br>/sə li ɛ tʁo pəti puʁ dø pɛʁsɔn/	This bed is too small for two people.	fr-en
+Sa mère vient de sortir du lit.<br>/sa mɛʁ vjɛ̃ də sɔʁtiʁ dy li/	His mother has just got out of bed.	fr-en
+Je vais ________ lit.<br>(AI exercise: au, du, sur le, sous le …?)	/ʒə vɛ [o] li/<br>I am going to bed.	exercise
+Il sort ________ lit.<br>(AI exercise: au, du, sur le, sous le …?)	/il sɔʁ [dy] li/<br>He is getting out of bed.	exercise
+Les enfants sont ________ lit.<br>(AI exercise: au, du, sur le, sous le …?)	/lez‿ɑ̃fɑ̃ sɔ̃ [o] li/<br>The children are in bed.	exercise
+Le chat dort ________ lit.<br>(AI exercise: au, du, sur le, sous le …?)	/lə ʃa dɔʁ [syʁ lə] li/<br>The cat is sleeping on the bed.	exercise
+Mes chaussures sont ________ lit.<br>(AI exercise: au, du, sur le, sous le …?)	/me ʃosyʁ sɔ̃ [su lə] li/<br>My shoes are under the bed.	exercise
+Elle ________ au lit.<br>(AI exercise: the bed or the verb?)	/ɛl [li] o li/<br>She reads in bed.	exercise
+Il y a un ________ dans la chambre.<br>(AI exercise: the bed or the verb?)	/il j a œ̃ [li] dɑ̃ la ʃɑ̃bʁ/<br>There is a bed in the bedroom.	exercise
+J'ai ________ ce livre au lit.<br>(AI exercise: the bed or the verb?)	/ʒe [ly] sə livʁ o li/<br>I read this book in bed. (past)	exercise
+________ drap<br>(AI exercise: un or une?)	/[œ̃] dʁa/<br>a sheet	exercise
+________ couverture<br>(AI exercise: un or une?)	/[yn] kuvɛʁtyʁ/<br>a blanket	exercise
+________ oreiller<br>(AI exercise: un or une?)	/[œ̃n]‿ɔʁeje/<br>a pillow	exercise
+________ matelas<br>(AI exercise: un or une?)	/[œ̃] matla/<br>a mattress	exercise

@@ -1,0 +1,54 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (FR-EN)::un bureau — a desk, an office
+#tags:french 1000words bureau fr-en
+#columns:Front	Back	Tags
+#tags column:3
+un bureau<br>/œ̃ byʁo/	(n.m.) desk; office	fr-en
+Sur mon bureau, il y a mes livres et mes cahiers.<br>/syʁ mɔ̃ byʁo, il j a me livʁ e me kaje/	On my desk there are my books and my notebooks.	fr-en
+un bureau, des bureaux<br>/œ̃ byʁo, de byʁo/	a desk, desks	fr-en
+un château, des châteaux<br>/œ̃ ʃɑto, de ʃɑto/	a castle, castles	fr-en
+un cadeau, des cadeaux<br>/œ̃ kado, de kado/	a present, presents	fr-en
+un gâteau, des gâteaux<br>/œ̃ ɡɑto, de ɡɑto/	a cake, cakes	fr-en
+un oiseau, des oiseaux<br>/œ̃n‿wazo, dez‿wazo/	a bird, birds	fr-en
+un jeu, des jeux<br>/œ̃ ʒø, de ʒø/	a game, games	fr-en
+une lampe de bureau<br>/yn lɑ̃p də byʁo/	a desk lamp	fr-en
+une chaise de bureau<br>/yn ʃɛz də byʁo/	an office chair	fr-en
+le tiroir, les tiroirs<br>/lə tiʁwaʁ, le tiʁwaʁ/	the drawer, the drawers	fr-en
+l'ordinateur, le clavier, l'écran<br>/lɔʁdinatœʁ, lə klavje, lekʁɑ̃/	the computer, the keyboard, the screen	fr-en
+le stylo, le cahier, le livre<br>/lə stilo, lə kaje, lə livʁ/	the pen, the notebook, the book	fr-en
+les papiers<br>/le papje/	the papers	fr-en
+la corbeille<br>/la kɔʁbɛj/	the waste-paper basket	fr-en
+aller au bureau<br>/ale o byʁo/	to go to the office	fr-en
+être au bureau<br>/ɛtʁ o byʁo/	to be at the office	fr-en
+travailler au bureau<br>/tʁavaje o byʁo/	to work at the office	fr-en
+un collègue de bureau<br>/œ̃ kɔlɛɡ də byʁo/	a colleague at work	fr-en
+le chef de bureau<br>/lə ʃɛf də byʁo/	the office manager	fr-en
+les heures de bureau<br>/lez‿œʁ də byʁo/	office hours	fr-en
+le télétravail, en télétravail<br>/lə teletʁavaj, ɑ̃ teletʁavaj/	working from home	fr-en
+le bureau de poste<br>/lə byʁo də pɔst/	the post office	fr-en
+le bureau de tabac<br>/lə byʁo də taba/	the tobacconist	fr-en
+le bureau de vote<br>/lə byʁo də vɔt/	the polling station	fr-en
+le bureau des objets trouvés<br>/lə byʁo dez‿ɔbʒɛ tʁuve/	the lost property office	fr-en
+le bureau de change<br>/lə byʁo də ʃɑ̃ʒ/	the bureau de change	fr-en
+le bureau – le bourreau<br>/lə byʁo/ · /lə buʁo/	the desk – the executioner: /y/ against /u/	fr-en
+le bureau – la bure<br>/lə byʁo/ · /la byʁ/	the desk – the coarse cloth it is named after	fr-en
+Il y a un bureau et une chaise dans ma chambre.<br>/il j a œ̃ byʁo e yn ʃɛz dɑ̃ ma ʃɑ̃bʁ/	There is a desk and a chair in my bedroom.	fr-en
+Mon ordinateur est sur le bureau.<br>/mɔ̃n‿ɔʁdinatœʁ ɛ syʁ lə byʁo/	My computer is on the desk.	fr-en
+Je vais au bureau à huit heures.<br>/ʒə vɛ o byʁo a ɥit œʁ/	I go to the office at eight.	fr-en
+Mon père travaille dans un bureau.<br>/mɔ̃ pɛʁ tʁavaj dɑ̃z‿œ̃ byʁo/	My father works in an office.	fr-en
+Elle est en télétravail le vendredi.<br>/ɛl ɛt‿ɑ̃ teletʁavaj lə vɑ̃dʁədi/	She works from home on Fridays.	fr-en
+Les cahiers sont dans le tiroir du bureau.<br>/le kaje sɔ̃ dɑ̃ lə tiʁwaʁ dy byʁo/	The notebooks are in the desk drawer.	fr-en
+Où est le bureau de poste ?<br>/u ɛ lə byʁo də pɔst/	Where is the post office?	fr-en
+J'achète des timbres au bureau de tabac.<br>/ʒaʃɛt de tɛ̃bʁ o byʁo də taba/	I buy stamps at the tobacconist's.	fr-en
+Il range son bureau le vendredi soir.<br>/il ʁɑ̃ʒ sɔ̃ byʁo lə vɑ̃dʁədi swaʁ/	He tidies his desk on Friday evenings.	fr-en
+Nous avons deux bureaux dans la maison.<br>/nuz‿avɔ̃ dø byʁo dɑ̃ la mɛzɔ̃/	We have two desks in the house.	fr-en
+Je vais ________ bureau.<br>(AI exercise: au, sur le, dans le …?)	/ʒə vɛ [o] byʁo/<br>I am going to the office.	exercise
+Mes livres sont ________ bureau.<br>(AI exercise: au, sur le, dans le …?)	/me livʁ sɔ̃ [syʁ lə] byʁo/<br>My books are on the desk.	exercise
+Les stylos sont ________ tiroir.<br>(AI exercise: au, sur le, dans le …?)	/le stilo sɔ̃ [dɑ̃ lə] tiʁwaʁ/<br>The pens are in the drawer.	exercise
+Il travaille ________ bureau de poste.<br>(AI exercise: au, sur le, dans le …?)	/il tʁavaj [o] byʁo də pɔst/<br>He works at the post office.	exercise
+un bureau → ________<br>(AI exercise: the plural, with its article)	/[de byʁo]/<br>desks	exercise
+un cadeau → ________<br>(AI exercise: the plural, with its article)	/[de kado]/<br>presents	exercise
+un jeu → ________<br>(AI exercise: the plural, with its article)	/[de ʒø]/<br>games	exercise
+un oiseau → ________<br>(AI exercise: the plural, with its article)	/[dez‿wazo]/<br>birds	exercise

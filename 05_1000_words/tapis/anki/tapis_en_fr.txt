@@ -1,0 +1,48 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::un tapis — a carpet, a rug
+#tags:french 1000words tapis en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(n.m.) carpet, rug	un tapis<br>/œ̃ tapi/	en-fr
+There is a rug in front of the sofa.	Il y a un tapis devant le canapé.<br>/il j a œ̃ tapi dəvɑ̃ lə kanape/	en-fr
+the floor, the ground	le sol<br>/lə sɔl/	en-fr
+the wooden floor	le plancher, le parquet<br>/lə plɑ̃ʃe, lə paʁkɛ/	en-fr
+the tiled floor	le carrelage<br>/lə kaʁlaʒ/	en-fr
+the fitted carpet	la moquette<br>/la mɔkɛt/	en-fr
+a rug, rugs	un tapis, des tapis<br>/œ̃ tapi, de tapi/	en-fr
+the doormat	le paillasson<br>/lə pajasɔ̃/	en-fr
+a bath mat	un tapis de bain<br>/œ̃ tapi də bɛ̃/	en-fr
+a mouse mat	un tapis de souris<br>/œ̃ tapi də suʁi/	en-fr
+a yoga mat	un tapis de yoga<br>/œ̃ tapi də jɔɡa/	en-fr
+a ground sheet, a floor mat	un tapis de sol<br>/œ̃ tapi də sɔl/	en-fr
+a treadmill; a conveyor belt; a moving walkway	un tapis roulant<br>/œ̃ tapi ʁulɑ̃/	en-fr
+a flying carpet	un tapis volant<br>/œ̃ tapi vɔlɑ̃/	en-fr
+a Persian rug	un tapis persan<br>/œ̃ tapi pɛʁsɑ̃/	en-fr
+the red carpet	le tapis rouge<br>/lə tapi ʁuʒ/	en-fr
+a son, sons	un fils, des fils<br>/œ̃ fis, de fis/	en-fr
+an arm, arms	un bras, des bras<br>/œ̃ bʁa, de bʁa/	en-fr
+a price, prices	un prix, des prix<br>/œ̃ pʁi, de pʁi/	en-fr
+a voice, voices	une voix, des voix<br>/yn vwa, de vwa/	en-fr
+a nose, noses	un nez, des nez<br>/œ̃ ne, de ne/	en-fr
+to bring a question up	mettre une question sur le tapis<br>/mɛtʁ yn kɛstjɔ̃ syʁ lə tapi/	en-fr
+to roll out the red carpet	dérouler le tapis rouge<br>/deʁule lə tapi ʁuʒ/	en-fr
+to floor someone, in boxing	envoyer quelqu'un au tapis<br>/ɑ̃vwaje kɛlkœ̃ o tapi/	en-fr
+to vacuum the rug	passer l'aspirateur sur le tapis<br>/pase laspiʁatœʁ syʁ lə tapi/	en-fr
+to shake the rug	secouer le tapis<br>/səkwe lə tapi/	en-fr
+a stain on the rug	une tache sur le tapis<br>/yn taʃ syʁ lə tapi/	en-fr
+to wipe one's feet on the doormat	essuyer ses pieds sur le paillasson<br>/esɥije se pje syʁ lə pajasɔ̃/	en-fr
+the rug – the tapir: the r is said	le tapis – le tapir<br>/lə tapi/ · /lə tapiʁ/	en-fr
+the rug – he types, he hits	le tapis – il tape<br>/lə tapi/ · /il tap/	en-fr
+the rug – the taxi	le tapis – le taxi<br>/lə tapi/ · /lə taksi/	en-fr
+There is a big rug in the living room.	Il y a un grand tapis dans le salon.<br>/il j a œ̃ ɡʁɑ̃ tapi dɑ̃ lə salɔ̃/	en-fr
+The cat is sleeping on the rug.	Le chat dort sur le tapis.<br>/lə ʃa dɔʁ syʁ lə tapi/	en-fr
+This rug comes from Turkey.	Ce tapis vient de Turquie.<br>/sə tapi vjɛ̃ də tyʁki/	en-fr
+The children are playing on the rug.	Les enfants jouent sur le tapis.<br>/lez‿ɑ̃fɑ̃ ʒu syʁ lə tapi/	en-fr
+I have to vacuum the rug.	Je dois passer l'aspirateur sur le tapis.<br>/ʒə dwa pase laspiʁatœʁ syʁ lə tapi/	en-fr
+There is a coffee stain on the rug.	Il y a une tache de café sur le tapis.<br>/il j a yn taʃ də kafe syʁ lə tapi/	en-fr
+We want to buy a rug for the bedroom.	Nous voulons acheter un tapis pour la chambre.<br>/nu vulɔ̃ aʃte œ̃ tapi puʁ la ʃɑ̃bʁ/	en-fr
+My mother is shaking the rug out of the window.	Ma mère secoue le tapis par la fenêtre.<br>/ma mɛʁ səku lə tapi paʁ la fənɛtʁ/	en-fr
+He runs on the treadmill every morning.	Il court sur le tapis roulant tous les matins.<br>/il kuʁ syʁ lə tapi ʁulɑ̃ tu le matɛ̃/	en-fr
+Wipe your feet on the doormat!	Essuie tes pieds sur le paillasson !<br>/esɥi te pje syʁ lə pajasɔ̃/	en-fr

@@ -66,6 +66,57 @@ Je vais bien.<br>/ʒə vɛ bjɛ̃/	I am well: aller, because it is health.	frenc
 Je suis à Paris.<br>/ʒə sɥi a paʁi/	I am in Paris: être, because it is a place.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
 Ça va mieux ?<br>/sa va mjø/	Is it going better: aller.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
 Vous êtes prêts ?<br>/vuz‿ɛt pʁɛ/	Are you ready: être.	french 1000words aller fr-en	French::1000 words (FR-EN)::aller — to go; to be (feeling)
+une armoire<br>/yn aʁmwaʁ/	(n.f.) wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Mes vêtements sont dans l'armoire.<br>/me vɛtmɑ̃ sɔ̃ dɑ̃ laʁmwaʁ/	My clothes are in the wardrobe.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+je range, tu ranges, il range<br>/ʒə ʁɑ̃ʒ, ty ʁɑ̃ʒ, il ʁɑ̃ʒ/	I tidy, you tidy, he tidies	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+nous rangeons, vous rangez, ils rangent<br>/nu ʁɑ̃ʒɔ̃, vu ʁɑ̃ʒe, il ʁɑ̃ʒ/	we tidy, you tidy, they tidy	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+j'ai rangé<br>/ʒe ʁɑ̃ʒe/	I tidied, I have put away	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+range ! rangez !<br>/ʁɑ̃ʒ, ʁɑ̃ʒe/	tidy up!	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+l'armoire<br>/laʁmwaʁ/	the wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+les armoires, des armoires<br>/lez‿aʁmwaʁ, dez‿aʁmwaʁ/	the wardrobes, wardrobes	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+mon armoire, ton armoire, son armoire<br>/mɔ̃n‿aʁmwaʁ, tɔ̃n‿aʁmwaʁ, sɔ̃n‿aʁmwaʁ/	my, your, his or her wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+cette armoire<br>/sɛt aʁmwaʁ/	this wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une grande armoire, une vieille armoire<br>/yn ɡʁɑ̃d aʁmwaʁ, yn vjɛj aʁmwaʁ/	a big wardrobe, an old wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+les vêtements<br>/le vɛtmɑ̃/	the clothes	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+un cintre, des cintres<br>/œ̃ sɛ̃tʁ, de sɛ̃tʁ/	a coat hanger, coat hangers	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une étagère<br>/yn etaʒɛʁ/	a shelf	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+un tiroir<br>/œ̃ tiʁwaʁ/	a drawer	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une robe, une chemise, un pantalon<br>/yn ʁɔb, yn ʃəmiz, œ̃ pɑ̃talɔ̃/	a dress, a shirt, trousers	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+un pull, un manteau<br>/œ̃ pyl, œ̃ mɑ̃to/	a jumper, a coat	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+des chaussures<br>/de ʃosyʁ/	shoes	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une armoire<br>/yn aʁmwaʁ/ (2)	a wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+un placard, un placard de cuisine<br>/œ̃ plakaʁ, œ̃ plakaʁ də kɥizin/	a built-in cupboard, a kitchen cupboard	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une commode<br>/yn kɔmɔd/	a chest of drawers	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+un buffet<br>/œ̃ byfɛ/	a sideboard	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une bibliothèque<br>/yn biblijɔtɛk/	a bookcase; a library	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une armoire à pharmacie<br>/yn aʁmwaʁ a faʁmasi/	a medicine cabinet	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+une armoire à glace<br>/yn aʁmwaʁ a ɡlas/	a mirrored wardrobe; a hulk of a man	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+ranger ses vêtements dans l'armoire<br>/ʁɑ̃ʒe se vɛtmɑ̃ dɑ̃ laʁmwaʁ/	to put one's clothes away in the wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+accrocher une chemise sur un cintre<br>/akʁɔʃe yn ʃəmiz syʁ œ̃ sɛ̃tʁ/	to hang a shirt on a hanger	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+plier un pull<br>/plije œ̃ pyl/	to fold a jumper	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+sortir un manteau de l'armoire<br>/sɔʁtiʁ œ̃ mɑ̃to də laʁmwaʁ/	to take a coat out of the wardrobe	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+L'armoire est pleine.<br>/laʁmwaʁ ɛ plɛn/	The wardrobe is full.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Range ta chambre !<br>/ʁɑ̃ʒ ta ʃɑ̃bʁ/	Tidy your room!	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+l'armoire, moi, trois, la voiture, le tiroir<br>/laʁmwaʁ, mwa, tʁwa, la vwatyʁ, lə tiʁwaʁ/	the wardrobe, me, three, the car, the drawer	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Il y a une grande armoire dans ma chambre.<br>/il j a yn ɡʁɑ̃d aʁmwaʁ dɑ̃ ma ʃɑ̃bʁ/	There is a big wardrobe in my bedroom.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Je range mes vêtements dans l'armoire.<br>/ʒə ʁɑ̃ʒ me vɛtmɑ̃ dɑ̃ laʁmwaʁ/	I put my clothes away in the wardrobe.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Mon manteau est dans l'armoire de l'entrée.<br>/mɔ̃ mɑ̃to ɛ dɑ̃ laʁmwaʁ də lɑ̃tʁe/	My coat is in the hall wardrobe.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Cette armoire est trop grande pour la chambre.<br>/sɛt aʁmwaʁ ɛ tʁo ɡʁɑ̃d puʁ la ʃɑ̃bʁ/	This wardrobe is too big for the bedroom.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Les enfants rangent leurs jouets dans le placard.<br>/lez‿ɑ̃fɑ̃ ʁɑ̃ʒ lœʁ ʒwɛ dɑ̃ lə plakaʁ/	The children put their toys away in the cupboard.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Ma mère a acheté une vieille armoire.<br>/ma mɛʁ a aʃte yn vjɛj aʁmwaʁ/	My mother bought an old wardrobe.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Il n'y a plus de place dans l'armoire.<br>/il nj a ply də plas dɑ̃ laʁmwaʁ/	There is no room left in the wardrobe.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Sors un pull de l'armoire, il fait froid.<br>/sɔʁ œ̃ pyl də laʁmwaʁ, il fɛ fʁwa/	Take a jumper out of the wardrobe, it is cold.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Nous rangeons la maison le samedi.<br>/nu ʁɑ̃ʒɔ̃ la mɛzɔ̃ lə samdi/	We tidy the house on Saturdays.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+Les médicaments sont dans l'armoire à pharmacie.<br>/le medikamɑ̃ sɔ̃ dɑ̃ laʁmwaʁ a faʁmasi/	The medicines are in the medicine cabinet.	french 1000words armoire fr-en	French::1000 words (FR-EN)::une armoire — a wardrobe
+________ armoire est pleine.<br>(AI exercise: ma, mon, l', les …?)	/[mɔ̃n]‿aʁmwaʁ ɛ plɛn/<br>My wardrobe is full.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+________ armoires de la maison sont vieilles.<br>(AI exercise: ma, mon, l', les …?)	/[lez]‿aʁmwaʁ də la mɛzɔ̃ sɔ̃ vjɛj/<br>The wardrobes in the house are old.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+Le pull est dans ________ armoire.<br>(AI exercise: ma, mon, l', les …?)	/lə pyl ɛ dɑ̃ [laʁmwaʁ]/<br>The jumper is in the wardrobe.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+Je ________ ma chambre.<br>(AI exercise: ranger, in the right form)	/ʒə [ʁɑ̃ʒ] ma ʃɑ̃bʁ/<br>I am tidying my room.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+Nous ________ les vêtements.<br>(AI exercise: ranger, in the right form)	/nu [ʁɑ̃ʒɔ̃] le vɛtmɑ̃/<br>We are putting the clothes away.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+________ tes jouets !<br>(AI exercise: ranger, in the right form)	/[ʁɑ̃ʒ] te ʒwɛ/<br>Put your toys away! (to a child)	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+Les assiettes sont dans le ________ de la cuisine.<br>(AI exercise: armoire, placard or commode?)	/lez‿asjɛt sɔ̃ dɑ̃ lə [plakaʁ] də la kɥizin/<br>The plates are in the kitchen cupboard.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+Les chaussettes sont dans la ________.<br>(AI exercise: armoire, placard or commode?)	/le ʃosɛt sɔ̃ dɑ̃ la [kɔmɔd]/<br>The socks are in the chest of drawers.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
+Les robes sont dans l'________.<br>(AI exercise: armoire, placard or commode?)	/le ʁɔb sɔ̃ dɑ̃ l[aʁmwaʁ]/<br>The dresses are in the wardrobe.	french 1000words armoire fr-en exercise	French::1000 words (FR-EN)::une armoire — a wardrobe
 avoir<br>/avwaʁ/	(v.) to have, to own; to have done (the auxiliary)	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
 ont<br>/ɔ̃/	(they) have: the ils form, irregular	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
 ayez<br>/ɛje/	have! (to several people); (that you) have: the imperative and the subjunctive, irregular	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
@@ -136,6 +187,53 @@ Ils ont faim.<br>/ilz‿ɔ̃ fɛ̃/	They are hungry: avoir, with the /z/.	french
 Ils sont fatigués.<br>/il sɔ̃ fatiɡe/	They are tired: être, no /z/.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
 Ils ont vingt ans.<br>/ilz‿ɔ̃ vɛ̃t‿ɑ̃/	They are twenty: avoir.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
 Ils sont à Paris.<br>/il sɔ̃ a paʁi/	They are in Paris: être.	french 1000words avoir fr-en	French::1000 words (FR-EN)::avoir — to have; to have done
+un bureau<br>/œ̃ byʁo/	(n.m.) desk; office	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+Sur mon bureau, il y a mes livres et mes cahiers.<br>/syʁ mɔ̃ byʁo, il j a me livʁ e me kaje/	On my desk there are my books and my notebooks.	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+un bureau, des bureaux<br>/œ̃ byʁo, de byʁo/	a desk, desks	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+un château, des châteaux<br>/œ̃ ʃɑto, de ʃɑto/	a castle, castles	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+un cadeau, des cadeaux<br>/œ̃ kado, de kado/	a present, presents	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+un gâteau, des gâteaux<br>/œ̃ ɡɑto, de ɡɑto/	a cake, cakes	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+un oiseau, des oiseaux<br>/œ̃n‿wazo, dez‿wazo/	a bird, birds	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+un jeu, des jeux<br>/œ̃ ʒø, de ʒø/	a game, games	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+une lampe de bureau<br>/yn lɑ̃p də byʁo/	a desk lamp	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+une chaise de bureau<br>/yn ʃɛz də byʁo/	an office chair	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+le tiroir, les tiroirs<br>/lə tiʁwaʁ, le tiʁwaʁ/	the drawer, the drawers	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+l'ordinateur, le clavier, l'écran<br>/lɔʁdinatœʁ, lə klavje, lekʁɑ̃/	the computer, the keyboard, the screen	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+le stylo, le cahier, le livre<br>/lə stilo, lə kaje, lə livʁ/	the pen, the notebook, the book	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+les papiers<br>/le papje/	the papers	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+la corbeille<br>/la kɔʁbɛj/	the waste-paper basket	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+aller au bureau<br>/ale o byʁo/	to go to the office	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+être au bureau<br>/ɛtʁ o byʁo/	to be at the office	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+travailler au bureau<br>/tʁavaje o byʁo/	to work at the office	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+un collègue de bureau<br>/œ̃ kɔlɛɡ də byʁo/	a colleague at work	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+le chef de bureau<br>/lə ʃɛf də byʁo/	the office manager	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+les heures de bureau<br>/lez‿œʁ də byʁo/	office hours	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+le télétravail, en télétravail<br>/lə teletʁavaj, ɑ̃ teletʁavaj/	working from home	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+le bureau de poste<br>/lə byʁo də pɔst/	the post office	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+le bureau de tabac<br>/lə byʁo də taba/	the tobacconist	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+le bureau de vote<br>/lə byʁo də vɔt/	the polling station	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+le bureau des objets trouvés<br>/lə byʁo dez‿ɔbʒɛ tʁuve/	the lost property office	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+le bureau de change<br>/lə byʁo də ʃɑ̃ʒ/	the bureau de change	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+le bureau – le bourreau<br>/lə byʁo/ · /lə buʁo/	the desk – the executioner: /y/ against /u/	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+le bureau – la bure<br>/lə byʁo/ · /la byʁ/	the desk – the coarse cloth it is named after	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+Il y a un bureau et une chaise dans ma chambre.<br>/il j a œ̃ byʁo e yn ʃɛz dɑ̃ ma ʃɑ̃bʁ/	There is a desk and a chair in my bedroom.	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+Mon ordinateur est sur le bureau.<br>/mɔ̃n‿ɔʁdinatœʁ ɛ syʁ lə byʁo/	My computer is on the desk.	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+Je vais au bureau à huit heures.<br>/ʒə vɛ o byʁo a ɥit œʁ/	I go to the office at eight.	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+Mon père travaille dans un bureau.<br>/mɔ̃ pɛʁ tʁavaj dɑ̃z‿œ̃ byʁo/	My father works in an office.	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+Elle est en télétravail le vendredi.<br>/ɛl ɛt‿ɑ̃ teletʁavaj lə vɑ̃dʁədi/	She works from home on Fridays.	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+Les cahiers sont dans le tiroir du bureau.<br>/le kaje sɔ̃ dɑ̃ lə tiʁwaʁ dy byʁo/	The notebooks are in the desk drawer.	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+Où est le bureau de poste ?<br>/u ɛ lə byʁo də pɔst/	Where is the post office?	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+J'achète des timbres au bureau de tabac.<br>/ʒaʃɛt de tɛ̃bʁ o byʁo də taba/	I buy stamps at the tobacconist's.	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+Il range son bureau le vendredi soir.<br>/il ʁɑ̃ʒ sɔ̃ byʁo lə vɑ̃dʁədi swaʁ/	He tidies his desk on Friday evenings.	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+Nous avons deux bureaux dans la maison.<br>/nuz‿avɔ̃ dø byʁo dɑ̃ la mɛzɔ̃/	We have two desks in the house.	french 1000words bureau fr-en	French::1000 words (FR-EN)::un bureau — a desk, an office
+Je vais ________ bureau.<br>(AI exercise: au, sur le, dans le …?)	/ʒə vɛ [o] byʁo/<br>I am going to the office.	french 1000words bureau fr-en exercise	French::1000 words (FR-EN)::un bureau — a desk, an office
+Mes livres sont ________ bureau.<br>(AI exercise: au, sur le, dans le …?)	/me livʁ sɔ̃ [syʁ lə] byʁo/<br>My books are on the desk.	french 1000words bureau fr-en exercise	French::1000 words (FR-EN)::un bureau — a desk, an office
+Les stylos sont ________ tiroir.<br>(AI exercise: au, sur le, dans le …?)	/le stilo sɔ̃ [dɑ̃ lə] tiʁwaʁ/<br>The pens are in the drawer.	french 1000words bureau fr-en exercise	French::1000 words (FR-EN)::un bureau — a desk, an office
+Il travaille ________ bureau de poste.<br>(AI exercise: au, sur le, dans le …?)	/il tʁavaj [o] byʁo də pɔst/<br>He works at the post office.	french 1000words bureau fr-en exercise	French::1000 words (FR-EN)::un bureau — a desk, an office
+un bureau → ________<br>(AI exercise: the plural, with its article)	/[de byʁo]/<br>desks	french 1000words bureau fr-en exercise	French::1000 words (FR-EN)::un bureau — a desk, an office
+un cadeau → ________<br>(AI exercise: the plural, with its article)	/[de kado]/<br>presents	french 1000words bureau fr-en exercise	French::1000 words (FR-EN)::un bureau — a desk, an office
+un jeu → ________<br>(AI exercise: the plural, with its article)	/[de ʒø]/<br>games	french 1000words bureau fr-en exercise	French::1000 words (FR-EN)::un bureau — a desk, an office
+un oiseau → ________<br>(AI exercise: the plural, with its article)	/[dez‿wazo]/<br>birds	french 1000words bureau fr-en exercise	French::1000 words (FR-EN)::un bureau — a desk, an office
 une chaise<br>/yn ʃɛz/	(n.f.) chair	french 1000words chaise fr-en	French::1000 words (FR-EN)::une chaise — a chair
 Il y a quatre chaises autour de la table.<br>/il j a katʁ ʃɛz otuʁ də la tabl/	There are four chairs around the table.	french 1000words chaise fr-en	French::1000 words (FR-EN)::une chaise — a chair
 je m'assieds<br>/ʒə masje/	I sit down	french 1000words chaise fr-en	French::1000 words (FR-EN)::une chaise — a chair
@@ -358,6 +456,125 @@ Je ________ fatigué.<br>(AI exercise: être or avoir?)	/ʒə [sɥi] fatiɡe/<br
 Il ________ vingt ans.<br>(AI exercise: être or avoir?)	/il [a] vɛ̃t‿ɑ̃/<br>He is twenty.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
 Elle ________ médecin.<br>(AI exercise: être or avoir?)	/ɛl [ɛ] medsɛ̃/<br>She is a doctor.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
 Nous ________ froid.<br>(AI exercise: être or avoir?)	/nuz‿[avɔ̃] fʁwa/<br>We are cold.	french 1000words etre fr-en exercise	French::1000 words (FR-EN)::être — to be; a being
+une fenêtre<br>/yn fənɛtʁ/	(n.f.) window	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+La fenêtre de ma chambre donne sur le jardin.<br>/la fənɛtʁ də ma ʃɑ̃bʁ dɔn syʁ lə ʒaʁdɛ̃/	My bedroom window looks onto the garden.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+j'ouvre, tu ouvres, il ouvre<br>/ʒuvʁ, ty uvʁ, il uvʁ/	I open, you open, he opens	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+nous ouvrons, vous ouvrez, ils ouvrent<br>/nuz‿uvʁɔ̃, vuz‿uvʁe, ilz‿uvʁ/	we open, you open, they open	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+ouvert, ouverte<br>/uvɛʁ, uvɛʁt/	open, opened (masculine, feminine)	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+ouvre ! ouvrez !<br>/uvʁ, uvʁe/	open!	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+je ferme, tu fermes, il ferme<br>/ʒə fɛʁm, ty fɛʁm, il fɛʁm/	I close, you close, he closes	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+nous fermons, vous fermez, ils ferment<br>/nu fɛʁmɔ̃, vu fɛʁme, il fɛʁm/	we close, you close, they close	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+fermé, fermée<br>/fɛʁme/	closed	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+ferme ! fermez !<br>/fɛʁm, fɛʁme/	close!	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+la vitre, le carreau<br>/la vitʁ, lə kaʁo/	the pane	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+le volet, les volets<br>/lə vɔlɛ, le vɔlɛ/	the shutter, the shutters	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+le rideau, les rideaux<br>/lə ʁido, le ʁido/	the curtain, the curtains	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+le store<br>/lə stɔʁ/	the blind	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+le rebord de la fenêtre<br>/lə ʁəbɔʁ də la fənɛtʁ/	the window sill	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+la porte-fenêtre<br>/la pɔʁtfənɛtʁ/	the French window	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+la vitrine<br>/la vitʁin/	the shop window	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+le hublot<br>/lə yblo/	the window of a plane or a ship	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+ouvrir la fenêtre, fermer la fenêtre<br>/uvʁiʁ la fənɛtʁ, fɛʁme la fənɛtʁ/	to open the window, to close the window	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+regarder par la fenêtre<br>/ʁəɡaʁde paʁ la fənɛtʁ/	to look out of the window	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+donner sur le jardin, donner sur la rue<br>/dɔne syʁ lə ʒaʁdɛ̃, dɔne syʁ la ʁy/	to look onto the garden, onto the street	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+une place côté fenêtre, côté couloir<br>/yn plas kote fənɛtʁ, kote kulwaʁ/	a window seat, an aisle seat	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+jeter l'argent par les fenêtres<br>/ʒəte laʁʒɑ̃ paʁ le fənɛtʁ/	to throw money away	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+un courant d'air<br>/œ̃ kuʁɑ̃ dɛʁ/	a draught	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+aérer la pièce<br>/aeʁe la pjɛs/	to air the room	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+ouvrir une nouvelle fenêtre<br>/uvʁiʁ yn nuvɛl fənɛtʁ/	to open a new window, on a screen	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+la fenêtre, être, quatre, notre, votre<br>/la fənɛtʁ, ɛtʁ, katʁ, nɔtʁ, vɔtʁ/	the window, to be, four, our, your	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+la fenêtre – la fête – la tête – la forêt<br>/la fənɛtʁ/ · /la fɛt/ · /la tɛt/ · /la fɔʁɛ/	the window, the party, the head, the forest: the circumflex that remembers an s	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Ferme la fenêtre, il fait froid.<br>/fɛʁm la fənɛtʁ, il fɛ fʁwa/	Close the window, it is cold.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Ma chambre a deux fenêtres.<br>/ma ʃɑ̃bʁ a dø fənɛtʁ/	My bedroom has two windows.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+La fenêtre de la cuisine donne sur la rue.<br>/la fənɛtʁ də la kɥizin dɔn syʁ la ʁy/	The kitchen window looks onto the street.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Le chat regarde par la fenêtre.<br>/lə ʃa ʁəɡaʁd paʁ la fənɛtʁ/	The cat is looking out of the window.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Les fenêtres sont ouvertes parce qu'il fait chaud.<br>/le fənɛtʁ sɔ̃t‿uvɛʁt paʁs kil fɛ ʃo/	The windows are open because it is hot.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Je voudrais une place côté fenêtre.<br>/ʒə vudʁɛ yn plas kote fənɛtʁ/	I would like a window seat.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Il y a une chaise près de la fenêtre.<br>/il j a yn ʃɛz pʁɛ də la fənɛtʁ/	There is a chair by the window.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Ma mère ouvre les volets le matin.<br>/ma mɛʁ uvʁ le vɔlɛ lə matɛ̃/	My mother opens the shutters in the morning.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Qui a cassé la vitre ?<br>/ki a kase la vitʁ/	Who broke the pane?	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Nous devons laver les fenêtres.<br>/nu dəvɔ̃ lave le fənɛtʁ/	We have to wash the windows.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Il fait chaud : ________ la fenêtre !<br>(AI exercise: ouvrir or fermer, in the right form)	/il fɛ ʃo : [uvʁ] la fənɛtʁ/<br>It is hot: open the window!	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+Il fait froid : ________ la fenêtre !<br>(AI exercise: ouvrir or fermer, in the right form)	/il fɛ fʁwa : [fɛʁm] la fənɛtʁ/<br>It is cold: close the window!	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+La fenêtre est ________.<br>(AI exercise: ouvrir or fermer, in the right form)	/la fənɛtʁ ɛ(t)‿[uvɛʁt]/<br>The window is open.	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+Nous ________ les volets le soir.<br>(AI exercise: ouvrir or fermer, in the right form)	/nu [fɛʁmɔ̃] le vɔlɛ lə swaʁ/<br>We close the shutters in the evening.	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+Il regarde ________ la fenêtre.<br>(AI exercise: par, sur or de?)	/il ʁəɡaʁd [paʁ] la fənɛtʁ/<br>He is looking out of the window.	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+La fenêtre donne ________ le jardin.<br>(AI exercise: par, sur or de?)	/la fənɛtʁ dɔn [syʁ] lə ʒaʁdɛ̃/<br>The window looks onto the garden.	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+La fenêtre ________ la cuisine est petite.<br>(AI exercise: par, sur or de?)	/la fənɛtʁ [də] la kɥizin ɛ pətit/<br>The kitchen window is small.	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+________ fenêtre<br>(AI exercise: un or une?)	/[yn] fənɛtʁ/<br>a window	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+________ rideau<br>(AI exercise: un or une?)	/[œ̃] ʁido/<br>a curtain	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+________ volet<br>(AI exercise: un or une?)	/[œ̃] vɔlɛ/<br>a shutter	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+________ vitre<br>(AI exercise: un or une?)	/[yn] vitʁ/<br>a pane	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+un lit<br>/œ̃ li/	(n.m.) bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+Je vais au lit à dix heures.<br>/ʒə vɛ o li a diz‿œʁ/	I go to bed at ten o'clock.	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+je me couche<br>/ʒə mə kuʃ/	I go to bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+tu te couches<br>/ty tə kuʃ/	you go to bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+il se couche, elle se couche<br>/il sə kuʃ, ɛl sə kuʃ/	he goes to bed, she goes to bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+nous nous couchons<br>/nu nu kuʃɔ̃/	we go to bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+vous vous couchez<br>/vu vu kuʃe/	you go to bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+ils se couchent, elles se couchent<br>/il sə kuʃ, ɛl sə kuʃ/	they go to bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+je me suis couché, elle s'est couchée<br>/ʒə mə sɥi kuʃe, ɛl sɛ kuʃe/	I went to bed, she went to bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+couche-toi ! couchez-vous !<br>/kuʃtwa, kuʃevu/	go to bed!	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+je lis, tu lis, il lit<br>/ʒə li, ty li, il li/	I read, you read, he reads	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+nous lisons, vous lisez, ils lisent<br>/nu lizɔ̃, vu lize, il liz/	we read, you read, they read	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+j'ai lu<br>/ʒe ly/	I read, I have read	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+aller au lit<br>/ale o li/	to go to bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+être au lit<br>/ɛtʁ o li/	to be in bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+se mettre au lit<br>/sə mɛtʁ o li/	to get into bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+rester au lit<br>/ʁɛste o li/	to stay in bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+garder le lit<br>/ɡaʁde lə li/	to stay in bed, ill	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+sortir du lit<br>/sɔʁtiʁ dy li/	to get out of bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+faire son lit<br>/fɛʁ sɔ̃ li/	to make one's bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+un lit défait<br>/œ̃ li defɛ/	an unmade bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+au saut du lit<br>/o so dy li/	on getting up, first thing	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+Au lit !<br>/o li/	Bed time!	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+un grand lit, un lit double<br>/œ̃ ɡʁɑ̃ li, œ̃ li dubl/	a double bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+un lit simple, un lit d'une personne<br>/œ̃ li sɛ̃pl, œ̃ li dyn pɛʁsɔn/	a single bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+des lits jumeaux<br>/de li ʒymo/	twin beds	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+des lits superposés<br>/de li sypɛʁpoze/	bunk beds	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+un lit d'enfant<br>/œ̃ li dɑ̃fɑ̃/	a cot	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+un canapé-lit<br>/œ̃ kanapeli/	a sofa bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+un lit de camp<br>/œ̃ li də kɑ̃/	a camp bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+une chambre à deux lits<br>/yn ʃɑ̃bʁ a dø li/	a twin room	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+une chambre avec un grand lit<br>/yn ʃɑ̃bʁ avɛk œ̃ ɡʁɑ̃ li/	a double room	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+un drap, des draps<br>/œ̃ dʁa, de dʁa/	a sheet, sheets	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+une couverture<br>/yn kuvɛʁtyʁ/	a blanket	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+une couette<br>/yn kwɛt/	a duvet	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+un oreiller, une taie d'oreiller<br>/œ̃n‿ɔʁeje, yn tɛ dɔʁeje/	a pillow, a pillowcase	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+un matelas<br>/œ̃ matla/	a mattress	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+la literie<br>/la litʁi/	the bedding	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+la table de nuit, la table de chevet<br>/la tabl də nɥi, la tabl də ʃəvɛ/	the bedside table	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+Comme on fait son lit, on se couche.<br>/kɔm ɔ̃ fɛ sɔ̃ li, ɔ̃ sə kuʃ/	You have made your bed, now lie in it.	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+le lit de la rivière<br>/lə li də la ʁivjɛʁ/	the river bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+un enfant du premier lit<br>/œ̃n‿ɑ̃fɑ̃ dy pʁəmje li/	a child of the first marriage	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+mourir dans son lit<br>/muʁiʁ dɑ̃ sɔ̃ li/	to die in one's bed	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+le lit – il lit – la lie<br>/lə li/ · /il li/ · /la li/	the bed – he reads – the dregs	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+le lit – le lis<br>/lə li/ · /lə lis/	the bed – the lily: the s is said	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+lit – lu<br>/li/ · /ly/	bed – read, the participle: /i/ against /y/	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+lit – lait<br>/li/ · /lɛ/	bed – milk	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+Dans ma chambre, il y a un grand lit.<br>/dɑ̃ ma ʃɑ̃bʁ, il j a œ̃ ɡʁɑ̃ li/	In my bedroom there is a double bed.	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+Les enfants sont déjà au lit.<br>/lez‿ɑ̃fɑ̃ sɔ̃ deʒa o li/	The children are already in bed.	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+Je dois faire mon lit tous les matins.<br>/ʒə dwa fɛʁ mɔ̃ li tu le matɛ̃/	I have to make my bed every morning.	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+Elle lit au lit avant de dormir.<br>/ɛl li o li avɑ̃ də dɔʁmiʁ/	She reads in bed before sleeping.	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+Il est malade, il garde le lit.<br>/il ɛ malad, il ɡaʁd lə li/	He is ill, he is staying in bed.	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+Nous voulons une chambre à deux lits.<br>/nu vulɔ̃ yn ʃɑ̃bʁ a dø li/	We want a twin room.	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+Le chat dort sur mon lit.<br>/lə ʃa dɔʁ syʁ mɔ̃ li/	The cat is sleeping on my bed.	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+Va au lit, il est tard !<br>/va o li, il ɛ taʁ/	Go to bed, it is late!	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+Je me couche à onze heures et je me lève à sept heures.<br>/ʒə mə kuʃ a ɔ̃z œʁ e ʒə mə lɛv a sɛt œʁ/	I go to bed at eleven and get up at seven.	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+Ce lit est trop petit pour deux personnes.<br>/sə li ɛ tʁo pəti puʁ dø pɛʁsɔn/	This bed is too small for two people.	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+Sa mère vient de sortir du lit.<br>/sa mɛʁ vjɛ̃ də sɔʁtiʁ dy li/	His mother has just got out of bed.	french 1000words lit fr-en	French::1000 words (FR-EN)::un lit — a bed
+Je vais ________ lit.<br>(AI exercise: au, du, sur le, sous le …?)	/ʒə vɛ [o] li/<br>I am going to bed.	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
+Il sort ________ lit.<br>(AI exercise: au, du, sur le, sous le …?)	/il sɔʁ [dy] li/<br>He is getting out of bed.	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
+Les enfants sont ________ lit.<br>(AI exercise: au, du, sur le, sous le …?)	/lez‿ɑ̃fɑ̃ sɔ̃ [o] li/<br>The children are in bed.	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
+Le chat dort ________ lit.<br>(AI exercise: au, du, sur le, sous le …?)	/lə ʃa dɔʁ [syʁ lə] li/<br>The cat is sleeping on the bed.	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
+Mes chaussures sont ________ lit.<br>(AI exercise: au, du, sur le, sous le …?)	/me ʃosyʁ sɔ̃ [su lə] li/<br>My shoes are under the bed.	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
+Elle ________ au lit.<br>(AI exercise: the bed or the verb?)	/ɛl [li] o li/<br>She reads in bed.	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
+Il y a un ________ dans la chambre.<br>(AI exercise: the bed or the verb?)	/il j a œ̃ [li] dɑ̃ la ʃɑ̃bʁ/<br>There is a bed in the bedroom.	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
+J'ai ________ ce livre au lit.<br>(AI exercise: the bed or the verb?)	/ʒe [ly] sə livʁ o li/<br>I read this book in bed. (past)	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
+________ drap<br>(AI exercise: un or une?)	/[œ̃] dʁa/<br>a sheet	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
+________ couverture<br>(AI exercise: un or une?)	/[yn] kuvɛʁtyʁ/<br>a blanket	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
+________ oreiller<br>(AI exercise: un or une?)	/[œ̃n]‿ɔʁeje/<br>a pillow	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
+________ matelas<br>(AI exercise: un or une?)	/[œ̃] matla/<br>a mattress	french 1000words lit fr-en exercise	French::1000 words (FR-EN)::un lit — a bed
 une mère<br>/yn mɛʁ/	(n.f.) mother	french 1000words mere fr-en	French::1000 words (FR-EN)::une mère — a mother
 Sa mère est française.<br>/sa mɛʁ ɛ fʁɑ̃sɛz/	His mother is French. Her mother is French.	french 1000words mere fr-en	French::1000 words (FR-EN)::une mère — a mother
 mon père, ma mère, mes parents<br>/mɔ̃ pɛʁ, ma mɛʁ, me paʁɑ̃/	my father, my mother, my parents	french 1000words mere fr-en	French::1000 words (FR-EN)::une mère — a mother
@@ -422,6 +639,60 @@ Il est français, elle est ________.<br>(AI exercise: the feminine of the nation
 Il est polonais, elle est ________.<br>(AI exercise: the feminine of the nationality)	/il ɛ pɔlɔnɛ, ɛl ɛ [pɔlɔnɛz]/<br>He is Polish, she is Polish.	french 1000words mere fr-en exercise	French::1000 words (FR-EN)::une mère — a mother
 Il est allemand, elle est ________.<br>(AI exercise: the feminine of the nationality)	/il ɛ almɑ̃, ɛl ɛ [almɑ̃d]/<br>He is German, she is German.	french 1000words mere fr-en exercise	French::1000 words (FR-EN)::une mère — a mother
 Il est italien, elle est ________.<br>(AI exercise: the feminine of the nationality)	/il ɛ italjɛ̃, ɛl ɛ [italjɛn]/<br>He is Italian, she is Italian.	french 1000words mere fr-en exercise	French::1000 words (FR-EN)::une mère — a mother
+une porte<br>/yn pɔʁt/	(n.f.) door	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+Ferme la porte, s'il te plaît.<br>/fɛʁm la pɔʁt, sil tə plɛ/	Close the door, please.	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+la porte d'entrée<br>/la pɔʁt dɑ̃tʁe/	the front door	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+la porte de derrière<br>/la pɔʁt də dɛʁjɛʁ/	the back door	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+la porte du garage<br>/la pɔʁt dy ɡaʁaʒ/	the garage door	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+la porte de la chambre<br>/la pɔʁt də la ʃɑ̃bʁ/	the bedroom door	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+le portail<br>/lə pɔʁtaj/	the gate	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+la porte-fenêtre<br>/la pɔʁtfənɛtʁ/	the French window	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+une porte coulissante<br>/yn pɔʁt kulisɑ̃t/	a sliding door	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+la poignée<br>/la pwaɲe/	the handle	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+la serrure<br>/la seʁyʁ/	the lock	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+la clé, les clés<br>/la kle, le kle/	the key, the keys	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+la sonnette<br>/la sɔnɛt/	the doorbell	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+le paillasson<br>/lə pajasɔ̃/	the doormat	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+frapper à la porte<br>/fʁape a la pɔʁt/	to knock on the door	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+sonner à la porte<br>/sɔne a la pɔʁt/	to ring the doorbell	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+ouvrir la porte<br>/uvʁiʁ la pɔʁt/	to open the door	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+fermer la porte<br>/fɛʁme la pɔʁt/	to close the door	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+fermer la porte à clé<br>/fɛʁme la pɔʁt a kle/	to lock the door	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+claquer la porte<br>/klake la pɔʁt/	to slam the door	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+laisser la porte ouverte<br>/lese la pɔʁt uvɛʁt/	to leave the door open	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+la porte est ouverte, fermée, entrouverte<br>/la pɔʁt ɛt‿uvɛʁt, fɛʁme, ɑ̃tʁuvɛʁt/	the door is open, closed, ajar	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+Qui est à la porte ?<br>/ki ɛ a la pɔʁt/	Who is at the door?	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+On frappe à la porte.<br>/ɔ̃ fʁap a la pɔʁt/	Someone is knocking at the door.	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+mettre quelqu'un à la porte<br>/mɛtʁ kɛlkœ̃ a la pɔʁt/	to throw someone out	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+C'est la porte à côté.<br>/sɛ la pɔʁt a kote/	It is right next door.	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+entre deux portes<br>/ɑ̃tʁ dø pɔʁt/	in passing, in a hurry	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+trouver porte close<br>/tʁuve pɔʁt kloz/	to find nobody in	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+la journée portes ouvertes<br>/la ʒuʁne pɔʁt uvɛʁt/	the open day	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+faire du porte-à-porte<br>/fɛʁ dy pɔʁtapɔʁt/	to go door to door	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+la porte d'embarquement<br>/la pɔʁt dɑ̃baʁkəmɑ̃/	the boarding gate	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+la porte de Versailles<br>/la pɔʁt də vɛʁsaj/	the Porte de Versailles, an old city gate of Paris	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+la porte – il porte<br>/la pɔʁt/ · /il pɔʁt/	the door – he carries, he wears	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+Elle porte un manteau.<br>/ɛl pɔʁt œ̃ mɑ̃to/	She is wearing a coat.	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+Il porte les valises.<br>/il pɔʁt le valiz/	He is carrying the suitcases.	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+la porte – le port – le pot<br>/la pɔʁt/ · /lə pɔʁ/ · /lə po/	the door – the port – the pot: /ɔ/ before a consonant, /o/ with nothing after	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+Ferme la porte, il fait froid.<br>/fɛʁm la pɔʁt, il fɛ fʁwa/	Close the door, it is cold.	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+Quelqu'un frappe à la porte.<br>/kɛlkœ̃ fʁap a la pɔʁt/	Someone is knocking at the door.	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+La porte de ma chambre est fermée.<br>/la pɔʁt də ma ʃɑ̃bʁ ɛ fɛʁme/	My bedroom door is closed.	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+Je ne trouve pas la clé de la porte d'entrée.<br>/ʒə nə tʁuv pa la kle də la pɔʁt dɑ̃tʁe/	I cannot find the key to the front door.	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+Le chat attend devant la porte.<br>/lə ʃa atɑ̃ dəvɑ̃ la pɔʁt/	The cat is waiting in front of the door.	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+Il a claqué la porte et il est parti.<br>/il a klake la pɔʁt e il ɛ paʁti/	He slammed the door and left.	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+La boulangerie, c'est la porte à côté.<br>/la bulɑ̃ʒʁi, sɛ la pɔʁt a kote/	The bakery is right next door.	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+N'oublie pas de fermer la porte à clé.<br>/nubli pa də fɛʁme la pɔʁt a kle/	Do not forget to lock the door.	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+Notre vol part de la porte douze.<br>/nɔtʁ vɔl paʁ də la pɔʁt duz/	Our flight leaves from gate twelve.	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+Ma mère porte un sac et ouvre la porte.<br>/ma mɛʁ pɔʁt œ̃ sak e uvʁ la pɔʁt/	My mother is carrying a bag and opening the door.	french 1000words porte fr-en	French::1000 words (FR-EN)::une porte — a door
+On ________ à la porte : va ouvrir !<br>(AI exercise: the verb at the door)	/ɔ̃ [fʁap] a la pɔʁt : va uvʁiʁ/<br>Someone is knocking at the door: go and open it!	french 1000words porte fr-en exercise	French::1000 words (FR-EN)::une porte — a door
+Le soir, je ________ la porte à clé.<br>(AI exercise: the verb at the door)	/lə swaʁ, ʒə [fɛʁm] la pɔʁt a kle/<br>In the evening I lock the door.	french 1000words porte fr-en exercise	French::1000 words (FR-EN)::une porte — a door
+Il ________ la porte et il entre.<br>(AI exercise: the verb at the door)	/il [uvʁ] la pɔʁt e il ɑ̃tʁ/<br>He opens the door and comes in.	french 1000words porte fr-en exercise	French::1000 words (FR-EN)::une porte — a door
+________ porte est ouverte.<br>(AI exercise: the noun or the verb porte?)	/[la] pɔʁt ɛt‿uvɛʁt/<br>The door is open.	french 1000words porte fr-en exercise	French::1000 words (FR-EN)::une porte — a door
+________ porte une robe rouge.<br>(AI exercise: the noun or the verb porte?)	/[ɛl] pɔʁt yn ʁɔb ʁuʒ/<br>She is wearing a red dress.	french 1000words porte fr-en exercise	French::1000 words (FR-EN)::une porte — a door
+________ porte<br>(AI exercise: un or une?)	/[yn] pɔʁt/<br>a door	french 1000words porte fr-en exercise	French::1000 words (FR-EN)::une porte — a door
+________ clé<br>(AI exercise: un or une?)	/[yn] kle/<br>a key	french 1000words porte fr-en exercise	French::1000 words (FR-EN)::une porte — a door
+________ portail<br>(AI exercise: un or une?)	/[œ̃] pɔʁtaj/<br>a gate	french 1000words porte fr-en exercise	French::1000 words (FR-EN)::une porte — a door
 pour<br>/puʁ/	(prep.) for; to (in order to)	french 1000words pour fr-en	French::1000 words (FR-EN)::pour — for; to
 Ce film est pour les enfants.<br>/sə film ɛ puʁ lez‿ɑ̃fɑ̃/	This film is for children.	french 1000words pour fr-en	French::1000 words (FR-EN)::pour — for; to
 pour moi, pour toi<br>/puʁ mwa, puʁ twa/	for me, for you	french 1000words pour fr-en	French::1000 words (FR-EN)::pour — for; to
@@ -524,6 +795,57 @@ Les clés sont ________ mon sac.<br>(AI exercise: sur, sous or dans?)	/le kle s�
 Je suis ________ internet.<br>(AI exercise: sur, sous or dans?)	/ʒə sɥi [syʁ] ɛ̃tɛʁnɛt/<br>I am on the internet.	french 1000words sur fr-en exercise	French::1000 words (FR-EN)::sur — on, upon, on top of
 Il y a une photo ________ le mur.<br>(AI exercise: sur, sous or dans?)	/il j a yn fɔto [syʁ] lə myʁ/<br>There is a photo on the wall.	french 1000words sur fr-en exercise	French::1000 words (FR-EN)::sur — on, upon, on top of
 Qui est ________ la photo ?<br>(AI exercise: sur, sous or dans?)	/ki ɛ [syʁ] la fɔto/<br>Who is in the photo?	french 1000words sur fr-en exercise	French::1000 words (FR-EN)::sur — on, upon, on top of
+un tapis<br>/œ̃ tapi/	(n.m.) carpet, rug	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Il y a un tapis devant le canapé.<br>/il j a œ̃ tapi dəvɑ̃ lə kanape/	There is a rug in front of the sofa.	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+le sol<br>/lə sɔl/	the floor, the ground	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+le plancher, le parquet<br>/lə plɑ̃ʃe, lə paʁkɛ/	the wooden floor	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+le carrelage<br>/lə kaʁlaʒ/	the tiled floor	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+la moquette<br>/la mɔkɛt/	the fitted carpet	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+un tapis, des tapis<br>/œ̃ tapi, de tapi/	a rug, rugs	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+le paillasson<br>/lə pajasɔ̃/	the doormat	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+un tapis de bain<br>/œ̃ tapi də bɛ̃/	a bath mat	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+un tapis de souris<br>/œ̃ tapi də suʁi/	a mouse mat	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+un tapis de yoga<br>/œ̃ tapi də jɔɡa/	a yoga mat	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+un tapis de sol<br>/œ̃ tapi də sɔl/	a ground sheet, a floor mat	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+un tapis roulant<br>/œ̃ tapi ʁulɑ̃/	a treadmill; a conveyor belt; a moving walkway	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+un tapis volant<br>/œ̃ tapi vɔlɑ̃/	a flying carpet	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+un tapis persan<br>/œ̃ tapi pɛʁsɑ̃/	a Persian rug	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+le tapis rouge<br>/lə tapi ʁuʒ/	the red carpet	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+un fils, des fils<br>/œ̃ fis, de fis/	a son, sons	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+un bras, des bras<br>/œ̃ bʁa, de bʁa/	an arm, arms	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+un prix, des prix<br>/œ̃ pʁi, de pʁi/	a price, prices	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+une voix, des voix<br>/yn vwa, de vwa/	a voice, voices	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+un nez, des nez<br>/œ̃ ne, de ne/	a nose, noses	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+mettre une question sur le tapis<br>/mɛtʁ yn kɛstjɔ̃ syʁ lə tapi/	to bring a question up	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+dérouler le tapis rouge<br>/deʁule lə tapi ʁuʒ/	to roll out the red carpet	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+envoyer quelqu'un au tapis<br>/ɑ̃vwaje kɛlkœ̃ o tapi/	to floor someone, in boxing	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+passer l'aspirateur sur le tapis<br>/pase laspiʁatœʁ syʁ lə tapi/	to vacuum the rug	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+secouer le tapis<br>/səkwe lə tapi/	to shake the rug	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+une tache sur le tapis<br>/yn taʃ syʁ lə tapi/	a stain on the rug	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+essuyer ses pieds sur le paillasson<br>/esɥije se pje syʁ lə pajasɔ̃/	to wipe one's feet on the doormat	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+le tapis – le tapir<br>/lə tapi/ · /lə tapiʁ/	the rug – the tapir: the r is said	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+le tapis – il tape<br>/lə tapi/ · /il tap/	the rug – he types, he hits	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+le tapis – le taxi<br>/lə tapi/ · /lə taksi/	the rug – the taxi	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Il y a un grand tapis dans le salon.<br>/il j a œ̃ ɡʁɑ̃ tapi dɑ̃ lə salɔ̃/	There is a big rug in the living room.	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Le chat dort sur le tapis.<br>/lə ʃa dɔʁ syʁ lə tapi/	The cat is sleeping on the rug.	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Ce tapis vient de Turquie.<br>/sə tapi vjɛ̃ də tyʁki/	This rug comes from Turkey.	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Les enfants jouent sur le tapis.<br>/lez‿ɑ̃fɑ̃ ʒu syʁ lə tapi/	The children are playing on the rug.	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Je dois passer l'aspirateur sur le tapis.<br>/ʒə dwa pase laspiʁatœʁ syʁ lə tapi/	I have to vacuum the rug.	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Il y a une tache de café sur le tapis.<br>/il j a yn taʃ də kafe syʁ lə tapi/	There is a coffee stain on the rug.	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Nous voulons acheter un tapis pour la chambre.<br>/nu vulɔ̃ aʃte œ̃ tapi puʁ la ʃɑ̃bʁ/	We want to buy a rug for the bedroom.	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Ma mère secoue le tapis par la fenêtre.<br>/ma mɛʁ səku lə tapi paʁ la fənɛtʁ/	My mother is shaking the rug out of the window.	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Il court sur le tapis roulant tous les matins.<br>/il kuʁ syʁ lə tapi ʁulɑ̃ tu le matɛ̃/	He runs on the treadmill every morning.	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Essuie tes pieds sur le paillasson !<br>/esɥi te pje syʁ lə pajasɔ̃/	Wipe your feet on the doormat!	french 1000words tapis fr-en	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+un tapis → ________<br>(AI exercise: the plural, with its article)	/[de tapi]/<br>rugs	french 1000words tapis fr-en exercise	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+un prix → ________<br>(AI exercise: the plural, with its article)	/[de pʁi]/<br>prices	french 1000words tapis fr-en exercise	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+un bureau → ________<br>(AI exercise: the plural, with its article)	/[de byʁo]/<br>desks	french 1000words tapis fr-en exercise	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+une chaise → ________<br>(AI exercise: the plural, with its article)	/[de ʃɛz]/<br>chairs	french 1000words tapis fr-en exercise	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Essuie tes pieds sur le ________.<br>(AI exercise: tapis, moquette or paillasson?)	/esɥi te pje syʁ lə [pajasɔ̃]/<br>Wipe your feet on the doormat.	french 1000words tapis fr-en exercise	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Il y a de la ________ dans toute la maison.<br>(AI exercise: tapis, moquette or paillasson?)	/il j a də la [mɔkɛt] dɑ̃ tut la mɛzɔ̃/<br>There is fitted carpet all over the house.	french 1000words tapis fr-en exercise	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Le chat dort sur le ________ devant le canapé.<br>(AI exercise: tapis, moquette or paillasson?)	/lə ʃa dɔʁ syʁ lə [tapi] dəvɑ̃ lə kanape/<br>The cat sleeps on the rug in front of the sofa.	french 1000words tapis fr-en exercise	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Le tapis est ________ la table.<br>(AI exercise: sur, sous or devant?)	/lə tapi ɛ [su] la tabl/<br>The rug is under the table.	french 1000words tapis fr-en exercise	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Le chien dort ________ le tapis.<br>(AI exercise: sur, sous or devant?)	/lə ʃjɛ̃ dɔʁ [syʁ] lə tapi/<br>The dog is sleeping on the rug.	french 1000words tapis fr-en exercise	French::1000 words (FR-EN)::un tapis — a carpet, a rug
+Le tapis est ________ le canapé.<br>(AI exercise: sur, sous or devant?)	/lə tapi ɛ [dəvɑ̃] lə kanape/<br>The rug is in front of the sofa.	french 1000words tapis fr-en exercise	French::1000 words (FR-EN)::un tapis — a carpet, a rug
 tout<br>/tu/	(adj.) all, every; (n.m.) whole, entirety, total	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
 Tout homme est mortel.<br>/tut‿ɔm ɛ mɔʁtɛl/	Every man is mortal.	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole
 tout le monde<br>/tu lə mɔ̃d/	everybody	french 1000words tout fr-en	French::1000 words (FR-EN)::tout — all, every; the whole

@@ -1,0 +1,55 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+une fenêtre<br>/yn fənɛtʁ/	(n.f.) window	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+La fenêtre de ma chambre donne sur le jardin.<br>/la fənɛtʁ də ma ʃɑ̃bʁ dɔn syʁ lə ʒaʁdɛ̃/	My bedroom window looks onto the garden.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+j'ouvre, tu ouvres, il ouvre<br>/ʒuvʁ, ty uvʁ, il uvʁ/	I open, you open, he opens	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+nous ouvrons, vous ouvrez, ils ouvrent<br>/nuz‿uvʁɔ̃, vuz‿uvʁe, ilz‿uvʁ/	we open, you open, they open	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+ouvert, ouverte<br>/uvɛʁ, uvɛʁt/	open, opened (masculine, feminine)	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+ouvre ! ouvrez !<br>/uvʁ, uvʁe/	open!	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+je ferme, tu fermes, il ferme<br>/ʒə fɛʁm, ty fɛʁm, il fɛʁm/	I close, you close, he closes	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+nous fermons, vous fermez, ils ferment<br>/nu fɛʁmɔ̃, vu fɛʁme, il fɛʁm/	we close, you close, they close	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+fermé, fermée<br>/fɛʁme/	closed	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+ferme ! fermez !<br>/fɛʁm, fɛʁme/	close!	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+la vitre, le carreau<br>/la vitʁ, lə kaʁo/	the pane	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+le volet, les volets<br>/lə vɔlɛ, le vɔlɛ/	the shutter, the shutters	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+le rideau, les rideaux<br>/lə ʁido, le ʁido/	the curtain, the curtains	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+le store<br>/lə stɔʁ/	the blind	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+le rebord de la fenêtre<br>/lə ʁəbɔʁ də la fənɛtʁ/	the window sill	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+la porte-fenêtre<br>/la pɔʁtfənɛtʁ/	the French window	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+la vitrine<br>/la vitʁin/	the shop window	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+le hublot<br>/lə yblo/	the window of a plane or a ship	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+ouvrir la fenêtre, fermer la fenêtre<br>/uvʁiʁ la fənɛtʁ, fɛʁme la fənɛtʁ/	to open the window, to close the window	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+regarder par la fenêtre<br>/ʁəɡaʁde paʁ la fənɛtʁ/	to look out of the window	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+donner sur le jardin, donner sur la rue<br>/dɔne syʁ lə ʒaʁdɛ̃, dɔne syʁ la ʁy/	to look onto the garden, onto the street	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+une place côté fenêtre, côté couloir<br>/yn plas kote fənɛtʁ, kote kulwaʁ/	a window seat, an aisle seat	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+jeter l'argent par les fenêtres<br>/ʒəte laʁʒɑ̃ paʁ le fənɛtʁ/	to throw money away	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+un courant d'air<br>/œ̃ kuʁɑ̃ dɛʁ/	a draught	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+aérer la pièce<br>/aeʁe la pjɛs/	to air the room	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+ouvrir une nouvelle fenêtre<br>/uvʁiʁ yn nuvɛl fənɛtʁ/	to open a new window, on a screen	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+la fenêtre, être, quatre, notre, votre<br>/la fənɛtʁ, ɛtʁ, katʁ, nɔtʁ, vɔtʁ/	the window, to be, four, our, your	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+la fenêtre – la fête – la tête – la forêt<br>/la fənɛtʁ/ · /la fɛt/ · /la tɛt/ · /la fɔʁɛ/	the window, the party, the head, the forest: the circumflex that remembers an s	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Ferme la fenêtre, il fait froid.<br>/fɛʁm la fənɛtʁ, il fɛ fʁwa/	Close the window, it is cold.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Ma chambre a deux fenêtres.<br>/ma ʃɑ̃bʁ a dø fənɛtʁ/	My bedroom has two windows.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+La fenêtre de la cuisine donne sur la rue.<br>/la fənɛtʁ də la kɥizin dɔn syʁ la ʁy/	The kitchen window looks onto the street.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Le chat regarde par la fenêtre.<br>/lə ʃa ʁəɡaʁd paʁ la fənɛtʁ/	The cat is looking out of the window.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Les fenêtres sont ouvertes parce qu'il fait chaud.<br>/le fənɛtʁ sɔ̃t‿uvɛʁt paʁs kil fɛ ʃo/	The windows are open because it is hot.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Je voudrais une place côté fenêtre.<br>/ʒə vudʁɛ yn plas kote fənɛtʁ/	I would like a window seat.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Il y a une chaise près de la fenêtre.<br>/il j a yn ʃɛz pʁɛ də la fənɛtʁ/	There is a chair by the window.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Ma mère ouvre les volets le matin.<br>/ma mɛʁ uvʁ le vɔlɛ lə matɛ̃/	My mother opens the shutters in the morning.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Qui a cassé la vitre ?<br>/ki a kase la vitʁ/	Who broke the pane?	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Nous devons laver les fenêtres.<br>/nu dəvɔ̃ lave le fənɛtʁ/	We have to wash the windows.	french 1000words fenetre fr-en	French::1000 words (FR-EN)::une fenêtre — a window
+Il fait chaud : ________ la fenêtre !<br>(AI exercise: ouvrir or fermer, in the right form)	/il fɛ ʃo : [uvʁ] la fənɛtʁ/<br>It is hot: open the window!	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+Il fait froid : ________ la fenêtre !<br>(AI exercise: ouvrir or fermer, in the right form)	/il fɛ fʁwa : [fɛʁm] la fənɛtʁ/<br>It is cold: close the window!	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+La fenêtre est ________.<br>(AI exercise: ouvrir or fermer, in the right form)	/la fənɛtʁ ɛ(t)‿[uvɛʁt]/<br>The window is open.	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+Nous ________ les volets le soir.<br>(AI exercise: ouvrir or fermer, in the right form)	/nu [fɛʁmɔ̃] le vɔlɛ lə swaʁ/<br>We close the shutters in the evening.	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+Il regarde ________ la fenêtre.<br>(AI exercise: par, sur or de?)	/il ʁəɡaʁd [paʁ] la fənɛtʁ/<br>He is looking out of the window.	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+La fenêtre donne ________ le jardin.<br>(AI exercise: par, sur or de?)	/la fənɛtʁ dɔn [syʁ] lə ʒaʁdɛ̃/<br>The window looks onto the garden.	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+La fenêtre ________ la cuisine est petite.<br>(AI exercise: par, sur or de?)	/la fənɛtʁ [də] la kɥizin ɛ pətit/<br>The kitchen window is small.	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+________ fenêtre<br>(AI exercise: un or une?)	/[yn] fənɛtʁ/<br>a window	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+________ rideau<br>(AI exercise: un or une?)	/[œ̃] ʁido/<br>a curtain	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+________ volet<br>(AI exercise: un or une?)	/[œ̃] vɔlɛ/<br>a shutter	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window
+________ vitre<br>(AI exercise: un or une?)	/[yn] vitʁ/<br>a pane	french 1000words fenetre fr-en exercise	French::1000 words (FR-EN)::une fenêtre — a window

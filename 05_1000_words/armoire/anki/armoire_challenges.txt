@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une armoire — a wardrobe::Challenges
+#tags:french 1000words armoire challenge
+#columns:Front	Back	Tags
+#tags column:3
+Say: My clothes are in the wardrobe.	Mes vêtements sont dans l'armoire. /me vɛtmɑ̃ sɔ̃ dɑ̃ laʁmwaʁ/	say
+Say: I put my clothes away in the wardrobe.	Je range mes vêtements dans l'armoire. /ʒə ʁɑ̃ʒ me vɛtmɑ̃ dɑ̃ laʁmwaʁ/	say
+Say: Tidy your room!	Range ta chambre ! /ʁɑ̃ʒ ta ʃɑ̃bʁ/	say
+Say: There is no room left in the wardrobe.	Il n'y a plus de place dans l'armoire. /il nj a ply də plas dɑ̃ laʁmwaʁ/	say
+Say: Take a jumper out of the wardrobe, it is cold.	Sors un pull de l'armoire, il fait froid. /sɔʁ œ̃ pyl də laʁmwaʁ, il fɛ fʁwa/	say
+oi in armoire: which sound?	/wa/, as in moi, trois, voiture: /aʁmwaʁ/, with both r's said	sound
+Why mon armoire for a feminine noun?	Before a vowel the feminine ma becomes mon for the sound: mon armoire /mɔ̃n‿aʁmwaʁ/, as mon amie	grammar
+The wardrobe, the wardrobes, with the article	l'armoire /laʁmwaʁ/ by elision, les armoires /lez‿aʁmwaʁ/ by liaison	grammar
+We tidy: why the e in rangeons?	nous rangeons /nu ʁɑ̃ʒɔ̃/ keeps the e so that the g stays soft, like nous mangeons	grammar
+Wardrobe, built-in cupboard, chest of drawers, shelf	une armoire /yn aʁmwaʁ/, un placard /œ̃ plakaʁ/, une commode /yn kɔmɔd/, une étagère /yn etaʒɛʁ/	words
+Coat hanger, drawer, clothes	un cintre /œ̃ sɛ̃tʁ/, un tiroir /œ̃ tiʁwaʁ/, les vêtements /le vɛtmɑ̃/	words
+Une armoire à glace, of a man	a hulk, built like a wardrobe; of furniture, a wardrobe with a mirror /yn aʁmwaʁ a ɡlas/	words

@@ -1,0 +1,56 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+(n.m.) desk; office	un bureau<br>/œ̃ byʁo/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+On my desk there are my books and my notebooks.	Sur mon bureau, il y a mes livres et mes cahiers.<br>/syʁ mɔ̃ byʁo, il j a me livʁ e me kaje/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+a desk, desks	un bureau, des bureaux<br>/œ̃ byʁo, de byʁo/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+a castle, castles	un château, des châteaux<br>/œ̃ ʃɑto, de ʃɑto/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+a present, presents	un cadeau, des cadeaux<br>/œ̃ kado, de kado/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+a cake, cakes	un gâteau, des gâteaux<br>/œ̃ ɡɑto, de ɡɑto/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+a bird, birds	un oiseau, des oiseaux<br>/œ̃n‿wazo, dez‿wazo/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+a game, games	un jeu, des jeux<br>/œ̃ ʒø, de ʒø/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+a desk lamp	une lampe de bureau<br>/yn lɑ̃p də byʁo/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+an office chair	une chaise de bureau<br>/yn ʃɛz də byʁo/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+the drawer, the drawers	le tiroir, les tiroirs<br>/lə tiʁwaʁ, le tiʁwaʁ/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+the computer, the keyboard, the screen	l'ordinateur, le clavier, l'écran<br>/lɔʁdinatœʁ, lə klavje, lekʁɑ̃/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+the pen, the notebook, the book	le stylo, le cahier, le livre<br>/lə stilo, lə kaje, lə livʁ/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+the papers	les papiers<br>/le papje/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+the waste-paper basket	la corbeille<br>/la kɔʁbɛj/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+to go to the office	aller au bureau<br>/ale o byʁo/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+to be at the office	être au bureau<br>/ɛtʁ o byʁo/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+to work at the office	travailler au bureau<br>/tʁavaje o byʁo/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+a colleague at work	un collègue de bureau<br>/œ̃ kɔlɛɡ də byʁo/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+the office manager	le chef de bureau<br>/lə ʃɛf də byʁo/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+office hours	les heures de bureau<br>/lez‿œʁ də byʁo/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+working from home	le télétravail, en télétravail<br>/lə teletʁavaj, ɑ̃ teletʁavaj/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+the post office	le bureau de poste<br>/lə byʁo də pɔst/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+the tobacconist	le bureau de tabac<br>/lə byʁo də taba/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+the polling station	le bureau de vote<br>/lə byʁo də vɔt/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+the lost property office	le bureau des objets trouvés<br>/lə byʁo dez‿ɔbʒɛ tʁuve/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+the bureau de change	le bureau de change<br>/lə byʁo də ʃɑ̃ʒ/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+the desk – the executioner: /y/ against /u/	le bureau – le bourreau<br>/lə byʁo/ · /lə buʁo/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+the desk – the coarse cloth it is named after	le bureau – la bure<br>/lə byʁo/ · /la byʁ/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+There is a desk and a chair in my bedroom.	Il y a un bureau et une chaise dans ma chambre.<br>/il j a œ̃ byʁo e yn ʃɛz dɑ̃ ma ʃɑ̃bʁ/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+My computer is on the desk.	Mon ordinateur est sur le bureau.<br>/mɔ̃n‿ɔʁdinatœʁ ɛ syʁ lə byʁo/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+I go to the office at eight.	Je vais au bureau à huit heures.<br>/ʒə vɛ o byʁo a ɥit œʁ/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+My father works in an office.	Mon père travaille dans un bureau.<br>/mɔ̃ pɛʁ tʁavaj dɑ̃z‿œ̃ byʁo/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+She works from home on Fridays.	Elle est en télétravail le vendredi.<br>/ɛl ɛt‿ɑ̃ teletʁavaj lə vɑ̃dʁədi/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+The notebooks are in the desk drawer.	Les cahiers sont dans le tiroir du bureau.<br>/le kaje sɔ̃ dɑ̃ lə tiʁwaʁ dy byʁo/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+Where is the post office?	Où est le bureau de poste ?<br>/u ɛ lə byʁo də pɔst/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+I buy stamps at the tobacconist's.	J'achète des timbres au bureau de tabac.<br>/ʒaʃɛt de tɛ̃bʁ o byʁo də taba/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+He tidies his desk on Friday evenings.	Il range son bureau le vendredi soir.<br>/il ʁɑ̃ʒ sɔ̃ byʁo lə vɑ̃dʁədi swaʁ/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+We have two desks in the house.	Nous avons deux bureaux dans la maison.<br>/nuz‿avɔ̃ dø byʁo dɑ̃ la mɛzɔ̃/	french 1000words bureau en-fr	French::1000 words (EN-FR)::un bureau — a desk, an office
+Say: On my desk there are my books and my notebooks.	Sur mon bureau, il y a mes livres et mes cahiers. /syʁ mɔ̃ byʁo, il j a me livʁ e me kaje/	french 1000words bureau challenge say	French::1000 words (EN-FR)::un bureau — a desk, an office::Challenges
+Say: I go to the office at eight.	Je vais au bureau à huit heures. /ʒə vɛ o byʁo a ɥit œʁ/	french 1000words bureau challenge say	French::1000 words (EN-FR)::un bureau — a desk, an office::Challenges
+Say: Where is the post office?	Où est le bureau de poste ? /u ɛ lə byʁo də pɔst/	french 1000words bureau challenge say	French::1000 words (EN-FR)::un bureau — a desk, an office::Challenges
+Say: She works from home on Fridays.	Elle est en télétravail le vendredi. /ɛl ɛt‿ɑ̃ teletʁavaj lə vɑ̃dʁədi/	french 1000words bureau challenge say	French::1000 words (EN-FR)::un bureau — a desk, an office::Challenges
+Say: We have two desks in the house.	Nous avons deux bureaux dans la maison. /nuz‿avɔ̃ dø byʁo dɑ̃ la mɛzɔ̃/	french 1000words bureau challenge say	French::1000 words (EN-FR)::un bureau — a desk, an office::Challenges
+The two vowels of bureau	/y/ for u, as in tu, and /o/ for eau, three letters for one vowel: /byʁo/	french 1000words bureau challenge sound	French::1000 words (EN-FR)::un bureau — a desk, an office::Challenges
+The plural of un bureau	des bureaux /de byʁo/: a noun in -eau takes -x, like châteaux, cadeaux, gâteaux; the sound does not change	french 1000words bureau challenge grammar	French::1000 words (EN-FR)::un bureau — a desk, an office::Challenges
+The desk or the office?	Both are le bureau /lə byʁo/; au bureau is nearly always the office, sur le bureau the desk	french 1000words bureau challenge words	French::1000 words (EN-FR)::un bureau — a desk, an office::Challenges
+The post office, the tobacconist, the polling station	le bureau de poste /lə byʁo də pɔst/, le bureau de tabac /lə byʁo də taba/, le bureau de vote /lə byʁo də vɔt/	french 1000words bureau challenge words	French::1000 words (EN-FR)::un bureau — a desk, an office::Challenges
+Drawer, computer, keyboard, screen	le tiroir /lə tiʁwaʁ/, l'ordinateur /lɔʁdinatœʁ/, le clavier /lə klavje/, l'écran /lekʁɑ̃/	french 1000words bureau challenge words	French::1000 words (EN-FR)::un bureau — a desk, an office::Challenges
+bureau against bourreau	/byʁo/ the desk against /buʁo/ the executioner: /y/ against /u/	french 1000words bureau challenge sound	French::1000 words (EN-FR)::un bureau — a desk, an office::Challenges

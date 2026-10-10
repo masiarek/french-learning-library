@@ -31,6 +31,7 @@ The examples are **stdlib-only, on purpose**. If you have `python3`, you can run
 | Lesson | What it teaches |
 |---|---|
 | [Lesson 1: La maison](02_Yosser_teacher/lesson_01_la_maison/README.md) | The whole worksheet as one table of French, English and IPA, 161 rows: the rooms and furniture, Adam's house, *il y a*, the prepositions of place, the Corrigé |
+| [Lesson 1, the reading: Ma maison](02_Yosser_teacher/lesson_01_lecture_ma_maison/README.md) | Adam's text, the questions and the true-or-false statements again, each sentence with its IPA under it, to read aloud |
 
 [**03_Szypowska/**](03_Szypowska/README.md) — *A Polish textbook of French, one page per lesson*
 

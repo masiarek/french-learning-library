@@ -140,6 +140,11 @@ def main() -> None:
     stale = []
     for lesson in lessons:
         title, rows = parse_page((lesson / "README.md").read_text(encoding="utf-8"))
+        if not rows:
+            # A page with no table, such as a reading with the IPA under each
+            # sentence, has no cards; its lesson page already has them.
+            print(f"{lesson.relative_to(ROOT)}: no table rows, no decks.")
+            continue
         parts = lesson.name.split("_")
         # lecon_03_… and lesson_01_… tag as lecon03 and lesson01; a folder
         # named for its idea, sons_an_on, tags as its name run together.

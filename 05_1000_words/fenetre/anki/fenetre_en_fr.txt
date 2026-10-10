@@ -1,0 +1,45 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::1000 words (EN-FR)::une fenêtre — a window
+#tags:french 1000words fenetre en-fr
+#columns:Front	Back	Tags
+#tags column:3
+(n.f.) window	une fenêtre<br>/yn fənɛtʁ/	en-fr
+My bedroom window looks onto the garden.	La fenêtre de ma chambre donne sur le jardin.<br>/la fənɛtʁ də ma ʃɑ̃bʁ dɔn syʁ lə ʒaʁdɛ̃/	en-fr
+I open, you open, he opens	j'ouvre, tu ouvres, il ouvre<br>/ʒuvʁ, ty uvʁ, il uvʁ/	en-fr
+we open, you open, they open	nous ouvrons, vous ouvrez, ils ouvrent<br>/nuz‿uvʁɔ̃, vuz‿uvʁe, ilz‿uvʁ/	en-fr
+open, opened (masculine, feminine)	ouvert, ouverte<br>/uvɛʁ, uvɛʁt/	en-fr
+open!	ouvre ! ouvrez !<br>/uvʁ, uvʁe/	en-fr
+I close, you close, he closes	je ferme, tu fermes, il ferme<br>/ʒə fɛʁm, ty fɛʁm, il fɛʁm/	en-fr
+we close, you close, they close	nous fermons, vous fermez, ils ferment<br>/nu fɛʁmɔ̃, vu fɛʁme, il fɛʁm/	en-fr
+closed	fermé, fermée<br>/fɛʁme/	en-fr
+close!	ferme ! fermez !<br>/fɛʁm, fɛʁme/	en-fr
+the pane	la vitre, le carreau<br>/la vitʁ, lə kaʁo/	en-fr
+the shutter, the shutters	le volet, les volets<br>/lə vɔlɛ, le vɔlɛ/	en-fr
+the curtain, the curtains	le rideau, les rideaux<br>/lə ʁido, le ʁido/	en-fr
+the blind	le store<br>/lə stɔʁ/	en-fr
+the window sill	le rebord de la fenêtre<br>/lə ʁəbɔʁ də la fənɛtʁ/	en-fr
+the French window	la porte-fenêtre<br>/la pɔʁtfənɛtʁ/	en-fr
+the shop window	la vitrine<br>/la vitʁin/	en-fr
+the window of a plane or a ship	le hublot<br>/lə yblo/	en-fr
+to open the window, to close the window	ouvrir la fenêtre, fermer la fenêtre<br>/uvʁiʁ la fənɛtʁ, fɛʁme la fənɛtʁ/	en-fr
+to look out of the window	regarder par la fenêtre<br>/ʁəɡaʁde paʁ la fənɛtʁ/	en-fr
+to look onto the garden, onto the street	donner sur le jardin, donner sur la rue<br>/dɔne syʁ lə ʒaʁdɛ̃, dɔne syʁ la ʁy/	en-fr
+a window seat, an aisle seat	une place côté fenêtre, côté couloir<br>/yn plas kote fənɛtʁ, kote kulwaʁ/	en-fr
+to throw money away	jeter l'argent par les fenêtres<br>/ʒəte laʁʒɑ̃ paʁ le fənɛtʁ/	en-fr
+a draught	un courant d'air<br>/œ̃ kuʁɑ̃ dɛʁ/	en-fr
+to air the room	aérer la pièce<br>/aeʁe la pjɛs/	en-fr
+to open a new window, on a screen	ouvrir une nouvelle fenêtre<br>/uvʁiʁ yn nuvɛl fənɛtʁ/	en-fr
+the window, to be, four, our, your	la fenêtre, être, quatre, notre, votre<br>/la fənɛtʁ, ɛtʁ, katʁ, nɔtʁ, vɔtʁ/	en-fr
+the window, the party, the head, the forest: the circumflex that remembers an s	la fenêtre – la fête – la tête – la forêt<br>/la fənɛtʁ/ · /la fɛt/ · /la tɛt/ · /la fɔʁɛ/	en-fr
+Close the window, it is cold.	Ferme la fenêtre, il fait froid.<br>/fɛʁm la fənɛtʁ, il fɛ fʁwa/	en-fr
+My bedroom has two windows.	Ma chambre a deux fenêtres.<br>/ma ʃɑ̃bʁ a dø fənɛtʁ/	en-fr
+The kitchen window looks onto the street.	La fenêtre de la cuisine donne sur la rue.<br>/la fənɛtʁ də la kɥizin dɔn syʁ la ʁy/	en-fr
+The cat is looking out of the window.	Le chat regarde par la fenêtre.<br>/lə ʃa ʁəɡaʁd paʁ la fənɛtʁ/	en-fr
+The windows are open because it is hot.	Les fenêtres sont ouvertes parce qu'il fait chaud.<br>/le fənɛtʁ sɔ̃t‿uvɛʁt paʁs kil fɛ ʃo/	en-fr
+I would like a window seat.	Je voudrais une place côté fenêtre.<br>/ʒə vudʁɛ yn plas kote fənɛtʁ/	en-fr
+There is a chair by the window.	Il y a une chaise près de la fenêtre.<br>/il j a yn ʃɛz pʁɛ də la fənɛtʁ/	en-fr
+My mother opens the shutters in the morning.	Ma mère ouvre les volets le matin.<br>/ma mɛʁ uvʁ le vɔlɛ lə matɛ̃/	en-fr
+Who broke the pane?	Qui a cassé la vitre ?<br>/ki a kase la vitʁ/	en-fr
+We have to wash the windows.	Nous devons laver les fenêtres.<br>/nu dəvɔ̃ lave le fənɛtʁ/	en-fr
