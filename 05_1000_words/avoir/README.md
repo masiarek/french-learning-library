@@ -114,6 +114,6 @@ Conventions: on the [chapter page](../README.md).
 - [être](../etre/README.md) — the other auxiliary, and *avoir* against *être* for *faim, froid, vingt ans*
 - [devoir](../devoir/README.md) and [dormir](../dormir/README.md) — *j’ai dû, j’ai dormi*, two participles after *avoir*
 - [Lesson 5: Dialogue](../../03_Szypowska/lecon_05_dialogue/README.md) — *avoir* in the present, negative and interrogative, *ne … pas de*
-- [Lesson 1: La maison](../../02_Yosser_teacher/lesson_01_la_maison/README.md) — *il y a* in a worksheet, room by room
+- [Lesson 1: La maison](../../02_Yosser_teacher/lesson_01_la_maison/README.md) — *il y a* /il j a/ in a worksheet, room by room; [its reading page](../../02_Yosser_teacher/lesson_01_lecture_ma_maison/README.md) has each sentence with its IPA, to read aloud
 - [Glossary](../../GLOSSARY.md) — auxiliary, passé composé, homophones
 - Le Robert, *Dictionnaire de la langue française*, pronunciation key and the forms of *avoir*, from memory

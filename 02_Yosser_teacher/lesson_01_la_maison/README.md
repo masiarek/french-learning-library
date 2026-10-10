@@ -175,7 +175,7 @@ Mine, not the teacher's. Notes first, then each word of the lesson in set phrase
 - *La chambre* is a bedroom. A room in general is *la pièce* (the worksheet says it: *la pièce où on prépare les repas*). *La salle* is a large or shared room: *la salle à manger, la salle de bains, la salle de classe*.
 - *Le bureau* is the desk and also the office: *il travaille dans un bureau*.
 - *La salle de bains* with a plural *bains* is what most books print; Szypowska's lesson 4 has *la salle de bain*. Both are seen.
-- *Il y a* never changes its form: *il y a un lit, il y a des lits*. The question is *est-ce qu'il y a … ?* or *y a-t-il … ?*, the negative *il n'y a pas de …*, and *il y en a un* says "there is one".
+- [*Il y a*](../../05_1000_words/avoir/README.md) never changes its form: *il y a un lit, il y a des lits*. The question is *est-ce qu'il y a … ?* or *y a-t-il … ?*, the negative *il n'y a pas de …*, and *il y en a un* says "there is one".
 - *Au premier étage* is the floor above the ground floor, *le rez-de-chaussée*; an American "second floor".
 - *Joli* agrees: *un joli jardin, une jolie chambre*.
 
@@ -257,6 +257,8 @@ Mine, not the teacher's. Notes first, then each word of the lesson in set phrase
 ## See also
 
 - [Yosser (teacher)](../README.md) — the chapter this lesson opens
+- [avoir](../../05_1000_words/avoir/README.md) — the verb behind *il y a* /il j a/: the present, *il n’y a pas de* /il nja pa də/, and the other places where English says *to be*
+- [être](../../05_1000_words/etre/README.md) — the *est* /ɛ/ of *ma maison est belle* /ma mɛzɔ̃ ɛ bɛl/ and of the prepositions of place, *le livre est sur le bureau* /lə livʁ ɛ syʁ lə byʁo/: the whole verb, with *c’est* /sɛ/ against *il est* /il ɛ/
 - [English and French in the IPA](../../01_Sounds/ipa_english_vs_french/README.md) — the inventory the program checks against, and the Assimil dialogue read the same way
 - [Szypowska (Polish material)](../../03_Szypowska/README.md) — the textbook chapter, where lesson 4 shows the same rooms of a flat in French and Polish
 - [Glossary](../../GLOSSARY.md) — liaison, e muet, nasal vowel
