@@ -1,7 +1,7 @@
 #separator:tab
 #html:true
 #notetype:Basic
-#deck:French::Szypowska (PL-FR)::Lesson 6: En visite::Challenges
+#deck:French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
 #tags:french szypowska lecon06 challenge
 #columns:Front	Back	Tags
 #tags column:3

@@ -2,7 +2,7 @@
 
 **Level:** 101 · for a Polish reader learning French from Szypowska's course
 
-The owner's Polish textbook of French, by Szypowska, teaches in numbered lessons: a reading text or dialogue with the book's own phonetic transcription under every line, a word list with Polish glosses, notes on pronunciation and realia, a grammar section in Polish, and exercises. This chapter keeps the French of each lesson as one table: the French as printed, the English with the Polish below it, and the pronunciation in Le Robert's IPA. The Polish explanations are not transcribed; the French words inside them are. An exercise that asks for a translation into French gets the French and its IPA, with the English and the book's Polish below.
+The owner's Polish textbook of French, by Szypowska, teaches in numbered lessons: a reading text or dialogue with the book's own phonetic transcription under every line, a word list with Polish glosses, notes on pronunciation and realia, a grammar section in Polish, and exercises. This chapter keeps the French of each lesson as one table: the French as printed, the English, and the pronunciation in Le Robert's IPA. The book's Polish, its glosses and its explanations, is not on these pages: the owner had it removed on 2026-10-10; the French words inside the explanations are kept. An exercise that asks for a translation into French gets the French and its IPA, with the English.
 
 | # | Lesson | What it holds |
 |---|---|---|
@@ -11,7 +11,7 @@ The owner's Polish textbook of French, by Szypowska, teaches in numbered lessons
 | 5 | [Lesson 5: Dialogue](lecon_05_dialogue/README.md) | *J'ai un stylo*: *avoir* in the present, affirmative, negative and interrogative; *ne … pas de*; *est-ce que* against inversion; the word list; the exercises with a translation into French |
 | 6 | [Lesson 6: En visite](lecon_06_en_visite/README.md) | A Sunday visit to the Bertins in Chaville: the numbers six to twelve; *au, à la, à l', aux*, the dative; adjectives agree; plurals in *-eaux*, *messieurs, mesdames*; the article for a kind in general; inversion after direct speech; the exercises with a translation into French |
 
-How to read a lesson's table: French as printed, bold rows for the sections, `________` for a blank; English with the Polish below it, the book's Polish in the word lists and the grammar examples and mine elsewhere; IPA after Le Robert's key, from memory, with ‿ for a compulsory liaison. The answers to the exercises are mine, not the book's: an answer follows the sentence after →, or sits in square brackets inside the IPA where the sentence has a blank. [Lesson 4](lecon_04_chez_les_lefevre/README.md) is the exception: the owner had its Polish removed on 2026-10-10, so its table is French, English and IPA, and its cards carry the English where the other lessons' carry the Polish, in the to-French deck too. Each lesson ends with an **AI section**, mine and not the book's: notes on particular words and expressions, each word of the lesson in two or three set phrases, the lesson's words in new sentences, a few new words, and new exercises with their answers, in the same table.
+How to read a lesson's table: French as printed, bold rows for the sections, `________` for a blank; English; IPA after Le Robert's key, from memory, with ‿ for a compulsory liaison. The answers to the exercises are mine, not the book's: an answer follows the sentence after →, or sits in square brackets inside the IPA where the sentence has a blank. Each lesson ends with an **AI section**, mine and not the book's: notes on particular words and expressions, each word of the lesson in two or three set phrases, the lesson's words in new sentences, a few new words, and new exercises with their answers, in the same table.
 
 ## Anki
 
@@ -19,10 +19,10 @@ Two sets, each one file with a subdeck per lesson:
 
 | Set | File | On the front | On the back |
 |---|---|---|---|
-| Szypowska (FR-PL) | [`anki/szypowska_fr_pl.txt`](anki/szypowska_fr_pl.txt) | the French, with the IPA under it | the book's Polish and the English; also the exercises, with their answers |
-| Szypowska (PL-FR) | [`anki/szypowska_pl_fr.txt`](anki/szypowska_pl_fr.txt) | the book's Polish | the French and the IPA, then the English; also the challenges written by hand, under their own subdeck |
+| Szypowska (FR-EN) | [`anki/szypowska_fr_en.txt`](anki/szypowska_fr_en.txt) | the French, with the IPA under it | the English; also the exercises, with their answers |
+| Szypowska (EN-FR) | [`anki/szypowska_en_fr.txt`](anki/szypowska_en_fr.txt) | the English | the French and the IPA; also the challenges written by hand, under their own subdeck |
 
-Each lesson folder holds its own decks under `anki/`: the two generated from the lesson's table by `tools/anki_from_tables.py`, the challenges, and two import files, `<lesson>_import_szypowska_fr_pl.txt` and `<lesson>_import_szypowska_pl_fr.txt`, which hold that lesson alone (the challenges under the second) for importing a new lesson without touching the rest. Cards carry the tags `fr-pl`, `pl-fr`, `exercise` and `challenge`.
+Each lesson folder holds its own decks under `anki/`: the two generated from the lesson's table by `tools/anki_from_tables.py`, the challenges, and two import files, `<lesson>_import_szypowska_fr_en.txt` and `<lesson>_import_szypowska_en_fr.txt`, which hold that lesson alone (the challenges under the second) for importing a new lesson without touching the rest. Cards carry the tags `fr-en`, `en-fr`, `exercise` and `challenge`. Until 2026-10-10 the two sets were Szypowska (FR-PL) and (PL-FR), with the book's Polish on the cards; a deck imported under those names stays in Anki until it is deleted there, and these files import under the new names.
 
 ## The book's notation, and Le Robert's
 

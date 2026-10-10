@@ -1,0 +1,234 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+Mr and Mrs Bertin live in Chaville, near Paris.	Monsieur et Madame Bertin habitent à Chaville dans les environs de Paris.<br>/məsjø e madam bɛʁtɛ̃ abit a ʃavil dɑ̃ lez‿ɑ̃viʁɔ̃ də paʁi/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+They have a small house with a small garden.	Ils ont une petite maison avec un petit jardin.<br>/ilz‿ɔ̃ yn pətit mɛzɔ̃ avɛk œ̃ pəti ʒaʁdɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+And they have two children: a boy and a girl.	Et ils ont deux enfants : un garçon et une fille.<br>/e ilz‿ɔ̃ døz‿ɑ̃fɑ̃ : œ̃ ɡaʁsɔ̃ e yn fij/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+One Sunday their friends Mr and Mrs Lefèvre arrive by bus.	Un dimanche, leurs amis M. et Mme Lefèvre arrivent en autobus.<br>/œ̃ dimɑ̃ʃ, lœʁz‿ami məsjø e madam ləfɛvʁ aʁiv ɑ̃n‿otobys/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+Toutou, a big black dog, guards the garden gate.	Toutou, un gros chien noir, garde la porte du jardin.<br>/tutu, œ̃ ɡʁo ʃjɛ̃ nwaʁ, ɡaʁd la pɔʁt dy ʒaʁdɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+Mr Bertin says to Toutou: “Stay still!”	M. Bertin dit à Toutou : « Reste tranquille ! »<br>/məsjø bɛʁtɛ̃ di a tutu : ʁɛst tʁɑ̃kil/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+He opens the gate.	Il ouvre la porte.<br>/il uvʁ la pɔʁt/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+He says hello to Mrs Lefèvre and to Mr Lefèvre.	Il dit bonjour à Mme Lefèvre et à M. Lefèvre.<br>/il di bɔ̃ʒuʁ a madam ləfɛvʁ e a məsjø ləfɛvʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+“Come in, dear friends!” he says.	— Entrez, chers amis ! — dit-il.<br>/ɑ̃tʁe, ʃɛʁz‿ami ! ditil/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+“Let's stay in the garden,” says Mrs Lefèvre.	— Restons dans le jardin — dit Mme Lefèvre.<br>/ʁɛstɔ̃ dɑ̃ lə ʒaʁdɛ̃, di madam ləfɛvʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+“I love trees and flowers.”	— J’aime les arbres et les fleurs.<br>/ʒɛm lez‿aʁbʁ e le flœʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+In Paris we have no garden.	À Paris nous n’avons pas de jardin.<br>/a paʁi nu navɔ̃ pa də ʒaʁdɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+She gives a book to the boy and sweets to the girl.	Elle donne un livre au garçon et des bonbons à la fille.<br>/ɛl dɔn œ̃ livʁ o ɡaʁsɔ̃ e de bɔ̃bɔ̃ a la fij/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+She looks at the two children.	Elle regarde les deux enfants.<br>/ɛl ʁəɡaʁd le døz‿ɑ̃fɑ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+“How old are you?” she asks the boy.	— Quel âge as-tu ? — demande-t-elle au garçon.<br>/kɛl ɑʒ a ty ? dəmɑ̃dtɛl o ɡaʁsɔ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+“I am ten, madam. And my little sister is six.”	— J’ai dix ans, madame. Et ma petite sœur a six ans.<br>/ʒe diz‿ɑ̃, madam. e ma pətit sœʁ a siz‿ɑ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+Then the children play with the dog.	Puis les enfants jouent avec le chien.<br>/pɥi lez‿ɑ̃fɑ̃ ʒu avɛk lə ʃjɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+The grown-ups talk.	Les grandes personnes parlent.<br>/le ɡʁɑ̃d pɛʁsɔn paʁl/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+Mrs Bertin brings the afternoon snack.	Mme Bertin apporte le goûter.<br>/madam bɛʁtɛ̃ apɔʁt lə ɡute/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+She offers fruit and cakes to the visitors and to the children.	Elle offre des fruits et des gâteaux aux visiteurs et aux enfants.<br>/ɛl ɔfʁ de fʁɥi e de ɡɑto o vizitœʁ e oz‿ɑ̃fɑ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+The little girl also gives a cake to the dog.	La petite fille donne aussi un gâteau au chien.<br>/la pətit fij dɔn osi œ̃ ɡɑto o ʃjɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+After the snack the gentlemen smoke cigarettes and the ladies look at photos.	Après le goûter les messieurs fument des cigarettes et les dames regardent des photos.<br>/apʁɛ lə ɡute le mesjø fym de siɡaʁɛt e le dam ʁəɡaʁd de fɔto/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+The birds sing in the trees.	Les oiseaux chantent dans les arbres.<br>/lez‿wazo ʃɑ̃t dɑ̃ lez‿aʁbʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+The friends have a good day.	Les amis passent bien la journée.<br>/lez‿ami pas bjɛ̃ la ʒuʁne/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+She gives a cake to the dog (the caption of the drawing)	Elle donne un gâteau au chien<br>/ɛl dɔn œ̃ ɡɑto o ʃjɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+6, six	six<br>/sis/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+7, seven	sept<br>/sɛt/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+8, eight	huit<br>/ɥit/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+9, nine	neuf<br>/nœf/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+10, ten	dix<br>/dis/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+11, eleven	onze<br>/ɔ̃z/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+12, twelve	douze<br>/duz/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+sixth	sixième<br>/sizjɛm/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a visit	une visite<br>/yn vizit/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the surroundings, the area	les environs<br>/lez‿ɑ̃viʁɔ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a house	une maison<br>/yn mɛzɔ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a garden	un jardin<br>/œ̃ ʒaʁdɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a child	un enfant<br>/œ̃n‿ɑ̃fɑ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+two children	deux enfants<br>/døz‿ɑ̃fɑ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+small	petit, petite<br>/pəti, pətit/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+Sunday	dimanche (m)<br>/dimɑ̃ʃ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a friend	un ami<br>/œ̃n‿ami/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to arrive	arriver<br>/aʁive/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+(they) arrive	arrivent<br>/aʁiv/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a bus	un autobus<br>/œ̃n‿otobys/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a dog	un chien<br>/œ̃ ʃjɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+big, fat	gros<br>/ɡʁo/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+black	noir<br>/nwaʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to guard, to keep	garder<br>/ɡaʁde/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+(he, she, it) guards	garde<br>/ɡaʁd/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the door, the gate	la porte<br>/la pɔʁt/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to stay	rester<br>/ʁɛste/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+he opens	il ouvre<br>/il uvʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the day, as against the night	le jour<br>/lə ʒuʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+hello, good morning (literally, good day)	bonjour<br>/bɔ̃ʒuʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+dear	cher<br>/ʃɛʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the tree	l’arbre (m)<br>/laʁbʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the trees	les arbres<br>/lez‿aʁbʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the flowers	les fleurs<br>/le flœʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to give	donner<br>/dɔne/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+she gives	elle donne<br>/ɛl dɔn/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a sweet	un bonbon<br>/œ̃ bɔ̃bɔ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+sweets	des bonbons<br>/de bɔ̃bɔ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the age	l’âge (m)<br>/lɑʒ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the sister	la sœur<br>/la sœʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+then	puis<br>/pɥi/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to play	jouer<br>/ʒwe/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+they play	(ils, elles) jouent<br>/ʒu/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the dog	le chien<br>/lə ʃjɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+big, tall	grand, grande<br>/ɡʁɑ̃, ɡʁɑ̃d/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the person	la personne<br>/la pɛʁsɔn/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the afternoon snack	le goûter<br>/lə ɡute/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to offer, here: to serve	offrir<br>/ɔfʁiʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+she offers, she serves	elle offre<br>/ɛl ɔfʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a fruit	un fruit<br>/œ̃ fʁɥi/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a cake	un gâteau<br>/œ̃ ɡɑto/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the visitor	le visiteur<br>/lə vizitœʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+also	aussi<br>/osi/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+after	après<br>/apʁɛ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the gentlemen	les messieurs<br>/le mesjø/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the ladies	les dames<br>/le dam/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the bird	l’oiseau (m)<br>/lwazo/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to sing	chanter<br>/ʃɑ̃te/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+(they) sing	chantent<br>/ʃɑ̃t/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to spend (time)	passer<br>/pase/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+well	bien<br>/bjɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the day, its length	la journée<br>/la ʒuʁne/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+on a visit	en visite<br>/ɑ̃ vizit/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+in Chaville, a town near Paris	à Chaville<br>/a ʃavil/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+one Sunday	un dimanche<br>/œ̃ dimɑ̃ʃ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+their friends	leurs amis<br>/lœʁz‿ami/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+by bus	en autobus<br>/ɑ̃n‿otobys/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+he says to …	(il) dit à …<br>/il di a/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+stay still, keep quiet (literally, stay calm)	reste tranquille<br>/ʁɛst tʁɑ̃kil/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+good morning, sir; good morning, madam	bonjour monsieur, bonjour madame<br>/bɔ̃ʒuʁ məsjø, bɔ̃ʒuʁ madam/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+dear friends	chers amis<br>/ʃɛʁz‿ami/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+how old are you?	quel âge as-tu ?<br>/kɛl ɑʒ a ty/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+my sister	ma sœur<br>/ma sœʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+with the dog	avec le chien<br>/avɛk lə ʃjɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the grown-ups	les grandes personnes<br>/le ɡʁɑ̃d pɛʁsɔn/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+they spend (the day) well	(ils) passent bien<br>/il pas bjɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the lilac	le lilas<br>/lə lila/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the lily of the valley	le muguet<br>/lə myɡɛ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the carnation	l’œillet (m)<br>/lœjɛ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+à before a proper name	à Toutou, à Mme Lefèvre, à M. Lefèvre<br>/a tutu, a madam ləfɛvʁ, a məsjø ləfɛvʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+au, from à + le, before a masculine noun beginning with a consonant	au garçon<br>/o ɡaʁsɔ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+à la before a feminine noun beginning with a consonant	à la fille<br>/a la fij/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+à l' before any noun beginning with a vowel or a mute h	à l’enfant<br>/a lɑ̃fɑ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+aux, from à + les, before a plural noun	aux enfants<br>/oz‿ɑ̃fɑ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a small garden — a small house: the feminine adds -e	un petit jardin — une petite maison<br>/œ̃ pəti ʒaʁdɛ̃ — yn pətit mɛzɔ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the grown-up — the grown-ups: the plural adds -s	la grande personne — les grandes personnes<br>/la ɡʁɑ̃d pɛʁsɔn — le ɡʁɑ̃d pɛʁsɔn/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a cake — cakes: -eau takes -x	un gâteau — des gâteaux<br>/œ̃ ɡɑto — de ɡɑto/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a bird — birds	un oiseau — des oiseaux<br>/œ̃n‿wazo — dez‿wazo/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the cake — the cakes	le gâteau — les gâteaux<br>/lə ɡɑto — le ɡɑto/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the bird — the birds	l’oiseau — les oiseaux<br>/lwazo — lez‿wazo/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+sir, Mr — gentlemen: mon sieur, mes sieurs	monsieur — messieurs<br>/məsjø — mesjø/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+madam, Mrs — ladies: ma dame, mes dames	madame — mesdames<br>/madam — medam/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the two children (already known: the definite article)	Les deux enfants …<br>/le døz‿ɑ̃fɑ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+Dear friends! (the vocative: no article)	Chers amis !<br>/ʃɛʁz‿ami/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+he says · says Mrs Lefèvre · she asks: inversion after direct speech	dit-il · dit Mme Lefèvre · demande-t-elle<br>/ditil · di madam ləfɛvʁ · dəmɑ̃dtɛl/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+Do Mr and Mrs Bertin live near Warsaw?	Est-ce que M. et Mme Bertin habitent dans les environs de Varsovie ?<br>/ɛs kə məsjø e madam bɛʁtɛ̃ abit dɑ̃ lez‿ɑ̃viʁɔ̃ də vaʁsɔvi/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+Do they have two children?	Ont-ils deux enfants ?<br>/ɔ̃til døz‿ɑ̃fɑ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+Do you like trees and flowers?	Aimez-vous les arbres et les fleurs ?<br>/ɛme vu lez‿aʁbʁ e le flœʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+How old is the little girl?	Quel âge a la petite fille ?<br>/kɛl ɑʒ a la pətit fij/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+You give a cake to the boy.	Tu donnes un gâteau au garçon.<br>/ty dɔn œ̃ ɡɑto o ɡaʁsɔ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+The bird sings in the tree.	L’oiseau chante dans l’arbre.<br>/lwazo ʃɑ̃t dɑ̃ laʁbʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+I arrive by car.	J’arrive en auto.<br>/ʒaʁiv ɑ̃n‿oto/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+I have a fruit.	J’ai un fruit.<br>/ʒe œ̃ fʁɥi/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+The lady looks at a photo.	La dame regarde une photo.<br>/la dam ʁəɡaʁd yn fɔto/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+The visitors arrive by bus.	Les visiteurs arrivent en autobus.<br>/le vizitœʁ aʁiv ɑ̃n‿otobys/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+The dog guards the garden.	Le chien garde le jardin.<br>/lə ʃjɛ̃ ɡaʁd lə ʒaʁdɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+Jean says to the dog: “Stay still!”	Jean dit au chien : « Reste tranquille ! »<br>/ʒɑ̃ di o ʃjɛ̃ : ʁɛst tʁɑ̃kil/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+I give a fountain pen to the boy.	Je donne un stylo au garçon.<br>/ʒə dɔn œ̃ stilo o ɡaʁsɔ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+We give sweets to the girl.	Nous donnons des bonbons à la fille.<br>/nu dɔnɔ̃ de bɔ̃bɔ̃ a la fij/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+Give fruit to the children!	Donne des fruits aux enfants !<br>/dɔn de fʁɥi oz‿ɑ̃fɑ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+Bring cigarettes to the visitors!	Apporte des cigarettes aux visiteurs !<br>/apɔʁt de siɡaʁɛt o vizitœʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a silent s, x or n sounded before a vowel	les environs · ils ont · deux enfants · leurs amis · en autobus · chers amis · les arbres · les deux enfants · dix ans · six ans · les enfants · aux enfants · les oiseaux · les amis<br>/lez‿ɑ̃viʁɔ̃ · ilz‿ɔ̃ · døz‿ɑ̃fɑ̃ · lœʁz‿ami · ɑ̃n‿otobys · ʃɛʁz‿ami · lez‿aʁbʁ · le døz‿ɑ̃fɑ̃ · diz‿ɑ̃ · siz‿ɑ̃ · lez‿ɑ̃fɑ̃ · oz‿ɑ̃fɑ̃ · lez‿wazo · lez‿ami/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+six years · six books · at six o'clock	six : six ans · six livres · à six heures<br>/siz‿ɑ̃ · si livʁ · a siz‿œʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+seven days · a week, eight days · eighteen	sept, huit : sept jours · huit jours · dix-huit<br>/sɛt ʒuʁ · ɥi ʒuʁ · dizɥit/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+nine o'clock · ten years · nineteen	neuf, dix : neuf heures · dix ans · dix-neuf<br>/nœv‿œʁ · diz‿ɑ̃ · diznœf/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the eleventh of November · twelve months · at noon, twelve o'clock	onze, douze : le onze novembre · douze mois · à midi<br>/lə ɔ̃z nɔvɑ̃bʁ · duz mwa · a midi/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to visit someone · a guided tour · a business card	une visite : rendre visite à · une visite guidée · une carte de visite<br>/ʁɑ̃dʁ vizit a · yn vizit ɡide · yn kaʁt də vizit/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+around Paris · at about ten o'clock	les environs : dans les environs de Paris · aux environs de dix heures<br>/dɑ̃ lez‿ɑ̃viʁɔ̃ də paʁi · oz‿ɑ̃viʁɔ̃ də diz‿œʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+at home · a country house · a publishing house	une maison : à la maison · une maison de campagne · une maison d’édition<br>/a la mɛzɔ̃ · yn mɛzɔ̃ də kɑ̃paɲ · yn mɛzɔ̃ dedisjɔ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a six-year-old · Marie's children · child's play	un enfant : un enfant de six ans · les enfants de Marie · un jeu d’enfant<br>/œ̃n‿ɑ̃fɑ̃ də siz‿ɑ̃ · lez‿ɑ̃fɑ̃ də maʁi · œ̃ ʒø dɑ̃fɑ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a little boy · breakfast · little by little	petit : un petit garçon · le petit déjeuner · petit à petit<br>/œ̃ pəti ɡaʁsɔ̃ · lə pəti deʒœne · pətit‿a pəti/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+on Sundays · next Sunday · a Sunday in May	dimanche : le dimanche · dimanche prochain · un dimanche de mai<br>/lə dimɑ̃ʃ · dimɑ̃ʃ pʁɔʃɛ̃ · œ̃ dimɑ̃ʃ də mɛ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+an old friend · a childhood friend (a woman) · among friends	un ami : un vieil ami · une amie d’enfance · entre amis<br>/œ̃ vjɛj ami · yn ami dɑ̃fɑ̃s · ɑ̃tʁ ami/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to arrive in Paris · to arrive late · coming!	arriver : arriver à Paris · arriver en retard · j’arrive !<br>/aʁive a paʁi · aʁive ɑ̃ ʁətaʁ · ʒaʁiv/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to take the bus · a bus stop · by bus	un autobus : prendre l’autobus · un arrêt d’autobus · en bus<br>/pʁɑ̃dʁ lotobys · œ̃n‿aʁɛ dotobys · ɑ̃ bys/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a guard dog · beware of the dog · foul weather	un chien : un chien de garde · attention, chien méchant · un temps de chien<br>/œ̃ ʃjɛ̃ də ɡaʁd · atɑ̃sjɔ̃, ʃjɛ̃ meʃɑ̃ · œ̃ tɑ̃ də ʃjɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a big book · a big car · black coffee · it is dark	gros, noir : un gros livre · une grosse voiture · du café noir · il fait noir<br>/œ̃ ɡʁo livʁ · yn ɡʁos vwatyʁ · dy kafe nwaʁ · il fɛ nwaʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to look after the children · to stay in bed · to keep a secret	garder : garder les enfants · garder le lit · garder un secret<br>/ɡaʁde lez‿ɑ̃fɑ̃ · ɡaʁde lə li · ɡaʁde œ̃ səkʁɛ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the garden gate · at the door · the front door	la porte : la porte du jardin · à la porte · la porte d’entrée<br>/la pɔʁt dy ʒaʁdɛ̃ · a la pɔʁt · la pɔʁt dɑ̃tʁe/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to stay at home · to stay calm · there is some bread left	rester : rester à la maison · rester calme · il reste du pain<br>/ʁɛste a la mɛzɔ̃ · ʁɛste kalm · il ʁɛst dy pɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to open the door · to open a book · open on Sundays	ouvrir : ouvrir la porte · ouvrir un livre · ouvert le dimanche<br>/uvʁiʁ la pɔʁt · uvʁiʁ œ̃ livʁ · uvɛʁ lə dimɑ̃ʃ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+every day · have a good day! · all day long	le jour, la journée : tous les jours · bonne journée ! · toute la journée<br>/tu le ʒuʁ · bɔn ʒuʁne · tut la ʒuʁne/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+good morning, madam · to say hello · good evening	bonjour : bonjour madame · dire bonjour · bonsoir<br>/bɔ̃ʒuʁ madam · diʁ bɔ̃ʒuʁ · bɔ̃swaʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+dear friends · dear Jean (in a letter) · it is expensive	cher : chers amis · cher Jean · c’est cher<br>/ʃɛʁz‿ami · ʃɛʁ ʒɑ̃ · sɛ ʃɛʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a fruit tree · a bunch of flowers · in bloom	l’arbre, la fleur : un arbre fruitier · un bouquet de fleurs · en fleurs<br>/œ̃n‿aʁbʁ fʁɥitje · œ̃ bukɛ də flœʁ · ɑ̃ flœʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to give Pierre a book · to look out onto the garden · give me	donner : donner un livre à Pierre · donner sur le jardin · donne-moi<br>/dɔne œ̃ livʁ a pjɛʁ · dɔne syʁ lə ʒaʁdɛ̃ · dɔn mwa/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a box of sweets · a mint	un bonbon : une boîte de bonbons · un bonbon à la menthe<br>/yn bwat də bɔ̃bɔ̃ · œ̃ bɔ̃bɔ̃ a la mɑ̃t/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+how old are you? · at the age of ten · the Middle Ages	l’âge : quel âge as-tu ? · à l’âge de dix ans · le Moyen Âge<br>/kɛl ɑʒ a ty · a lɑʒ də diz‿ɑ̃ · lə mwajɛn‿ɑʒ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+my little sister · my big sister · the brother and the sister	la sœur : ma petite sœur · ma grande sœur · le frère et la sœur<br>/ma pətit sœʁ · ma ɡʁɑ̃d sœʁ · lə fʁɛʁ e la sœʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+and then · then, next	puis : et puis · puis, ensuite<br>/e pɥi · pɥi, ɑ̃sɥit/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to play with the dog · to play cards · to play the piano	jouer : jouer avec le chien · jouer aux cartes · jouer du piano<br>/ʒwe avɛk lə ʃjɛ̃ · ʒwe o kaʁt · ʒwe dy pjano/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a big house · the grown-ups · a great friend	grand : une grande maison · les grandes personnes · un grand ami<br>/yn ɡʁɑ̃d mɛzɔ̃ · le ɡʁɑ̃d pɛʁsɔn · œ̃ ɡʁɑ̃t‿ami/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a grown-up · nobody! · in person	la personne : une grande personne · personne ! · en personne<br>/yn ɡʁɑ̃d pɛʁsɔn · pɛʁsɔn · ɑ̃ pɛʁsɔn/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to have the afternoon snack · to give a present · to give Marie flowers	le goûter, offrir : prendre le goûter · offrir un cadeau · offrir des fleurs à Marie<br>/pʁɑ̃dʁ lə ɡute · ɔfʁiʁ œ̃ kado · ɔfʁiʁ de flœʁ a maʁi/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+fresh fruit · a fruit juice · a chocolate cake · a birthday cake	un fruit, un gâteau : des fruits frais · un jus de fruit · un gâteau au chocolat · un gâteau d’anniversaire<br>/de fʁɥi fʁɛ · œ̃ ʒy də fʁɥi · œ̃ ɡɑto o ʃɔkɔla · œ̃ ɡɑto danivɛʁsɛʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the museum's visitors · an evening visitor	le visiteur : les visiteurs du musée · un visiteur du soir<br>/le vizitœʁ dy myze · œ̃ vizitœʁ dy swaʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+after the snack · the afternoon · after you!	après : après le goûter · l’après-midi · après vous !<br>/apʁɛ lə ɡute · lapʁɛmidi · apʁɛ vu/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+ladies and gentlemen · hello, everyone (in a shop) · an elderly lady	messieurs, dames : Mesdames et Messieurs · bonjour messieurs-dames · une dame âgée<br>/medam e mesjø · bɔ̃ʒuʁ mesjødam · yn dam ɑʒe/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a bird sings · as the crow flies · to sing a song	l’oiseau, chanter : un oiseau chante · à vol d’oiseau · chanter une chanson<br>/œ̃n‿wazo ʃɑ̃t · a vɔl dwazo · ʃɑ̃te yn ʃɑ̃sɔ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+to spend the day · to go past the house · pass me the salt	passer : passer la journée · passer devant la maison · passe-moi le sel<br>/pase la ʒuʁne · pase dəvɑ̃ la mɛzɔ̃ · pas mwa lə sɛl/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+very well · of course · it's going well	bien : très bien · bien sûr · ça va bien<br>/tʁɛ bjɛ̃ · bjɛ̃ syʁ · sa va bjɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+stay still! · a quiet spot · leave me alone	tranquille : reste tranquille ! · un coin tranquille · laisse-moi tranquille<br>/ʁɛst tʁɑ̃kil · œ̃ kwɛ̃ tʁɑ̃kil · lɛs mwa tʁɑ̃kil/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+We live in the Warsaw area.	Nous habitons dans les environs de Varsovie.<br>/nuz‿abitɔ̃ dɑ̃ lez‿ɑ̃viʁɔ̃ də vaʁsɔvi/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+On Sunday we arrive at the Bertins' by bus.	Dimanche, nous arrivons chez les Bertin en autobus.<br>/dimɑ̃ʃ, nuz‿aʁivɔ̃ ʃe le bɛʁtɛ̃ ɑ̃n‿otobys/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+The big black dog guards the house.	Le gros chien noir garde la maison.<br>/lə ɡʁo ʃjɛ̃ nwaʁ ɡaʁd la mɛzɔ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+Open the door and say hello to the visitors!	Ouvre la porte et dis bonjour aux visiteurs !<br>/uvʁ la pɔʁt e di bɔ̃ʒuʁ o vizitœʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+I give flowers to my sister.	Je donne des fleurs à ma sœur.<br>/ʒə dɔn de flœʁ a ma sœʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+How old is your brother? He is twelve.	Quel âge a ton frère ? Il a douze ans.<br>/kɛl ɑʒ a tɔ̃ fʁɛʁ ? il a duz ɑ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+The children play in the garden, then they have their snack.	Les enfants jouent dans le jardin, puis ils prennent le goûter.<br>/lez‿ɑ̃fɑ̃ ʒu dɑ̃ lə ʒaʁdɛ̃, pɥi il pʁɛn lə ɡute/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+Mrs Bertin offers the ladies coffee.	Madame Bertin offre du café aux dames.<br>/madam bɛʁtɛ̃ ɔfʁ dy kafe o dam/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+After the snack the gentlemen stay in the garden.	Après le goûter, les messieurs restent dans le jardin.<br>/apʁɛ lə ɡute, le mesjø ʁɛst dɑ̃ lə ʒaʁdɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+The birds sing well on Sunday mornings.	Les oiseaux chantent bien le dimanche matin.<br>/lez‿wazo ʃɑ̃t bjɛ̃ lə dimɑ̃ʃ matɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the brother	le frère<br>/lə fʁɛʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the morning	le matin<br>/lə matɛ̃/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the evening	le soir<br>/lə swaʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the week	la semaine<br>/la səmɛn/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the present, the presents: another -eau	le cadeau, les cadeaux<br>/lə kado, le kado/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the cat	le chat<br>/lə ʃa/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the adult	l’adulte<br>/ladylt/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the bus, the everyday word	le bus<br>/lə bys/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a black bird	un oiseau noir<br>/œ̃n‿wazo nwaʁ/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+the chocolate cake	le gâteau au chocolat<br>/lə ɡɑto o ʃɔkɔla/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+madam	madame<br>/madam/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+a grown-up	une grande personne<br>/yn ɡʁɑ̃d pɛʁsɔn/	french szypowska lecon06 en-fr	French::Szypowska (EN-FR)::Lesson 6: En visite
+au, à la, à l’ or aux: Elle donne un livre ___ garçon.	au garçon /o ɡaʁsɔ̃/ (au = à + le, masculine, consonant)	french szypowska lecon06 challenge grammar	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+au, à la, à l’ or aux: Il offre des gâteaux ___ enfants.	aux enfants /oz‿ɑ̃fɑ̃/ (aux = à + les, plural; the x sounds as /z/)	french szypowska lecon06 challenge grammar	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+au, à la, à l’ or aux: Elle donne des bonbons ___ fille.	à la fille /a la fij/ (feminine, consonant)	french szypowska lecon06 challenge grammar	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+au, à la, à l’ or aux: Je dis bonjour ___ amie de Pierre.	à l’amie de Pierre /a lami də pjɛʁ/ (any noun beginning with a vowel)	french szypowska lecon06 challenge grammar	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Say: Mr Bertin says to the dog: “Stay still!”	M. Bertin dit au chien : « Reste tranquille ! » /məsjø bɛʁtɛ̃ di o ʃjɛ̃ : ʁɛst tʁɑ̃kil/	french szypowska lecon06 challenge say	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Say: The birds sing in the trees.	Les oiseaux chantent dans les arbres. /lez‿wazo ʃɑ̃t dɑ̃ lez‿aʁbʁ/	french szypowska lecon06 challenge say	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Say: I am ten, and my little sister is six.	J’ai dix ans, et ma petite sœur a six ans. /ʒe diz‿ɑ̃, e ma pətit sœʁ a siz‿ɑ̃/	french szypowska lecon06 challenge say	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Say: Their friends arrive by bus one Sunday.	Leurs amis arrivent en autobus un dimanche. /lœʁz‿ami aʁiv ɑ̃n‿otobys œ̃ dimɑ̃ʃ/	french szypowska lecon06 challenge say	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Say: Come in, dear friends!	Entrez, chers amis ! /ɑ̃tʁe, ʃɛʁz‿ami/ (no article in the vocative)	french szypowska lecon06 challenge say	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Say: In Paris we have no garden.	À Paris nous n’avons pas de jardin. /a paʁi nu navɔ̃ pa də ʒaʁdɛ̃/	french szypowska lecon06 challenge say	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Count from six to twelve, with IPA	six /sis/ · sept /sɛt/ · huit /ɥit/ · neuf /nœf/ · dix /dis/ · onze /ɔ̃z/ · douze /duz/	french szypowska lecon06 challenge say	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+How are six, dix and neuf read before ans and heures?	six ans /siz‿ɑ̃/, dix ans /diz‿ɑ̃/, neuf heures /nœv‿œʁ/: s and x sound as /z/, the f of neuf as /v/ (only before ans and heures)	french szypowska lecon06 challenge sound	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+How are six, dix and huit read before a consonant?	six livres /si livʁ/, dix jours /di ʒuʁ/, huit jours /ɥi ʒuʁ/: the final consonant is silent	french szypowska lecon06 challenge sound	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Plural of un gâteau, un oiseau, un cadeau	des gâteaux /de ɡɑto/, des oiseaux /dez‿wazo/, des cadeaux /de kado/: -eau takes -x	french szypowska lecon06 challenge grammar	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Plural of monsieur and madame	messieurs /mesjø/, mesdames /medam/: both halves change (mes sieurs, mes dames)	french szypowska lecon06 challenge grammar	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Feminine of petit, grand, gros, noir	petite /pətit/, grande /ɡʁɑ̃d/, grosse /ɡʁos/, noire /nwaʁ/: add -e, and the final consonant sounds (gros doubles the s)	french szypowska lecon06 challenge grammar	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Why les in J’aime les arbres et les fleurs?	A kind in general takes the definite article: trees and flowers as such. /ʒɛm lez‿aʁbʁ e le flœʁ/	french szypowska lecon06 challenge grammar	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+What happens to the verb after direct speech: « Entrez ! » ___ il	Inversion: dit-il /ditil/, dit Mme Lefèvre /di madam ləfɛvʁ/, demande-t-elle /dəmɑ̃dtɛl/	french szypowska lecon06 challenge grammar	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Read the book’s brackets: [nöf], [leflö:r], [lasö:r]	neuf /nœf/, les fleurs /le flœʁ/, la sœur /la sœʁ/: the book’s ö is /œ/	french szypowska lecon06 challenge notation	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Read the book’s brackets: [luazo], [dozãfã], [ãnɔtɔbüs]	l’oiseau /lwazo/, deux enfants /døz‿ɑ̃fɑ̃/, en autobus /ɑ̃n‿otobys/	french szypowska lecon06 challenge notation	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Read the book’s bracket: [kɛla:ż atü]	quel âge as-tu ? /kɛl ɑʒ a ty/	french szypowska lecon06 challenge notation	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+The liaisons in the first two sentences of the reading	les‿environs /lez‿ɑ̃viʁɔ̃/, ils‿ont /ilz‿ɔ̃/, deux‿enfants /døz‿ɑ̃fɑ̃/	french szypowska lecon06 challenge sound	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+What is le goûter, and when?	The children’s afternoon snack, around four o’clock. /lə ɡute/ The verb goûter is to taste.	french szypowska lecon06 challenge words	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Who are les grandes personnes?	The grown-ups, in children’s words. /le ɡʁɑ̃d pɛʁsɔn/ The neutral word is les adultes /lez‿adylt/.	french szypowska lecon06 challenge words	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Translate: Give fruit to the children!	Donne des fruits aux enfants ! /dɔn de fʁɥi oz‿ɑ̃fɑ̃/	french szypowska lecon06 challenge exercise	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Translate: We give sweets to the girl.	Nous donnons des bonbons à la fille. /nu dɔnɔ̃ de bɔ̃bɔ̃ a la fij/	french szypowska lecon06 challenge exercise	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Make plural: L’oiseau chante dans l’arbre.	Les oiseaux chantent dans les arbres. /lez‿wazo ʃɑ̃t dɑ̃ lez‿aʁbʁ/	french szypowska lecon06 challenge exercise	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Answer: Quel âge a la petite fille ?	Elle a six ans. /ɛl a siz‿ɑ̃/	french szypowska lecon06 challenge exercise	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges
+Three flowers of the lesson, with IPA	le lilas /lə lila/ (lilac) · le muguet /lə myɡɛ/ (lily of the valley) · l’œillet /lœjɛ/ (carnation)	french szypowska lecon06 challenge words	French::Szypowska (EN-FR)::Lesson 6: En visite::Challenges

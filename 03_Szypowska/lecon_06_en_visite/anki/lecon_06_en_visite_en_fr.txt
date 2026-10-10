@@ -1,0 +1,206 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Szypowska (EN-FR)::Lesson 6: En visite
+#tags:french szypowska lecon06 en-fr
+#columns:Front	Back	Tags
+#tags column:3
+Mr and Mrs Bertin live in Chaville, near Paris.	Monsieur et Madame Bertin habitent à Chaville dans les environs de Paris.<br>/məsjø e madam bɛʁtɛ̃ abit a ʃavil dɑ̃ lez‿ɑ̃viʁɔ̃ də paʁi/	en-fr
+They have a small house with a small garden.	Ils ont une petite maison avec un petit jardin.<br>/ilz‿ɔ̃ yn pətit mɛzɔ̃ avɛk œ̃ pəti ʒaʁdɛ̃/	en-fr
+And they have two children: a boy and a girl.	Et ils ont deux enfants : un garçon et une fille.<br>/e ilz‿ɔ̃ døz‿ɑ̃fɑ̃ : œ̃ ɡaʁsɔ̃ e yn fij/	en-fr
+One Sunday their friends Mr and Mrs Lefèvre arrive by bus.	Un dimanche, leurs amis M. et Mme Lefèvre arrivent en autobus.<br>/œ̃ dimɑ̃ʃ, lœʁz‿ami məsjø e madam ləfɛvʁ aʁiv ɑ̃n‿otobys/	en-fr
+Toutou, a big black dog, guards the garden gate.	Toutou, un gros chien noir, garde la porte du jardin.<br>/tutu, œ̃ ɡʁo ʃjɛ̃ nwaʁ, ɡaʁd la pɔʁt dy ʒaʁdɛ̃/	en-fr
+Mr Bertin says to Toutou: “Stay still!”	M. Bertin dit à Toutou : « Reste tranquille ! »<br>/məsjø bɛʁtɛ̃ di a tutu : ʁɛst tʁɑ̃kil/	en-fr
+He opens the gate.	Il ouvre la porte.<br>/il uvʁ la pɔʁt/	en-fr
+He says hello to Mrs Lefèvre and to Mr Lefèvre.	Il dit bonjour à Mme Lefèvre et à M. Lefèvre.<br>/il di bɔ̃ʒuʁ a madam ləfɛvʁ e a məsjø ləfɛvʁ/	en-fr
+“Come in, dear friends!” he says.	— Entrez, chers amis ! — dit-il.<br>/ɑ̃tʁe, ʃɛʁz‿ami ! ditil/	en-fr
+“Let's stay in the garden,” says Mrs Lefèvre.	— Restons dans le jardin — dit Mme Lefèvre.<br>/ʁɛstɔ̃ dɑ̃ lə ʒaʁdɛ̃, di madam ləfɛvʁ/	en-fr
+“I love trees and flowers.”	— J’aime les arbres et les fleurs.<br>/ʒɛm lez‿aʁbʁ e le flœʁ/	en-fr
+In Paris we have no garden.	À Paris nous n’avons pas de jardin.<br>/a paʁi nu navɔ̃ pa də ʒaʁdɛ̃/	en-fr
+She gives a book to the boy and sweets to the girl.	Elle donne un livre au garçon et des bonbons à la fille.<br>/ɛl dɔn œ̃ livʁ o ɡaʁsɔ̃ e de bɔ̃bɔ̃ a la fij/	en-fr
+She looks at the two children.	Elle regarde les deux enfants.<br>/ɛl ʁəɡaʁd le døz‿ɑ̃fɑ̃/	en-fr
+“How old are you?” she asks the boy.	— Quel âge as-tu ? — demande-t-elle au garçon.<br>/kɛl ɑʒ a ty ? dəmɑ̃dtɛl o ɡaʁsɔ̃/	en-fr
+“I am ten, madam. And my little sister is six.”	— J’ai dix ans, madame. Et ma petite sœur a six ans.<br>/ʒe diz‿ɑ̃, madam. e ma pətit sœʁ a siz‿ɑ̃/	en-fr
+Then the children play with the dog.	Puis les enfants jouent avec le chien.<br>/pɥi lez‿ɑ̃fɑ̃ ʒu avɛk lə ʃjɛ̃/	en-fr
+The grown-ups talk.	Les grandes personnes parlent.<br>/le ɡʁɑ̃d pɛʁsɔn paʁl/	en-fr
+Mrs Bertin brings the afternoon snack.	Mme Bertin apporte le goûter.<br>/madam bɛʁtɛ̃ apɔʁt lə ɡute/	en-fr
+She offers fruit and cakes to the visitors and to the children.	Elle offre des fruits et des gâteaux aux visiteurs et aux enfants.<br>/ɛl ɔfʁ de fʁɥi e de ɡɑto o vizitœʁ e oz‿ɑ̃fɑ̃/	en-fr
+The little girl also gives a cake to the dog.	La petite fille donne aussi un gâteau au chien.<br>/la pətit fij dɔn osi œ̃ ɡɑto o ʃjɛ̃/	en-fr
+After the snack the gentlemen smoke cigarettes and the ladies look at photos.	Après le goûter les messieurs fument des cigarettes et les dames regardent des photos.<br>/apʁɛ lə ɡute le mesjø fym de siɡaʁɛt e le dam ʁəɡaʁd de fɔto/	en-fr
+The birds sing in the trees.	Les oiseaux chantent dans les arbres.<br>/lez‿wazo ʃɑ̃t dɑ̃ lez‿aʁbʁ/	en-fr
+The friends have a good day.	Les amis passent bien la journée.<br>/lez‿ami pas bjɛ̃ la ʒuʁne/	en-fr
+She gives a cake to the dog (the caption of the drawing)	Elle donne un gâteau au chien<br>/ɛl dɔn œ̃ ɡɑto o ʃjɛ̃/	en-fr
+6, six	six<br>/sis/	en-fr
+7, seven	sept<br>/sɛt/	en-fr
+8, eight	huit<br>/ɥit/	en-fr
+9, nine	neuf<br>/nœf/	en-fr
+10, ten	dix<br>/dis/	en-fr
+11, eleven	onze<br>/ɔ̃z/	en-fr
+12, twelve	douze<br>/duz/	en-fr
+sixth	sixième<br>/sizjɛm/	en-fr
+a visit	une visite<br>/yn vizit/	en-fr
+the surroundings, the area	les environs<br>/lez‿ɑ̃viʁɔ̃/	en-fr
+a house	une maison<br>/yn mɛzɔ̃/	en-fr
+a garden	un jardin<br>/œ̃ ʒaʁdɛ̃/	en-fr
+a child	un enfant<br>/œ̃n‿ɑ̃fɑ̃/	en-fr
+two children	deux enfants<br>/døz‿ɑ̃fɑ̃/	en-fr
+small	petit, petite<br>/pəti, pətit/	en-fr
+Sunday	dimanche (m)<br>/dimɑ̃ʃ/	en-fr
+a friend	un ami<br>/œ̃n‿ami/	en-fr
+to arrive	arriver<br>/aʁive/	en-fr
+(they) arrive	arrivent<br>/aʁiv/	en-fr
+a bus	un autobus<br>/œ̃n‿otobys/	en-fr
+a dog	un chien<br>/œ̃ ʃjɛ̃/	en-fr
+big, fat	gros<br>/ɡʁo/	en-fr
+black	noir<br>/nwaʁ/	en-fr
+to guard, to keep	garder<br>/ɡaʁde/	en-fr
+(he, she, it) guards	garde<br>/ɡaʁd/	en-fr
+the door, the gate	la porte<br>/la pɔʁt/	en-fr
+to stay	rester<br>/ʁɛste/	en-fr
+he opens	il ouvre<br>/il uvʁ/	en-fr
+the day, as against the night	le jour<br>/lə ʒuʁ/	en-fr
+hello, good morning (literally, good day)	bonjour<br>/bɔ̃ʒuʁ/	en-fr
+dear	cher<br>/ʃɛʁ/	en-fr
+the tree	l’arbre (m)<br>/laʁbʁ/	en-fr
+the trees	les arbres<br>/lez‿aʁbʁ/	en-fr
+the flowers	les fleurs<br>/le flœʁ/	en-fr
+to give	donner<br>/dɔne/	en-fr
+she gives	elle donne<br>/ɛl dɔn/	en-fr
+a sweet	un bonbon<br>/œ̃ bɔ̃bɔ̃/	en-fr
+sweets	des bonbons<br>/de bɔ̃bɔ̃/	en-fr
+the age	l’âge (m)<br>/lɑʒ/	en-fr
+the sister	la sœur<br>/la sœʁ/	en-fr
+then	puis<br>/pɥi/	en-fr
+to play	jouer<br>/ʒwe/	en-fr
+they play	(ils, elles) jouent<br>/ʒu/	en-fr
+the dog	le chien<br>/lə ʃjɛ̃/	en-fr
+big, tall	grand, grande<br>/ɡʁɑ̃, ɡʁɑ̃d/	en-fr
+the person	la personne<br>/la pɛʁsɔn/	en-fr
+the afternoon snack	le goûter<br>/lə ɡute/	en-fr
+to offer, here: to serve	offrir<br>/ɔfʁiʁ/	en-fr
+she offers, she serves	elle offre<br>/ɛl ɔfʁ/	en-fr
+a fruit	un fruit<br>/œ̃ fʁɥi/	en-fr
+a cake	un gâteau<br>/œ̃ ɡɑto/	en-fr
+the visitor	le visiteur<br>/lə vizitœʁ/	en-fr
+also	aussi<br>/osi/	en-fr
+after	après<br>/apʁɛ/	en-fr
+the gentlemen	les messieurs<br>/le mesjø/	en-fr
+the ladies	les dames<br>/le dam/	en-fr
+the bird	l’oiseau (m)<br>/lwazo/	en-fr
+to sing	chanter<br>/ʃɑ̃te/	en-fr
+(they) sing	chantent<br>/ʃɑ̃t/	en-fr
+to spend (time)	passer<br>/pase/	en-fr
+well	bien<br>/bjɛ̃/	en-fr
+the day, its length	la journée<br>/la ʒuʁne/	en-fr
+on a visit	en visite<br>/ɑ̃ vizit/	en-fr
+in Chaville, a town near Paris	à Chaville<br>/a ʃavil/	en-fr
+one Sunday	un dimanche<br>/œ̃ dimɑ̃ʃ/	en-fr
+their friends	leurs amis<br>/lœʁz‿ami/	en-fr
+by bus	en autobus<br>/ɑ̃n‿otobys/	en-fr
+he says to …	(il) dit à …<br>/il di a/	en-fr
+stay still, keep quiet (literally, stay calm)	reste tranquille<br>/ʁɛst tʁɑ̃kil/	en-fr
+good morning, sir; good morning, madam	bonjour monsieur, bonjour madame<br>/bɔ̃ʒuʁ məsjø, bɔ̃ʒuʁ madam/	en-fr
+dear friends	chers amis<br>/ʃɛʁz‿ami/	en-fr
+how old are you?	quel âge as-tu ?<br>/kɛl ɑʒ a ty/	en-fr
+my sister	ma sœur<br>/ma sœʁ/	en-fr
+with the dog	avec le chien<br>/avɛk lə ʃjɛ̃/	en-fr
+the grown-ups	les grandes personnes<br>/le ɡʁɑ̃d pɛʁsɔn/	en-fr
+they spend (the day) well	(ils) passent bien<br>/il pas bjɛ̃/	en-fr
+the lilac	le lilas<br>/lə lila/	en-fr
+the lily of the valley	le muguet<br>/lə myɡɛ/	en-fr
+the carnation	l’œillet (m)<br>/lœjɛ/	en-fr
+à before a proper name	à Toutou, à Mme Lefèvre, à M. Lefèvre<br>/a tutu, a madam ləfɛvʁ, a məsjø ləfɛvʁ/	en-fr
+au, from à + le, before a masculine noun beginning with a consonant	au garçon<br>/o ɡaʁsɔ̃/	en-fr
+à la before a feminine noun beginning with a consonant	à la fille<br>/a la fij/	en-fr
+à l' before any noun beginning with a vowel or a mute h	à l’enfant<br>/a lɑ̃fɑ̃/	en-fr
+aux, from à + les, before a plural noun	aux enfants<br>/oz‿ɑ̃fɑ̃/	en-fr
+a small garden — a small house: the feminine adds -e	un petit jardin — une petite maison<br>/œ̃ pəti ʒaʁdɛ̃ — yn pətit mɛzɔ̃/	en-fr
+the grown-up — the grown-ups: the plural adds -s	la grande personne — les grandes personnes<br>/la ɡʁɑ̃d pɛʁsɔn — le ɡʁɑ̃d pɛʁsɔn/	en-fr
+a cake — cakes: -eau takes -x	un gâteau — des gâteaux<br>/œ̃ ɡɑto — de ɡɑto/	en-fr
+a bird — birds	un oiseau — des oiseaux<br>/œ̃n‿wazo — dez‿wazo/	en-fr
+the cake — the cakes	le gâteau — les gâteaux<br>/lə ɡɑto — le ɡɑto/	en-fr
+the bird — the birds	l’oiseau — les oiseaux<br>/lwazo — lez‿wazo/	en-fr
+sir, Mr — gentlemen: mon sieur, mes sieurs	monsieur — messieurs<br>/məsjø — mesjø/	en-fr
+madam, Mrs — ladies: ma dame, mes dames	madame — mesdames<br>/madam — medam/	en-fr
+the two children (already known: the definite article)	Les deux enfants …<br>/le døz‿ɑ̃fɑ̃/	en-fr
+Dear friends! (the vocative: no article)	Chers amis !<br>/ʃɛʁz‿ami/	en-fr
+he says · says Mrs Lefèvre · she asks: inversion after direct speech	dit-il · dit Mme Lefèvre · demande-t-elle<br>/ditil · di madam ləfɛvʁ · dəmɑ̃dtɛl/	en-fr
+Do Mr and Mrs Bertin live near Warsaw?	Est-ce que M. et Mme Bertin habitent dans les environs de Varsovie ?<br>/ɛs kə məsjø e madam bɛʁtɛ̃ abit dɑ̃ lez‿ɑ̃viʁɔ̃ də vaʁsɔvi/	en-fr
+Do they have two children?	Ont-ils deux enfants ?<br>/ɔ̃til døz‿ɑ̃fɑ̃/	en-fr
+Do you like trees and flowers?	Aimez-vous les arbres et les fleurs ?<br>/ɛme vu lez‿aʁbʁ e le flœʁ/	en-fr
+How old is the little girl?	Quel âge a la petite fille ?<br>/kɛl ɑʒ a la pətit fij/	en-fr
+You give a cake to the boy.	Tu donnes un gâteau au garçon.<br>/ty dɔn œ̃ ɡɑto o ɡaʁsɔ̃/	en-fr
+The bird sings in the tree.	L’oiseau chante dans l’arbre.<br>/lwazo ʃɑ̃t dɑ̃ laʁbʁ/	en-fr
+I arrive by car.	J’arrive en auto.<br>/ʒaʁiv ɑ̃n‿oto/	en-fr
+I have a fruit.	J’ai un fruit.<br>/ʒe œ̃ fʁɥi/	en-fr
+The lady looks at a photo.	La dame regarde une photo.<br>/la dam ʁəɡaʁd yn fɔto/	en-fr
+The visitors arrive by bus.	Les visiteurs arrivent en autobus.<br>/le vizitœʁ aʁiv ɑ̃n‿otobys/	en-fr
+The dog guards the garden.	Le chien garde le jardin.<br>/lə ʃjɛ̃ ɡaʁd lə ʒaʁdɛ̃/	en-fr
+Jean says to the dog: “Stay still!”	Jean dit au chien : « Reste tranquille ! »<br>/ʒɑ̃ di o ʃjɛ̃ : ʁɛst tʁɑ̃kil/	en-fr
+I give a fountain pen to the boy.	Je donne un stylo au garçon.<br>/ʒə dɔn œ̃ stilo o ɡaʁsɔ̃/	en-fr
+We give sweets to the girl.	Nous donnons des bonbons à la fille.<br>/nu dɔnɔ̃ de bɔ̃bɔ̃ a la fij/	en-fr
+Give fruit to the children!	Donne des fruits aux enfants !<br>/dɔn de fʁɥi oz‿ɑ̃fɑ̃/	en-fr
+Bring cigarettes to the visitors!	Apporte des cigarettes aux visiteurs !<br>/apɔʁt de siɡaʁɛt o vizitœʁ/	en-fr
+a silent s, x or n sounded before a vowel	les environs · ils ont · deux enfants · leurs amis · en autobus · chers amis · les arbres · les deux enfants · dix ans · six ans · les enfants · aux enfants · les oiseaux · les amis<br>/lez‿ɑ̃viʁɔ̃ · ilz‿ɔ̃ · døz‿ɑ̃fɑ̃ · lœʁz‿ami · ɑ̃n‿otobys · ʃɛʁz‿ami · lez‿aʁbʁ · le døz‿ɑ̃fɑ̃ · diz‿ɑ̃ · siz‿ɑ̃ · lez‿ɑ̃fɑ̃ · oz‿ɑ̃fɑ̃ · lez‿wazo · lez‿ami/	en-fr
+six years · six books · at six o'clock	six : six ans · six livres · à six heures<br>/siz‿ɑ̃ · si livʁ · a siz‿œʁ/	en-fr
+seven days · a week, eight days · eighteen	sept, huit : sept jours · huit jours · dix-huit<br>/sɛt ʒuʁ · ɥi ʒuʁ · dizɥit/	en-fr
+nine o'clock · ten years · nineteen	neuf, dix : neuf heures · dix ans · dix-neuf<br>/nœv‿œʁ · diz‿ɑ̃ · diznœf/	en-fr
+the eleventh of November · twelve months · at noon, twelve o'clock	onze, douze : le onze novembre · douze mois · à midi<br>/lə ɔ̃z nɔvɑ̃bʁ · duz mwa · a midi/	en-fr
+to visit someone · a guided tour · a business card	une visite : rendre visite à · une visite guidée · une carte de visite<br>/ʁɑ̃dʁ vizit a · yn vizit ɡide · yn kaʁt də vizit/	en-fr
+around Paris · at about ten o'clock	les environs : dans les environs de Paris · aux environs de dix heures<br>/dɑ̃ lez‿ɑ̃viʁɔ̃ də paʁi · oz‿ɑ̃viʁɔ̃ də diz‿œʁ/	en-fr
+at home · a country house · a publishing house	une maison : à la maison · une maison de campagne · une maison d’édition<br>/a la mɛzɔ̃ · yn mɛzɔ̃ də kɑ̃paɲ · yn mɛzɔ̃ dedisjɔ̃/	en-fr
+a six-year-old · Marie's children · child's play	un enfant : un enfant de six ans · les enfants de Marie · un jeu d’enfant<br>/œ̃n‿ɑ̃fɑ̃ də siz‿ɑ̃ · lez‿ɑ̃fɑ̃ də maʁi · œ̃ ʒø dɑ̃fɑ̃/	en-fr
+a little boy · breakfast · little by little	petit : un petit garçon · le petit déjeuner · petit à petit<br>/œ̃ pəti ɡaʁsɔ̃ · lə pəti deʒœne · pətit‿a pəti/	en-fr
+on Sundays · next Sunday · a Sunday in May	dimanche : le dimanche · dimanche prochain · un dimanche de mai<br>/lə dimɑ̃ʃ · dimɑ̃ʃ pʁɔʃɛ̃ · œ̃ dimɑ̃ʃ də mɛ/	en-fr
+an old friend · a childhood friend (a woman) · among friends	un ami : un vieil ami · une amie d’enfance · entre amis<br>/œ̃ vjɛj ami · yn ami dɑ̃fɑ̃s · ɑ̃tʁ ami/	en-fr
+to arrive in Paris · to arrive late · coming!	arriver : arriver à Paris · arriver en retard · j’arrive !<br>/aʁive a paʁi · aʁive ɑ̃ ʁətaʁ · ʒaʁiv/	en-fr
+to take the bus · a bus stop · by bus	un autobus : prendre l’autobus · un arrêt d’autobus · en bus<br>/pʁɑ̃dʁ lotobys · œ̃n‿aʁɛ dotobys · ɑ̃ bys/	en-fr
+a guard dog · beware of the dog · foul weather	un chien : un chien de garde · attention, chien méchant · un temps de chien<br>/œ̃ ʃjɛ̃ də ɡaʁd · atɑ̃sjɔ̃, ʃjɛ̃ meʃɑ̃ · œ̃ tɑ̃ də ʃjɛ̃/	en-fr
+a big book · a big car · black coffee · it is dark	gros, noir : un gros livre · une grosse voiture · du café noir · il fait noir<br>/œ̃ ɡʁo livʁ · yn ɡʁos vwatyʁ · dy kafe nwaʁ · il fɛ nwaʁ/	en-fr
+to look after the children · to stay in bed · to keep a secret	garder : garder les enfants · garder le lit · garder un secret<br>/ɡaʁde lez‿ɑ̃fɑ̃ · ɡaʁde lə li · ɡaʁde œ̃ səkʁɛ/	en-fr
+the garden gate · at the door · the front door	la porte : la porte du jardin · à la porte · la porte d’entrée<br>/la pɔʁt dy ʒaʁdɛ̃ · a la pɔʁt · la pɔʁt dɑ̃tʁe/	en-fr
+to stay at home · to stay calm · there is some bread left	rester : rester à la maison · rester calme · il reste du pain<br>/ʁɛste a la mɛzɔ̃ · ʁɛste kalm · il ʁɛst dy pɛ̃/	en-fr
+to open the door · to open a book · open on Sundays	ouvrir : ouvrir la porte · ouvrir un livre · ouvert le dimanche<br>/uvʁiʁ la pɔʁt · uvʁiʁ œ̃ livʁ · uvɛʁ lə dimɑ̃ʃ/	en-fr
+every day · have a good day! · all day long	le jour, la journée : tous les jours · bonne journée ! · toute la journée<br>/tu le ʒuʁ · bɔn ʒuʁne · tut la ʒuʁne/	en-fr
+good morning, madam · to say hello · good evening	bonjour : bonjour madame · dire bonjour · bonsoir<br>/bɔ̃ʒuʁ madam · diʁ bɔ̃ʒuʁ · bɔ̃swaʁ/	en-fr
+dear friends · dear Jean (in a letter) · it is expensive	cher : chers amis · cher Jean · c’est cher<br>/ʃɛʁz‿ami · ʃɛʁ ʒɑ̃ · sɛ ʃɛʁ/	en-fr
+a fruit tree · a bunch of flowers · in bloom	l’arbre, la fleur : un arbre fruitier · un bouquet de fleurs · en fleurs<br>/œ̃n‿aʁbʁ fʁɥitje · œ̃ bukɛ də flœʁ · ɑ̃ flœʁ/	en-fr
+to give Pierre a book · to look out onto the garden · give me	donner : donner un livre à Pierre · donner sur le jardin · donne-moi<br>/dɔne œ̃ livʁ a pjɛʁ · dɔne syʁ lə ʒaʁdɛ̃ · dɔn mwa/	en-fr
+a box of sweets · a mint	un bonbon : une boîte de bonbons · un bonbon à la menthe<br>/yn bwat də bɔ̃bɔ̃ · œ̃ bɔ̃bɔ̃ a la mɑ̃t/	en-fr
+how old are you? · at the age of ten · the Middle Ages	l’âge : quel âge as-tu ? · à l’âge de dix ans · le Moyen Âge<br>/kɛl ɑʒ a ty · a lɑʒ də diz‿ɑ̃ · lə mwajɛn‿ɑʒ/	en-fr
+my little sister · my big sister · the brother and the sister	la sœur : ma petite sœur · ma grande sœur · le frère et la sœur<br>/ma pətit sœʁ · ma ɡʁɑ̃d sœʁ · lə fʁɛʁ e la sœʁ/	en-fr
+and then · then, next	puis : et puis · puis, ensuite<br>/e pɥi · pɥi, ɑ̃sɥit/	en-fr
+to play with the dog · to play cards · to play the piano	jouer : jouer avec le chien · jouer aux cartes · jouer du piano<br>/ʒwe avɛk lə ʃjɛ̃ · ʒwe o kaʁt · ʒwe dy pjano/	en-fr
+a big house · the grown-ups · a great friend	grand : une grande maison · les grandes personnes · un grand ami<br>/yn ɡʁɑ̃d mɛzɔ̃ · le ɡʁɑ̃d pɛʁsɔn · œ̃ ɡʁɑ̃t‿ami/	en-fr
+a grown-up · nobody! · in person	la personne : une grande personne · personne ! · en personne<br>/yn ɡʁɑ̃d pɛʁsɔn · pɛʁsɔn · ɑ̃ pɛʁsɔn/	en-fr
+to have the afternoon snack · to give a present · to give Marie flowers	le goûter, offrir : prendre le goûter · offrir un cadeau · offrir des fleurs à Marie<br>/pʁɑ̃dʁ lə ɡute · ɔfʁiʁ œ̃ kado · ɔfʁiʁ de flœʁ a maʁi/	en-fr
+fresh fruit · a fruit juice · a chocolate cake · a birthday cake	un fruit, un gâteau : des fruits frais · un jus de fruit · un gâteau au chocolat · un gâteau d’anniversaire<br>/de fʁɥi fʁɛ · œ̃ ʒy də fʁɥi · œ̃ ɡɑto o ʃɔkɔla · œ̃ ɡɑto danivɛʁsɛʁ/	en-fr
+the museum's visitors · an evening visitor	le visiteur : les visiteurs du musée · un visiteur du soir<br>/le vizitœʁ dy myze · œ̃ vizitœʁ dy swaʁ/	en-fr
+after the snack · the afternoon · after you!	après : après le goûter · l’après-midi · après vous !<br>/apʁɛ lə ɡute · lapʁɛmidi · apʁɛ vu/	en-fr
+ladies and gentlemen · hello, everyone (in a shop) · an elderly lady	messieurs, dames : Mesdames et Messieurs · bonjour messieurs-dames · une dame âgée<br>/medam e mesjø · bɔ̃ʒuʁ mesjødam · yn dam ɑʒe/	en-fr
+a bird sings · as the crow flies · to sing a song	l’oiseau, chanter : un oiseau chante · à vol d’oiseau · chanter une chanson<br>/œ̃n‿wazo ʃɑ̃t · a vɔl dwazo · ʃɑ̃te yn ʃɑ̃sɔ̃/	en-fr
+to spend the day · to go past the house · pass me the salt	passer : passer la journée · passer devant la maison · passe-moi le sel<br>/pase la ʒuʁne · pase dəvɑ̃ la mɛzɔ̃ · pas mwa lə sɛl/	en-fr
+very well · of course · it's going well	bien : très bien · bien sûr · ça va bien<br>/tʁɛ bjɛ̃ · bjɛ̃ syʁ · sa va bjɛ̃/	en-fr
+stay still! · a quiet spot · leave me alone	tranquille : reste tranquille ! · un coin tranquille · laisse-moi tranquille<br>/ʁɛst tʁɑ̃kil · œ̃ kwɛ̃ tʁɑ̃kil · lɛs mwa tʁɑ̃kil/	en-fr
+We live in the Warsaw area.	Nous habitons dans les environs de Varsovie.<br>/nuz‿abitɔ̃ dɑ̃ lez‿ɑ̃viʁɔ̃ də vaʁsɔvi/	en-fr
+On Sunday we arrive at the Bertins' by bus.	Dimanche, nous arrivons chez les Bertin en autobus.<br>/dimɑ̃ʃ, nuz‿aʁivɔ̃ ʃe le bɛʁtɛ̃ ɑ̃n‿otobys/	en-fr
+The big black dog guards the house.	Le gros chien noir garde la maison.<br>/lə ɡʁo ʃjɛ̃ nwaʁ ɡaʁd la mɛzɔ̃/	en-fr
+Open the door and say hello to the visitors!	Ouvre la porte et dis bonjour aux visiteurs !<br>/uvʁ la pɔʁt e di bɔ̃ʒuʁ o vizitœʁ/	en-fr
+I give flowers to my sister.	Je donne des fleurs à ma sœur.<br>/ʒə dɔn de flœʁ a ma sœʁ/	en-fr
+How old is your brother? He is twelve.	Quel âge a ton frère ? Il a douze ans.<br>/kɛl ɑʒ a tɔ̃ fʁɛʁ ? il a duz ɑ̃/	en-fr
+The children play in the garden, then they have their snack.	Les enfants jouent dans le jardin, puis ils prennent le goûter.<br>/lez‿ɑ̃fɑ̃ ʒu dɑ̃ lə ʒaʁdɛ̃, pɥi il pʁɛn lə ɡute/	en-fr
+Mrs Bertin offers the ladies coffee.	Madame Bertin offre du café aux dames.<br>/madam bɛʁtɛ̃ ɔfʁ dy kafe o dam/	en-fr
+After the snack the gentlemen stay in the garden.	Après le goûter, les messieurs restent dans le jardin.<br>/apʁɛ lə ɡute, le mesjø ʁɛst dɑ̃ lə ʒaʁdɛ̃/	en-fr
+The birds sing well on Sunday mornings.	Les oiseaux chantent bien le dimanche matin.<br>/lez‿wazo ʃɑ̃t bjɛ̃ lə dimɑ̃ʃ matɛ̃/	en-fr
+the brother	le frère<br>/lə fʁɛʁ/	en-fr
+the morning	le matin<br>/lə matɛ̃/	en-fr
+the evening	le soir<br>/lə swaʁ/	en-fr
+the week	la semaine<br>/la səmɛn/	en-fr
+the present, the presents: another -eau	le cadeau, les cadeaux<br>/lə kado, le kado/	en-fr
+the cat	le chat<br>/lə ʃa/	en-fr
+the adult	l’adulte<br>/ladylt/	en-fr
+the bus, the everyday word	le bus<br>/lə bys/	en-fr
+a black bird	un oiseau noir<br>/œ̃n‿wazo nwaʁ/	en-fr
+the chocolate cake	le gâteau au chocolat<br>/lə ɡɑto o ʃɔkɔla/	en-fr
+madam	madame<br>/madam/	en-fr
+a grown-up	une grande personne<br>/yn ɡʁɑ̃d pɛʁsɔn/	en-fr

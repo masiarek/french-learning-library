@@ -1,0 +1,167 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Szypowska (EN-FR)::Lesson 5: Dialogue
+#tags:french szypowska lecon05 en-fr
+#columns:Front	Back	Tags
+#tags column:3
+I have a fountain pen. Do I have a fountain pen?	— J’ai un stylo. Est-ce que j’ai un stylo ?<br>/ʒe œ̃ stilo. ɛs kə ʒe œ̃ stilo/	en-fr
+Yes, you have a fountain pen.	— Oui, vous avez un stylo.<br>/wi, vuz‿ave œ̃ stilo/	en-fr
+Do you have a notebook?	— Avez-vous un carnet ?<br>/ave vu œ̃ kaʁnɛ/	en-fr
+Yes, I have a notebook.	— Oui, j’ai un carnet.<br>/wi, ʒe œ̃ kaʁnɛ/	en-fr
+Pierre, do you have a penknife?	— Pierre, as-tu un canif ?<br>/pjɛʁ, a ty œ̃ kanif/	en-fr
+No, I have no penknife.	— Non, je n’ai pas de canif.<br>/nɔ̃, ʒə ne pa də kanif/	en-fr
+Pierre and Annette, do you have pencils?	— Pierre et Annette, avez-vous des crayons ?<br>/pjɛʁ e anɛt, ave vu de kʁɛjɔ̃/	en-fr
+Yes, we have pencils, but we have no exercise books.	— Oui, nous avons des crayons, mais nous n’avons pas de cahiers.<br>/wi, nuz‿avɔ̃ de kʁɛjɔ̃, mɛ nu navɔ̃ pa də kaje/	en-fr
+Does Pierre have a pen?	— Est-ce que Pierre a une plume ?<br>/ɛs kə pjɛʁ a yn plym/	en-fr
+Does he have a pen?	A-t-il une plume ?<br>/atil yn plym/	en-fr
+Yes, he has a pen.	— Oui, il a une plume.<br>/wi, il a yn plym/	en-fr
+Does Annette have an exercise book?	— Est-ce qu’Annette a un cahier ?<br>/ɛs kanɛt a œ̃ kaje/	en-fr
+Does she have an exercise book?	A-t-elle un cahier ?<br>/atɛl œ̃ kaje/	en-fr
+Yes, she has an exercise book.	— Oui, elle a un cahier.<br>/wi, ɛl a œ̃ kaje/	en-fr
+Do Pierre and Annette have pencils?	— Est-ce que Pierre et Annette ont des crayons ?<br>/ɛs kə pjɛʁ e anɛt ɔ̃ de kʁɛjɔ̃/	en-fr
+Do they have pencils?	Ont-ils des crayons ?<br>/ɔ̃til de kʁɛjɔ̃/	en-fr
+Yes, they have pencils.	— Oui, ils ont des crayons.<br>/wi, ilz‿ɔ̃ de kʁɛjɔ̃/	en-fr
+Do they have exercise books?	— Est-ce qu’ils ont des cahiers ?<br>/ɛs kilz‿ɔ̃ de kaje/	en-fr
+No, they have no exercise books.	— Non, ils n’ont pas de cahiers.<br>/nɔ̃, il nɔ̃ pa də kaje/	en-fr
+five	cinq<br>/sɛ̃k/	en-fr
+fifth	cinquième<br>/sɛ̃kjɛm/	en-fr
+I have	j’ai<br>/ʒe/	en-fr
+a fountain pen	un stylo<br>/œ̃ stilo/	en-fr
+you have	vous avez<br>/vuz‿ave/	en-fr
+do you have?	avez-vous ?<br>/ave vu/	en-fr
+a notebook	un carnet<br>/œ̃ kaʁnɛ/	en-fr
+do you have? (2)	as-tu ?<br>/a ty/	en-fr
+a penknife	un canif<br>/œ̃ kanif/	en-fr
+I have not	je n’ai pas<br>/ʒə ne pa/	en-fr
+Annette	Annette<br>/anɛt/	en-fr
+a pencil	un crayon<br>/œ̃ kʁɛjɔ̃/	en-fr
+we have	nous avons<br>/nuz‿avɔ̃/	en-fr
+but	mais<br>/mɛ/	en-fr
+we have not	nous n’avons pas<br>/nu navɔ̃ pa/	en-fr
+he has	il a<br>/il a/	en-fr
+a pen, a nib	une plume<br>/yn plym/	en-fr
+an exercise book	un cahier<br>/œ̃ kaje/	en-fr
+they have	(ils, elles) ont<br>/ilz‿ɔ̃, ɛlz‿ɔ̃/	en-fr
+I have no penknife	je n’ai pas de canif<br>/ʒə ne pa də kanif/	en-fr
+we have no exercise books	nous n’avons pas de cahiers<br>/nu navɔ̃ pa də kaje/	en-fr
+the ink	l’encre (f.)<br>/lɑ̃kʁ/	en-fr
+an inkwell	un encrier<br>/œ̃n‿ɑ̃kʁije/	en-fr
+an eraser	une gomme<br>/yn ɡɔm/	en-fr
+a blotting paper	un papier buvard<br>/œ̃ papje byvaʁ/	en-fr
+a ruler	une règle<br>/yn ʁɛɡl/	en-fr
+a ballpoint pen	un stylo à bille<br>/œ̃ stilo a bij/	en-fr
+liaison between pronoun and verb	vous avez<br>/vuz‿ave/	en-fr
+liaison between pronoun and verb (2)	nous avons<br>/nuz‿avɔ̃/	en-fr
+liaison between pronoun and verb (3)	ils ont<br>/ilz‿ɔ̃/	en-fr
+liaison between verb and pronoun	ont-ils<br>/ɔ̃til/	en-fr
+mute h	cahier<br>/kaje/	en-fr
+to have	avoir<br>/avwaʁ/	en-fr
+the present tense	Présent<br>/pʁezɑ̃/	en-fr
+affirmative	Forme affirmative<br>/fɔʁm afiʁmativ/	en-fr
+you have (2)	tu as<br>/ty a/	en-fr
+she has	elle a<br>/ɛl a/	en-fr
+one has	on a<br>/ɔ̃n‿a/	en-fr
+they have (2)	ils ont<br>/ilz‿ɔ̃/	en-fr
+they have (women)	elles ont<br>/ɛlz‿ɔ̃/	en-fr
+negative	Forme négative<br>/fɔʁm neɡativ/	en-fr
+you have not	tu n’as pas<br>/ty na pa/	en-fr
+he has not	il n’a pas<br>/il na pa/	en-fr
+she has not	elle n’a pas<br>/ɛl na pa/	en-fr
+one has not	on n’a pas<br>/ɔ̃ na pa/	en-fr
+you have not (2)	vous n’avez pas<br>/vu nave pa/	en-fr
+they have not	ils n’ont pas<br>/il nɔ̃ pa/	en-fr
+they have not (women)	elles n’ont pas<br>/ɛl nɔ̃ pa/	en-fr
+interrogative	Forme interrogative<br>/fɔʁm ɛ̃teʁɔɡativ/	en-fr
+do I have?	est-ce que j’ai ?<br>/ɛs kə ʒe/	en-fr
+does he have?	a-t-il ?<br>/atil/	en-fr
+does she have?	a-t-elle ?<br>/atɛl/	en-fr
+does one have?	a-t-on ?<br>/atɔ̃/	en-fr
+I have a fountain pen	j’ai un stylo<br>/ʒe œ̃ stilo/	en-fr
+I have no fountain pen	je n’ai pas de stylo<br>/ʒə ne pa də stilo/	en-fr
+I have fountain pens	j’ai des stylos<br>/ʒe de stilo/	en-fr
+I have no fountain pens	je n’ai pas de stylos<br>/ʒə ne pa də stilo/	en-fr
+I have a pen	j’ai une plume<br>/ʒe yn plym/	en-fr
+I have no pen	je n’ai pas de plume<br>/ʒə ne pa də plym/	en-fr
+I have pens	j’ai des plumes<br>/ʒe de plym/	en-fr
+I have no pens	je n’ai pas de plumes<br>/ʒə ne pa də plym/	en-fr
+I have a …, some … (the box on the page)	j’ai un …, une …, des …<br>/ʒe œ̃, yn, de/	en-fr
+I have no … (the box on the page)	je n’ai pas de …<br>/ʒə ne pa də/	en-fr
+“I have no fountain pen!” (the caption of the drawing)	« Je n’ai pas de stylo ! »<br>/ʒə ne pa də stilo/	en-fr
+do you speak? (inversion)	parlez-vous ?<br>/paʁle vu/	en-fr
+do I speak?	est-ce que je parle ?<br>/ɛs kə ʒə paʁl/	en-fr
+does Pierre have?	est-ce que Pierre a ?<br>/ɛs kə pjɛʁ a/	en-fr
+does Annette have?	est-ce qu’Annette a ?<br>/ɛs kanɛt a/	en-fr
+do Pierre and Annette have?	est-ce que Pierre et Annette ont ?<br>/ɛs kə pjɛʁ e anɛt ɔ̃/	en-fr
+I have a penknife. — We have penknives. (the model)	J’ai un canif. — Nous avons des canifs.<br>/ʒe œ̃ kanif. nuz‿avɔ̃ de kanif/	en-fr
+I have an exercise book.	J’ai un cahier.<br>/ʒe œ̃ kaje/	en-fr
+I have a fountain pen.	J’ai un stylo.<br>/ʒe œ̃ stilo/	en-fr
+I am visiting a flat.	Je visite un appartement.<br>/ʒə vizit œ̃n‿apaʁtəmɑ̃/	en-fr
+I am showing the room.	Je montre la chambre.<br>/ʒə mɔ̃tʁ la ʃɑ̃bʁ/	en-fr
+I am looking at a postcard.	Je regarde une carte.<br>/ʒə ʁəɡaʁd yn kaʁt/	en-fr
+Do you have a pencil?	As-tu un crayon ?<br>/a ty œ̃ kʁɛjɔ̃/	en-fr
+Does he have a penknife?	A-t-il un canif ?<br>/atil œ̃ kanif/	en-fr
+Do we have exercise books?	Avons-nous des cahiers ?<br>/avɔ̃ nu de kaje/	en-fr
+I have a notebook.	J’ai un carnet.<br>/ʒe œ̃ kaʁnɛ/	en-fr
+We have pens.	Nous avons des plumes.<br>/nuz‿avɔ̃ de plym/	en-fr
+They have exercise books.	Ils ont des cahiers.<br>/ilz‿ɔ̃ de kaje/	en-fr
+You have a fountain pen.	Tu as un stylo.<br>/ty a œ̃ stilo/	en-fr
+I am visiting Pierre's house.	Je visite la maison de Pierre.<br>/ʒə vizit la mɛzɔ̃ də pjɛʁ/	en-fr
+Annette's family has a flat in Warsaw.	La famille d’Annette a un appartement à Varsovie.<br>/la famij danɛt a œ̃n‿apaʁtəmɑ̃ a vaʁsɔvi/	en-fr
+Does Mrs B. have a flat in Paris?	Est-ce que Madame B. a un appartement à Paris ?<br>/ɛs kə madam be a œ̃n‿apaʁtəmɑ̃ a paʁi/	en-fr
+She has a daughter and a son.	Elle a une fille et un fils.<br>/ɛl a yn fij e œ̃ fis/	en-fr
+You have pencils, but you have no pens.	Vous avez des crayons, mais vous n’avez pas de plumes.<br>/vuz‿ave de kʁɛjɔ̃, mɛ vu nave pa də plym/	en-fr
+Do you have a notebook? (2)	Avez-vous un carnet ?<br>/ave vu œ̃ kaʁnɛ/	en-fr
+Do they have a flat?	Est-ce qu’ils ont un appartement ?<br>/ɛs kilz‿ɔ̃ œ̃n‿apaʁtəmɑ̃/	en-fr
+the apostrophe where je, ne, que, le lose their vowel before a vowel	j’ai, je n’ai pas, nous n’avons pas, ils n’ont pas, est-ce qu’Annette, est-ce qu’ils, l’encre<br>/ʒe, ʒə ne pa, nu navɔ̃ pa, il nɔ̃ pa, ɛs kanɛt, ɛs kil, lɑ̃kʁ/	en-fr
+I am thirteen years old: age takes avoir	J’ai treize ans.<br>/ʒe tʁɛz ɑ̃/	en-fr
+How old are you?	Quel âge as-tu ?<br>/kɛl ɑʒ a ty/	en-fr
+I am hungry.	J’ai faim.<br>/ʒe fɛ̃/	en-fr
+I am thirsty.	J’ai soif.<br>/ʒe swaf/	en-fr
+Do you have a fountain pen? (the statement, with the voice rising)	Tu as un stylo ?<br>/ty a œ̃ stilo/	en-fr
+Do you have a fountain pen? (with est-ce que)	Est-ce que tu as un stylo ?<br>/ɛs kə ty a œ̃ stilo/	en-fr
+Do you have a fountain pen? (inversion)	As-tu un stylo ?<br>/a ty œ̃ stilo/	en-fr
+They have pencils.	Ils ont des crayons.<br>/ilz‿ɔ̃ de kʁɛjɔ̃/	en-fr
+They are in Paris: /z/ against /s/ is the whole difference.	Ils sont à Paris.<br>/il sɔ̃ a paʁi/	en-fr
+He is not looking at any photos: de after the negated verb.	Il ne regarde pas de photos.<br>/il nə ʁəɡaʁd pa də fɔto/	en-fr
+It is not a fountain pen, it is a nib pen: after c'est the article stays.	Ce n’est pas un stylo, c’est une plume.<br>/sə nɛ pa œ̃ stilo, sɛt‿yn plym/	en-fr
+one, two, three, four, five	un, deux, trois, quatre, cinq<br>/œ̃, dø, tʁwa, katʁ, sɛ̃k/	en-fr
+five books: before a consonant older usage drops the /k/, /sɛ̃ livʁ/; /sɛ̃k/ is usual today.	cinq livres<br>/sɛ̃k livʁ/	en-fr
+a book	un livre<br>/œ̃ livʁ/	en-fr
+a pencil case	une trousse<br>/yn tʁus/	en-fr
+a sheet of paper	une feuille de papier<br>/yn fœj də papje/	en-fr
+a pencil sharpener	un taille-crayon<br>/œ̃ tajkʁɛjɔ̃/	en-fr
+a bag	un sac<br>/œ̃ sak/	en-fr
+at five o'clock · the five fingers · five minutes	cinq : à cinq heures · les cinq doigts · cinq minutes<br>/a sɛ̃k‿œʁ · le sɛ̃k dwa · sɛ̃k minyt/	en-fr
+on the fifth floor · the fifth lesson · in the second year of French secondary school	cinquième : au cinquième étage · la cinquième leçon · en cinquième<br>/o sɛ̃kjɛm etaʒ · la sɛ̃kjɛm ləsɔ̃ · ɑ̃ sɛ̃kjɛm/	en-fr
+to be hungry · to be twenty · to be right	avoir : avoir faim · avoir vingt ans · avoir raison<br>/avwaʁ fɛ̃ · avwaʁ vɛ̃t‿ɑ̃ · avwaʁ ʁɛzɔ̃/	en-fr
+a ballpoint pen · a fountain pen · to write in pen	un stylo : un stylo à bille · un stylo à encre · écrire au stylo<br>/œ̃ stilo a bij · œ̃ stilo a ɑ̃kʁ · ekʁiʁ o stilo/	en-fr
+an address book · a school report · a chequebook	un carnet : un carnet d’adresses · un carnet de notes · un carnet de chèques<br>/œ̃ kaʁnɛ dadʁɛs · œ̃ kaʁnɛ də nɔt · œ̃ kaʁnɛ də ʃɛk/	en-fr
+to open one's penknife · a Swiss army knife	un canif : ouvrir son canif · un canif suisse<br>/uvʁiʁ sɔ̃ kanif · œ̃ kanif sɥis/	en-fr
+a coloured pencil · to write in pencil · a lead pencil	un crayon : un crayon de couleur · écrire au crayon · un crayon à papier<br>/œ̃ kʁɛjɔ̃ də kulœʁ · ekʁiʁ o kʁɛjɔ̃ · œ̃ kʁɛjɔ̃ a papje/	en-fr
+why, yes! · of course not! · not only … but also	mais : mais oui ! · mais non ! · non seulement … mais aussi<br>/mɛ wi · mɛ nɔ̃ · nɔ̃ sœlmɑ̃ … mɛ osi/	en-fr
+a bird's feather · a fountain pen · to write with a nib pen	une plume : une plume d’oiseau · un stylo-plume · écrire à la plume<br>/yn plym dwazo · œ̃ stilo plym · ekʁiʁ a la plym/	en-fr
+an exercise book · a rough book · a homework diary	un cahier : un cahier d’exercices · un cahier de brouillon · un cahier de textes<br>/œ̃ kaje dɛɡzɛʁsis · œ̃ kaje də bʁujɔ̃ · œ̃ kaje də tɛkst/	en-fr
+blue ink · an ink stain · to write in ink	l’encre : de l’encre bleue · une tache d’encre · écrire à l’encre<br>/də lɑ̃kʁ blø · yn taʃ dɑ̃kʁ · ekʁiʁ a lɑ̃kʁ/	en-fr
+an eraser · chewing gum	une gomme : une gomme à effacer · une gomme à mâcher<br>/yn ɡɔm a efase · yn ɡɔm a maʃe/	en-fr
+a ruler with a scale · the rules of the game · as a general rule	une règle : une règle graduée · les règles du jeu · en règle générale<br>/yn ʁɛɡl ɡʁadɥe · le ʁɛɡl dy ʒø · ɑ̃ ʁɛɡl ʒeneʁal/	en-fr
+a sheet of paper · writing paper · identity papers	le papier : une feuille de papier · du papier à lettres · les papiers d’identité<br>/yn fœj də papje · dy papje a lɛtʁ · le papje didɑ̃tite/	en-fr
+why, yes · yes and no · to say no	oui, non : mais oui · oui et non · dire non<br>/mɛ wi · wi e nɔ̃ · diʁ nɔ̃/	en-fr
+Pierre has a fountain pen but no exercise book.	Pierre a un stylo, mais il n’a pas de cahier.<br>/pjɛʁ a œ̃ stilo, mɛ il na pa də kaje/	en-fr
+Do you have coloured pencils?	Avez-vous des crayons de couleur ?<br>/ave vu de kʁɛjɔ̃ də kulœʁ/	en-fr
+Annette has three exercise books and two notebooks in her bag.	Annette a trois cahiers et deux carnets dans son sac.<br>/anɛt a tʁwa kaje e dø kaʁnɛ dɑ̃ sɔ̃ sak/	en-fr
+Do you have an eraser? No, I have no eraser.	Est-ce que tu as une gomme ? Non, je n’ai pas de gomme.<br>/ɛs kə ty a yn ɡɔm ? nɔ̃, ʒə ne pa də ɡɔm/	en-fr
+We have a ruler but no ballpoint pen.	Nous avons une règle, mais nous n’avons pas de stylo à bille.<br>/nuz‿avɔ̃ yn ʁɛɡl, mɛ nu navɔ̃ pa də stilo a bij/	en-fr
+We have books and exercise books on the desk.	On a des livres et des cahiers sur le bureau.<br>/ɔ̃n‿a de livʁ e de kaje syʁ lə byʁo/	en-fr
+What do you have in the pencil case?	Qu’est-ce que vous avez dans la trousse ?<br>/kɛs kə vuz‿ave dɑ̃ la tʁus/	en-fr
+The ink is blue; the pencil is black.	L’encre est bleue ; le crayon est noir.<br>/lɑ̃kʁ ɛ blø ; lə kʁɛjɔ̃ ɛ nwaʁ/	en-fr
+blue	bleu, bleue<br>/blø/	en-fr
+black	noir, noire<br>/nwaʁ/	en-fr
+coloured	de couleur<br>/də kulœʁ/	en-fr
+paper	le papier<br>/lə papje/	en-fr
+to write	écrire<br>/ekʁiʁ/	en-fr
+to draw	dessiner<br>/desine/	en-fr
+You have a penknife.	Tu as un canif.<br>/ty a œ̃ kanif/	en-fr
+She has pencils.	Elle a des crayons.<br>/ɛl a de kʁɛjɔ̃/	en-fr
+Do you have an eraser?	As-tu une gomme ?<br>/a ty yn ɡɔm/	en-fr
+Do they (women) have exercise books?	Ont-elles des cahiers ?<br>/ɔ̃tɛl de kaje/	en-fr

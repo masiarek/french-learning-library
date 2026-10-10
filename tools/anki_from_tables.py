@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 """Make each lesson's Anki decks from the table on its page, one per direction.
 
-    python3 tools/anki_from_tables.py 03_Szypowska            # write <lesson>/anki/<lesson>_fr_pl.txt and _pl_fr.txt
+    python3 tools/anki_from_tables.py 03_Szypowska            # write <lesson>/anki/<lesson>_fr_en.txt and _en_fr.txt
     python3 tools/anki_from_tables.py 03_Szypowska --check    # write nothing; fail if any deck is stale (CI)
 
-A lesson page here is one table: French | English, with the Polish below it |
-IPA. Every row with a transcription gives one card in each direction. In the
-chapter of the Polish textbook the directions are FR-PL (the French with its
-IPA on the front, the Polish and the English on the back) and PL-FR (the book's Polish
-on the front, the French with its IPA and the English on the back); in the
-teacher's chapter, the chapter of the pronunciation videos and the chapter of
-the thousand words, which have no Polish, FR-EN and EN-FR. An exercise row
+A lesson page here is one table: French | English | IPA. Every row with a
+transcription gives one card in each direction, FR-EN (the French with its
+IPA on the front, the English on the back) and EN-FR (the English on the
+front, the French with its IPA on the back). A chapter whose table has the
+Polish below the English, on a second line of the cell, is marked so in
+CHAPTERS and gets FR-PL and PL-FR instead, the Polish on the card where the
+English would be and the English after it; the Polish textbook's chapter was
+such a chapter until the owner had its Polish removed (2026-10-10). An exercise row
 gives one card, in the French-front deck: a sentence with a blank, or the
 book's sentence with the instruction of its section, on the front, and the
 answer on the back. Heading rows, in bold, name the sections; the page's H1
@@ -31,7 +32,7 @@ BLANK = "________"
 # chapter folder -> (name in the deck, French-front direction, to-French direction, has Polish)
 CHAPTERS = {
     "02_Yosser_teacher": ("Yosser", "FR-EN", "EN-FR", False),
-    "03_Szypowska": ("Szypowska", "FR-PL", "PL-FR", True),
+    "03_Szypowska": ("Szypowska", "FR-EN", "EN-FR", False),
     "04_Pronunciation": ("Pronunciation", "FR-EN", "EN-FR", False),
     "05_1000_words": ("1000 words", "FR-EN", "EN-FR", False),
 }

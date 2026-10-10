@@ -1,0 +1,685 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+Madame Renoir, Marie et Jean regardent les photos et les cartes.<br>/madam ʁənwaʁ, maʁi e ʒɑ̃ ʁəɡaʁd le fɔto e le kaʁt/	Mrs Renoir, Marie and Jean are looking at the photos and the postcards.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+— Voici la photo de Suzanne, l’amie de Marie.<br>/vwasi la fɔto də syzan, lami də maʁi/	Here is the photo of Suzanne, Marie’s friend.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+— Et voilà la photo de Pierre, le camarade de Jean.<br>/e vwala la fɔto də pjɛʁ, lə kamaʁad də ʒɑ̃/	And there is the photo of Pierre, Jean’s friend.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+— Voici Paris, la capitale de la France. Regarde la Tour Eiffel !<br>/vwasi paʁi, la kapital də la fʁɑ̃s. ʁəɡaʁd la tuʁ ɛfɛl/	Here is Paris, the capital of France. Look at the Eiffel Tower!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+— Et voilà Varsovie, la capitale de la Pologne. Regardez le Palais de la Culture et de la Science !<br>/e vwala vaʁsɔvi, la kapital də la pɔlɔɲ. ʁəɡaʁde lə palɛ də la kyltyʁ e də la sjɑ̃s/	And there is Warsaw, the capital of Poland. Look at the Palace of Culture and Science!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+— A Varsovie on parle polonais.<br>/a vaʁsɔvi ɔ̃ paʁl pɔlɔnɛ/	In Warsaw people speak Polish.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+— A Paris on parle français.<br>/a paʁi ɔ̃ paʁl fʁɑ̃sɛ/	In Paris people speak French.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Jean regarde Marie<br>/ʒɑ̃ ʁəɡaʁd maʁi/	Jean looks at Marie	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Marie regarde Jean<br>/maʁi ʁəɡaʁd ʒɑ̃/	Marie looks at Jean	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+trois<br>/tʁwa/	three	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+troisième<br>/tʁwazjɛm/	third	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Suzanne<br>/syzan/	Suzanne	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+l’amie (f.)<br>/lami/	the friend, a woman	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+voilà<br>/vwala/	there is, there (pointing at something)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Pierre<br>/pjɛʁ/	Pierre	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le camarade<br>/lə kamaʁad/	the friend, the mate	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Paris<br>/paʁi/	Paris	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la capitale<br>/la kapital/	the capital	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la France<br>/la fʁɑ̃s/	France	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+regarde !<br>/ʁəɡaʁd/	look!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Varsovie<br>/vaʁsɔvi/	Warsaw	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la Pologne<br>/la pɔlɔɲ/	Poland	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la tour<br>/la tuʁ/	the tower	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le palais<br>/lə palɛ/	the palace	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la culture<br>/la kyltyʁ/	culture	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la science<br>/la sjɑ̃s/	science	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+aussi<br>/osi/	also	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+à Varsovie<br>/a vaʁsɔvi/	in Warsaw	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+à Paris<br>/a paʁi/	in Paris	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+nous aimons<br>/nuz‿ɛmɔ̃/	we like	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+voici<br>/vwasi/	here is, this is (for what is nearer)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+voilà<br>/vwala/ (2)	there is, that is (for what is farther)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la Tour Eiffel<br>/la tuʁ ɛfɛl/	the Eiffel Tower	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Impératif<br>/ɛ̃peʁatif/	the imperative	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Présent<br>/pʁezɑ̃/	the present tense	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+regardons !<br>/ʁəɡaʁdɔ̃/	let’s look!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Regarde la Tour Eiffel !<br>/ʁəɡaʁd la tuʁ ɛfɛl/	Look at the Eiffel Tower!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Regardez le Palais de la Culture !<br>/ʁəɡaʁde lə palɛ də la kyltyʁ/	Look at the Palace of Culture!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+tu regardes<br>/ty ʁəɡaʁd/	you look (one person)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+regarde !<br>/ʁəɡaʁd/ (2)	look! (to one person)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+nous regardons<br>/nu ʁəɡaʁdɔ̃/	we look	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+vous regardez<br>/vu ʁəɡaʁde/	you look (several people, or politely)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+regardez !<br>/ʁəɡaʁde/	look! (to several people, or politely)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le<br>/lə/	the (masculine singular)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la<br>/la/	the (feminine singular)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+les<br>/le/	the (plural, both genders)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+l’<br>/l/	the (before a vowel, both genders)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Marie et Jean regardent les photos<br>/maʁi e ʒɑ̃ ʁəɡaʁd le fɔto/	Marie and Jean are looking at the photos (the ones already mentioned)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Ils regardent des photos.<br>/il ʁəɡaʁd de fɔto/	They are looking at photos (any photos).	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+des<br>/de/	some, any (the indefinite article in the plural)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la photo de Pierre<br>/la fɔto də pjɛʁ/	Pierre’s photo	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la photo de Suzanne<br>/la fɔto də syzan/	Suzanne’s photo	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le camarade de Jean<br>/lə kamaʁad də ʒɑ̃/	Jean’s friend	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+l’amie de Marie<br>/lami də maʁi/	Marie’s friend	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le Palais de la Culture<br>/lə palɛ də la kyltyʁ/	the Palace of Culture	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+de<br>/də/	of (the counterpart of the Polish genitive)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la capitale de la Pologne<br>/la kapital də la pɔlɔɲ/	the capital of Poland	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le Palais de la Culture et de la Science<br>/lə palɛ də la kyltyʁ e də la sjɑ̃s/	the Palace of Culture and Science	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici une photo<br>/vwasi yn fɔto/	Here is a photo (the caption of the first picture)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voilà la photo de Pierre<br>/vwala la fɔto də pjɛʁ/	There is Pierre's photo (the caption of the second)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+à<br>/a/	at, in: with the name of a city it answers where?	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici ________ photo.<br>(Fill in the blanks)	/vwasi [yn] fɔto/<br>Here is a photo.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voilà ________ photo ________ Pierre.<br>(Fill in the blanks)	/vwala [la] fɔto [də] pjɛʁ/<br>There is Pierre's photo.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+________ regardons ________ cartes.<br>(Fill in the blanks)	/[nu] ʁəɡaʁdɔ̃ [le] kaʁt/<br>We are looking at the postcards.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Tu ________ le Palais ________ ________ Culture.<br>(Fill in the blanks)	/ty [ʁəɡaʁd] lə palɛ [də la] kyltyʁ/<br>You are looking at the Palace of Culture.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Regardez ________ la Tour Eiffel ?<br>(Fill in the blanks)	/ʁəɡaʁde [vu] la tuʁ ɛfɛl/<br>Are you looking at the Eiffel Tower?	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voilà des cartes.<br>/vwala de kaʁt/	There are some postcards.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voilà des cartes. → Put into the singular	Voilà une carte.<br>/vwala yn kaʁt/<br>There is a postcard.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici les photos de Suzanne.<br>/vwasi le fɔto də syzan/	Here are Suzanne's photos.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici les photos de Suzanne. → Put into the singular	Voici la photo de Suzanne.<br>/vwasi la fɔto də syzan/<br>Here is Suzanne's photo.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Nous fumons des cigarettes.<br>/nu fymɔ̃ de siɡaʁɛt/	We smoke cigarettes.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Nous fumons des cigarettes. → Put into the singular	Je fume une cigarette.<br>/ʒə fym yn siɡaʁɛt/<br>I smoke a cigarette.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Elles apportent des livres.<br>/ɛlz‿apɔʁt de livʁ/	They (women) bring books.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Elles apportent des livres. → Put into the singular	Elle apporte un livre.<br>/ɛl apɔʁt œ̃ livʁ/<br>She brings a book.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Je regarde un livre.<br>/ʒə ʁəɡaʁd œ̃ livʁ/	I am looking at a book.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Je regarde un livre. → Put into the plural	Nous regardons des livres.<br>/nu ʁəɡaʁdɔ̃ de livʁ/<br>We are looking at books.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici la carte de Jean.<br>/vwasi la kaʁt də ʒɑ̃/	Here is Jean's postcard.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici la carte de Jean. → Put into the plural	Voici les cartes de Jean.<br>/vwasi le kaʁt də ʒɑ̃/<br>Here are Jean's postcards.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Tu apportes un livre.<br>/ty apɔʁt œ̃ livʁ/	You bring a book.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Tu apportes un livre. → Put into the plural	Vous apportez des livres.<br>/vuz‿apɔʁte de livʁ/<br>You bring books.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Aimez-vous parler français ?<br>/ɛme vu paʁle fʁɑ̃sɛ/	Do you like speaking French?	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Aimez-vous parler français ? → Answer yes and no (Oui nous)	Oui, nous aimons parler français.<br>/wi, nuz‿ɛmɔ̃ paʁle fʁɑ̃sɛ/<br>Yes, we like speaking French.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Aimez-vous parler français ? → Answer yes and no (Non nous)	Non, nous n’aimons pas parler français.<br>/nɔ̃, nu nɛmɔ̃ pa paʁle fʁɑ̃sɛ/<br>No, we do not like speaking French.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Aiment-ils regarder des photos ?<br>/ɛmtil ʁəɡaʁde de fɔto/	Do they like looking at photos?	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Aiment-ils regarder des photos ? → Answer yes and no (Oui ils)	Oui, ils aiment regarder des photos.<br>/wi, ilz‿ɛm ʁəɡaʁde de fɔto/<br>Yes, they like looking at photos.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Aiment-ils regarder des photos ? → Answer yes and no (Non ils)	Non, ils n’aiment pas regarder des photos.<br>/nɔ̃, il nɛm pa ʁəɡaʁde de fɔto/<br>No, they do not like looking at photos.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici la photo de Jean, l’ami de Pierre.<br>/vwasi la fɔto də ʒɑ̃, lami də pjɛʁ/	Here is the photo of Jean, Pierre's friend.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Regardez !<br>/ʁəɡaʁde/	Look!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici Paris.<br>/vwasi paʁi/	Here is Paris.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici la capitale de la Pologne.<br>/vwasi la kapital də la pɔlɔɲ/	Here is the capital of Poland.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Marie regarde un livre.<br>/maʁi ʁəɡaʁd œ̃ livʁ/	Marie is looking at a book.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Nous regardons le livre de Jean.<br>/nu ʁəɡaʁdɔ̃ lə livʁ də ʒɑ̃/	We are looking at Jean's book.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici trois cartes et quatre photos.<br>/vwasi tʁwa kaʁt e katʁ fɔto/	Here are three postcards and four photos.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+trois : trois fois · les trois amis · à trois heures<br>/tʁwa fwa · le tʁwaz‿ami · a tʁwaz‿œʁ/	three times · the three friends · at three o'clock	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+troisième : au troisième étage · la troisième fois · le troisième jour<br>/o tʁwazjɛm etaʒ · la tʁwazjɛm fwa · lə tʁwazjɛm ʒuʁ/	on the third floor · the third time · the third day	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+l’amie, l’ami : une bonne amie · mon meilleur ami · un ami d’enfance<br>/yn bɔn ami · mɔ̃ mɛjœʁ ami · œ̃n‿ami dɑ̃fɑ̃s/	a good friend (a woman) · my best friend · a childhood friend	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+voilà : voilà tout · me voilà · voilà pourquoi<br>/vwala tu · mə vwala · vwala puʁkwa/	that's all · here I am · that is why	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+voici : voici ma sœur · le voici · voici la réponse<br>/vwasi ma sœʁ · lə vwasi · vwasi la ʁepɔ̃s/	here is my sister · here he is · here is the answer	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le camarade : un camarade de classe · une camarade · camarade !<br>/œ̃ kamaʁad də klas · yn kamaʁad · kamaʁad/	a classmate · a female friend · comrade!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la capitale : la capitale de la France · une lettre capitale · en capitales<br>/la kapital də la fʁɑ̃s · yn lɛtʁ kapital · ɑ̃ kapital/	the capital of France · a capital letter · in capitals	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la France : en France · le sud de la France · la France entière<br>/ɑ̃ fʁɑ̃s · lə syd də la fʁɑ̃s · la fʁɑ̃s ɑ̃tjɛʁ/	in France · the south of France · the whole of France	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+regarder : regarde ! · regardez-moi · regarder un film<br>/ʁəɡaʁd · ʁəɡaʁde mwa · ʁəɡaʁde œ̃ film/	look! · look at me · to watch a film	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la Pologne : en Pologne · le nord de la Pologne · la Pologne et la France<br>/ɑ̃ pɔlɔɲ · lə nɔʁ də la pɔlɔɲ · la pɔlɔɲ e la fʁɑ̃s/	in Poland · the north of Poland · Poland and France	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la tour : la Tour Eiffel · une tour de vingt étages · le Tour de France (masculine: a tour, a turn)<br>/la tuʁ ɛfɛl · yn tuʁ də vɛ̃t‿etaʒ · lə tuʁ də fʁɑ̃s/	the Eiffel Tower · a twenty-storey tower · the Tour de France	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le palais : le Palais de la Culture · le palais royal · le Palais de justice<br>/lə palɛ də la kyltyʁ · lə palɛ ʁwajal · lə palɛ də ʒystis/	the Palace of Culture · the royal palace · the law courts	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la culture : la culture française · la culture générale · un homme de culture<br>/la kyltyʁ fʁɑ̃sɛz · la kyltyʁ ʒeneʁal · œ̃n‿ɔm də kyltyʁ/	French culture · general knowledge · a cultured man	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la science : les sciences · la science-fiction · un homme de science<br>/le sjɑ̃s · la sjɑ̃s fiksjɔ̃ · œ̃n‿ɔm də sjɑ̃s/	the sciences · science fiction · a man of science	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+aussi : moi aussi · aussi grand que · et aussi<br>/mwa osi · osi ɡʁɑ̃ kə · e osi/	me too · as big as · and also	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+aimer : nous aimons Paris · j’aime bien · aimer parler<br>/nuz‿ɛmɔ̃ paʁi · ʒɛm bjɛ̃ · ɛme paʁle/	we love Paris · I quite like · to like speaking	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la photo : prendre une photo · une photo de famille · un appareil photo<br>/pʁɑ̃dʁ yn fɔto · yn fɔto də famij · œ̃n‿apaʁɛj fɔto/	to take a photo · a family photo · a camera	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la carte : une carte postale · la carte de France · une carte d’identité<br>/yn kaʁt pɔstal · la kaʁt də fʁɑ̃s · yn kaʁt didɑ̃tite/	a postcard · the map of France · an identity card	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+parler : parler français · parler de Paris · parler à Marie<br>/paʁle fʁɑ̃sɛ · paʁle də paʁi · paʁle a maʁi/	to speak French · to talk about Paris · to talk to Marie	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Paris : à Paris · de Paris · un Parisien, une Parisienne<br>/a paʁi · də paʁi · œ̃ paʁizjɛ̃, yn paʁizjɛn/	in Paris · from Paris · a Parisian	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Varsovie : à Varsovie · de Varsovie · un Varsovien, une Varsovienne<br>/a vaʁsɔvi · də vaʁsɔvi · œ̃ vaʁsɔvjɛ̃, yn vaʁsɔvjɛn/	in Warsaw · from Warsaw · a Varsovian	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Voici Marie. La voici !<br>/vwasi maʁi. la vwasi/	Here is Marie. Here she is!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Regardez la carte de France : voilà Paris.<br>/ʁəɡaʁde la kaʁt də fʁɑ̃s : vwala paʁi/	Look at the map of France: there is Paris.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+J’écoute la radio et je regarde les photos.<br>/ʒekut la ʁadjo e ʒə ʁəɡaʁd le fɔto/	I listen to the radio and look at the photos.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+À Berlin on parle allemand ; à Rome on parle italien.<br>/a bɛʁlɛ̃ ɔ̃ paʁl almɑ̃ ; a ʁɔm ɔ̃ paʁl italjɛ̃/	In Berlin people speak German; in Rome, Italian.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Nous aimons regarder la Tour Eiffel la nuit.<br>/nuz‿ɛmɔ̃ ʁəɡaʁde la tuʁ ɛfɛl la nɥi/	We like looking at the Eiffel Tower at night.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Le camarade de Jean habite à Varsovie.<br>/lə kamaʁad də ʒɑ̃ abit a vaʁsɔvi/	Jean's friend lives in Warsaw.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Suzanne apporte trois cartes postales de Paris.<br>/syzan apɔʁt tʁwa kaʁt pɔstal də paʁi/	Suzanne brings three postcards from Paris.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+La science et la culture sont au Palais.<br>/la sjɑ̃s e la kyltyʁ sɔ̃(t)‿o palɛ/	Science and culture are at the Palace.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Regardons ensemble les photos de Pierre !<br>/ʁəɡaʁdɔ̃ ɑ̃sɑ̃bl le fɔto də pjɛʁ/	Let's look at Pierre's photos together!	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Madame Renoir fume une cigarette dans le jardin.<br>/madam ʁənwaʁ fym yn siɡaʁɛt dɑ̃ lə ʒaʁdɛ̃/	Mrs Renoir smokes a cigarette in the garden.	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la carte postale<br>/la kaʁt pɔstal/	the postcard	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la carte de France<br>/la kaʁt də fʁɑ̃s/	the map of France	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+écouter<br>/ekute/	to listen to	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+apporter<br>/apɔʁte/	to bring	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+fumer<br>/fyme/	to smoke	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+ensemble<br>/ɑ̃sɑ̃bl/	together	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la nuit<br>/la nɥi/	the night; at night	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+allemand, italien, anglais, polonais, français<br>/almɑ̃, italjɛ̃, ɑ̃ɡlɛ, pɔlɔnɛ, fʁɑ̃sɛ/	German, Italian, English, Polish, French (the languages, no capital letter)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+le pays<br>/lə pei/	the country	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+la ville<br>/la vil/	the city	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+________ la photo ________ Suzanne : regarde !<br>(AI exercise: voici or voilà, le, la, les or de)	/[vwasi] la fɔto [də] syzan : ʁəɡaʁd/<br>Here is Suzanne's photo: look!	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+À Varsovie on parle ________.<br>(AI exercise: voici or voilà, le, la, les or de)	/a vaʁsɔvi ɔ̃ paʁl [pɔlɔnɛ]/<br>In Warsaw people speak Polish.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+________ capitale ________ la France est Paris.<br>(AI exercise: voici or voilà, le, la, les or de)	/[la] kapital [də] la fʁɑ̃s ɛ paʁi/<br>The capital of France is Paris.	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+regarder la carte (nous)<br>/ʁəɡaʁde la kaʁt/	to look at the map (we)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+regarder la carte (nous) → AI exercise: give the imperative	Regardons la carte !<br>/ʁəɡaʁdɔ̃ la kaʁt/<br>Let's look at the map!	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+écouter Marie (tu)<br>/ekute maʁi/	to listen to Marie (you, one person)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+écouter Marie (tu) → AI exercise: give the imperative	Écoute Marie !<br>/ekut maʁi/<br>Listen to Marie!	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+apporter les photos (vous)<br>/apɔʁte le fɔto/	to bring the photos (you, several)	french szypowska lecon03 fr-en	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+apporter les photos (vous) → AI exercise: give the imperative	Apportez les photos !<br>/apɔʁte le fɔto/<br>Bring the photos!	french szypowska lecon03 fr-en exercise	French::Szypowska (FR-EN)::Lesson 3: Regardons des photos
+Monsieur et Madame Lefèvre habitent un appartement rue du Bac.<br>/məsjø e madam ləfɛvʁ abit‿œ̃n‿apaʁtəmɑ̃ ʁy dy bak/	Mr and Mrs Lefèvre live in a flat on the rue du Bac.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Nous entrons.<br>/nuz‿ɑ̃tʁɔ̃/	We go in.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Nous visitons l’appartement de la famille Lefèvre.<br>/nu vizitɔ̃ lapaʁtəmɑ̃ də la famij ləfɛvʁ/	We visit the Lefèvre family's flat.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Voici le cabinet de travail de Monsieur Lefèvre.<br>/vwasi lə kabinɛ də tʁavaj də məsjø ləfɛvʁ/	Here is Mr Lefèvre's study.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Voilà la salle à manger avec le divan de la fille, et ici, la chambre des parents avec le lit du garçon.<br>/vwala la sal a mɑ̃ʒe avɛk lə divɑ̃ də la fij, e isi, la ʃɑ̃bʁ de paʁɑ̃ avɛk lə li dy ɡaʁsɔ̃/	There is the dining room with the daughter's divan, and here, the parents' room with the boy's bed.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Madame Lefèvre montre aussi la cuisine et la salle de bain.<br>/madam ləfɛvʁ mɔ̃tʁ osi la kɥizin e la sal də bɛ̃/	Mrs Lefèvre also shows the kitchen and the bathroom.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Ensuite nous sortons.<br>/ɑ̃sɥit nu sɔʁtɔ̃/	Then we go out.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Voici le divan de la fille<br>/vwasi lə divɑ̃ də la fij/	Here is the daughter's divan (the caption of the first drawing)	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Voilà le lit du garçon<br>/vwala lə li dy ɡaʁsɔ̃/	There is the boy's bed (the caption of the second)	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+quatre<br>/katʁ/	four	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+habiter<br>/abite/	to live, to dwell	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+habitent<br>/abit/	(they) live	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+un appartement<br>/œ̃n‿apaʁtəmɑ̃/	a flat	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la rue<br>/la ʁy/	the street	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le bac<br>/lə bak/	the ferry	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+entrer<br>/ɑ̃tʁe/	to go in	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+nous entrons<br>/nuz‿ɑ̃tʁɔ̃/	we go in	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+visiter<br>/vizite/	to visit	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+nous visitons<br>/nu vizitɔ̃/	we visit	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la famille<br>/la famij/	the family	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+de la famille<br>/də la famij/	of the family	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le cabinet<br>/lə kabinɛ/	the study, the office	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le travail<br>/lə tʁavaj/	work	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le cabinet de travail<br>/lə kabinɛ də tʁavaj/	the study (literally, the work room)	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la salle<br>/la sal/	the room, the hall	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+manger<br>/mɑ̃ʒe/	to eat	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la salle à manger<br>/la sal a mɑ̃ʒe/	the dining room (literally, the room for eating)	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+avec<br>/avɛk/	with	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le divan<br>/lə divɑ̃/	the divan, the couch	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la fille<br>/la fij/	the daughter, the girl	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+ici<br>/isi/	here	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la chambre<br>/la ʃɑ̃bʁ/	the room, the bedroom	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+les parents<br>/le paʁɑ̃/	the parents	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+des parents<br>/de paʁɑ̃/	of the parents	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le lit<br>/lə li/	the bed	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le garçon<br>/lə ɡaʁsɔ̃/	the boy	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+du garçon<br>/dy ɡaʁsɔ̃/	of the boy, the boy's	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+montrer<br>/mɔ̃tʁe/	to show	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+montre<br>/mɔ̃tʁ/	(he, she) shows	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le bain<br>/lə bɛ̃/	the bath	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la cuisine<br>/la kɥizin/	the kitchen	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la salle de bain<br>/la sal də bɛ̃/	the bathroom (literally, the room for bathing)	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+ensuite<br>/ɑ̃sɥit/	then, afterwards	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+nous sortons<br>/nu sɔʁtɔ̃/	we go out	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+ici, voici<br>/isi, vwasi/	c before i is /s/	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+cabinet, cuisine<br>/kabinɛ, kɥizin/	c before a and u is /k/	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Bac, avec<br>/bak, avɛk/	a final c after a vowel, in a short word, is /k/	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+l’appartement<br>/lapaʁtəmɑ̃/	elision: le loses its vowel before a vowel	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la rue du Bac<br>/la ʁy dy bak/	the rue du Bac, literally Ferry Street: it runs towards the Seine, to where a ferry once crossed and a bridge now stands	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+l’appartement de la famille<br>/lapaʁtəmɑ̃ də la famij/	the family's flat	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le cabinet de travail de Monsieur Lefèvre<br>/lə kabinɛ də tʁavaj də məsjø ləfɛvʁ/	Mr Lefèvre's study	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le divan de la fille<br>/lə divɑ̃ də la fij/	the daughter's divan	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la chambre des parents<br>/la ʃɑ̃bʁ de paʁɑ̃/	the parents' room	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le lit du garçon<br>/lə li dy ɡaʁsɔ̃/	the boy's bed	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+de Jean, de Marie, de Monsieur Lefèvre<br>/də ʒɑ̃, də maʁi, də məsjø ləfɛvʁ/	de before a proper name	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+du garçon<br>/dy ɡaʁsɔ̃/ (2)	du, contracted from de + le, before a masculine noun beginning with a consonant	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+de la famille<br>/də la famij/ (2)	de la before a feminine noun beginning with a consonant	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+de l’amie<br>/də lami/	de l' before any noun beginning with a vowel or a mute h	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+des parents<br>/de paʁɑ̃/ (2)	des, contracted from de + les, before a plural noun	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+parler<br>/paʁle/	the model: an infinitive in -er	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+regarder, parler, aimer, habiter, entrer, visiter, manger, montrer, fumer, apporter<br>/ʁəɡaʁde, paʁle, ɛme, abite, ɑ̃tʁe, vizite, mɑ̃ʒe, mɔ̃tʁe, fyme, apɔʁte/	the first-conjugation verbs met in lessons 3 and 4	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Voici ________ divan ________ garçon.<br>(Fill in the blanks)	/vwasi [lə] divɑ̃ [dy] ɡaʁsɔ̃/<br>Here is the boy's divan.	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Voici ________ photo.<br>(Fill in the blanks)	/vwasi [yn] fɔto/<br>Here is a photo.	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Voilà ________ photos.<br>(Fill in the blanks)	/vwala [de] fɔto/<br>There are some photos.	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Voici la ________ ________ Marie.<br>(Fill in the blanks)	/vwasi la [fɔto də] maʁi/<br>Here is Marie's photo.	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Voici ________ chambre ________ parents.<br>(Fill in the blanks)	/vwasi [la] ʃɑ̃bʁ [de] paʁɑ̃/<br>Here is the parents' room.	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Voici le ________ ________ Jean.<br>(Fill in the blanks)	/vwasi lə [kamaʁad də] ʒɑ̃/<br>Here is Jean's friend.	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Montres-tu la cuisine ?<br>/mɔ̃tʁ ty la kɥizin/	Are you showing the kitchen?	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Montres-tu la cuisine ? → Answer yes, in the first person singular and plural (Oui je)	Oui, je montre la cuisine.<br>/wi, ʒə mɔ̃tʁ la kɥizin/<br>Yes, I am showing the kitchen.	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Montres-tu la cuisine ? → Answer yes, in the first person singular and plural (Oui nous)	Oui, nous montrons la cuisine.<br>/wi, nu mɔ̃tʁɔ̃ la kɥizin/<br>Yes, we are showing the kitchen.	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Visitez-vous Varsovie ?<br>/vizite vu vaʁsɔvi/	Are you visiting Warsaw?	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Visitez-vous Varsovie ? → Answer yes, in the first person singular and plural (Oui je)	Oui, je visite Varsovie.<br>/wi, ʒə vizit vaʁsɔvi/<br>Yes, I am visiting Warsaw.	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Visitez-vous Varsovie ? → Answer yes, in the first person singular and plural (Oui nous)	Oui, nous visitons Varsovie.<br>/wi, nu vizitɔ̃ vaʁsɔvi/<br>Yes, we are visiting Warsaw.	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Ils visitent l’appartement de la famille Lefèvre.<br>/il vizit lapaʁtəmɑ̃ də la famij ləfɛvʁ/	They are visiting the Lefèvre family's flat.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Voici la chambre de la fille.<br>/vwasi la ʃɑ̃bʁ də la fij/	Here is the daughter's room.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Tu montres la salle à manger.<br>/ty mɔ̃tʁ la sal a mɑ̃ʒe/	You are showing the dining room.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Voici l’appartement des parents de Pierre.<br>/vwasi lapaʁtəmɑ̃ de paʁɑ̃ də pjɛʁ/	Here is the flat of Pierre's parents.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Regarde les photos de l’amie de Marie !<br>/ʁəɡaʁd le fɔto də lami də maʁi/	Look at the photos of Marie's friend!	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Montre le divan du garçon !<br>/mɔ̃tʁ lə divɑ̃ dy ɡaʁsɔ̃/	Show the boy's divan!	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+quatre : à quatre heures · les quatre saisons · quatre-vingts<br>/a katʁ œʁ · le katʁ sɛzɔ̃ · katʁəvɛ̃/	at four o'clock · the four seasons · eighty	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+habiter : habiter rue du Bac · habiter seul · habiter chez ses parents<br>/abite ʁy dy bak · abite sœl · abite ʃe se paʁɑ̃/	to live on the rue du Bac · to live alone · to live with one's parents	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+un appartement : un appartement de trois pièces · louer un appartement · un grand appartement<br>/œ̃n‿apaʁtəmɑ̃ də tʁwa pjɛs · lwe œ̃n‿apaʁtəmɑ̃ · œ̃ ɡʁɑ̃t‿apaʁtəmɑ̃/	a three-room flat · to rent a flat · a big flat	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la rue : dans la rue · au coin de la rue · traverser la rue<br>/dɑ̃ la ʁy · o kwɛ̃ də la ʁy · tʁavɛʁse la ʁy/	in the street · at the corner of the street · to cross the street	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le bac : prendre le bac · le bac, le baccalauréat · un bac à sable<br>/pʁɑ̃dʁ lə bak · lə bak, lə bakaloʁea · œ̃ bak a sabl/	to take the ferry · the baccalauréat, the school-leaving exam · a sandpit	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+entrer : entrer dans la maison · Entrez ! · entrer à l’université<br>/ɑ̃tʁe dɑ̃ la mɛzɔ̃ · ɑ̃tʁe · ɑ̃tʁe a lynivɛʁsite/	to go into the house · come in! · to enter university	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+visiter : visiter un musée · visiter la ville · rendre visite à un ami<br>/vizite œ̃ myze · vizite la vil · ʁɑ̃dʁ vizit a œ̃n‿ami/	to visit a museum · to visit the town · to visit a friend	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la famille : en famille · une famille nombreuse · un nom de famille<br>/ɑ̃ famij · yn famij nɔ̃bʁøz · œ̃ nɔ̃ də famij/	with the family · a large family · a surname	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le cabinet : le cabinet de travail · un cabinet médical · les cabinets<br>/lə kabinɛ də tʁavaj · œ̃ kabinɛ medikal · le kabinɛ/	the study · a doctor's office · the toilet, old-fashioned	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le travail : au travail · chercher du travail · un travail intéressant<br>/o tʁavaj · ʃɛʁʃe dy tʁavaj · œ̃ tʁavaj ɛ̃teʁesɑ̃/	at work · to look for work · an interesting job	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la salle : une salle de classe · une salle d’attente · une salle de bain<br>/yn sal də klas · yn sal datɑ̃t · yn sal də bɛ̃/	a classroom · a waiting room · a bathroom	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+manger : manger du pain · quelque chose à manger · bon à manger<br>/mɑ̃ʒe dy pɛ̃ · kɛlkə ʃoz a mɑ̃ʒe · bɔ̃ a mɑ̃ʒe/	to eat bread · something to eat · good to eat	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+avec : avec plaisir · avec moi · avec du sucre<br>/avɛk plɛziʁ · avɛk mwa · avɛk dy sykʁ/	with pleasure · with me · with sugar	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le divan : s’asseoir sur le divan · un divan-lit · le divan du psychanalyste<br>/saswaʁ syʁ lə divɑ̃ · œ̃ divɑ̃ li · lə divɑ̃ dy psikanalist/	to sit on the divan · a sofa bed · the psychoanalyst's couch	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la fille : une petite fille · une jeune fille · la fille de Marie<br>/yn pətit fij · yn ʒœn fij · la fij də maʁi/	a little girl · a young girl · Marie's daughter	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+ici : ici et là · par ici · d’ici<br>/isi e la · paʁ isi · disi/	here and there · this way · from here	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la chambre : une chambre à coucher · la chambre des parents · une chambre d’hôtel<br>/yn ʃɑ̃bʁ a kuʃe · la ʃɑ̃bʁ de paʁɑ̃ · yn ʃɑ̃bʁ dotɛl/	a bedroom · the parents' room · a hotel room	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+les parents : mes parents · les grands-parents · chez ses parents<br>/me paʁɑ̃ · le ɡʁɑ̃paʁɑ̃ · ʃe se paʁɑ̃/	my parents · the grandparents · at one's parents'	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le lit : au lit ! · faire le lit · un lit d’enfant<br>/o li · fɛʁ lə li · œ̃ li dɑ̃fɑ̃/	to bed! · to make the bed · a child's bed	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le garçon : un petit garçon · Garçon ! · un garçon de café<br>/œ̃ pəti ɡaʁsɔ̃ · ɡaʁsɔ̃ · œ̃ ɡaʁsɔ̃ də kafe/	a little boy · waiter! · a waiter	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+montrer : montrer du doigt · montrer le chemin · montre-moi<br>/mɔ̃tʁe dy dwa · mɔ̃tʁe lə ʃəmɛ̃ · mɔ̃tʁ mwa/	to point at · to show the way · show me	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le bain : prendre un bain · un bain de soleil · la salle de bain<br>/pʁɑ̃dʁ œ̃ bɛ̃ · œ̃ bɛ̃ də sɔlɛj · la sal də bɛ̃/	to take a bath · sunbathing · the bathroom	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la cuisine : faire la cuisine · la cuisine polonaise · un livre de cuisine<br>/fɛʁ la kɥizin · la kɥizin pɔlɔnɛz · œ̃ livʁ də kɥizin/	to cook · Polish cooking · a cookbook	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+ensuite : et ensuite ? · d’abord … ensuite<br>/e ɑ̃sɥit · dabɔʁ … ɑ̃sɥit/	and then? · first … then	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+sortir : sortir de la maison · sortir le soir · sortir avec des amis<br>/sɔʁtiʁ də la mɛzɔ̃ · sɔʁtiʁ lə swaʁ · sɔʁtiʁ avɛk dez‿ami/	to go out of the house · to go out in the evening · to go out with friends	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Nous habitons chez les parents de Marie.<br>/nuz‿abitɔ̃ ʃe le paʁɑ̃ də maʁi/	We live at Marie's parents' place.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Pierre visite Paris avec son camarade.<br>/pjɛʁ vizit paʁi avɛk sɔ̃ kamaʁad/	Pierre is visiting Paris with his friend.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Je rends visite à Madame Lefèvre.<br>/ʒə ʁɑ̃ vizit a madam ləfɛvʁ/	I am visiting Mrs Lefèvre: a person, so rendre visite à.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Entrez dans la salle à manger et regardez le divan !<br>/ɑ̃tʁe dɑ̃ la sal a mɑ̃ʒe e ʁəɡaʁde lə divɑ̃/	Come into the dining room and look at the divan!	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Le fils de Monsieur Lefèvre sort de la cuisine.<br>/lə fis də məsjø ləfɛvʁ sɔʁ də la kɥizin/	Mr Lefèvre's son comes out of the kitchen.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+La fille des Lefèvre montre sa chambre à Annette.<br>/la fij de ləfɛvʁ mɔ̃tʁ sa ʃɑ̃bʁ a anɛt/	The Lefèvres' daughter shows her room to Annette.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Où est la rue du Bac ? Elle est près de la Seine.<br>/u ɛ la ʁy dy bak ? ɛl ɛ pʁɛ də la sɛn/	Where is the rue du Bac? It is near the Seine.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Ensuite, nous mangeons dans la salle à manger.<br>/ɑ̃sɥit, nu mɑ̃ʒɔ̃ dɑ̃ la sal a mɑ̃ʒe/	Then we eat in the dining room.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Le lit du garçon est à côté de la fenêtre.<br>/lə li dy ɡaʁsɔ̃ ɛ(t)‿a kote də la fənɛtʁ/	The boy's bed is next to the window.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Ici, c’est la chambre ; là, c’est le cabinet de travail.<br>/isi, sɛ la ʃɑ̃bʁ ; la, sɛ lə kabinɛ də tʁavaj/	Here is the bedroom; there is the study.	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+chez<br>/ʃe/	at the place of	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le fils<br>/lə fis/	the son, with the s sounded	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+rendre visite à<br>/ʁɑ̃dʁ vizit a/	to visit a person	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+entrer dans<br>/ɑ̃tʁe dɑ̃/	to go into	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+sortir de<br>/sɔʁtiʁ də/	to go out of	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+près de<br>/pʁɛ də/	near	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+là<br>/la/	there	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la Seine<br>/la sɛn/	the Seine	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le pont<br>/lə pɔ̃/	the bridge	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la fenêtre<br>/la fənɛtʁ/	the window	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+nous mangeons<br>/nu mɑ̃ʒɔ̃/	we eat: the e keeps the g soft	french szypowska lecon04 fr-en	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le travail ________ parents<br>(AI exercise: du, de la, de l’ or des)	/lə tʁavaj [de] paʁɑ̃/<br>the parents' work	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la porte ________ appartement<br>(AI exercise: du, de la, de l’ or des)	/la pɔʁt [də l]apaʁtəmɑ̃/<br>the door of the flat	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+la cuisine ________ famille Lefèvre<br>(AI exercise: du, de la, de l’ or des)	/la kɥizin [də la] famij ləfɛvʁ/<br>the Lefèvre family's kitchen	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+le divan ________ garçon<br>(AI exercise: du, de la, de l’ or des)	/lə divɑ̃ [dy] ɡaʁsɔ̃/<br>the boy's divan	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Nous ________ Varsovie.<br>(AI exercise: visiter or rendre visite à)	/nu [vizitɔ̃] vaʁsɔvi/<br>We are visiting Warsaw.	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+Nous ________ Madame Renoir.<br>(AI exercise: visiter or rendre visite à)	/nu [ʁɑ̃dɔ̃ vizit a] madam ʁənwaʁ/<br>We are visiting Mrs Renoir.	french szypowska lecon04 fr-en exercise	French::Szypowska (FR-EN)::Lesson 4: Chez les Lefèvre
+— J’ai un stylo. Est-ce que j’ai un stylo ?<br>/ʒe œ̃ stilo. ɛs kə ʒe œ̃ stilo/	I have a fountain pen. Do I have a fountain pen?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+— Oui, vous avez un stylo.<br>/wi, vuz‿ave œ̃ stilo/	Yes, you have a fountain pen.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+— Avez-vous un carnet ?<br>/ave vu œ̃ kaʁnɛ/	Do you have a notebook?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+— Oui, j’ai un carnet.<br>/wi, ʒe œ̃ kaʁnɛ/	Yes, I have a notebook.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+— Pierre, as-tu un canif ?<br>/pjɛʁ, a ty œ̃ kanif/	Pierre, do you have a penknife?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+— Non, je n’ai pas de canif.<br>/nɔ̃, ʒə ne pa də kanif/	No, I have no penknife.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+— Pierre et Annette, avez-vous des crayons ?<br>/pjɛʁ e anɛt, ave vu de kʁɛjɔ̃/	Pierre and Annette, do you have pencils?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+— Oui, nous avons des crayons, mais nous n’avons pas de cahiers.<br>/wi, nuz‿avɔ̃ de kʁɛjɔ̃, mɛ nu navɔ̃ pa də kaje/	Yes, we have pencils, but we have no exercise books.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+— Est-ce que Pierre a une plume ?<br>/ɛs kə pjɛʁ a yn plym/	Does Pierre have a pen?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+A-t-il une plume ?<br>/atil yn plym/	Does he have a pen?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+— Oui, il a une plume.<br>/wi, il a yn plym/	Yes, he has a pen.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+— Est-ce qu’Annette a un cahier ?<br>/ɛs kanɛt a œ̃ kaje/	Does Annette have an exercise book?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+A-t-elle un cahier ?<br>/atɛl œ̃ kaje/	Does she have an exercise book?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+— Oui, elle a un cahier.<br>/wi, ɛl a œ̃ kaje/	Yes, she has an exercise book.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+— Est-ce que Pierre et Annette ont des crayons ?<br>/ɛs kə pjɛʁ e anɛt ɔ̃ de kʁɛjɔ̃/	Do Pierre and Annette have pencils?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Ont-ils des crayons ?<br>/ɔ̃til de kʁɛjɔ̃/	Do they have pencils?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+— Oui, ils ont des crayons.<br>/wi, ilz‿ɔ̃ de kʁɛjɔ̃/	Yes, they have pencils.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+— Est-ce qu’ils ont des cahiers ?<br>/ɛs kilz‿ɔ̃ de kaje/	Do they have exercise books?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+— Non, ils n’ont pas de cahiers.<br>/nɔ̃, il nɔ̃ pa də kaje/	No, they have no exercise books.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+cinq<br>/sɛ̃k/	five	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+cinquième<br>/sɛ̃kjɛm/	fifth	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+j’ai<br>/ʒe/	I have	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un stylo<br>/œ̃ stilo/	a fountain pen	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+vous avez<br>/vuz‿ave/	you have	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+avez-vous ?<br>/ave vu/	do you have?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un carnet<br>/œ̃ kaʁnɛ/	a notebook	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+as-tu ?<br>/a ty/	do you have?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un canif<br>/œ̃ kanif/	a penknife	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+je n’ai pas<br>/ʒə ne pa/	I have not	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Annette<br>/anɛt/	Annette	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un crayon<br>/œ̃ kʁɛjɔ̃/	a pencil	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+nous avons<br>/nuz‿avɔ̃/	we have	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+mais<br>/mɛ/	but	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+nous n’avons pas<br>/nu navɔ̃ pa/	we have not	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+il a<br>/il a/	he has	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+une plume<br>/yn plym/	a pen, a nib	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un cahier<br>/œ̃ kaje/	an exercise book	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+(ils, elles) ont<br>/ilz‿ɔ̃, ɛlz‿ɔ̃/	they have	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+je n’ai pas de canif<br>/ʒə ne pa də kanif/	I have no penknife	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+nous n’avons pas de cahiers<br>/nu navɔ̃ pa də kaje/	we have no exercise books	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+l’encre (f.)<br>/lɑ̃kʁ/	the ink	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un encrier<br>/œ̃n‿ɑ̃kʁije/	an inkwell	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+une gomme<br>/yn ɡɔm/	an eraser	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un papier buvard<br>/œ̃ papje byvaʁ/	a blotting paper	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+une règle<br>/yn ʁɛɡl/	a ruler	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un stylo à bille<br>/œ̃ stilo a bij/	a ballpoint pen	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+vous avez<br>/vuz‿ave/ (2)	liaison between pronoun and verb	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+nous avons<br>/nuz‿avɔ̃/ (2)	liaison between pronoun and verb	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+ils ont<br>/ilz‿ɔ̃/	liaison between pronoun and verb	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+ont-ils<br>/ɔ̃til/	liaison between verb and pronoun	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+cahier<br>/kaje/	mute h	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+avoir<br>/avwaʁ/	to have	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Présent<br>/pʁezɑ̃/	the present tense	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Forme affirmative<br>/fɔʁm afiʁmativ/	affirmative	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+tu as<br>/ty a/	you have	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+elle a<br>/ɛl a/	she has	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+on a<br>/ɔ̃n‿a/	one has	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+ils ont<br>/ilz‿ɔ̃/ (2)	they have	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+elles ont<br>/ɛlz‿ɔ̃/	they have (women)	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Forme négative<br>/fɔʁm neɡativ/	negative	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+tu n’as pas<br>/ty na pa/	you have not	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+il n’a pas<br>/il na pa/	he has not	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+elle n’a pas<br>/ɛl na pa/	she has not	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+on n’a pas<br>/ɔ̃ na pa/	one has not	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+vous n’avez pas<br>/vu nave pa/	you have not	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+ils n’ont pas<br>/il nɔ̃ pa/	they have not	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+elles n’ont pas<br>/ɛl nɔ̃ pa/	they have not (women)	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Forme interrogative<br>/fɔʁm ɛ̃teʁɔɡativ/	interrogative	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+est-ce que j’ai ?<br>/ɛs kə ʒe/	do I have?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+a-t-il ?<br>/atil/	does he have?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+a-t-elle ?<br>/atɛl/	does she have?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+a-t-on ?<br>/atɔ̃/	does one have?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+j’ai un stylo<br>/ʒe œ̃ stilo/	I have a fountain pen	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+je n’ai pas de stylo<br>/ʒə ne pa də stilo/	I have no fountain pen	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+j’ai des stylos<br>/ʒe de stilo/	I have fountain pens	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+je n’ai pas de stylos<br>/ʒə ne pa də stilo/	I have no fountain pens	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+j’ai une plume<br>/ʒe yn plym/	I have a pen	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+je n’ai pas de plume<br>/ʒə ne pa də plym/	I have no pen	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+j’ai des plumes<br>/ʒe de plym/	I have pens	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+je n’ai pas de plumes<br>/ʒə ne pa də plym/	I have no pens	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+j’ai un …, une …, des …<br>/ʒe œ̃, yn, de/	I have a …, some … (the box on the page)	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+je n’ai pas de …<br>/ʒə ne pa də/	I have no … (the box on the page)	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+« Je n’ai pas de stylo ! »<br>/ʒə ne pa də stilo/	“I have no fountain pen!” (the caption of the drawing)	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+parlez-vous ?<br>/paʁle vu/	do you speak? (inversion)	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+est-ce que je parle ?<br>/ɛs kə ʒə paʁl/	do I speak?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+est-ce que Pierre a ?<br>/ɛs kə pjɛʁ a/	does Pierre have?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+est-ce qu’Annette a ?<br>/ɛs kanɛt a/	does Annette have?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+est-ce que Pierre et Annette ont ?<br>/ɛs kə pjɛʁ e anɛt ɔ̃/	do Pierre and Annette have?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+J’ai ________ stylo.<br>(Put in the right article)	/ʒe [œ̃] stilo/<br>I have a fountain pen.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Vous avez ________ crayons.<br>(Put in the right article)	/vuz‿ave [de] kʁɛjɔ̃/<br>You have pencils.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Il a ________ plume.<br>(Put in the right article)	/il a [yn] plym/<br>He has a pen.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Nous avons ________ cahiers.<br>(Put in the right article)	/nuz‿avɔ̃ [de] kaje/<br>We have exercise books.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Elle a ________ carnet.<br>(Put in the right article)	/ɛl a [œ̃] kaʁnɛ/<br>She has a notebook.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Vous avez ________ photos.<br>(Put in the right article)	/vuz‿ave [de] fɔto/<br>You have photos.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+J’ai un canif. — Nous avons des canifs.<br>/ʒe œ̃ kanif. nuz‿avɔ̃ de kanif/	I have a penknife. — We have penknives. (the model)	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+J’ai un cahier.<br>/ʒe œ̃ kaje/	I have an exercise book.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+J’ai un cahier. → Put into the first person plural	Nous avons des cahiers.<br>/nuz‿avɔ̃ de kaje/<br>We have exercise books.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+J’ai un stylo.<br>/ʒe œ̃ stilo/	I have a fountain pen.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+J’ai un stylo. → Put into the first person plural	Nous avons des stylos.<br>/nuz‿avɔ̃ de stilo/<br>We have fountain pens.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Je visite un appartement.<br>/ʒə vizit œ̃n‿apaʁtəmɑ̃/	I am visiting a flat.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Je visite un appartement. → Put into the first person plural	Nous visitons des appartements.<br>/nu vizitɔ̃ dez‿apaʁtəmɑ̃/<br>We are visiting flats.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Je montre la chambre.<br>/ʒə mɔ̃tʁ la ʃɑ̃bʁ/	I am showing the room.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Je montre la chambre. → Put into the first person plural	Nous montrons les chambres.<br>/nu mɔ̃tʁɔ̃ le ʃɑ̃bʁ/<br>We are showing the rooms.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Je regarde une carte.<br>/ʒə ʁəɡaʁd yn kaʁt/	I am looking at a postcard.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Je regarde une carte. → Put into the first person plural	Nous regardons des cartes.<br>/nu ʁəɡaʁdɔ̃ de kaʁt/<br>We are looking at postcards.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+As-tu un crayon ?<br>/a ty œ̃ kʁɛjɔ̃/	Do you have a pencil?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+As-tu un crayon ? → Answer yes and no (Oui j’ai)	Oui, j’ai un crayon.<br>/wi, ʒe œ̃ kʁɛjɔ̃/<br>Yes, I have a pencil.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+As-tu un crayon ? → Answer yes and no (Non je)	Non, je n’ai pas de crayon.<br>/nɔ̃, ʒə ne pa də kʁɛjɔ̃/<br>No, I have no pencil.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+A-t-il un canif ?<br>/atil œ̃ kanif/	Does he have a penknife?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+A-t-il un canif ? → Answer yes and no (Oui il)	Oui, il a un canif.<br>/wi, il a œ̃ kanif/<br>Yes, he has a penknife.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+A-t-il un canif ? → Answer yes and no (Non il)	Non, il n’a pas de canif.<br>/nɔ̃, il na pa də kanif/<br>No, he has no penknife.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Avons-nous des cahiers ?<br>/avɔ̃ nu de kaje/	Do we have exercise books?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Avons-nous des cahiers ? → Answer yes and no (Oui nous)	Oui, nous avons des cahiers.<br>/wi, nuz‿avɔ̃ de kaje/<br>Yes, we have exercise books.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Avons-nous des cahiers ? → Answer yes and no (Non nous)	Non, nous n’avons pas de cahiers.<br>/nɔ̃, nu navɔ̃ pa də kaje/<br>No, we have no exercise books.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+J’ai un carnet.<br>/ʒe œ̃ kaʁnɛ/	I have a notebook.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+J’ai un carnet. → Make negative	Je n’ai pas de carnet.<br>/ʒə ne pa də kaʁnɛ/<br>I have no notebook.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Nous avons des plumes.<br>/nuz‿avɔ̃ de plym/	We have pens.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Nous avons des plumes. → Make negative	Nous n’avons pas de plumes.<br>/nu navɔ̃ pa də plym/<br>We have no pens.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Ils ont des cahiers.<br>/ilz‿ɔ̃ de kaje/	They have exercise books.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Ils ont des cahiers. → Make negative	Ils n’ont pas de cahiers.<br>/il nɔ̃ pa də kaje/<br>They have no exercise books.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Tu as un stylo.<br>/ty a œ̃ stilo/	You have a fountain pen.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Tu as un stylo. → Make negative	Tu n’as pas de stylo.<br>/ty na pa də stilo/<br>You have no fountain pen.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Je visite la maison de Pierre.<br>/ʒə vizit la mɛzɔ̃ də pjɛʁ/	I am visiting Pierre's house.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+La famille d’Annette a un appartement à Varsovie.<br>/la famij danɛt a œ̃n‿apaʁtəmɑ̃ a vaʁsɔvi/	Annette's family has a flat in Warsaw.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Est-ce que Madame B. a un appartement à Paris ?<br>/ɛs kə madam be a œ̃n‿apaʁtəmɑ̃ a paʁi/	Does Mrs B. have a flat in Paris?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Elle a une fille et un fils.<br>/ɛl a yn fij e œ̃ fis/	She has a daughter and a son.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Vous avez des crayons, mais vous n’avez pas de plumes.<br>/vuz‿ave de kʁɛjɔ̃, mɛ vu nave pa də plym/	You have pencils, but you have no pens.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Avez-vous un carnet ?<br>/ave vu œ̃ kaʁnɛ/	Do you have a notebook?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Est-ce qu’ils ont un appartement ?<br>/ɛs kilz‿ɔ̃ œ̃n‿apaʁtəmɑ̃/	Do they have a flat?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+j’ai, je n’ai pas, nous n’avons pas, ils n’ont pas, est-ce qu’Annette, est-ce qu’ils, l’encre<br>/ʒe, ʒə ne pa, nu navɔ̃ pa, il nɔ̃ pa, ɛs kanɛt, ɛs kil, lɑ̃kʁ/	the apostrophe where je, ne, que, le lose their vowel before a vowel	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+J’ai treize ans.<br>/ʒe tʁɛz ɑ̃/	I am thirteen years old: age takes avoir	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Quel âge as-tu ?<br>/kɛl ɑʒ a ty/	How old are you?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+J’ai faim.<br>/ʒe fɛ̃/	I am hungry.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+J’ai soif.<br>/ʒe swaf/	I am thirsty.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Tu as un stylo ?<br>/ty a œ̃ stilo/	Do you have a fountain pen? (the statement, with the voice rising)	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Est-ce que tu as un stylo ?<br>/ɛs kə ty a œ̃ stilo/	Do you have a fountain pen? (with est-ce que)	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+As-tu un stylo ?<br>/a ty œ̃ stilo/	Do you have a fountain pen? (inversion)	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Ils ont des crayons.<br>/ilz‿ɔ̃ de kʁɛjɔ̃/	They have pencils.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Ils sont à Paris.<br>/il sɔ̃ a paʁi/	They are in Paris: /z/ against /s/ is the whole difference.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Il ne regarde pas de photos.<br>/il nə ʁəɡaʁd pa də fɔto/	He is not looking at any photos: de after the negated verb.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Ce n’est pas un stylo, c’est une plume.<br>/sə nɛ pa œ̃ stilo, sɛt‿yn plym/	It is not a fountain pen, it is a nib pen: after c'est the article stays.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un, deux, trois, quatre, cinq<br>/œ̃, dø, tʁwa, katʁ, sɛ̃k/	one, two, three, four, five	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+cinq livres<br>/sɛ̃k livʁ/	five books: before a consonant older usage drops the /k/, /sɛ̃ livʁ/; /sɛ̃k/ is usual today.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un livre<br>/œ̃ livʁ/	a book	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+une trousse<br>/yn tʁus/	a pencil case	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+une feuille de papier<br>/yn fœj də papje/	a sheet of paper	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un taille-crayon<br>/œ̃ tajkʁɛjɔ̃/	a pencil sharpener	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un sac<br>/œ̃ sak/	a bag	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+cinq : à cinq heures · les cinq doigts · cinq minutes<br>/a sɛ̃k‿œʁ · le sɛ̃k dwa · sɛ̃k minyt/	at five o'clock · the five fingers · five minutes	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+cinquième : au cinquième étage · la cinquième leçon · en cinquième<br>/o sɛ̃kjɛm etaʒ · la sɛ̃kjɛm ləsɔ̃ · ɑ̃ sɛ̃kjɛm/	on the fifth floor · the fifth lesson · in the second year of French secondary school	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+avoir : avoir faim · avoir vingt ans · avoir raison<br>/avwaʁ fɛ̃ · avwaʁ vɛ̃t‿ɑ̃ · avwaʁ ʁɛzɔ̃/	to be hungry · to be twenty · to be right	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un stylo : un stylo à bille · un stylo à encre · écrire au stylo<br>/œ̃ stilo a bij · œ̃ stilo a ɑ̃kʁ · ekʁiʁ o stilo/	a ballpoint pen · a fountain pen · to write in pen	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un carnet : un carnet d’adresses · un carnet de notes · un carnet de chèques<br>/œ̃ kaʁnɛ dadʁɛs · œ̃ kaʁnɛ də nɔt · œ̃ kaʁnɛ də ʃɛk/	an address book · a school report · a chequebook	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un canif : ouvrir son canif · un canif suisse<br>/uvʁiʁ sɔ̃ kanif · œ̃ kanif sɥis/	to open one's penknife · a Swiss army knife	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un crayon : un crayon de couleur · écrire au crayon · un crayon à papier<br>/œ̃ kʁɛjɔ̃ də kulœʁ · ekʁiʁ o kʁɛjɔ̃ · œ̃ kʁɛjɔ̃ a papje/	a coloured pencil · to write in pencil · a lead pencil	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+mais : mais oui ! · mais non ! · non seulement … mais aussi<br>/mɛ wi · mɛ nɔ̃ · nɔ̃ sœlmɑ̃ … mɛ osi/	why, yes! · of course not! · not only … but also	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+une plume : une plume d’oiseau · un stylo-plume · écrire à la plume<br>/yn plym dwazo · œ̃ stilo plym · ekʁiʁ a la plym/	a bird's feather · a fountain pen · to write with a nib pen	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+un cahier : un cahier d’exercices · un cahier de brouillon · un cahier de textes<br>/œ̃ kaje dɛɡzɛʁsis · œ̃ kaje də bʁujɔ̃ · œ̃ kaje də tɛkst/	an exercise book · a rough book · a homework diary	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+l’encre : de l’encre bleue · une tache d’encre · écrire à l’encre<br>/də lɑ̃kʁ blø · yn taʃ dɑ̃kʁ · ekʁiʁ a lɑ̃kʁ/	blue ink · an ink stain · to write in ink	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+une gomme : une gomme à effacer · une gomme à mâcher<br>/yn ɡɔm a efase · yn ɡɔm a maʃe/	an eraser · chewing gum	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+une règle : une règle graduée · les règles du jeu · en règle générale<br>/yn ʁɛɡl ɡʁadɥe · le ʁɛɡl dy ʒø · ɑ̃ ʁɛɡl ʒeneʁal/	a ruler with a scale · the rules of the game · as a general rule	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+le papier : une feuille de papier · du papier à lettres · les papiers d’identité<br>/yn fœj də papje · dy papje a lɛtʁ · le papje didɑ̃tite/	a sheet of paper · writing paper · identity papers	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+oui, non : mais oui · oui et non · dire non<br>/mɛ wi · wi e nɔ̃ · diʁ nɔ̃/	why, yes · yes and no · to say no	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Pierre a un stylo, mais il n’a pas de cahier.<br>/pjɛʁ a œ̃ stilo, mɛ il na pa də kaje/	Pierre has a fountain pen but no exercise book.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Avez-vous des crayons de couleur ?<br>/ave vu de kʁɛjɔ̃ də kulœʁ/	Do you have coloured pencils?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Annette a trois cahiers et deux carnets dans son sac.<br>/anɛt a tʁwa kaje e dø kaʁnɛ dɑ̃ sɔ̃ sak/	Annette has three exercise books and two notebooks in her bag.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Est-ce que tu as une gomme ? Non, je n’ai pas de gomme.<br>/ɛs kə ty a yn ɡɔm ? nɔ̃, ʒə ne pa də ɡɔm/	Do you have an eraser? No, I have no eraser.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Nous avons une règle, mais nous n’avons pas de stylo à bille.<br>/nuz‿avɔ̃ yn ʁɛɡl, mɛ nu navɔ̃ pa də stilo a bij/	We have a ruler but no ballpoint pen.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+On a des livres et des cahiers sur le bureau.<br>/ɔ̃n‿a de livʁ e de kaje syʁ lə byʁo/	We have books and exercise books on the desk.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Qu’est-ce que vous avez dans la trousse ?<br>/kɛs kə vuz‿ave dɑ̃ la tʁus/	What do you have in the pencil case?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+L’encre est bleue ; le crayon est noir.<br>/lɑ̃kʁ ɛ blø ; lə kʁɛjɔ̃ ɛ nwaʁ/	The ink is blue; the pencil is black.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+bleu, bleue<br>/blø/	blue	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+noir, noire<br>/nwaʁ/	black	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+de couleur<br>/də kulœʁ/	coloured	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+le papier<br>/lə papje/	paper	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+écrire<br>/ekʁiʁ/	to write	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+dessiner<br>/desine/	to draw	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Tu as un canif.<br>/ty a œ̃ kanif/	You have a penknife.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Tu as un canif. → AI exercise: ask with est-ce que, then with inversion	Est-ce que tu as un canif ? As-tu un canif ?<br>/ɛs kə ty a œ̃ kanif ? a ty œ̃ kanif/<br>Do you have a penknife? (both ways)	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Elle a des crayons.<br>/ɛl a de kʁɛjɔ̃/	She has pencils.	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Elle a des crayons. → AI exercise: ask with est-ce que, then with inversion	Est-ce qu’elle a des crayons ? A-t-elle des crayons ?<br>/ɛs kɛl a de kʁɛjɔ̃ ? atɛl de kʁɛjɔ̃/<br>Does she have pencils? (both ways)	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+As-tu une gomme ?<br>/a ty yn ɡɔm/	Do you have an eraser?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+As-tu une gomme ? → AI exercise: answer no, with de	Non, je n’ai pas de gomme.<br>/nɔ̃, ʒə ne pa də ɡɔm/<br>No, I have no eraser.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Ont-elles des cahiers ?<br>/ɔ̃tɛl de kaje/	Do they (women) have exercise books?	french szypowska lecon05 fr-en	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Ont-elles des cahiers ? → AI exercise: answer no, with de	Non, elles n’ont pas de cahiers.<br>/nɔ̃, ɛl nɔ̃ pa də kaje/<br>No, they have no exercise books.	french szypowska lecon05 fr-en exercise	French::Szypowska (FR-EN)::Lesson 5: Dialogue
+Monsieur et Madame Bertin habitent à Chaville dans les environs de Paris.<br>/məsjø e madam bɛʁtɛ̃ abit a ʃavil dɑ̃ lez‿ɑ̃viʁɔ̃ də paʁi/	Mr and Mrs Bertin live in Chaville, near Paris.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Ils ont une petite maison avec un petit jardin.<br>/ilz‿ɔ̃ yn pətit mɛzɔ̃ avɛk œ̃ pəti ʒaʁdɛ̃/	They have a small house with a small garden.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Et ils ont deux enfants : un garçon et une fille.<br>/e ilz‿ɔ̃ døz‿ɑ̃fɑ̃ : œ̃ ɡaʁsɔ̃ e yn fij/	And they have two children: a boy and a girl.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Un dimanche, leurs amis M. et Mme Lefèvre arrivent en autobus.<br>/œ̃ dimɑ̃ʃ, lœʁz‿ami məsjø e madam ləfɛvʁ aʁiv ɑ̃n‿otobys/	One Sunday their friends Mr and Mrs Lefèvre arrive by bus.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Toutou, un gros chien noir, garde la porte du jardin.<br>/tutu, œ̃ ɡʁo ʃjɛ̃ nwaʁ, ɡaʁd la pɔʁt dy ʒaʁdɛ̃/	Toutou, a big black dog, guards the garden gate.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+M. Bertin dit à Toutou : « Reste tranquille ! »<br>/məsjø bɛʁtɛ̃ di a tutu : ʁɛst tʁɑ̃kil/	Mr Bertin says to Toutou: “Stay still!”	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Il ouvre la porte.<br>/il uvʁ la pɔʁt/	He opens the gate.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Il dit bonjour à Mme Lefèvre et à M. Lefèvre.<br>/il di bɔ̃ʒuʁ a madam ləfɛvʁ e a məsjø ləfɛvʁ/	He says hello to Mrs Lefèvre and to Mr Lefèvre.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+— Entrez, chers amis ! — dit-il.<br>/ɑ̃tʁe, ʃɛʁz‿ami ! ditil/	“Come in, dear friends!” he says.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+— Restons dans le jardin — dit Mme Lefèvre.<br>/ʁɛstɔ̃ dɑ̃ lə ʒaʁdɛ̃, di madam ləfɛvʁ/	“Let's stay in the garden,” says Mrs Lefèvre.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+— J’aime les arbres et les fleurs.<br>/ʒɛm lez‿aʁbʁ e le flœʁ/	“I love trees and flowers.”	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+À Paris nous n’avons pas de jardin.<br>/a paʁi nu navɔ̃ pa də ʒaʁdɛ̃/	In Paris we have no garden.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Elle donne un livre au garçon et des bonbons à la fille.<br>/ɛl dɔn œ̃ livʁ o ɡaʁsɔ̃ e de bɔ̃bɔ̃ a la fij/	She gives a book to the boy and sweets to the girl.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Elle regarde les deux enfants.<br>/ɛl ʁəɡaʁd le døz‿ɑ̃fɑ̃/	She looks at the two children.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+— Quel âge as-tu ? — demande-t-elle au garçon.<br>/kɛl ɑʒ a ty ? dəmɑ̃dtɛl o ɡaʁsɔ̃/	“How old are you?” she asks the boy.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+— J’ai dix ans, madame. Et ma petite sœur a six ans.<br>/ʒe diz‿ɑ̃, madam. e ma pətit sœʁ a siz‿ɑ̃/	“I am ten, madam. And my little sister is six.”	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Puis les enfants jouent avec le chien.<br>/pɥi lez‿ɑ̃fɑ̃ ʒu avɛk lə ʃjɛ̃/	Then the children play with the dog.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Les grandes personnes parlent.<br>/le ɡʁɑ̃d pɛʁsɔn paʁl/	The grown-ups talk.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Mme Bertin apporte le goûter.<br>/madam bɛʁtɛ̃ apɔʁt lə ɡute/	Mrs Bertin brings the afternoon snack.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Elle offre des fruits et des gâteaux aux visiteurs et aux enfants.<br>/ɛl ɔfʁ de fʁɥi e de ɡɑto o vizitœʁ e oz‿ɑ̃fɑ̃/	She offers fruit and cakes to the visitors and to the children.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+La petite fille donne aussi un gâteau au chien.<br>/la pətit fij dɔn osi œ̃ ɡɑto o ʃjɛ̃/	The little girl also gives a cake to the dog.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Après le goûter les messieurs fument des cigarettes et les dames regardent des photos.<br>/apʁɛ lə ɡute le mesjø fym de siɡaʁɛt e le dam ʁəɡaʁd de fɔto/	After the snack the gentlemen smoke cigarettes and the ladies look at photos.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Les oiseaux chantent dans les arbres.<br>/lez‿wazo ʃɑ̃t dɑ̃ lez‿aʁbʁ/	The birds sing in the trees.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Les amis passent bien la journée.<br>/lez‿ami pas bjɛ̃ la ʒuʁne/	The friends have a good day.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Elle donne un gâteau au chien<br>/ɛl dɔn œ̃ ɡɑto o ʃjɛ̃/	She gives a cake to the dog (the caption of the drawing)	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+six<br>/sis/	6, six	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+sept<br>/sɛt/	7, seven	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+huit<br>/ɥit/	8, eight	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+neuf<br>/nœf/	9, nine	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+dix<br>/dis/	10, ten	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+onze<br>/ɔ̃z/	11, eleven	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+douze<br>/duz/	12, twelve	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+sixième<br>/sizjɛm/	sixth	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+une visite<br>/yn vizit/	a visit	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+les environs<br>/lez‿ɑ̃viʁɔ̃/	the surroundings, the area	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+une maison<br>/yn mɛzɔ̃/	a house	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un jardin<br>/œ̃ ʒaʁdɛ̃/	a garden	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un enfant<br>/œ̃n‿ɑ̃fɑ̃/	a child	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+deux enfants<br>/døz‿ɑ̃fɑ̃/	two children	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+petit, petite<br>/pəti, pətit/	small	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+dimanche (m)<br>/dimɑ̃ʃ/	Sunday	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un ami<br>/œ̃n‿ami/	a friend	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+arriver<br>/aʁive/	to arrive	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+arrivent<br>/aʁiv/	(they) arrive	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un autobus<br>/œ̃n‿otobys/	a bus	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un chien<br>/œ̃ ʃjɛ̃/	a dog	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+gros<br>/ɡʁo/	big, fat	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+noir<br>/nwaʁ/	black	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+garder<br>/ɡaʁde/	to guard, to keep	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+garde<br>/ɡaʁd/	(he, she, it) guards	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+la porte<br>/la pɔʁt/	the door, the gate	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+rester<br>/ʁɛste/	to stay	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+il ouvre<br>/il uvʁ/	he opens	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le jour<br>/lə ʒuʁ/	the day, as against the night	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+bonjour<br>/bɔ̃ʒuʁ/	hello, good morning (literally, good day)	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+cher<br>/ʃɛʁ/	dear	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+l’arbre (m)<br>/laʁbʁ/	the tree	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+les arbres<br>/lez‿aʁbʁ/	the trees	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+les fleurs<br>/le flœʁ/	the flowers	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+donner<br>/dɔne/	to give	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+elle donne<br>/ɛl dɔn/	she gives	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un bonbon<br>/œ̃ bɔ̃bɔ̃/	a sweet	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+des bonbons<br>/de bɔ̃bɔ̃/	sweets	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+l’âge (m)<br>/lɑʒ/	the age	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+la sœur<br>/la sœʁ/	the sister	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+puis<br>/pɥi/	then	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+jouer<br>/ʒwe/	to play	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+(ils, elles) jouent<br>/ʒu/	they play	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le chien<br>/lə ʃjɛ̃/	the dog	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+grand, grande<br>/ɡʁɑ̃, ɡʁɑ̃d/	big, tall	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+la personne<br>/la pɛʁsɔn/	the person	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le goûter<br>/lə ɡute/	the afternoon snack	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+offrir<br>/ɔfʁiʁ/	to offer, here: to serve	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+elle offre<br>/ɛl ɔfʁ/	she offers, she serves	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un fruit<br>/œ̃ fʁɥi/	a fruit	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un gâteau<br>/œ̃ ɡɑto/	a cake	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le visiteur<br>/lə vizitœʁ/	the visitor	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+aussi<br>/osi/	also	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+après<br>/apʁɛ/	after	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+les messieurs<br>/le mesjø/	the gentlemen	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+les dames<br>/le dam/	the ladies	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+l’oiseau (m)<br>/lwazo/	the bird	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+chanter<br>/ʃɑ̃te/	to sing	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+chantent<br>/ʃɑ̃t/	(they) sing	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+passer<br>/pase/	to spend (time)	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+bien<br>/bjɛ̃/	well	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+la journée<br>/la ʒuʁne/	the day, its length	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+en visite<br>/ɑ̃ vizit/	on a visit	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+à Chaville<br>/a ʃavil/	in Chaville, a town near Paris	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un dimanche<br>/œ̃ dimɑ̃ʃ/	one Sunday	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+leurs amis<br>/lœʁz‿ami/	their friends	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+en autobus<br>/ɑ̃n‿otobys/	by bus	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+(il) dit à …<br>/il di a/	he says to …	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+reste tranquille<br>/ʁɛst tʁɑ̃kil/	stay still, keep quiet (literally, stay calm)	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+bonjour monsieur, bonjour madame<br>/bɔ̃ʒuʁ məsjø, bɔ̃ʒuʁ madam/	good morning, sir; good morning, madam	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+chers amis<br>/ʃɛʁz‿ami/	dear friends	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+quel âge as-tu ?<br>/kɛl ɑʒ a ty/	how old are you?	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+ma sœur<br>/ma sœʁ/	my sister	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+avec le chien<br>/avɛk lə ʃjɛ̃/	with the dog	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+les grandes personnes<br>/le ɡʁɑ̃d pɛʁsɔn/	the grown-ups	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+(ils) passent bien<br>/il pas bjɛ̃/	they spend (the day) well	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le lilas<br>/lə lila/	the lilac	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le muguet<br>/lə myɡɛ/	the lily of the valley	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+l’œillet (m)<br>/lœjɛ/	the carnation	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+à Toutou, à Mme Lefèvre, à M. Lefèvre<br>/a tutu, a madam ləfɛvʁ, a məsjø ləfɛvʁ/	à before a proper name	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+au garçon<br>/o ɡaʁsɔ̃/	au, from à + le, before a masculine noun beginning with a consonant	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+à la fille<br>/a la fij/	à la before a feminine noun beginning with a consonant	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+à l’enfant<br>/a lɑ̃fɑ̃/	à l' before any noun beginning with a vowel or a mute h	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+aux enfants<br>/oz‿ɑ̃fɑ̃/	aux, from à + les, before a plural noun	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un petit jardin — une petite maison<br>/œ̃ pəti ʒaʁdɛ̃ — yn pətit mɛzɔ̃/	a small garden — a small house: the feminine adds -e	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+la grande personne — les grandes personnes<br>/la ɡʁɑ̃d pɛʁsɔn — le ɡʁɑ̃d pɛʁsɔn/	the grown-up — the grown-ups: the plural adds -s	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un gâteau — des gâteaux<br>/œ̃ ɡɑto — de ɡɑto/	a cake — cakes: -eau takes -x	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un oiseau — des oiseaux<br>/œ̃n‿wazo — dez‿wazo/	a bird — birds	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le gâteau — les gâteaux<br>/lə ɡɑto — le ɡɑto/	the cake — the cakes	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+l’oiseau — les oiseaux<br>/lwazo — lez‿wazo/	the bird — the birds	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+monsieur — messieurs<br>/məsjø — mesjø/	sir, Mr — gentlemen: mon sieur, mes sieurs	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+madame — mesdames<br>/madam — medam/	madam, Mrs — ladies: ma dame, mes dames	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Les deux enfants …<br>/le døz‿ɑ̃fɑ̃/	the two children (already known: the definite article)	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Chers amis !<br>/ʃɛʁz‿ami/	Dear friends! (the vocative: no article)	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+dit-il · dit Mme Lefèvre · demande-t-elle<br>/ditil · di madam ləfɛvʁ · dəmɑ̃dtɛl/	he says · says Mrs Lefèvre · she asks: inversion after direct speech	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Est-ce que M. et Mme Bertin habitent dans les environs de Varsovie ?<br>/ɛs kə məsjø e madam bɛʁtɛ̃ abit dɑ̃ lez‿ɑ̃viʁɔ̃ də vaʁsɔvi/	Do Mr and Mrs Bertin live near Warsaw?	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Est-ce que M. et Mme Bertin habitent dans les environs de Varsovie ? → Answer the questions (Non ils)	Non, ils habitent dans les environs de Paris.<br>/nɔ̃, ilz‿abit dɑ̃ lez‿ɑ̃viʁɔ̃ də paʁi/<br>No, they live near Paris.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+Ont-ils deux enfants ?<br>/ɔ̃til døz‿ɑ̃fɑ̃/	Do they have two children?	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Ont-ils deux enfants ? → Answer the questions (Oui ils)	Oui, ils ont deux enfants : un garçon et une fille.<br>/wi, ilz‿ɔ̃ døz‿ɑ̃fɑ̃ : œ̃ ɡaʁsɔ̃ e yn fij/<br>Yes, they have two children: a boy and a girl.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+Aimez-vous les arbres et les fleurs ?<br>/ɛme vu lez‿aʁbʁ e le flœʁ/	Do you like trees and flowers?	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Aimez-vous les arbres et les fleurs ? → Answer the questions (Oui j’aime)	Oui, j’aime les arbres et les fleurs.<br>/wi, ʒɛm lez‿aʁbʁ e le flœʁ/<br>Yes, I like trees and flowers.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+Quel âge a la petite fille ?<br>/kɛl ɑʒ a la pətit fij/	How old is the little girl?	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Quel âge a la petite fille ? → Answer the questions (Elle a)	Elle a six ans.<br>/ɛl a siz‿ɑ̃/<br>She is six.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+M. Bertin dit ________ ________ Mme Lefèvre.<br>(Fill in the blanks)	/məsjø bɛʁtɛ̃ di [bɔ̃ʒuʁ a] madam ləfɛvʁ/<br>Mr Bertin says hello to Mrs Lefèvre.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+Elle donne ________ livre ________ garçon.<br>(Fill in the blanks)	/ɛl dɔn [œ̃] livʁ [o] ɡaʁsɔ̃/<br>She gives a book to the boy.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+Il ________ des bonbons ________ ________ petite fille.<br>(Fill in the blanks)	/il [dɔn] de bɔ̃bɔ̃ [a la] pətit fij/<br>He gives sweets to the little girl.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+Nous don… des gâteaux ________ enfants.<br>(Fill in the blanks)	/nu [dɔnɔ̃] de ɡɑto [oz‿]ɑ̃fɑ̃/<br>We give cakes to the children.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+Tu donnes un gâteau au garçon.<br>/ty dɔn œ̃ ɡɑto o ɡaʁsɔ̃/	You give a cake to the boy.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Tu donnes un gâteau au garçon. → Put into the plural	Vous donnez des gâteaux aux garçons.<br>/vu dɔne de ɡɑto o ɡaʁsɔ̃/<br>You give cakes to the boys.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+L’oiseau chante dans l’arbre.<br>/lwazo ʃɑ̃t dɑ̃ laʁbʁ/	The bird sings in the tree.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+L’oiseau chante dans l’arbre. → Put into the plural	Les oiseaux chantent dans les arbres.<br>/lez‿wazo ʃɑ̃t dɑ̃ lez‿aʁbʁ/<br>The birds sing in the trees.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+J’arrive en auto.<br>/ʒaʁiv ɑ̃n‿oto/	I arrive by car.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+J’arrive en auto. → Put into the plural	Nous arrivons en auto.<br>/nuz‿aʁivɔ̃ ɑ̃n‿oto/<br>We arrive by car.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+J’ai un fruit.<br>/ʒe œ̃ fʁɥi/	I have a fruit.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+J’ai un fruit. → Put into the plural	Nous avons des fruits.<br>/nuz‿avɔ̃ de fʁɥi/<br>We have fruit.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+La dame regarde une photo.<br>/la dam ʁəɡaʁd yn fɔto/	The lady looks at a photo.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+La dame regarde une photo. → Put into the plural	Les dames regardent des photos.<br>/le dam ʁəɡaʁd de fɔto/<br>The ladies look at photos.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+Les visiteurs arrivent en autobus.<br>/le vizitœʁ aʁiv ɑ̃n‿otobys/	The visitors arrive by bus.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Le chien garde le jardin.<br>/lə ʃjɛ̃ ɡaʁd lə ʒaʁdɛ̃/	The dog guards the garden.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Jean dit au chien : « Reste tranquille ! »<br>/ʒɑ̃ di o ʃjɛ̃ : ʁɛst tʁɑ̃kil/	Jean says to the dog: “Stay still!”	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Je donne un stylo au garçon.<br>/ʒə dɔn œ̃ stilo o ɡaʁsɔ̃/	I give a fountain pen to the boy.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Nous donnons des bonbons à la fille.<br>/nu dɔnɔ̃ de bɔ̃bɔ̃ a la fij/	We give sweets to the girl.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Donne des fruits aux enfants !<br>/dɔn de fʁɥi oz‿ɑ̃fɑ̃/	Give fruit to the children!	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Apporte des cigarettes aux visiteurs !<br>/apɔʁt de siɡaʁɛt o vizitœʁ/	Bring cigarettes to the visitors!	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+les environs · ils ont · deux enfants · leurs amis · en autobus · chers amis · les arbres · les deux enfants · dix ans · six ans · les enfants · aux enfants · les oiseaux · les amis<br>/lez‿ɑ̃viʁɔ̃ · ilz‿ɔ̃ · døz‿ɑ̃fɑ̃ · lœʁz‿ami · ɑ̃n‿otobys · ʃɛʁz‿ami · lez‿aʁbʁ · le døz‿ɑ̃fɑ̃ · diz‿ɑ̃ · siz‿ɑ̃ · lez‿ɑ̃fɑ̃ · oz‿ɑ̃fɑ̃ · lez‿wazo · lez‿ami/	a silent s, x or n sounded before a vowel	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+six : six ans · six livres · à six heures<br>/siz‿ɑ̃ · si livʁ · a siz‿œʁ/	six years · six books · at six o'clock	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+sept, huit : sept jours · huit jours · dix-huit<br>/sɛt ʒuʁ · ɥi ʒuʁ · dizɥit/	seven days · a week, eight days · eighteen	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+neuf, dix : neuf heures · dix ans · dix-neuf<br>/nœv‿œʁ · diz‿ɑ̃ · diznœf/	nine o'clock · ten years · nineteen	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+onze, douze : le onze novembre · douze mois · à midi<br>/lə ɔ̃z nɔvɑ̃bʁ · duz mwa · a midi/	the eleventh of November · twelve months · at noon, twelve o'clock	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+une visite : rendre visite à · une visite guidée · une carte de visite<br>/ʁɑ̃dʁ vizit a · yn vizit ɡide · yn kaʁt də vizit/	to visit someone · a guided tour · a business card	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+les environs : dans les environs de Paris · aux environs de dix heures<br>/dɑ̃ lez‿ɑ̃viʁɔ̃ də paʁi · oz‿ɑ̃viʁɔ̃ də diz‿œʁ/	around Paris · at about ten o'clock	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+une maison : à la maison · une maison de campagne · une maison d’édition<br>/a la mɛzɔ̃ · yn mɛzɔ̃ də kɑ̃paɲ · yn mɛzɔ̃ dedisjɔ̃/	at home · a country house · a publishing house	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un enfant : un enfant de six ans · les enfants de Marie · un jeu d’enfant<br>/œ̃n‿ɑ̃fɑ̃ də siz‿ɑ̃ · lez‿ɑ̃fɑ̃ də maʁi · œ̃ ʒø dɑ̃fɑ̃/	a six-year-old · Marie's children · child's play	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+petit : un petit garçon · le petit déjeuner · petit à petit<br>/œ̃ pəti ɡaʁsɔ̃ · lə pəti deʒœne · pətit‿a pəti/	a little boy · breakfast · little by little	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+dimanche : le dimanche · dimanche prochain · un dimanche de mai<br>/lə dimɑ̃ʃ · dimɑ̃ʃ pʁɔʃɛ̃ · œ̃ dimɑ̃ʃ də mɛ/	on Sundays · next Sunday · a Sunday in May	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un ami : un vieil ami · une amie d’enfance · entre amis<br>/œ̃ vjɛj ami · yn ami dɑ̃fɑ̃s · ɑ̃tʁ ami/	an old friend · a childhood friend (a woman) · among friends	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+arriver : arriver à Paris · arriver en retard · j’arrive !<br>/aʁive a paʁi · aʁive ɑ̃ ʁətaʁ · ʒaʁiv/	to arrive in Paris · to arrive late · coming!	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un autobus : prendre l’autobus · un arrêt d’autobus · en bus<br>/pʁɑ̃dʁ lotobys · œ̃n‿aʁɛ dotobys · ɑ̃ bys/	to take the bus · a bus stop · by bus	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un chien : un chien de garde · attention, chien méchant · un temps de chien<br>/œ̃ ʃjɛ̃ də ɡaʁd · atɑ̃sjɔ̃, ʃjɛ̃ meʃɑ̃ · œ̃ tɑ̃ də ʃjɛ̃/	a guard dog · beware of the dog · foul weather	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+gros, noir : un gros livre · une grosse voiture · du café noir · il fait noir<br>/œ̃ ɡʁo livʁ · yn ɡʁos vwatyʁ · dy kafe nwaʁ · il fɛ nwaʁ/	a big book · a big car · black coffee · it is dark	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+garder : garder les enfants · garder le lit · garder un secret<br>/ɡaʁde lez‿ɑ̃fɑ̃ · ɡaʁde lə li · ɡaʁde œ̃ səkʁɛ/	to look after the children · to stay in bed · to keep a secret	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+la porte : la porte du jardin · à la porte · la porte d’entrée<br>/la pɔʁt dy ʒaʁdɛ̃ · a la pɔʁt · la pɔʁt dɑ̃tʁe/	the garden gate · at the door · the front door	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+rester : rester à la maison · rester calme · il reste du pain<br>/ʁɛste a la mɛzɔ̃ · ʁɛste kalm · il ʁɛst dy pɛ̃/	to stay at home · to stay calm · there is some bread left	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+ouvrir : ouvrir la porte · ouvrir un livre · ouvert le dimanche<br>/uvʁiʁ la pɔʁt · uvʁiʁ œ̃ livʁ · uvɛʁ lə dimɑ̃ʃ/	to open the door · to open a book · open on Sundays	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le jour, la journée : tous les jours · bonne journée ! · toute la journée<br>/tu le ʒuʁ · bɔn ʒuʁne · tut la ʒuʁne/	every day · have a good day! · all day long	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+bonjour : bonjour madame · dire bonjour · bonsoir<br>/bɔ̃ʒuʁ madam · diʁ bɔ̃ʒuʁ · bɔ̃swaʁ/	good morning, madam · to say hello · good evening	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+cher : chers amis · cher Jean · c’est cher<br>/ʃɛʁz‿ami · ʃɛʁ ʒɑ̃ · sɛ ʃɛʁ/	dear friends · dear Jean (in a letter) · it is expensive	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+l’arbre, la fleur : un arbre fruitier · un bouquet de fleurs · en fleurs<br>/œ̃n‿aʁbʁ fʁɥitje · œ̃ bukɛ də flœʁ · ɑ̃ flœʁ/	a fruit tree · a bunch of flowers · in bloom	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+donner : donner un livre à Pierre · donner sur le jardin · donne-moi<br>/dɔne œ̃ livʁ a pjɛʁ · dɔne syʁ lə ʒaʁdɛ̃ · dɔn mwa/	to give Pierre a book · to look out onto the garden · give me	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un bonbon : une boîte de bonbons · un bonbon à la menthe<br>/yn bwat də bɔ̃bɔ̃ · œ̃ bɔ̃bɔ̃ a la mɑ̃t/	a box of sweets · a mint	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+l’âge : quel âge as-tu ? · à l’âge de dix ans · le Moyen Âge<br>/kɛl ɑʒ a ty · a lɑʒ də diz‿ɑ̃ · lə mwajɛn‿ɑʒ/	how old are you? · at the age of ten · the Middle Ages	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+la sœur : ma petite sœur · ma grande sœur · le frère et la sœur<br>/ma pətit sœʁ · ma ɡʁɑ̃d sœʁ · lə fʁɛʁ e la sœʁ/	my little sister · my big sister · the brother and the sister	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+puis : et puis · puis, ensuite<br>/e pɥi · pɥi, ɑ̃sɥit/	and then · then, next	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+jouer : jouer avec le chien · jouer aux cartes · jouer du piano<br>/ʒwe avɛk lə ʃjɛ̃ · ʒwe o kaʁt · ʒwe dy pjano/	to play with the dog · to play cards · to play the piano	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+grand : une grande maison · les grandes personnes · un grand ami<br>/yn ɡʁɑ̃d mɛzɔ̃ · le ɡʁɑ̃d pɛʁsɔn · œ̃ ɡʁɑ̃t‿ami/	a big house · the grown-ups · a great friend	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+la personne : une grande personne · personne ! · en personne<br>/yn ɡʁɑ̃d pɛʁsɔn · pɛʁsɔn · ɑ̃ pɛʁsɔn/	a grown-up · nobody! · in person	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le goûter, offrir : prendre le goûter · offrir un cadeau · offrir des fleurs à Marie<br>/pʁɑ̃dʁ lə ɡute · ɔfʁiʁ œ̃ kado · ɔfʁiʁ de flœʁ a maʁi/	to have the afternoon snack · to give a present · to give Marie flowers	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un fruit, un gâteau : des fruits frais · un jus de fruit · un gâteau au chocolat · un gâteau d’anniversaire<br>/de fʁɥi fʁɛ · œ̃ ʒy də fʁɥi · œ̃ ɡɑto o ʃɔkɔla · œ̃ ɡɑto danivɛʁsɛʁ/	fresh fruit · a fruit juice · a chocolate cake · a birthday cake	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le visiteur : les visiteurs du musée · un visiteur du soir<br>/le vizitœʁ dy myze · œ̃ vizitœʁ dy swaʁ/	the museum's visitors · an evening visitor	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+après : après le goûter · l’après-midi · après vous !<br>/apʁɛ lə ɡute · lapʁɛmidi · apʁɛ vu/	after the snack · the afternoon · after you!	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+messieurs, dames : Mesdames et Messieurs · bonjour messieurs-dames · une dame âgée<br>/medam e mesjø · bɔ̃ʒuʁ mesjødam · yn dam ɑʒe/	ladies and gentlemen · hello, everyone (in a shop) · an elderly lady	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+l’oiseau, chanter : un oiseau chante · à vol d’oiseau · chanter une chanson<br>/œ̃n‿wazo ʃɑ̃t · a vɔl dwazo · ʃɑ̃te yn ʃɑ̃sɔ̃/	a bird sings · as the crow flies · to sing a song	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+passer : passer la journée · passer devant la maison · passe-moi le sel<br>/pase la ʒuʁne · pase dəvɑ̃ la mɛzɔ̃ · pas mwa lə sɛl/	to spend the day · to go past the house · pass me the salt	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+bien : très bien · bien sûr · ça va bien<br>/tʁɛ bjɛ̃ · bjɛ̃ syʁ · sa va bjɛ̃/	very well · of course · it's going well	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+tranquille : reste tranquille ! · un coin tranquille · laisse-moi tranquille<br>/ʁɛst tʁɑ̃kil · œ̃ kwɛ̃ tʁɑ̃kil · lɛs mwa tʁɑ̃kil/	stay still! · a quiet spot · leave me alone	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Nous habitons dans les environs de Varsovie.<br>/nuz‿abitɔ̃ dɑ̃ lez‿ɑ̃viʁɔ̃ də vaʁsɔvi/	We live in the Warsaw area.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Dimanche, nous arrivons chez les Bertin en autobus.<br>/dimɑ̃ʃ, nuz‿aʁivɔ̃ ʃe le bɛʁtɛ̃ ɑ̃n‿otobys/	On Sunday we arrive at the Bertins' by bus.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Le gros chien noir garde la maison.<br>/lə ɡʁo ʃjɛ̃ nwaʁ ɡaʁd la mɛzɔ̃/	The big black dog guards the house.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Ouvre la porte et dis bonjour aux visiteurs !<br>/uvʁ la pɔʁt e di bɔ̃ʒuʁ o vizitœʁ/	Open the door and say hello to the visitors!	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Je donne des fleurs à ma sœur.<br>/ʒə dɔn de flœʁ a ma sœʁ/	I give flowers to my sister.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Quel âge a ton frère ? Il a douze ans.<br>/kɛl ɑʒ a tɔ̃ fʁɛʁ ? il a duz ɑ̃/	How old is your brother? He is twelve.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Les enfants jouent dans le jardin, puis ils prennent le goûter.<br>/lez‿ɑ̃fɑ̃ ʒu dɑ̃ lə ʒaʁdɛ̃, pɥi il pʁɛn lə ɡute/	The children play in the garden, then they have their snack.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Madame Bertin offre du café aux dames.<br>/madam bɛʁtɛ̃ ɔfʁ dy kafe o dam/	Mrs Bertin offers the ladies coffee.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Après le goûter, les messieurs restent dans le jardin.<br>/apʁɛ lə ɡute, le mesjø ʁɛst dɑ̃ lə ʒaʁdɛ̃/	After the snack the gentlemen stay in the garden.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Les oiseaux chantent bien le dimanche matin.<br>/lez‿wazo ʃɑ̃t bjɛ̃ lə dimɑ̃ʃ matɛ̃/	The birds sing well on Sunday mornings.	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le frère<br>/lə fʁɛʁ/	the brother	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le matin<br>/lə matɛ̃/	the morning	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le soir<br>/lə swaʁ/	the evening	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+la semaine<br>/la səmɛn/	the week	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le cadeau, les cadeaux<br>/lə kado, le kado/	the present, the presents: another -eau	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le chat<br>/lə ʃa/	the cat	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+l’adulte<br>/ladylt/	the adult	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le bus<br>/lə bys/	the bus, the everyday word	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+Elle donne un gâteau ________ chien.<br>(AI exercise: au, à la, à l’ or aux)	/ɛl dɔn œ̃ ɡɑto [o] ʃjɛ̃/<br>She gives a cake to the dog.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+Nous disons bonjour ________ dames.<br>(AI exercise: au, à la, à l’ or aux)	/nu dizɔ̃ bɔ̃ʒuʁ [o] dam/<br>We say hello to the ladies.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+Il offre des fleurs ________ amie de Marie.<br>(AI exercise: au, à la, à l’ or aux)	/il ɔfʁ de flœʁ [a l]ami də maʁi/<br>He gives flowers to Marie's friend.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+Je donne des bonbons ________ petite fille.<br>(AI exercise: au, à la, à l’ or aux)	/ʒə dɔn de bɔ̃bɔ̃ [a la] pətit fij/<br>I give sweets to the little girl.	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+un oiseau noir<br>/œ̃n‿wazo nwaʁ/	a black bird	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+un oiseau noir → AI exercise: put into the plural	des oiseaux noirs<br>/dez‿wazo nwaʁ/<br>black birds	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+le gâteau au chocolat<br>/lə ɡɑto o ʃɔkɔla/	the chocolate cake	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+le gâteau au chocolat → AI exercise: put into the plural	les gâteaux au chocolat<br>/le ɡɑto o ʃɔkɔla/<br>the chocolate cakes	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+madame<br>/madam/	madam	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+madame → AI exercise: put into the plural	mesdames<br>/medam/<br>ladies	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite
+une grande personne<br>/yn ɡʁɑ̃d pɛʁsɔn/	a grown-up	french szypowska lecon06 fr-en	French::Szypowska (FR-EN)::Lesson 6: En visite
+une grande personne → AI exercise: put into the plural	des grandes personnes<br>/de ɡʁɑ̃d pɛʁsɔn/<br>grown-ups	french szypowska lecon06 fr-en exercise	French::Szypowska (FR-EN)::Lesson 6: En visite

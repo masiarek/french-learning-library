@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """Combine a chapter's Anki decks into one file per direction.
 
-    python3 tools/combine_anki.py 03_Szypowska            # write 03_Szypowska/anki/szypowska_fr_pl.txt and szypowska_pl_fr.txt
+    python3 tools/combine_anki.py 03_Szypowska            # write 03_Szypowska/anki/szypowska_fr_en.txt and szypowska_en_fr.txt
     python3 tools/combine_anki.py 03_Szypowska --check    # write nothing, fail if either is stale
 
 Each lesson keeps its decks in <lesson>/anki/: the two generated from its
 table by tools/anki_from_tables.py, one per direction, and the hand-written
 challenges. Every deck names its set in its #deck header, "French::Szypowska
-(PL-FR)::…", and this tool gathers the decks of a set into one file, named
+(EN-FR)::…", and this tool gathers the decks of a set into one file, named
 after the set, so that a set imports in one go and files its cards under a
 subdeck per lesson. It also writes, for each lesson, one import file per
 set, <lesson>/anki/<lesson>_import_<set>.txt, holding that lesson's cards of

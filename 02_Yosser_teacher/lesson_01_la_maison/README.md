@@ -293,6 +293,6 @@ The owner sent a note from another AI assistant on *les pièces de la maison* /l
 - [avoir](../../05_1000_words/avoir/README.md) — the verb behind *il y a* /il j a/: the present, *il n’y a pas de* /il nja pa də/, and the other places where English says *to be*
 - [être](../../05_1000_words/etre/README.md) — the *est* /ɛ/ of *ma maison est belle* /ma mɛzɔ̃ ɛ bɛl/ and of the prepositions of place, *le livre est sur le bureau* /lə livʁ ɛ syʁ lə byʁo/: the whole verb, with *c’est* /sɛ/ against *il est* /il ɛ/
 - [English and French in the IPA](../../01_Sounds/ipa_english_vs_french/README.md) — the inventory the program checks against, and the Assimil dialogue read the same way
-- [Szypowska (Polish material)](../../03_Szypowska/README.md) — the textbook chapter, where lesson 4 shows the same rooms of a flat in French and Polish
+- [Szypowska (Polish material)](../../03_Szypowska/README.md) — the textbook chapter, where lesson 4 shows the same rooms of a flat
 - [Glossary](../../GLOSSARY.md) — liaison, e muet, nasal vowel
 - Le Robert, *Dictionnaire de la langue française*, pronunciation key, from memory; open-dict-data's *ipa-dict* for the rooms added on 2026-10-10
