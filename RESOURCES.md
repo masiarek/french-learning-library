@@ -56,13 +56,26 @@ As of October 2026. With a teacher, a book has one job: the hours between lesson
 | Preston Publishing, *Francuski w tłumaczeniach: Gramatyka 1–4* (Janina Radej), A1 to B2, [prestonpublishing.pl ↗](https://prestonpublishing.pl/) | Polish sentences on the left, their French on the right, a grammar note at the foot of each page, and MP3 recordings of the French; one grammar point per page | The start is your own language, which Assimil and the CLE books never give; a page is a test you set yourself, and the French you got wrong is a question for the teacher | High for part 3, whose listing names the MP3 and the B1–B2 level; the other parts from memory |
 | Edgard, *Francuski nie gryzie!* (A1), and the audio courses *Francuski. Kurs podstawowy* and *Krok dalej*, [jezykiobce.pl ↗](https://www.jezykiobce.pl/) | A gentle beginners’ book with a CD of some 70 minutes read by native speakers; the two courses are audio first, book second | For a first month, or for a learner who wants the explanations in Polish; after Assimil’s first lessons it is below you | High for the book and its CD (a retail listing); the courses from a distributor’s note |
 
+### 5. A reference grammar: to look a rule up
+
+Added 2026-10-11, when the owner asked for “the best French grammar book”. The drill books above teach a rule by ear; a reference grammar answers the question that comes up in a lesson, *why* this *de* /də/ and not *des* /de/, in English, with an index. One is enough. None has audio, and none needs it. All from memory: no publisher page was read.
+
+| Book | What it gives | Why it is useful beside a teacher | How sure |
+|---|---|---|---|
+| Myrna Bell Rochester, *Easy French Step-by-Step* (McGraw-Hill) | The grammar in the order you need it, from *être* /ɛtʁ/ and the articles to the past tenses, each chapter a few rules and short exercises with a key | The best first grammar for a beginner who reads English: it builds, it does not list. Lessons 2 to 4 of [Yosser](02_Yosser_teacher/README.md) sit in its first chapters | Medium-high: from memory |
+| Annie Heminway, *Practice Makes Perfect: Complete French Grammar* (McGraw-Hill) | Every point of grammar in a short chapter, explanation in English, many exercises, answers at the back; A1 to B2 | The verdict for “best grammar book” for this learner: clear English, a key, and the whole grammar in one volume, so it serves for years | Medium-high: from memory |
+| *Bescherelle: La conjugaison pour tous* (Hatier) | Every French verb conjugated in every tense, with a model table for each of about 100 patterns | Not to read, to consult: the verb you met in Assimil, looked up in ten seconds. Every French pupil owns one | High: from memory, the standard book |
+| Roger Hawkins and Richard Towell, *French Grammar and Usage* (Routledge) | A full reference grammar in English, for B1 and above, with the usage notes that simpler books leave out | Later: when *Practice Makes Perfect* has no answer | Medium: from memory |
+| Maurice Grevisse, *Le Bon Usage* (De Boeck) | The great descriptive grammar of French, in French, two thousand pages | Not for now: a book for C1 and for teachers; named because it is what “the French grammar” means in France and Belgium | High that it is the reference, from memory |
+
 ### What to use first, with a teacher
 
 1. Assimil, to the end: a lesson a day, the audio once without the book, then with it, then aloud; from lesson 50 the active wave, written out, the doubtful sentences brought to Yosser.
 2. *Grammaire en dialogues*, débutant: a chapter a week, the dialogue shadowed until it comes out at the recording’s speed, the exercises marked alone.
 3. A reader a month with its audio: *Lectures CLE* at A1, then *Mondes en VF* at A2, read once with the voice and once without.
 4. For drills in Polish, *Francuski w tłumaczeniach 1*, a page a day against the key.
-5. The sounds: *Phonétique progressive*, débutant, as [the pronunciation page](04_Pronunciation/resources/README.md) says.
+5. For looking a rule up, *Practice Makes Perfect: Complete French Grammar*, and the *Bescherelle* for the verbs.
+6. The sounds: *Phonétique progressive*, débutant, as [the pronunciation page](04_Pronunciation/resources/README.md) says.
 
 Two kinds of book are left out on purpose. The classroom methods, *Alter Ego+*, *Édito*, *Cosmo*, *Défi*, *Tendances*, are written for a class with a teacher’s book and a workbook, and alone they are half a course: use one only if Yosser teaches from it. And the audio-only courses, Pimsleur, Michel Thomas, Paul Noble, are not books; Pimsleur gives speaking from the first day at half an hour a day, with nothing to read and at a high price, and it is the right choice for a commute, not for a desk.
 
