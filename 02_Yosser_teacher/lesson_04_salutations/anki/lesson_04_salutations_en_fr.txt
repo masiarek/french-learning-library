@@ -1,0 +1,44 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Yosser (EN-FR)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+#tags:french yosser lesson04 en-fr
+#columns:Front	Back	Tags
+#tags column:3
+hello, good morning, good afternoon: the standard greeting	bonjour<br>/bɔ̃ʒuʁ/	en-fr
+good evening: to someone in the evening, from about 6 p.m.	bonsoir<br>/bɔ̃swaʁ/	en-fr
+hi: informal, at any time of day; also bye, informally	salut<br>/saly/	en-fr
+goodbye: the formal way	au revoir<br>/o ʁəvwaʁ/	en-fr
+Hello, Madam.	Bonjour, Madame.<br>/bɔ̃ʒuʁ, madam/	en-fr
+I’m leaving, goodbye!	Je pars, salut !<br>/ʒə paʁ, saly/	en-fr
+Thank you, goodbye!	Merci, au revoir !<br>/mɛʁsi, o ʁəvwaʁ/	en-fr
+wrong as a greeting: good afternoon, everyone!	✗ Bon après-midi, tout le monde !<br>/bɔn‿apʁɛmidi, tu lə mɔ̃d/	en-fr
+right: hello, everyone!	✓ Bonjour, tout le monde !<br>/bɔ̃ʒuʁ, tu lə mɔ̃d/	en-fr
+hello, good morning, good afternoon	Bonjour<br>/bɔ̃ʒuʁ/	en-fr
+hi (very informal)	Coucou<br>/kuku/	en-fr
+good evening (after 6 p.m.)	Bonsoir<br>/bɔ̃swaʁ/	en-fr
+hi, bye (informal)	Salut<br>/saly/	en-fr
+goodbye	Au revoir<br>/o ʁəvwaʁ/	en-fr
+see you later	À plus, à plus tard<br>/a plys, a ply taʁ/	en-fr
+have a nice day	Bonne journée<br>/bɔn ʒuʁne/	en-fr
+Have a nice evening! (on leaving)	Bonne soirée !<br>/bɔn swaʁe/	en-fr
+Good night! (going to bed)	Bonne nuit !<br>/bɔn nɥi/	en-fr
+Have a nice afternoon! (on leaving)	Bon après-midi !<br>/bɔn‿apʁɛmidi/	en-fr
+Have a nice weekend!	Bon week-end !<br>/bɔ̃ wikɛnd/	en-fr
+See you soon!	À bientôt !<br>/a bjɛ̃to/	en-fr
+See you tomorrow!	À demain !<br>/a dəmɛ̃/	en-fr
+See you later today!	À tout à l’heure !<br>/a tut‿a lœʁ/	en-fr
+How are you? (informal) — Fine, thanks.	Ça va ? — Ça va bien, merci.<br>/sa va ? sa va bjɛ̃, mɛʁsi/	en-fr
+How are you? (formal)	Comment allez-vous ?<br>/kɔmɑ̃t‿ale vu/	en-fr
+Pleased to meet you.	Enchanté, enchantée.<br>/ɑ̃ʃɑ̃te/	en-fr
+Hello, sir.	Bonjour, monsieur.<br>/bɔ̃ʒuʁ, məsjø/	en-fr
+You walk into a bakery at nine a.m.	Tu entres dans une boulangerie à neuf heures.<br>/ty ɑ̃tʁ dɑ̃z‿yn bulɑ̃ʒʁi a nœv‿œʁ/	en-fr
+You arrive at friends’ at eight p.m.	Tu arrives chez des amis à huit heures du soir.<br>/ty aʁiv ʃe dez‿ami a ɥit‿œʁ dy swaʁ/	en-fr
+You leave your friends at eleven p.m.	Tu quittes tes amis à onze heures du soir.<br>/ty kit tez‿ami a ɔ̃z‿œʁ dy swaʁ/	en-fr
+You leave a shop at two p.m.	Tu sors d’un magasin à deux heures de l’après-midi.<br>/ty sɔʁ dœ̃ maɡazɛ̃ a døz‿œʁ də lapʁɛmidi/	en-fr
+You see a friend in the street.	Tu vois un ami dans la rue.<br>/ty vwa œ̃n‿ami dɑ̃ la ʁy/	en-fr
+You are going to bed.	Tu vas au lit.<br>/ty va o li/	en-fr
+You walk into a classroom in the morning.	Tu entres dans une classe le matin.<br>/ty ɑ̃tʁ dɑ̃z‿yn klas lə matɛ̃/	en-fr
+Hello, sir!	Bonjour, monsieur !<br>/bɔ̃ʒuʁ, məsjø/	en-fr
+Hello, madam. A coffee, please.	Bonjour, madame. Un café, s’il vous plaît.<br>/bɔ̃ʒuʁ, madam. œ̃ kafe, sil vu plɛ/	en-fr
+Here you are. Have a nice day!	Voilà. Bonne journée !<br>/vwala. bɔn ʒuʁne/	en-fr

@@ -1,0 +1,50 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+bonjour<br>/bɔ̃ʒuʁ/	hello, good morning, good afternoon: the standard greeting	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+bonsoir<br>/bɔ̃swaʁ/	good evening: to someone in the evening, from about 6 p.m.	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+salut<br>/saly/	hi: informal, at any time of day; also bye, informally	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+au revoir<br>/o ʁəvwaʁ/	goodbye: the formal way	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Bonjour, Madame.<br>/bɔ̃ʒuʁ, madam/	Hello, Madam.	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Je pars, salut !<br>/ʒə paʁ, saly/	I’m leaving, goodbye!	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Merci, au revoir !<br>/mɛʁsi, o ʁəvwaʁ/	Thank you, goodbye!	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+✗ Bon après-midi, tout le monde !<br>/bɔn‿apʁɛmidi, tu lə mɔ̃d/	wrong as a greeting: good afternoon, everyone!	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+✓ Bonjour, tout le monde !<br>/bɔ̃ʒuʁ, tu lə mɔ̃d/	right: hello, everyone!	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Bonjour<br>/bɔ̃ʒuʁ/	hello, good morning, good afternoon	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Coucou<br>/kuku/	hi (very informal)	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Bonsoir<br>/bɔ̃swaʁ/	good evening (after 6 p.m.)	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Salut<br>/saly/	hi, bye (informal)	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Au revoir<br>/o ʁəvwaʁ/	goodbye	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+À plus, à plus tard<br>/a plys, a ply taʁ/	see you later	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Bonne journée<br>/bɔn ʒuʁne/	have a nice day	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Bonne soirée !<br>/bɔn swaʁe/	Have a nice evening! (on leaving)	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Bonne nuit !<br>/bɔn nɥi/	Good night! (going to bed)	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Bon après-midi !<br>/bɔn‿apʁɛmidi/	Have a nice afternoon! (on leaving)	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Bon week-end !<br>/bɔ̃ wikɛnd/	Have a nice weekend!	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+À bientôt !<br>/a bjɛ̃to/	See you soon!	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+À demain !<br>/a dəmɛ̃/	See you tomorrow!	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+À tout à l’heure !<br>/a tut‿a lœʁ/	See you later today!	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Ça va ? — Ça va bien, merci.<br>/sa va ? sa va bjɛ̃, mɛʁsi/	How are you? (informal) — Fine, thanks.	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Comment allez-vous ?<br>/kɔmɑ̃t‿ale vu/	How are you? (formal)	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Enchanté, enchantée.<br>/ɑ̃ʃɑ̃te/	Pleased to meet you.	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Bonjour, monsieur.<br>/bɔ̃ʒuʁ, məsjø/	Hello, sir.	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Tu entres dans une boulangerie à neuf heures.<br>/ty ɑ̃tʁ dɑ̃z‿yn bulɑ̃ʒʁi a nœv‿œʁ/	You walk into a bakery at nine a.m.	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Tu entres dans une boulangerie à neuf heures. → AI exercise: what do you say?	Bonjour, madame !<br>/bɔ̃ʒuʁ, madam/<br>Hello, madam!<br>Dzień dobry pani!	french yosser lesson04 fr-en exercise	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Tu arrives chez des amis à huit heures du soir.<br>/ty aʁiv ʃe dez‿ami a ɥit‿œʁ dy swaʁ/	You arrive at friends’ at eight p.m.	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Tu arrives chez des amis à huit heures du soir. → AI exercise: what do you say?	Bonsoir !<br>/bɔ̃swaʁ/<br>Good evening!<br>Dobry wieczór!	french yosser lesson04 fr-en exercise	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Tu quittes tes amis à onze heures du soir.<br>/ty kit tez‿ami a ɔ̃z‿œʁ dy swaʁ/	You leave your friends at eleven p.m.	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Tu quittes tes amis à onze heures du soir. → AI exercise: what do you say?	Bonne soirée, à demain !<br>/bɔn swaʁe, a dəmɛ̃/<br>Have a nice evening, see you tomorrow!<br>Miłego wieczoru, do jutra!	french yosser lesson04 fr-en exercise	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Tu sors d’un magasin à deux heures de l’après-midi.<br>/ty sɔʁ dœ̃ maɡazɛ̃ a døz‿œʁ də lapʁɛmidi/	You leave a shop at two p.m.	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Tu sors d’un magasin à deux heures de l’après-midi. → AI exercise: what do you say?	Merci, au revoir, bon après-midi !<br>/mɛʁsi, o ʁəvwaʁ, bɔn‿apʁɛmidi/<br>Thank you, goodbye, have a nice afternoon!<br>Dziękuję, do widzenia, miłego popołudnia!	french yosser lesson04 fr-en exercise	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Tu vois un ami dans la rue.<br>/ty vwa œ̃n‿ami dɑ̃ la ʁy/	You see a friend in the street.	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Tu vois un ami dans la rue. → AI exercise: what do you say?	Salut, ça va ?<br>/saly, sa va/<br>Hi, how are you?<br>Cześć, co słychać?	french yosser lesson04 fr-en exercise	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Tu vas au lit.<br>/ty va o li/	You are going to bed.	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Tu vas au lit. → AI exercise: what do you say?	Bonne nuit !<br>/bɔn nɥi/<br>Good night!<br>Dobranoc!	french yosser lesson04 fr-en exercise	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Tu entres dans une classe le matin.<br>/ty ɑ̃tʁ dɑ̃z‿yn klas lə matɛ̃/	You walk into a classroom in the morning.	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Tu entres dans une classe le matin. → AI exercise: what do you say?	Bonjour, tout le monde !<br>/bɔ̃ʒuʁ, tu lə mɔ̃d/<br>Hello, everyone!<br>Dzień dobry wszystkim!	french yosser lesson04 fr-en exercise	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Bonjour, monsieur !<br>/bɔ̃ʒuʁ, məsjø/	Hello, sir!	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Bonjour, madame. Un café, s’il vous plaît.<br>/bɔ̃ʒuʁ, madam. œ̃ kafe, sil vu plɛ/	Hello, madam. A coffee, please.	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+Voilà. Bonne journée !<br>/vwala. bɔn ʒuʁne/	Here you are. Have a nice day!	french yosser lesson04 fr-en	French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
