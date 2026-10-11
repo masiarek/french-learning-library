@@ -1,0 +1,14 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Yosser (EN-FR)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA::Challenges
+#tags:french yosser lesson04 challenge
+#columns:Front	Back	Tags
+#tags column:3
+Greeting or goodbye: bonsoir, bonne soirée?	Bonsoir /bɔ̃swaʁ/ greets; bonne soirée /bɔn swaʁe/ says goodbye.	greetings
+Why not “bon après-midi, tout le monde” on arriving?	It only says goodbye. On arriving: Bonjour, tout le monde ! /bɔ̃ʒuʁ, tu lə mɔ̃d/	greetings
+How do you pronounce à plus (see you)?	/a plys/: the s is heard. À plus tard: /a ply taʁ/	pronunciation
+You walk into a bakery. First word?	Bonjour, madame ! /bɔ̃ʒuʁ, madam/ — always before the question.	greetings
+Say in French: See you tomorrow! See you soon!	À demain ! À bientôt ! /a dəmɛ̃, a bjɛ̃to/	goodbyes
+Is “bon matin” French?	Not in France (say bonjour /bɔ̃ʒuʁ/); in Québec it is a normal greeting.	greetings
+Who gets coucou, salut, bonjour?	Coucou /kuku/: family, close friends. Salut /saly/: friends. Bonjour /bɔ̃ʒuʁ/: everyone else.	register

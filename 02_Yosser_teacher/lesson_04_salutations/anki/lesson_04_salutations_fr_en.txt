@@ -1,0 +1,51 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Yosser (FR-EN)::Lesson 4: Bonjour, salut, au revoir — greetings, français, anglais, IPA
+#tags:french yosser lesson04 fr-en
+#columns:Front	Back	Tags
+#tags column:3
+bonjour<br>/bɔ̃ʒuʁ/	hello, good morning, good afternoon: the standard greeting	fr-en
+bonsoir<br>/bɔ̃swaʁ/	good evening: to someone in the evening, from about 6 p.m.	fr-en
+salut<br>/saly/	hi: informal, at any time of day; also bye, informally	fr-en
+au revoir<br>/o ʁəvwaʁ/	goodbye: the formal way	fr-en
+Bonjour, Madame.<br>/bɔ̃ʒuʁ, madam/	Hello, Madam.	fr-en
+Je pars, salut !<br>/ʒə paʁ, saly/	I’m leaving, goodbye!	fr-en
+Merci, au revoir !<br>/mɛʁsi, o ʁəvwaʁ/	Thank you, goodbye!	fr-en
+✗ Bon après-midi, tout le monde !<br>/bɔn‿apʁɛmidi, tu lə mɔ̃d/	wrong as a greeting: good afternoon, everyone!	fr-en
+✓ Bonjour, tout le monde !<br>/bɔ̃ʒuʁ, tu lə mɔ̃d/	right: hello, everyone!	fr-en
+Bonjour<br>/bɔ̃ʒuʁ/	hello, good morning, good afternoon	fr-en
+Coucou<br>/kuku/	hi (very informal)	fr-en
+Bonsoir<br>/bɔ̃swaʁ/	good evening (after 6 p.m.)	fr-en
+Salut<br>/saly/	hi, bye (informal)	fr-en
+Au revoir<br>/o ʁəvwaʁ/	goodbye	fr-en
+À plus, à plus tard<br>/a plys, a ply taʁ/	see you later	fr-en
+Bonne journée<br>/bɔn ʒuʁne/	have a nice day	fr-en
+Bonne soirée !<br>/bɔn swaʁe/	Have a nice evening! (on leaving)	fr-en
+Bonne nuit !<br>/bɔn nɥi/	Good night! (going to bed)	fr-en
+Bon après-midi !<br>/bɔn‿apʁɛmidi/	Have a nice afternoon! (on leaving)	fr-en
+Bon week-end !<br>/bɔ̃ wikɛnd/	Have a nice weekend!	fr-en
+À bientôt !<br>/a bjɛ̃to/	See you soon!	fr-en
+À demain !<br>/a dəmɛ̃/	See you tomorrow!	fr-en
+À tout à l’heure !<br>/a tut‿a lœʁ/	See you later today!	fr-en
+Ça va ? — Ça va bien, merci.<br>/sa va ? sa va bjɛ̃, mɛʁsi/	How are you? (informal) — Fine, thanks.	fr-en
+Comment allez-vous ?<br>/kɔmɑ̃t‿ale vu/	How are you? (formal)	fr-en
+Enchanté, enchantée.<br>/ɑ̃ʃɑ̃te/	Pleased to meet you.	fr-en
+Bonjour, monsieur.<br>/bɔ̃ʒuʁ, məsjø/	Hello, sir.	fr-en
+Tu entres dans une boulangerie à neuf heures.<br>/ty ɑ̃tʁ dɑ̃z‿yn bulɑ̃ʒʁi a nœv‿œʁ/	You walk into a bakery at nine a.m.	fr-en
+Tu entres dans une boulangerie à neuf heures. → AI exercise: what do you say?	Bonjour, madame !<br>/bɔ̃ʒuʁ, madam/<br>Hello, madam!<br>Dzień dobry pani!	exercise
+Tu arrives chez des amis à huit heures du soir.<br>/ty aʁiv ʃe dez‿ami a ɥit‿œʁ dy swaʁ/	You arrive at friends’ at eight p.m.	fr-en
+Tu arrives chez des amis à huit heures du soir. → AI exercise: what do you say?	Bonsoir !<br>/bɔ̃swaʁ/<br>Good evening!<br>Dobry wieczór!	exercise
+Tu quittes tes amis à onze heures du soir.<br>/ty kit tez‿ami a ɔ̃z‿œʁ dy swaʁ/	You leave your friends at eleven p.m.	fr-en
+Tu quittes tes amis à onze heures du soir. → AI exercise: what do you say?	Bonne soirée, à demain !<br>/bɔn swaʁe, a dəmɛ̃/<br>Have a nice evening, see you tomorrow!<br>Miłego wieczoru, do jutra!	exercise
+Tu sors d’un magasin à deux heures de l’après-midi.<br>/ty sɔʁ dœ̃ maɡazɛ̃ a døz‿œʁ də lapʁɛmidi/	You leave a shop at two p.m.	fr-en
+Tu sors d’un magasin à deux heures de l’après-midi. → AI exercise: what do you say?	Merci, au revoir, bon après-midi !<br>/mɛʁsi, o ʁəvwaʁ, bɔn‿apʁɛmidi/<br>Thank you, goodbye, have a nice afternoon!<br>Dziękuję, do widzenia, miłego popołudnia!	exercise
+Tu vois un ami dans la rue.<br>/ty vwa œ̃n‿ami dɑ̃ la ʁy/	You see a friend in the street.	fr-en
+Tu vois un ami dans la rue. → AI exercise: what do you say?	Salut, ça va ?<br>/saly, sa va/<br>Hi, how are you?<br>Cześć, co słychać?	exercise
+Tu vas au lit.<br>/ty va o li/	You are going to bed.	fr-en
+Tu vas au lit. → AI exercise: what do you say?	Bonne nuit !<br>/bɔn nɥi/<br>Good night!<br>Dobranoc!	exercise
+Tu entres dans une classe le matin.<br>/ty ɑ̃tʁ dɑ̃z‿yn klas lə matɛ̃/	You walk into a classroom in the morning.	fr-en
+Tu entres dans une classe le matin. → AI exercise: what do you say?	Bonjour, tout le monde !<br>/bɔ̃ʒuʁ, tu lə mɔ̃d/<br>Hello, everyone!<br>Dzień dobry wszystkim!	exercise
+Bonjour, monsieur !<br>/bɔ̃ʒuʁ, məsjø/	Hello, sir!	fr-en
+Bonjour, madame. Un café, s’il vous plaît.<br>/bɔ̃ʒuʁ, madam. œ̃ kafe, sil vu plɛ/	Hello, madam. A coffee, please.	fr-en
+Voilà. Bonne journée !<br>/vwala. bɔn ʒuʁne/	Here you are. Have a nice day!	fr-en
