@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+#tags:french yosser lesson03 challenge
+#columns:Front	Back	Tags
+#tags column:3
+Ask in French: Where are the toilets?	Où sont les toilettes ? /u sɔ̃ le twalɛt/ (toilettes is plural)	location
+Ask in French, the guidebook way: Where is the museum located?	Où se trouve le musée ? /u sə tʁuv lə myze/	location
+Which form of quel? ___ est la station de métro ?	Quelle est la station de métro ? /kɛl ɛ la stasjɔ̃ də metʁo/ (la station is feminine)	quel
+Which form of quel? ___ hôtels sont près de la gare ? And how does it sound?	Quels hôtels … ? /kɛlz‿otɛl/: the one place the four forms differ, by the liaison	quel
+What is the difference: qu’est-ce que and est-ce que?	Qu’est-ce que /kɛs kə/ asks what; est-ce que /ɛs kə/ asks yes or no.	question
+Say in French: Is it far from here?	Est-ce que c’est loin d’ici ? /ɛs kə sɛ lwɛ̃ disi/	location
+Answer in French: It’s straight on, then left.	C’est tout droit, puis à gauche. /sɛ tu dʁwa, pɥi a ɡoʃ/	directions
+Answer in French: The post office is opposite the bank.	La poste se trouve en face de la banque. /la pɔst sə tʁuv ɑ̃ fas də la bɑ̃k/	directions
+Answer in French: It’s five minutes’ walk.	C’est à cinq minutes à pied. /sɛ(t)‿a sɛ̃k minyt a pje/	directions

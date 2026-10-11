@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+to be: ask where things are with être …	être<br>/ɛtʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+… or with se trouver, to be located	se trouver<br>/sə tʁuve/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+to ask what, start the sentence with qu’est-ce que	qu’est-ce que<br>/kɛs kə/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+what, which: agrees with its noun like an adjective, and all four sound the same	quel, quelle, quels, quelles<br>/kɛl/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Where is the post office?	Où est la poste ?<br>/u ɛ la pɔst/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Where is the train station?	Où est la gare ?<br>/u ɛ la ɡaʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Is this museum far from here?	Est-ce que ce musée est loin d’ici ?<br>/ɛs kə sə myze ɛ lwɛ̃ disi/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Where is …?	Où est … ?<br>/u ɛ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Where are …?	Où sont … ?<br>/u sɔ̃/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Where is … located?	Où se trouve … ?<br>/u sə tʁuv/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+What is this?	Qu’est-ce que c’est ?<br>/kɛs kə sɛ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+What do you want to do?	Qu’est-ce que vous voulez faire ?<br>/kɛs kə vu vule fɛʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Which is the subway station for the Arc de Triomphe?	Quelle est la station de métro pour l’Arc de Triomphe ?<br>/kɛl ɛ la stasjɔ̃ də metʁo puʁ laʁk də tʁijɔ̃f/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Which is the bus stop for the Louvre museum?	Quel est l’arrêt de bus pour le musée du Louvre ?<br>/kɛl ɛ laʁɛ də bys puʁ lə myze dy luvʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+to go to the post office · a post office · to send by post	la poste : aller à la poste · un bureau de poste · envoyer par la poste<br>/ale a la pɔst · œ̃ byʁo də pɔst · ɑ̃vwaje paʁ la pɔst/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+the Gare du Nord · at the station · the platform	la gare : la gare du Nord · à la gare · le quai de la gare<br>/la ɡaʁ dy nɔʁ · a la ɡaʁ · lə ke də la ɡaʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+the Louvre · to visit a museum · an art museum	le musée : le musée du Louvre · visiter un musée · un musée d’art<br>/lə myze dy luvʁ · vizite œ̃ myze · œ̃ myze daʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+far from here · not very far · too far	loin : loin d’ici · pas très loin · trop loin<br>/lwɛ̃ disi · pa tʁɛ lwɛ̃ · tʁo lwɛ̃/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+to be in town · to be in Paris · to be near the station	se trouver : se trouver en ville · se trouver à Paris · se trouver près de la gare<br>/sə tʁuve ɑ̃ vil · sə tʁuve a paʁi · sə tʁuve pʁɛ də la ɡaʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+the bus stop · the next stop · to get off at the next stop	l’arrêt : l’arrêt de bus · le prochain arrêt · descendre au prochain arrêt<br>/laʁɛ də bys · lə pʁɔʃɛ̃n‿aʁɛ · desɑ̃dʁ o pʁɔʃɛ̃n‿aʁɛ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+the metro station · the taxi rank · a ski resort	la station : la station de métro · la station de taxis · une station de ski<br>/la stasjɔ̃ də metʁo · la stasjɔ̃ də taksi · yn stasjɔ̃ də ski/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+near here	près d’ici<br>/pʁɛ disi/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+on the right	à droite<br>/a dʁwat/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+on the left	à gauche<br>/a ɡoʃ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+straight on	tout droit<br>/tu dʁwa/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+opposite	en face de<br>/ɑ̃ fas də/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+at the corner of the street	au coin de la rue<br>/o kwɛ̃ də la ʁy/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+at the end of the street	au bout de la rue<br>/o bu də la ʁy/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+five minutes’ walk	à cinq minutes à pied<br>/a sɛ̃k minyt a pje/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+the bank	la banque<br>/la bɑ̃k/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+the chemist’s	la pharmacie<br>/la faʁmasi/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+The station is on the right.	La gare est à droite.<br>/la ɡaʁ ɛ(t)‿a dʁwat/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+The toilets are at the end of the corridor.	Les toilettes sont au bout du couloir.<br>/le twalɛt sɔ̃(t)‿o bu dy kulwaʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+The post office is opposite the bank.	La poste se trouve en face de la banque.<br>/la pɔst sə tʁuv ɑ̃ fas də la bɑ̃k/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+It is a map of Paris.	C’est un plan de Paris.<br>/sɛ(t)‿œ̃ plɑ̃ də paʁi/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+The museum is five minutes’ walk away.	Le musée est à cinq minutes à pied.<br>/lə myze ɛ(t)‿a sɛ̃k minyt a pje/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+I want to visit the Louvre.	Je veux visiter le Louvre.<br>/ʒə vø vizite lə luvʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+The bus stop is at the corner of the street.	L’arrêt de bus est au coin de la rue.<br>/laʁɛ də bys ɛ(t)‿o kwɛ̃ də la ʁy/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Excuse me, madam, where is the station?	Pardon, madame, où est la gare ?<br>/paʁdɔ̃, madam, u ɛ la ɡaʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+It’s straight on, then left.	C’est tout droit, puis à gauche.<br>/sɛ tu dʁwa, pɥi a ɡoʃ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Is it far from here?	Est-ce que c’est loin d’ici ?<br>/ɛs kə sɛ lwɛ̃ disi/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+No, it’s five minutes’ walk.	Non, c’est à cinq minutes à pied.<br>/nɔ̃, sɛ(t)‿a sɛ̃k minyt a pje/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Thank you very much!	Merci beaucoup !<br>/mɛʁsi boku/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Ask in French: Where are the toilets?	Où sont les toilettes ? /u sɔ̃ le twalɛt/ (toilettes is plural)	french yosser lesson03 challenge location	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+Ask in French, the guidebook way: Where is the museum located?	Où se trouve le musée ? /u sə tʁuv lə myze/	french yosser lesson03 challenge location	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+Which form of quel? ___ est la station de métro ?	Quelle est la station de métro ? /kɛl ɛ la stasjɔ̃ də metʁo/ (la station is feminine)	french yosser lesson03 challenge quel	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+Which form of quel? ___ hôtels sont près de la gare ? And how does it sound?	Quels hôtels … ? /kɛlz‿otɛl/: the one place the four forms differ, by the liaison	french yosser lesson03 challenge quel	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+What is the difference: qu’est-ce que and est-ce que?	Qu’est-ce que /kɛs kə/ asks what; est-ce que /ɛs kə/ asks yes or no.	french yosser lesson03 challenge question	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+Say in French: Is it far from here?	Est-ce que c’est loin d’ici ? /ɛs kə sɛ lwɛ̃ disi/	french yosser lesson03 challenge location	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+Answer in French: It’s straight on, then left.	C’est tout droit, puis à gauche. /sɛ tu dʁwa, pɥi a ɡoʃ/	french yosser lesson03 challenge directions	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+Answer in French: The post office is opposite the bank.	La poste se trouve en face de la banque. /la pɔst sə tʁuv ɑ̃ fas də la bɑ̃k/	french yosser lesson03 challenge directions	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+Answer in French: It’s five minutes’ walk.	C’est à cinq minutes à pied. /sɛ(t)‿a sɛ̃k minyt a pje/	french yosser lesson03 challenge directions	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges

@@ -1,0 +1,115 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Yosser (FR-EN)::Lesson 2: Être et avoir — français, anglais, IPA
+#tags:french yosser lesson02 fr-en
+#columns:Front	Back	Tags
+#tags column:3
+je suis<br>/ʒə sɥi/	I am	fr-en
+tu es<br>/ty ɛ/	you are	fr-en
+il est<br>/il ɛ/	he is	fr-en
+elle est<br>/ɛl ɛ/	she is	fr-en
+nous sommes<br>/nu sɔm/	we are	fr-en
+vous êtes<br>/vuz‿ɛt/	you are	fr-en
+ils sont<br>/il sɔ̃/	they are	fr-en
+elles sont<br>/ɛl sɔ̃/	they are (women)	fr-en
+Je suis un élève.<br>/ʒə sɥi(z)‿œ̃n‿elɛv/	I am a student.	fr-en
+Tu es gentil.<br>/ty ɛ ʒɑ̃ti/	You are kind.	fr-en
+Il est grand.<br>/il ɛ ɡʁɑ̃/	He is tall.	fr-en
+Elle est heureuse.<br>/ɛl ɛ(t)‿œʁøz/	She is happy.	fr-en
+Nous sommes amis.<br>/nu sɔm(z)‿ami/	We are friends.	fr-en
+j’ai<br>/ʒe/	I have	fr-en
+tu as<br>/ty a/	you have	fr-en
+il a<br>/il a/	he has	fr-en
+elle a<br>/ɛl a/	she has	fr-en
+nous avons<br>/nuz‿avɔ̃/	we have	fr-en
+vous avez<br>/vuz‿ave/	you have	fr-en
+ils ont<br>/ilz‿ɔ̃/	they have	fr-en
+elles ont<br>/ɛlz‿ɔ̃/	they have (women)	fr-en
+J’ai un chat.<br>/ʒe œ̃ ʃa/	I have a cat.	fr-en
+Tu as un livre.<br>/ty a œ̃ livʁ/	You have a book.	fr-en
+Il a un vélo.<br>/il a œ̃ velo/	He has a bike.	fr-en
+Elle a une poupée.<br>/ɛl a yn pupe/	She has a doll.	fr-en
+Nous avons une maison.<br>/nuz‿avɔ̃z‿yn mɛzɔ̃/	We have a house.	fr-en
+Être : pour parler de quelqu’un ou pour décrire.<br>/ɛtʁ : puʁ paʁle də kɛlkœ̃ u puʁ dekʁiʁ/	To be: to talk about someone or to describe.	fr-en
+Je suis petit.<br>/ʒə sɥi pəti/	I am small.	fr-en
+Elle est contente.<br>/ɛl ɛ kɔ̃tɑ̃t/	She is happy.	fr-en
+Avoir : pour parler de ce qu’on possède et pour dire l’âge.<br>/avwaʁ : puʁ paʁle də sə kɔ̃ pɔsɛd e puʁ diʁ lɑʒ/	To have: to talk about what you own and to give your age.	fr-en
+J’ai un ballon.<br>/ʒe œ̃ balɔ̃/	I have a ball.	fr-en
+J’ai 7 ans.<br>/ʒe sɛt ɑ̃/	I am 7 years old.	fr-en
+1. Je ________ un élève. (a) suis · b) ai)<br>(Exercice 1 : Choisis la bonne réponse)	/ʒə [sɥi] œ̃n‿elɛv/<br>I am a student.	exercise
+2. Tu ________ un chien. (a) es · b) as)<br>(Exercice 1 : Choisis la bonne réponse)	/ty [a] œ̃ ʃjɛ̃/<br>You have a dog.	exercise
+3. Elle ________ heureuse. (a) est · b) a)<br>(Exercice 1 : Choisis la bonne réponse)	/ɛl [ɛ] œʁøz/<br>She is happy.	exercise
+4. Il ________ un ballon. (a) est · b) a)<br>(Exercice 1 : Choisis la bonne réponse)	/il [a] œ̃ balɔ̃/<br>He has a ball.	exercise
+5. Nous ________ amis. (a) sommes · b) avons)<br>(Exercice 1 : Choisis la bonne réponse)	/nu [sɔm] ami/<br>We are friends.	exercise
+6. J’________ 7 ans. (a) suis · b) ai)<br>(Exercice 1 : Choisis la bonne réponse)	/[ʒe] sɛt ɑ̃/<br>I am 7 years old.	exercise
+7. Ils ________ une maison. (a) sont · b) ont)<br>(Exercice 1 : Choisis la bonne réponse)	/ilz‿[ɔ̃]t‿yn mɛzɔ̃/<br>They have a house.	exercise
+8. Tu ________ gentil. (a) es · b) as)<br>(Exercice 1 : Choisis la bonne réponse)	/ty [ɛ] ʒɑ̃ti/<br>You are kind.	exercise
+1. Je ________ un livre. 📖<br>(Exercice 2 : Complète avec le bon verbe)	/[ʒe] œ̃ livʁ/<br>I have a book. (The sheet prints Je; with ai it becomes J’.)	exercise
+2. Elle ________ grande.<br>(Exercice 2 : Complète avec le bon verbe)	/ɛl [ɛ] ɡʁɑ̃d/<br>She is tall.	exercise
+3. Il ________ un chat. 🐱<br>(Exercice 2 : Complète avec le bon verbe)	/il [a] œ̃ ʃa/<br>He has a cat.	exercise
+4. Nous ________ dans la classe. 🏫<br>(Exercice 2 : Complète avec le bon verbe)	/nu [sɔm] dɑ̃ la klas/<br>We are in the classroom.	exercise
+5. Tu ________ mon ami.<br>(Exercice 2 : Complète avec le bon verbe)	/ty [ɛ] mɔ̃n‿ami/<br>You are my friend.	exercise
+6. J’________ 7 ans.<br>(Exercice 2 : Complète avec le bon verbe)	/[ʒe] sɛt ɑ̃/<br>I am 7 years old.	exercise
+être : être d’accord · être en retard · être à l’heure<br>/ɛtʁ dakɔʁ · ɛtʁ ɑ̃ ʁətaʁ · ɛtʁ a lœʁ/	to agree · to be late · to be on time	fr-en
+avoir : avoir besoin de · avoir envie de · avoir l’air<br>/avwaʁ bəzwɛ̃ də · avwaʁ ɑ̃vi də · avwaʁ lɛʁ/	to need · to feel like · to look, to seem	fr-en
+un élève : un bon élève · une élève · les élèves de la classe<br>/œ̃ bɔn‿elɛv · yn‿elɛv · lez‿elɛv də la klas/	a good pupil · a pupil (a girl) · the pupils of the class	fr-en
+gentil : c’est gentil · gentil avec moi · une gentille fille<br>/sɛ ʒɑ̃ti · ʒɑ̃ti avɛk mwa · yn ʒɑ̃tij fij/	that’s kind · kind to me · a kind girl	fr-en
+heureux : heureux de vous voir · elle est heureuse · bonne et heureuse année<br>/œʁø də vu vwaʁ · ɛl ɛ(t)‿œʁøz · bɔn e œʁøz‿ane/	glad to see you · she is happy · happy new year	fr-en
+avoir faim<br>/avwaʁ fɛ̃/	to be hungry	fr-en
+avoir soif<br>/avwaʁ swaf/	to be thirsty	fr-en
+avoir froid<br>/avwaʁ fʁwa/	to be cold	fr-en
+avoir chaud<br>/avwaʁ ʃo/	to be hot	fr-en
+avoir peur<br>/avwaʁ pœʁ/	to be afraid	fr-en
+avoir raison<br>/avwaʁ ʁɛzɔ̃/	to be right	fr-en
+avoir tort<br>/avwaʁ tɔʁ/	to be wrong	fr-en
+avoir sommeil<br>/avwaʁ sɔmɛj/	to be sleepy	fr-en
+Ils ont un chien.<br>/ilz‿ɔ̃t‿œ̃ ʃjɛ̃/	They have a dog: ils ont, avoir.	fr-en
+Ils sont contents.<br>/il sɔ̃ kɔ̃tɑ̃/	They are happy: ils sont, être.	fr-en
+Elles ont faim.<br>/ɛlz‿ɔ̃ fɛ̃/	They are hungry: elles ont, avoir.	fr-en
+Elles sont à la maison.<br>/ɛl sɔ̃(t)‿a la mɛzɔ̃/	They are at home: elles sont, être.	fr-en
+Ils ont treize ans.<br>/ilz‿ɔ̃ tʁɛz ɑ̃/	They are thirteen: ils ont, avoir.	fr-en
+Ils sont dans le jardin.<br>/il sɔ̃ dɑ̃ lə ʒaʁdɛ̃/	They are in the garden: ils sont, être.	fr-en
+J’ai froid. Vous ?<br>/ʒe fʁwa. vu/	I am cold. You?	fr-en
+J’ai froid. Vous ? → AI exercise: change the person	Vous avez froid.<br>/vuz‿ave fʁwa/<br>You are cold.<br>Jest wam zimno.	exercise
+Il est en retard. Elles ?<br>/il ɛ(t)‿ɑ̃ ʁətaʁ. ɛl/	He is late. They?	fr-en
+Il est en retard. Elles ? → AI exercise: change the person	Elles sont en retard.<br>/ɛl sɔ̃t‿ɑ̃ ʁətaʁ/<br>They are late.<br>One są spóźnione.	exercise
+Tu as raison. Ils ?<br>/ty a ʁɛzɔ̃. il/	You are right. They?	fr-en
+Tu as raison. Ils ? → AI exercise: change the person	Ils ont raison.<br>/ilz‿ɔ̃ ʁɛzɔ̃/<br>They are right.<br>Oni mają rację.	exercise
+Je suis fatigué. Nous ?<br>/ʒə sɥi fatiɡe. nu/	I am tired. We?	fr-en
+Je suis fatigué. Nous ? → AI exercise: change the person	Nous sommes fatigués.<br>/nu sɔm fatiɡe/<br>We are tired.<br>Jesteśmy zmęczeni.	exercise
+Elle a quatorze ans. Tu ?<br>/ɛl a katɔʁz ɑ̃. ty/	She is fourteen. You?	fr-en
+Elle a quatorze ans. Tu ? → AI exercise: change the person	Tu as quatorze ans.<br>/ty a katɔʁz ɑ̃/<br>You are fourteen.<br>Masz czternaście lat.	exercise
+Nous avons peur. Je ?<br>/nuz‿avɔ̃ pœʁ. ʒə/	We are afraid. I?	fr-en
+Nous avons peur. Je ? → AI exercise: change the person	J’ai peur.<br>/ʒe pœʁ/<br>I am afraid.<br>Boję się.	exercise
+Je suis petit. → AI exercise: say the opposite	Je ne suis pas petit.<br>/ʒə nə sɥi pa pəti/<br>I am not small.<br>Nie jestem mały.	exercise
+J’ai un chat. → AI exercise: say the opposite	Je n’ai pas de chat.<br>/ʒə ne pa də ʃa/<br>I don’t have a cat.<br>Nie mam kota.	exercise
+Il est content.<br>/il ɛ kɔ̃tɑ̃/	He is happy.	fr-en
+Il est content. → AI exercise: say the opposite	Il n’est pas content.<br>/il nɛ pa kɔ̃tɑ̃/<br>He is not happy.<br>On nie jest zadowolony.	exercise
+Nous avons une voiture.<br>/nuz‿avɔ̃z‿yn vwatyʁ/	We have a car.	fr-en
+Nous avons une voiture. → AI exercise: say the opposite	Nous n’avons pas de voiture.<br>/nu navɔ̃ pa də vwatyʁ/<br>We don’t have a car.<br>Nie mamy samochodu.	exercise
+Vous êtes en retard.<br>/vuz‿ɛt ɑ̃ ʁətaʁ/	You are late.	fr-en
+Vous êtes en retard. → AI exercise: say the opposite	Vous n’êtes pas en retard.<br>/vu nɛt pa(z)‿ɑ̃ ʁətaʁ/<br>You are not late.<br>Nie jesteście spóźnieni.	exercise
+Elles ont des livres.<br>/ɛlz‿ɔ̃ de livʁ/	They have books.	fr-en
+Elles ont des livres. → AI exercise: say the opposite	Elles n’ont pas de livres.<br>/ɛl nɔ̃ pa də livʁ/<br>They don’t have books.<br>Nie mają książek.	exercise
+C’est un chat.<br>/sɛ(t)‿œ̃ ʃa/	It is a cat.	fr-en
+C’est un chat. → AI exercise: say the opposite	Ce n’est pas un chat.<br>/sə nɛ pa(z)‿œ̃ ʃa/<br>It is not a cat (after être, un stays).<br>To nie jest kot.	exercise
+Tu es content.<br>/ty ɛ kɔ̃tɑ̃/	You are happy.	fr-en
+Tu es content. → AI exercise: ask with inversion	Es-tu content ?<br>/ɛ ty kɔ̃tɑ̃/<br>Are you happy?<br>Czy jesteś zadowolony?	exercise
+Vous avez un chien.<br>/vuz‿ave(z)‿œ̃ ʃjɛ̃/	You have a dog.	fr-en
+Vous avez un chien. → AI exercise: ask with inversion	Avez-vous un chien ?<br>/ave vu œ̃ ʃjɛ̃/<br>Do you have a dog?<br>Czy macie psa?	exercise
+Ils sont amis.<br>/il sɔ̃t‿ami/	They are friends.	fr-en
+Ils sont amis. → AI exercise: ask with inversion	Sont-ils amis ?<br>/sɔ̃til(z)‿ami/<br>Are they friends?<br>Czy są przyjaciółmi?	exercise
+Il a un vélo. → AI exercise: ask with inversion	A-t-il un vélo ?<br>/atil œ̃ velo/<br>Does he have a bike?<br>Czy on ma rower?	exercise
+Elle a treize ans.<br>/ɛl a tʁɛz ɑ̃/	She is thirteen.	fr-en
+Elle a treize ans. → AI exercise: ask with inversion	A-t-elle treize ans ?<br>/atɛl tʁɛz ɑ̃/<br>Is she thirteen?<br>Czy ona ma trzynaście lat?	exercise
+Quel âge as-tu ?<br>/kɛl ɑʒ a ty/	How old are you?	fr-en
+Quel âge as-tu ? → AI exercise: answer about yourself	J’ai trente ans.<br>/ʒe tʁɑ̃t ɑ̃/<br>I am thirty.<br>Mam trzydzieści lat.	exercise
+Est-ce que tu as un animal ?<br>/ɛs kə ty a œ̃n‿animal/	Do you have a pet?	fr-en
+Est-ce que tu as un animal ? → AI exercise: answer about yourself	Non, je n’ai pas d’animal.<br>/nɔ̃, ʒə ne pa danimal/<br>No, I don’t have a pet.<br>Nie, nie mam zwierzęcia.	exercise
+Est-ce que tu es fatigué aujourd’hui ?<br>/ɛs kə ty ɛ fatiɡe oʒuʁdɥi/	Are you tired today?	fr-en
+Est-ce que tu es fatigué aujourd’hui ? → AI exercise: answer about yourself	Non, je ne suis pas fatigué.<br>/nɔ̃, ʒə nə sɥi pa fatiɡe/<br>No, I am not tired.<br>Nie, nie jestem zmęczony.	exercise
+Combien de frères et sœurs as-tu ?<br>/kɔ̃bjɛ̃ də fʁɛʁ e sœʁ a ty/	How many brothers and sisters do you have?	fr-en
+Combien de frères et sœurs as-tu ? → AI exercise: answer about yourself	J’ai un frère et deux sœurs.<br>/ʒe œ̃ fʁɛʁ e dø sœʁ/<br>I have a brother and two sisters.<br>Mam brata i dwie siostry.	exercise
+Comment est ta maison ?<br>/kɔmɑ̃ ɛ ta mɛzɔ̃/	What is your house like?	fr-en
+Comment est ta maison ? → AI exercise: answer about yourself	Ma maison est grande et belle.<br>/ma mɛzɔ̃ ɛ ɡʁɑ̃d e bɛl/<br>My house is big and beautiful.<br>Mój dom jest duży i piękny.	exercise

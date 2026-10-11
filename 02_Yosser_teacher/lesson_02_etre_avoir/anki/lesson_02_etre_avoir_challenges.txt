@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA::Challenges
+#tags:french yosser lesson02 challenge
+#columns:Front	Back	Tags
+#tags column:3
+Ils sont or ils ont? Which one has the /z/ sound?	Ils ont /ilz‿ɔ̃/ (avoir). Ils sont /il sɔ̃/ has /s/ (être).	listening
+Say in French: I am thirteen.	J’ai treize ans. /ʒe tʁɛz ɑ̃/ (avoir, not être)	avoir
+Say in French: I am hungry, I am cold, I am afraid.	J’ai faim, j’ai froid, j’ai peur. /ʒe fɛ̃, ʒe fʁwa, ʒe pœʁ/	avoir
+Fix the worksheet: Je ___ un livre.	J’ai un livre. /ʒe œ̃ livʁ/ (je becomes j’ before a vowel)	correction
+Make it negative: J’ai un chat.	Je n’ai pas de chat. /ʒə ne pa də ʃa/ (un becomes de after pas)	negation
+Make it negative: C’est un chat.	Ce n’est pas un chat. /sə nɛ pa(z)‿œ̃ ʃa/ (after être, un stays)	negation
+Make it negative: Elles ont des livres.	Elles n’ont pas de livres. /ɛl nɔ̃ pa də livʁ/	negation
+Ask with inversion: Il a un vélo.	A-t-il un vélo ? /atil œ̃ velo/ (-t- between two vowels)	inversion
+Ask with inversion: Elle a treize ans.	A-t-elle treize ans ? /atɛl tʁɛz ɑ̃/	inversion
+Ask with inversion: Ils sont amis.	Sont-ils amis ? /sɔ̃til(z)‿ami/	inversion
+Change the person: Nous avons peur. → Je	J’ai peur. /ʒe pœʁ/	conjugation
+Change the person: Il est en retard. → Elles	Elles sont en retard. /ɛl sɔ̃t‿ɑ̃ ʁətaʁ/	conjugation
+Conjugate être in the present.	je suis, tu es, il est, nous sommes, vous êtes, ils sont /ʒə sɥi, ty ɛ, il ɛ, nu sɔm, vuz‿ɛt, il sɔ̃/	conjugation
+Conjugate avoir in the present.	j’ai, tu as, il a, nous avons, vous avez, ils ont /ʒe, ty a, il a, nuz‿avɔ̃, vuz‿ave, ilz‿ɔ̃/	conjugation
