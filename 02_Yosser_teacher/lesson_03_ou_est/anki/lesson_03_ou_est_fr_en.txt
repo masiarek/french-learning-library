@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Yosser (FR-EN)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+#tags:french yosser lesson03 fr-en
+#columns:Front	Back	Tags
+#tags column:3
+être<br>/ɛtʁ/	to be: ask where things are with être …	fr-en
+se trouver<br>/sə tʁuve/	… or with se trouver, to be located	fr-en
+qu’est-ce que<br>/kɛs kə/	to ask what, start the sentence with qu’est-ce que	fr-en
+quel, quelle, quels, quelles<br>/kɛl/	what, which: agrees with its noun like an adjective, and all four sound the same	fr-en
+Où est la poste ?<br>/u ɛ la pɔst/	Where is the post office?	fr-en
+Où est la gare ?<br>/u ɛ la ɡaʁ/	Where is the train station?	fr-en
+Est-ce que ce musée est loin d’ici ?<br>/ɛs kə sə myze ɛ lwɛ̃ disi/	Is this museum far from here?	fr-en
+Où est … ?<br>/u ɛ/	Where is …?	fr-en
+Où sont … ?<br>/u sɔ̃/	Where are …?	fr-en
+Où se trouve … ?<br>/u sə tʁuv/	Where is … located?	fr-en
+Qu’est-ce que c’est ?<br>/kɛs kə sɛ/	What is this?	fr-en
+Qu’est-ce que vous voulez faire ?<br>/kɛs kə vu vule fɛʁ/	What do you want to do?	fr-en
+Quelle est la station de métro pour l’Arc de Triomphe ?<br>/kɛl ɛ la stasjɔ̃ də metʁo puʁ laʁk də tʁijɔ̃f/	Which is the subway station for the Arc de Triomphe?	fr-en
+Quel est l’arrêt de bus pour le musée du Louvre ?<br>/kɛl ɛ laʁɛ də bys puʁ lə myze dy luvʁ/	Which is the bus stop for the Louvre museum?	fr-en
+la poste : aller à la poste · un bureau de poste · envoyer par la poste<br>/ale a la pɔst · œ̃ byʁo də pɔst · ɑ̃vwaje paʁ la pɔst/	to go to the post office · a post office · to send by post	fr-en
+la gare : la gare du Nord · à la gare · le quai de la gare<br>/la ɡaʁ dy nɔʁ · a la ɡaʁ · lə ke də la ɡaʁ/	the Gare du Nord · at the station · the platform	fr-en
+le musée : le musée du Louvre · visiter un musée · un musée d’art<br>/lə myze dy luvʁ · vizite œ̃ myze · œ̃ myze daʁ/	the Louvre · to visit a museum · an art museum	fr-en
+loin : loin d’ici · pas très loin · trop loin<br>/lwɛ̃ disi · pa tʁɛ lwɛ̃ · tʁo lwɛ̃/	far from here · not very far · too far	fr-en
+se trouver : se trouver en ville · se trouver à Paris · se trouver près de la gare<br>/sə tʁuve ɑ̃ vil · sə tʁuve a paʁi · sə tʁuve pʁɛ də la ɡaʁ/	to be in town · to be in Paris · to be near the station	fr-en
+l’arrêt : l’arrêt de bus · le prochain arrêt · descendre au prochain arrêt<br>/laʁɛ də bys · lə pʁɔʃɛ̃n‿aʁɛ · desɑ̃dʁ o pʁɔʃɛ̃n‿aʁɛ/	the bus stop · the next stop · to get off at the next stop	fr-en
+la station : la station de métro · la station de taxis · une station de ski<br>/la stasjɔ̃ də metʁo · la stasjɔ̃ də taksi · yn stasjɔ̃ də ski/	the metro station · the taxi rank · a ski resort	fr-en
+près d’ici<br>/pʁɛ disi/	near here	fr-en
+à droite<br>/a dʁwat/	on the right	fr-en
+à gauche<br>/a ɡoʃ/	on the left	fr-en
+tout droit<br>/tu dʁwa/	straight on	fr-en
+en face de<br>/ɑ̃ fas də/	opposite	fr-en
+au coin de la rue<br>/o kwɛ̃ də la ʁy/	at the corner of the street	fr-en
+au bout de la rue<br>/o bu də la ʁy/	at the end of the street	fr-en
+à cinq minutes à pied<br>/a sɛ̃k minyt a pje/	five minutes’ walk	fr-en
+la banque<br>/la bɑ̃k/	the bank	fr-en
+la pharmacie<br>/la faʁmasi/	the chemist’s	fr-en
+________ est ton adresse ?<br>(AI exercise: quel, quelle, quels or quelles?)	/[kɛl] ɛ tɔ̃n‿adʁɛs/<br>(quelle) What is your address?<br>Jaki jest twój adres?	exercise
+________ musée est près d’ici ?<br>(AI exercise: quel, quelle, quels or quelles?)	/[kɛl] myze ɛ pʁɛ disi/<br>(quel) Which museum is near here?<br>Które muzeum jest blisko?	exercise
+________ sont les horaires du musée ?<br>(AI exercise: quel, quelle, quels or quelles?)	/[kɛl] sɔ̃ lez‿ɔʁɛʁ dy myze/<br>(quels) What are the museum’s opening hours?<br>Jakie są godziny otwarcia muzeum?	exercise
+________ rues sont près de la gare ?<br>(AI exercise: quel, quelle, quels or quelles?)	/[kɛl] ʁy sɔ̃ pʁɛ də la ɡaʁ/<br>(quelles) Which streets are near the station?<br>Które ulice są blisko dworca?	exercise
+________ est le numéro du bus ?<br>(AI exercise: quel, quelle, quels or quelles?)	/[kɛl] ɛ lə nymeʁo dy bys/<br>(quel) What is the number of the bus?<br>Jaki jest numer autobusu?	exercise
+________ est la rue de la poste ?<br>(AI exercise: quel, quelle, quels or quelles?)	/[kɛl] ɛ la ʁy də la pɔst/<br>(quelle) Which is the street of the post office?<br>Na której ulicy jest poczta?	exercise
+La gare est à droite.<br>/la ɡaʁ ɛ(t)‿a dʁwat/	The station is on the right.	fr-en
+La gare est à droite. → AI exercise: ask the question	Où est la gare ?<br>/u ɛ la ɡaʁ/<br>Where is the station?<br>Gdzie jest dworzec?	exercise
+Les toilettes sont au bout du couloir.<br>/le twalɛt sɔ̃(t)‿o bu dy kulwaʁ/	The toilets are at the end of the corridor.	fr-en
+Les toilettes sont au bout du couloir. → AI exercise: ask the question	Où sont les toilettes ?<br>/u sɔ̃ le twalɛt/<br>Where are the toilets?<br>Gdzie są toalety?	exercise
+La poste se trouve en face de la banque.<br>/la pɔst sə tʁuv ɑ̃ fas də la bɑ̃k/	The post office is opposite the bank.	fr-en
+La poste se trouve en face de la banque. → AI exercise: ask the question	Où se trouve la poste ?<br>/u sə tʁuv la pɔst/<br>Where is the post office located?<br>Gdzie znajduje się poczta?	exercise
+C’est un plan de Paris.<br>/sɛ(t)‿œ̃ plɑ̃ də paʁi/	It is a map of Paris.	fr-en
+C’est un plan de Paris. → AI exercise: ask the question	Qu’est-ce que c’est ?<br>/kɛs kə sɛ/<br>What is this?<br>Co to jest?	exercise
+Le musée est à cinq minutes à pied.<br>/lə myze ɛ(t)‿a sɛ̃k minyt a pje/	The museum is five minutes’ walk away.	fr-en
+Le musée est à cinq minutes à pied. → AI exercise: ask the question	Est-ce que le musée est loin d’ici ?<br>/ɛs kə lə myze ɛ lwɛ̃ disi/<br>Is the museum far from here?<br>Czy muzeum jest daleko stąd?	exercise
+Je veux visiter le Louvre.<br>/ʒə vø vizite lə luvʁ/	I want to visit the Louvre.	fr-en
+Je veux visiter le Louvre. → AI exercise: ask the question	Qu’est-ce que vous voulez faire ?<br>/kɛs kə vu vule fɛʁ/<br>What do you want to do?<br>Co chce pan zrobić?	exercise
+L’arrêt de bus est au coin de la rue.<br>/laʁɛ də bys ɛ(t)‿o kwɛ̃ də la ʁy/	The bus stop is at the corner of the street.	fr-en
+L’arrêt de bus est au coin de la rue. → AI exercise: ask the question	Où est l’arrêt de bus ?<br>/u ɛ laʁɛ də bys/<br>Where is the bus stop?<br>Gdzie jest przystanek?	exercise
+Pardon, madame, où est la gare ?<br>/paʁdɔ̃, madam, u ɛ la ɡaʁ/	Excuse me, madam, where is the station?	fr-en
+C’est tout droit, puis à gauche.<br>/sɛ tu dʁwa, pɥi a ɡoʃ/	It’s straight on, then left.	fr-en
+Est-ce que c’est loin d’ici ?<br>/ɛs kə sɛ lwɛ̃ disi/	Is it far from here?	fr-en
+Non, c’est à cinq minutes à pied.<br>/nɔ̃, sɛ(t)‿a sɛ̃k minyt a pje/	No, it’s five minutes’ walk.	fr-en
+Merci beaucoup !<br>/mɛʁsi boku/	Thank you very much!	fr-en

@@ -82,6 +82,57 @@ The words you need when a name has to be spelled over the phone. Accents are sai
 | *tiret bas* (_) | underscore | /tiʁɛ ba/ |
 | *arobase* (@) | at sign | /aʁɔbaz/ |
 
+## Drills to hear and answer: l’alphabet à l’oral /lalfabɛ a lɔʁal/
+
+The drills of the owner's recording of the alphabet, made on a Mac with the [recipe in Resources](../../RESOURCES.md#audio-of-a-lesson-on-a-mac): the voice gives the prompt, pauses, then says the answer. Here the answer is in the IPA column.
+
+| French | English | IPA |
+|---|---|---|
+| **Quelle lettre vient après ?** | **Which letter comes after?** | /kɛl lɛtʁ vjɛ̃ apʁɛ/ |
+| Après B ? → C | After b? c | /apʁɛ be ? se/ |
+| Après F ? → G | After f? g | /apʁɛ ɛf ? ʒe/ |
+| Après J ? → K | After j? k | /apʁɛ ʒi ? ka/ |
+| Après P ? → Q | After p? q | /apʁɛ pe ? ky/ |
+| Après V ? → W | After v? w | /apʁɛ ve ? dubləve/ |
+| Après X ? → Y | After x? y | /apʁɛ iks ? iɡʁɛk/ |
+| **Quelle lettre vient avant ?** | **Which letter comes before?** | /kɛl lɛtʁ vjɛ̃ avɑ̃/ |
+| Avant M ? → L | Before m? l | /avɑ̃ ɛm ? ɛl/ |
+| Avant T ? → S | Before t? s | /avɑ̃ te ? ɛs/ |
+| Avant I ? → H | Before i? h | /avɑ̃ i ? aʃ/ |
+| Avant E ? → D | Before e? d | /avɑ̃ ə ? de/ |
+| **Épelle le mot** | **Spell the word** | /epɛl lə mo/ |
+| chat → C, H, A, T | cat | /ʃa → se, aʃ, a, te/ |
+| livre → L, I, V, R, E | book | /livʁ → ɛl, i, ve, ɛʁ, ə/ |
+| maison → M, A, I, S, O, N | house | /mɛzɔ̃ → ɛm, a, i, ɛs, o, ɛn/ |
+| jardin → J, A, R, D, I, N | garden | /ʒaʁdɛ̃ → ʒi, a, ɛʁ, de, i, ɛn/ |
+| famille → F, A, M, I, deux L, E | family | /famij → ɛf, a, ɛm, i, døz‿ɛl, ə/ |
+| chaise → C, H, A, I, S, E | chair | /ʃɛz → se, aʃ, a, i, ɛs, ə/ |
+| **Dictée : écoute les lettres et écris le mot** | **Dictation: hear the letters, write the word** | /dikte : ekut le lɛtʁ e ekʁi lə mo/ |
+| J, O, U, E, R → jouer | to play | /ʒi, o, y, ə, ɛʁ → ʒwe/ |
+| Q, U, A, T, R, E → quatre | four | /ky, y, a, te, ɛʁ, ə → katʁ/ |
+| C, A, H, I, E, R → cahier | notebook | /se, a, aʃ, i, ə, ɛʁ → kaje/ |
+| G, A, R, C cédille, O, N → garçon | boy | /ʒe, a, ɛʁ, se sedij, o, ɛn → ɡaʁsɔ̃/ |
+| E accent aigu, T, A, G, E → étage | floor, storey | /ə aksɑ̃t‿eɡy, te, a, ʒe, ə → etaʒ/ |
+| T, E accent aigu, L, E accent aigu, V, I, S, I, O, N → télévision | television | /te, ə aksɑ̃t‿eɡy, ɛl, ə aksɑ̃t‿eɡy, ve, i, ɛs, i, o, ɛn → televizjɔ̃/ |
+| H, E, U, R, E, U, S, E → heureuse | happy | /aʃ, ə, y, ɛʁ, ə, y, ɛs, ə → œʁøz/ |
+| A, R, M, O, I, R, E → armoire | wardrobe | /a, ɛʁ, ɛm, o, i, ɛʁ, ə → aʁmwaʁ/ |
+| **G ou J ? Before e and i they sound the same, /ʒ/** | **G or J?** | /ʒe u ʒi/ |
+| jardin → J | garden | /ʒaʁdɛ̃ → ʒi/ |
+| gentil → G | kind | /ʒɑ̃ti → ʒe/ |
+| jolie → J | pretty | /ʒɔli → ʒi/ |
+| génial → G | great | /ʒenjal → ʒe/ |
+| jouer → J | to play | /ʒwe → ʒi/ |
+| girafe → G | giraffe | /ʒiʁaf → ʒe/ |
+| **Quelle lettre on n’entend pas ?** | **Which letter is silent?** | /kɛl lɛtʁ ɔ̃ nɑ̃tɑ̃ pa/ |
+| petit → T | small | /pəti → te/ |
+| grand → D | big | /ɡʁɑ̃ → de/ |
+| trois → S | three | /tʁwa → ɛs/ |
+| beaucoup → P | a lot | /boku → pe/ |
+| heureuse → H | happy | /œʁøz → aʃ/ |
+| les chats → T et S | the cats | /le ʃa → te e ɛs/ |
+| **Épelle à voix haute** | **Spell aloud, no recorded answer** | /epɛl a vwa ot/ |
+| ton prénom · ta ville · ta rue | your first name · your town · your street | /tɔ̃ pʁenɔ̃ · ta vil · ta ʁy/ |
+
 ## The program
 
 <!-- output:french_alphabet -->
@@ -223,6 +274,7 @@ Three things to read off the output:
 - [Sounds](../README.md) — the chapter this lesson belongs to
 - [English and French in the IPA](../ipa_english_vs_french/README.md) — the inventory the names are checked against, and the list of the 15 French-only sounds
 - [Le son ɛ](../../04_Pronunciation/son_e_ouvert/README.md) — the open *e* drilled on words, the rule the letter names obey without exception
+- [Yosser, lesson 2: Être et avoir](../../02_Yosser_teacher/lesson_02_etre_avoir/README.md) — the teacher's lesson recorded the same way, prompt, pause, answer
 - [Glossary](../../GLOSSARY.md) — *accent, cédille, tréma, ligature, loi de position*, each with its page
 - French Wikipedia, *Alphabet français* ↗ (<https://fr.wikipedia.org/wiki/Alphabet_fran%C3%A7ais>), the table of the 26 letters, read from the owner's screenshot
 - Le Robert, *Dictionnaire de la langue française*, the entries for the letters, from memory; open-dict-data's *ipa-dict* for *alphabet, lettre, voyelle, consonne, épeler, réciter* on 2026-10-10

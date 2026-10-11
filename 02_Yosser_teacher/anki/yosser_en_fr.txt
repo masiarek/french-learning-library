@@ -228,3 +228,140 @@ Why is premier étage read /pʁəmjɛʁ‿etaʒ/ when premier alone is /pʁəmje
 Un and une: how do they sound apart?	un /œ̃/, a nasal vowel; une /yn/, with the n sounded. un lit /œ̃ li/, une chaise /yn ʃɛz/	french yosser lesson01 challenge sound	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA::Challenges
 Complete with the word bank: Adam dort dans sa ________. Il y a un petit ________ derrière la maison.	chambre /ʃɑ̃bʁ/ · jardin /ʒaʁdɛ̃/	french yosser lesson01 challenge exercise	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA::Challenges
 Describe your house in three sentences, using il y a (a model answer)	J’habite dans un appartement. /ʒabit dɑ̃z‿œ̃n‿apaʁtəmɑ̃/ Dans mon appartement, il y a deux chambres et une cuisine. /dɑ̃ mɔ̃n‿apaʁtəmɑ̃, il j a dø ʃɑ̃bʁ e yn kɥizin/ Sur mon bureau, il y a mes livres. /syʁ mɔ̃ byʁo, il j a me livʁ/	french yosser lesson01 challenge say	French::Yosser (EN-FR)::Lesson 1: La maison — français, anglais, IPA::Challenges
+I am	je suis<br>/ʒə sɥi/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+you are	tu es<br>/ty ɛ/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+he is	il est<br>/il ɛ/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+she is	elle est<br>/ɛl ɛ/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+we are	nous sommes<br>/nu sɔm/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+you are (2)	vous êtes<br>/vuz‿ɛt/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+they are	ils sont<br>/il sɔ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+they are (women)	elles sont<br>/ɛl sɔ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+I am a student.	Je suis un élève.<br>/ʒə sɥi(z)‿œ̃n‿elɛv/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+You are kind.	Tu es gentil.<br>/ty ɛ ʒɑ̃ti/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+He is tall.	Il est grand.<br>/il ɛ ɡʁɑ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+She is happy.	Elle est heureuse.<br>/ɛl ɛ(t)‿œʁøz/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+We are friends.	Nous sommes amis.<br>/nu sɔm(z)‿ami/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+I have	j’ai<br>/ʒe/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+you have	tu as<br>/ty a/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+he has	il a<br>/il a/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+she has	elle a<br>/ɛl a/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+we have	nous avons<br>/nuz‿avɔ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+you have (2)	vous avez<br>/vuz‿ave/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+they have	ils ont<br>/ilz‿ɔ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+they have (women)	elles ont<br>/ɛlz‿ɔ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+I have a cat.	J’ai un chat.<br>/ʒe œ̃ ʃa/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+You have a book.	Tu as un livre.<br>/ty a œ̃ livʁ/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+He has a bike.	Il a un vélo.<br>/il a œ̃ velo/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+She has a doll.	Elle a une poupée.<br>/ɛl a yn pupe/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+We have a house.	Nous avons une maison.<br>/nuz‿avɔ̃z‿yn mɛzɔ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+To be: to talk about someone or to describe.	Être : pour parler de quelqu’un ou pour décrire.<br>/ɛtʁ : puʁ paʁle də kɛlkœ̃ u puʁ dekʁiʁ/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+I am small.	Je suis petit.<br>/ʒə sɥi pəti/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+She is happy. (2)	Elle est contente.<br>/ɛl ɛ kɔ̃tɑ̃t/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+To have: to talk about what you own and to give your age.	Avoir : pour parler de ce qu’on possède et pour dire l’âge.<br>/avwaʁ : puʁ paʁle də sə kɔ̃ pɔsɛd e puʁ diʁ lɑʒ/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+I have a ball.	J’ai un ballon.<br>/ʒe œ̃ balɔ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+I am 7 years old.	J’ai 7 ans.<br>/ʒe sɛt ɑ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+to agree · to be late · to be on time	être : être d’accord · être en retard · être à l’heure<br>/ɛtʁ dakɔʁ · ɛtʁ ɑ̃ ʁətaʁ · ɛtʁ a lœʁ/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+to need · to feel like · to look, to seem	avoir : avoir besoin de · avoir envie de · avoir l’air<br>/avwaʁ bəzwɛ̃ də · avwaʁ ɑ̃vi də · avwaʁ lɛʁ/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+a good pupil · a pupil (a girl) · the pupils of the class	un élève : un bon élève · une élève · les élèves de la classe<br>/œ̃ bɔn‿elɛv · yn‿elɛv · lez‿elɛv də la klas/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+that’s kind · kind to me · a kind girl	gentil : c’est gentil · gentil avec moi · une gentille fille<br>/sɛ ʒɑ̃ti · ʒɑ̃ti avɛk mwa · yn ʒɑ̃tij fij/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+glad to see you · she is happy · happy new year	heureux : heureux de vous voir · elle est heureuse · bonne et heureuse année<br>/œʁø də vu vwaʁ · ɛl ɛ(t)‿œʁøz · bɔn e œʁøz‿ane/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+to be hungry	avoir faim<br>/avwaʁ fɛ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+to be thirsty	avoir soif<br>/avwaʁ swaf/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+to be cold	avoir froid<br>/avwaʁ fʁwa/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+to be hot	avoir chaud<br>/avwaʁ ʃo/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+to be afraid	avoir peur<br>/avwaʁ pœʁ/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+to be right	avoir raison<br>/avwaʁ ʁɛzɔ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+to be wrong	avoir tort<br>/avwaʁ tɔʁ/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+to be sleepy	avoir sommeil<br>/avwaʁ sɔmɛj/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+They have a dog: ils ont, avoir.	Ils ont un chien.<br>/ilz‿ɔ̃t‿œ̃ ʃjɛ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+They are happy: ils sont, être.	Ils sont contents.<br>/il sɔ̃ kɔ̃tɑ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+They are hungry: elles ont, avoir.	Elles ont faim.<br>/ɛlz‿ɔ̃ fɛ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+They are at home: elles sont, être.	Elles sont à la maison.<br>/ɛl sɔ̃(t)‿a la mɛzɔ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+They are thirteen: ils ont, avoir.	Ils ont treize ans.<br>/ilz‿ɔ̃ tʁɛz ɑ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+They are in the garden: ils sont, être.	Ils sont dans le jardin.<br>/il sɔ̃ dɑ̃ lə ʒaʁdɛ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+I am cold. You?	J’ai froid. Vous ?<br>/ʒe fʁwa. vu/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+He is late. They?	Il est en retard. Elles ?<br>/il ɛ(t)‿ɑ̃ ʁətaʁ. ɛl/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+You are right. They?	Tu as raison. Ils ?<br>/ty a ʁɛzɔ̃. il/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+I am tired. We?	Je suis fatigué. Nous ?<br>/ʒə sɥi fatiɡe. nu/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+She is fourteen. You?	Elle a quatorze ans. Tu ?<br>/ɛl a katɔʁz ɑ̃. ty/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+We are afraid. I?	Nous avons peur. Je ?<br>/nuz‿avɔ̃ pœʁ. ʒə/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+He is happy.	Il est content.<br>/il ɛ kɔ̃tɑ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+We have a car.	Nous avons une voiture.<br>/nuz‿avɔ̃z‿yn vwatyʁ/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+You are late.	Vous êtes en retard.<br>/vuz‿ɛt ɑ̃ ʁətaʁ/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+They have books.	Elles ont des livres.<br>/ɛlz‿ɔ̃ de livʁ/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+It is a cat.	C’est un chat.<br>/sɛ(t)‿œ̃ ʃa/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+You are happy.	Tu es content.<br>/ty ɛ kɔ̃tɑ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+You have a dog.	Vous avez un chien.<br>/vuz‿ave(z)‿œ̃ ʃjɛ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+They are friends.	Ils sont amis.<br>/il sɔ̃t‿ami/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+She is thirteen.	Elle a treize ans.<br>/ɛl a tʁɛz ɑ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+How old are you?	Quel âge as-tu ?<br>/kɛl ɑʒ a ty/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+Do you have a pet?	Est-ce que tu as un animal ?<br>/ɛs kə ty a œ̃n‿animal/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+Are you tired today?	Est-ce que tu es fatigué aujourd’hui ?<br>/ɛs kə ty ɛ fatiɡe oʒuʁdɥi/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+How many brothers and sisters do you have?	Combien de frères et sœurs as-tu ?<br>/kɔ̃bjɛ̃ də fʁɛʁ e sœʁ a ty/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+What is your house like?	Comment est ta maison ?<br>/kɔmɑ̃ ɛ ta mɛzɔ̃/	french yosser lesson02 en-fr	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+Ils sont or ils ont? Which one has the /z/ sound?	Ils ont /ilz‿ɔ̃/ (avoir). Ils sont /il sɔ̃/ has /s/ (être).	french yosser lesson02 challenge listening	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA::Challenges
+Say in French: I am thirteen.	J’ai treize ans. /ʒe tʁɛz ɑ̃/ (avoir, not être)	french yosser lesson02 challenge avoir	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA::Challenges
+Say in French: I am hungry, I am cold, I am afraid.	J’ai faim, j’ai froid, j’ai peur. /ʒe fɛ̃, ʒe fʁwa, ʒe pœʁ/	french yosser lesson02 challenge avoir	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA::Challenges
+Fix the worksheet: Je ___ un livre.	J’ai un livre. /ʒe œ̃ livʁ/ (je becomes j’ before a vowel)	french yosser lesson02 challenge correction	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA::Challenges
+Make it negative: J’ai un chat.	Je n’ai pas de chat. /ʒə ne pa də ʃa/ (un becomes de after pas)	french yosser lesson02 challenge negation	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA::Challenges
+Make it negative: C’est un chat.	Ce n’est pas un chat. /sə nɛ pa(z)‿œ̃ ʃa/ (after être, un stays)	french yosser lesson02 challenge negation	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA::Challenges
+Make it negative: Elles ont des livres.	Elles n’ont pas de livres. /ɛl nɔ̃ pa də livʁ/	french yosser lesson02 challenge negation	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA::Challenges
+Ask with inversion: Il a un vélo.	A-t-il un vélo ? /atil œ̃ velo/ (-t- between two vowels)	french yosser lesson02 challenge inversion	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA::Challenges
+Ask with inversion: Elle a treize ans.	A-t-elle treize ans ? /atɛl tʁɛz ɑ̃/	french yosser lesson02 challenge inversion	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA::Challenges
+Ask with inversion: Ils sont amis.	Sont-ils amis ? /sɔ̃til(z)‿ami/	french yosser lesson02 challenge inversion	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA::Challenges
+Change the person: Nous avons peur. → Je	J’ai peur. /ʒe pœʁ/	french yosser lesson02 challenge conjugation	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA::Challenges
+Change the person: Il est en retard. → Elles	Elles sont en retard. /ɛl sɔ̃t‿ɑ̃ ʁətaʁ/	french yosser lesson02 challenge conjugation	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA::Challenges
+Conjugate être in the present.	je suis, tu es, il est, nous sommes, vous êtes, ils sont /ʒə sɥi, ty ɛ, il ɛ, nu sɔm, vuz‿ɛt, il sɔ̃/	french yosser lesson02 challenge conjugation	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA::Challenges
+Conjugate avoir in the present.	j’ai, tu as, il a, nous avons, vous avez, ils ont /ʒe, ty a, il a, nuz‿avɔ̃, vuz‿ave, ilz‿ɔ̃/	french yosser lesson02 challenge conjugation	French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA::Challenges
+to be: ask where things are with être …	être<br>/ɛtʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+… or with se trouver, to be located	se trouver<br>/sə tʁuve/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+to ask what, start the sentence with qu’est-ce que	qu’est-ce que<br>/kɛs kə/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+what, which: agrees with its noun like an adjective, and all four sound the same	quel, quelle, quels, quelles<br>/kɛl/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Where is the post office?	Où est la poste ?<br>/u ɛ la pɔst/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Where is the train station?	Où est la gare ?<br>/u ɛ la ɡaʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Is this museum far from here?	Est-ce que ce musée est loin d’ici ?<br>/ɛs kə sə myze ɛ lwɛ̃ disi/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Where is …?	Où est … ?<br>/u ɛ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Where are …?	Où sont … ?<br>/u sɔ̃/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Where is … located?	Où se trouve … ?<br>/u sə tʁuv/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+What is this?	Qu’est-ce que c’est ?<br>/kɛs kə sɛ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+What do you want to do?	Qu’est-ce que vous voulez faire ?<br>/kɛs kə vu vule fɛʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Which is the subway station for the Arc de Triomphe?	Quelle est la station de métro pour l’Arc de Triomphe ?<br>/kɛl ɛ la stasjɔ̃ də metʁo puʁ laʁk də tʁijɔ̃f/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Which is the bus stop for the Louvre museum?	Quel est l’arrêt de bus pour le musée du Louvre ?<br>/kɛl ɛ laʁɛ də bys puʁ lə myze dy luvʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+to go to the post office · a post office · to send by post	la poste : aller à la poste · un bureau de poste · envoyer par la poste<br>/ale a la pɔst · œ̃ byʁo də pɔst · ɑ̃vwaje paʁ la pɔst/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+the Gare du Nord · at the station · the platform	la gare : la gare du Nord · à la gare · le quai de la gare<br>/la ɡaʁ dy nɔʁ · a la ɡaʁ · lə ke də la ɡaʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+the Louvre · to visit a museum · an art museum	le musée : le musée du Louvre · visiter un musée · un musée d’art<br>/lə myze dy luvʁ · vizite œ̃ myze · œ̃ myze daʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+far from here · not very far · too far	loin : loin d’ici · pas très loin · trop loin<br>/lwɛ̃ disi · pa tʁɛ lwɛ̃ · tʁo lwɛ̃/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+to be in town · to be in Paris · to be near the station	se trouver : se trouver en ville · se trouver à Paris · se trouver près de la gare<br>/sə tʁuve ɑ̃ vil · sə tʁuve a paʁi · sə tʁuve pʁɛ də la ɡaʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+the bus stop · the next stop · to get off at the next stop	l’arrêt : l’arrêt de bus · le prochain arrêt · descendre au prochain arrêt<br>/laʁɛ də bys · lə pʁɔʃɛ̃n‿aʁɛ · desɑ̃dʁ o pʁɔʃɛ̃n‿aʁɛ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+the metro station · the taxi rank · a ski resort	la station : la station de métro · la station de taxis · une station de ski<br>/la stasjɔ̃ də metʁo · la stasjɔ̃ də taksi · yn stasjɔ̃ də ski/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+near here	près d’ici<br>/pʁɛ disi/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+on the right	à droite<br>/a dʁwat/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+on the left	à gauche<br>/a ɡoʃ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+straight on	tout droit<br>/tu dʁwa/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+opposite	en face de<br>/ɑ̃ fas də/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+at the corner of the street	au coin de la rue<br>/o kwɛ̃ də la ʁy/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+at the end of the street	au bout de la rue<br>/o bu də la ʁy/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+five minutes’ walk	à cinq minutes à pied<br>/a sɛ̃k minyt a pje/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+the bank	la banque<br>/la bɑ̃k/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+the chemist’s	la pharmacie<br>/la faʁmasi/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+The station is on the right.	La gare est à droite.<br>/la ɡaʁ ɛ(t)‿a dʁwat/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+The toilets are at the end of the corridor.	Les toilettes sont au bout du couloir.<br>/le twalɛt sɔ̃(t)‿o bu dy kulwaʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+The post office is opposite the bank.	La poste se trouve en face de la banque.<br>/la pɔst sə tʁuv ɑ̃ fas də la bɑ̃k/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+It is a map of Paris.	C’est un plan de Paris.<br>/sɛ(t)‿œ̃ plɑ̃ də paʁi/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+The museum is five minutes’ walk away.	Le musée est à cinq minutes à pied.<br>/lə myze ɛ(t)‿a sɛ̃k minyt a pje/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+I want to visit the Louvre.	Je veux visiter le Louvre.<br>/ʒə vø vizite lə luvʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+The bus stop is at the corner of the street.	L’arrêt de bus est au coin de la rue.<br>/laʁɛ də bys ɛ(t)‿o kwɛ̃ də la ʁy/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Excuse me, madam, where is the station?	Pardon, madame, où est la gare ?<br>/paʁdɔ̃, madam, u ɛ la ɡaʁ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+It’s straight on, then left.	C’est tout droit, puis à gauche.<br>/sɛ tu dʁwa, pɥi a ɡoʃ/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Is it far from here?	Est-ce que c’est loin d’ici ?<br>/ɛs kə sɛ lwɛ̃ disi/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+No, it’s five minutes’ walk.	Non, c’est à cinq minutes à pied.<br>/nɔ̃, sɛ(t)‿a sɛ̃k minyt a pje/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Thank you very much!	Merci beaucoup !<br>/mɛʁsi boku/	french yosser lesson03 en-fr	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA
+Ask in French: Where are the toilets?	Où sont les toilettes ? /u sɔ̃ le twalɛt/ (toilettes is plural)	french yosser lesson03 challenge location	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+Ask in French, the guidebook way: Where is the museum located?	Où se trouve le musée ? /u sə tʁuv lə myze/	french yosser lesson03 challenge location	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+Which form of quel? ___ est la station de métro ?	Quelle est la station de métro ? /kɛl ɛ la stasjɔ̃ də metʁo/ (la station is feminine)	french yosser lesson03 challenge quel	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+Which form of quel? ___ hôtels sont près de la gare ? And how does it sound?	Quels hôtels … ? /kɛlz‿otɛl/: the one place the four forms differ, by the liaison	french yosser lesson03 challenge quel	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+What is the difference: qu’est-ce que and est-ce que?	Qu’est-ce que /kɛs kə/ asks what; est-ce que /ɛs kə/ asks yes or no.	french yosser lesson03 challenge question	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+Say in French: Is it far from here?	Est-ce que c’est loin d’ici ? /ɛs kə sɛ lwɛ̃ disi/	french yosser lesson03 challenge location	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+Answer in French: It’s straight on, then left.	C’est tout droit, puis à gauche. /sɛ tu dʁwa, pɥi a ɡoʃ/	french yosser lesson03 challenge directions	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+Answer in French: The post office is opposite the bank.	La poste se trouve en face de la banque. /la pɔst sə tʁuv ɑ̃ fas də la bɑ̃k/	french yosser lesson03 challenge directions	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges
+Answer in French: It’s five minutes’ walk.	C’est à cinq minutes à pied. /sɛ(t)‿a sɛ̃k minyt a pje/	french yosser lesson03 challenge directions	French::Yosser (EN-FR)::Lesson 3: Où est … ? Asking about location — français, anglais, IPA::Challenges

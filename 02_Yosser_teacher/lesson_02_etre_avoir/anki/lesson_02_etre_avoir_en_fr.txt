@@ -1,0 +1,78 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Yosser (EN-FR)::Lesson 2: Être et avoir — français, anglais, IPA
+#tags:french yosser lesson02 en-fr
+#columns:Front	Back	Tags
+#tags column:3
+I am	je suis<br>/ʒə sɥi/	en-fr
+you are	tu es<br>/ty ɛ/	en-fr
+he is	il est<br>/il ɛ/	en-fr
+she is	elle est<br>/ɛl ɛ/	en-fr
+we are	nous sommes<br>/nu sɔm/	en-fr
+you are (2)	vous êtes<br>/vuz‿ɛt/	en-fr
+they are	ils sont<br>/il sɔ̃/	en-fr
+they are (women)	elles sont<br>/ɛl sɔ̃/	en-fr
+I am a student.	Je suis un élève.<br>/ʒə sɥi(z)‿œ̃n‿elɛv/	en-fr
+You are kind.	Tu es gentil.<br>/ty ɛ ʒɑ̃ti/	en-fr
+He is tall.	Il est grand.<br>/il ɛ ɡʁɑ̃/	en-fr
+She is happy.	Elle est heureuse.<br>/ɛl ɛ(t)‿œʁøz/	en-fr
+We are friends.	Nous sommes amis.<br>/nu sɔm(z)‿ami/	en-fr
+I have	j’ai<br>/ʒe/	en-fr
+you have	tu as<br>/ty a/	en-fr
+he has	il a<br>/il a/	en-fr
+she has	elle a<br>/ɛl a/	en-fr
+we have	nous avons<br>/nuz‿avɔ̃/	en-fr
+you have (2)	vous avez<br>/vuz‿ave/	en-fr
+they have	ils ont<br>/ilz‿ɔ̃/	en-fr
+they have (women)	elles ont<br>/ɛlz‿ɔ̃/	en-fr
+I have a cat.	J’ai un chat.<br>/ʒe œ̃ ʃa/	en-fr
+You have a book.	Tu as un livre.<br>/ty a œ̃ livʁ/	en-fr
+He has a bike.	Il a un vélo.<br>/il a œ̃ velo/	en-fr
+She has a doll.	Elle a une poupée.<br>/ɛl a yn pupe/	en-fr
+We have a house.	Nous avons une maison.<br>/nuz‿avɔ̃z‿yn mɛzɔ̃/	en-fr
+To be: to talk about someone or to describe.	Être : pour parler de quelqu’un ou pour décrire.<br>/ɛtʁ : puʁ paʁle də kɛlkœ̃ u puʁ dekʁiʁ/	en-fr
+I am small.	Je suis petit.<br>/ʒə sɥi pəti/	en-fr
+She is happy. (2)	Elle est contente.<br>/ɛl ɛ kɔ̃tɑ̃t/	en-fr
+To have: to talk about what you own and to give your age.	Avoir : pour parler de ce qu’on possède et pour dire l’âge.<br>/avwaʁ : puʁ paʁle də sə kɔ̃ pɔsɛd e puʁ diʁ lɑʒ/	en-fr
+I have a ball.	J’ai un ballon.<br>/ʒe œ̃ balɔ̃/	en-fr
+I am 7 years old.	J’ai 7 ans.<br>/ʒe sɛt ɑ̃/	en-fr
+to agree · to be late · to be on time	être : être d’accord · être en retard · être à l’heure<br>/ɛtʁ dakɔʁ · ɛtʁ ɑ̃ ʁətaʁ · ɛtʁ a lœʁ/	en-fr
+to need · to feel like · to look, to seem	avoir : avoir besoin de · avoir envie de · avoir l’air<br>/avwaʁ bəzwɛ̃ də · avwaʁ ɑ̃vi də · avwaʁ lɛʁ/	en-fr
+a good pupil · a pupil (a girl) · the pupils of the class	un élève : un bon élève · une élève · les élèves de la classe<br>/œ̃ bɔn‿elɛv · yn‿elɛv · lez‿elɛv də la klas/	en-fr
+that’s kind · kind to me · a kind girl	gentil : c’est gentil · gentil avec moi · une gentille fille<br>/sɛ ʒɑ̃ti · ʒɑ̃ti avɛk mwa · yn ʒɑ̃tij fij/	en-fr
+glad to see you · she is happy · happy new year	heureux : heureux de vous voir · elle est heureuse · bonne et heureuse année<br>/œʁø də vu vwaʁ · ɛl ɛ(t)‿œʁøz · bɔn e œʁøz‿ane/	en-fr
+to be hungry	avoir faim<br>/avwaʁ fɛ̃/	en-fr
+to be thirsty	avoir soif<br>/avwaʁ swaf/	en-fr
+to be cold	avoir froid<br>/avwaʁ fʁwa/	en-fr
+to be hot	avoir chaud<br>/avwaʁ ʃo/	en-fr
+to be afraid	avoir peur<br>/avwaʁ pœʁ/	en-fr
+to be right	avoir raison<br>/avwaʁ ʁɛzɔ̃/	en-fr
+to be wrong	avoir tort<br>/avwaʁ tɔʁ/	en-fr
+to be sleepy	avoir sommeil<br>/avwaʁ sɔmɛj/	en-fr
+They have a dog: ils ont, avoir.	Ils ont un chien.<br>/ilz‿ɔ̃t‿œ̃ ʃjɛ̃/	en-fr
+They are happy: ils sont, être.	Ils sont contents.<br>/il sɔ̃ kɔ̃tɑ̃/	en-fr
+They are hungry: elles ont, avoir.	Elles ont faim.<br>/ɛlz‿ɔ̃ fɛ̃/	en-fr
+They are at home: elles sont, être.	Elles sont à la maison.<br>/ɛl sɔ̃(t)‿a la mɛzɔ̃/	en-fr
+They are thirteen: ils ont, avoir.	Ils ont treize ans.<br>/ilz‿ɔ̃ tʁɛz ɑ̃/	en-fr
+They are in the garden: ils sont, être.	Ils sont dans le jardin.<br>/il sɔ̃ dɑ̃ lə ʒaʁdɛ̃/	en-fr
+I am cold. You?	J’ai froid. Vous ?<br>/ʒe fʁwa. vu/	en-fr
+He is late. They?	Il est en retard. Elles ?<br>/il ɛ(t)‿ɑ̃ ʁətaʁ. ɛl/	en-fr
+You are right. They?	Tu as raison. Ils ?<br>/ty a ʁɛzɔ̃. il/	en-fr
+I am tired. We?	Je suis fatigué. Nous ?<br>/ʒə sɥi fatiɡe. nu/	en-fr
+She is fourteen. You?	Elle a quatorze ans. Tu ?<br>/ɛl a katɔʁz ɑ̃. ty/	en-fr
+We are afraid. I?	Nous avons peur. Je ?<br>/nuz‿avɔ̃ pœʁ. ʒə/	en-fr
+He is happy.	Il est content.<br>/il ɛ kɔ̃tɑ̃/	en-fr
+We have a car.	Nous avons une voiture.<br>/nuz‿avɔ̃z‿yn vwatyʁ/	en-fr
+You are late.	Vous êtes en retard.<br>/vuz‿ɛt ɑ̃ ʁətaʁ/	en-fr
+They have books.	Elles ont des livres.<br>/ɛlz‿ɔ̃ de livʁ/	en-fr
+It is a cat.	C’est un chat.<br>/sɛ(t)‿œ̃ ʃa/	en-fr
+You are happy.	Tu es content.<br>/ty ɛ kɔ̃tɑ̃/	en-fr
+You have a dog.	Vous avez un chien.<br>/vuz‿ave(z)‿œ̃ ʃjɛ̃/	en-fr
+They are friends.	Ils sont amis.<br>/il sɔ̃t‿ami/	en-fr
+She is thirteen.	Elle a treize ans.<br>/ɛl a tʁɛz ɑ̃/	en-fr
+How old are you?	Quel âge as-tu ?<br>/kɛl ɑʒ a ty/	en-fr
+Do you have a pet?	Est-ce que tu as un animal ?<br>/ɛs kə ty a œ̃n‿animal/	en-fr
+Are you tired today?	Est-ce que tu es fatigué aujourd’hui ?<br>/ɛs kə ty ɛ fatiɡe oʒuʁdɥi/	en-fr
+How many brothers and sisters do you have?	Combien de frères et sœurs as-tu ?<br>/kɔ̃bjɛ̃ də fʁɛʁ e sœʁ a ty/	en-fr
+What is your house like?	Comment est ta maison ?<br>/kɔmɑ̃ ɛ ta mɛzɔ̃/	en-fr

@@ -97,3 +97,19 @@ The words on a cover and in a catalogue, with the IPA after Le Robert’s key, s
 | sans peine | without effort (Assimil’s *with ease*) | /sɑ̃ pɛn/ |
 | le français langue étrangère, le FLE | French as a foreign language, the publishers’ label | /lə fʁɑ̃sɛ lɑ̃ɡ etʁɑ̃ʒɛʁ, lə flə/ |
 | la version française, la VF | the French version, of a film; *Mondes en VF* plays on it | /la vɛʁsjɔ̃ fʁɑ̃sɛz, la veɛf/ |
+
+## Audio of a lesson on a Mac
+
+How the owner's mp3s of [lesson 2](02_Yosser_teacher/lesson_02_etre_avoir/README.md), [the alphabet drills](01_Sounds/french_alphabet/README.md) and Adam's *Ma maison* /ma mɛzɔ̃/ were made, on 2026-10-11, with nothing but macOS and ffmpeg: a text file per recording, read by a French system voice, converted to mp3. A native speaker sounds better; this is free, takes a minute, and is good enough to drill with.
+
+- **The voice.** System Settings → Accessibility → Spoken Content → System Voice → Manage Voices: download a French voice in its *Enhanced* or *Premium* version (Thomas or Audrey for France). `say -v '?' | grep fr_` lists the French voices installed.
+- **The pauses.** `[[slnc 3000]]` in the text is three seconds of silence, a command the Mac's voices obey: prompt, pause, answer.
+- **The shell.** The owner's Terminal runs fish: text in single quotes, with typographic apostrophes (’) inside, since a straight one ends the string.
+
+```fish
+function mk; say -v Thomas -r 150 -f $argv[1].txt -o $argv[1].aiff; and ffmpeg -y -loglevel error -i $argv[1].aiff -b:a 128k $argv[1].mp3; end
+printf '%s\n' 'Je suis. [[slnc 1500]] Tu es. [[slnc 1500]]' 'J’ai froid. Vous ? [[slnc 3500]] Vous avez froid.' > drill.txt
+mk drill; and open drill.mp3
+```
+
+`-r 150` is the speed in words a minute, slow enough for a beginner. Several recordings join into one with ffmpeg's `concat` filter: `ffmpeg -i a.aiff -i b.aiff -filter_complex '[0:a][1:a]concat=n=2:v=0:a=1' all.mp3`. How sure: high that it works, tested on the owner's iMac; medium that every letter name of the alphabet comes out right, since the voice is given capitals and chooses the reading itself.
