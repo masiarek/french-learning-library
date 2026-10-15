@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA::Challenges
+#tags:french yosser lesson05 challenge
+#columns:Front	Back	Tags
+#tags column:3
+Sami and his mother, Nadia and her mother: which word for his and her?	Sa for both: Sami et sa mère, Nadia et sa mère /sa mɛʁ/. It agrees with mère, not with the owner.	possessives
+Say in French: Nadia and her father.	Nadia et son père /nadja e sɔ̃ pɛʁ/ — son, because père is masculine.	possessives
+How do you pronounce le fils (the son)?	/lə fis/: the l is silent, the s is said. Les fils, the threads, is /le fil/.	pronunciation
+Une petite fille or une petite-fille: which one is your granddaughter?	Une petite-fille /yn pətit fij/, with the hyphen. Une petite fille is a little girl; they sound the same.	vocabulary
+Say in French: My father is a doctor.	Mon père est médecin. /mɔ̃ pɛʁ ɛ medsɛ̃/ — no article before a job after être.	grammar
+Mon ami or mon amie: can you hear the difference?	No: both are /mɔ̃n‿ami/. Only the spelling shows a woman.	pronunciation
+Make it negative: J’ai des enfants.	Je n’ai pas d’enfants. /ʒə ne pa dɑ̃fɑ̃/ — des becomes de, d’ before a vowel.	grammar
+Why is “J’ai mes parents” odd?	It says my parents are still alive. Say Voici mes parents /vwasi me paʁɑ̃/ or J’aime mes parents /ʒɛm me paʁɑ̃/.	usage
+Gentil, gentille: how do they sound?	Gentil /ʒɑ̃ti/, the l silent; gentille /ʒɑ̃tij/, ill as the y of yes.	pronunciation
+Say in French: I am an only child (a boy; a girl).	Je suis fils unique /ʒə sɥi fis ynik/ · Je suis fille unique /ʒə sɥi fij ynik/.	vocabulary
+Say in French: My family lives in Tunis, in Tunisia.	Ma famille habite à Tunis, en Tunisie. /ma famij abit a tynis, ɑ̃ tynizi/	places
+Say in French: Do you have brothers and sisters?	Tu as des frères et sœurs ? /ty a de fʁɛʁ e sœʁ/	questions

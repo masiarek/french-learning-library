@@ -106,5 +106,6 @@ Conventions: on the [chapter page](../README.md).
 - [Le son ɛ](../../04_Pronunciation/son_e_ouvert/README.md) — *le père, la mère, le frère*, the grave accent as /ɛ/
 - [Lesson 3: Regardons des photos](../../03_Szypowska/lecon_03_regardons_des_photos/README.md) — *de* as the genitive, *la mère de Marie*
 - [Lesson 6: En visite](../../03_Szypowska/lecon_06_en_visite/README.md) — adjective agreement, *messieurs* and *mesdames*
+- [Lesson 5: La famille](../../02_Yosser_teacher/lesson_05_la_famille/README.md) — the teacher's slides on the family, *mon, ma, mes, ton, ta, tes*, and *son, sa, ses* as *his* and *her*
 - [Glossary](../../GLOSSARY.md) — homophones, liaison
 - Le Robert, *Dictionnaire de la langue française*, pronunciation key, from memory
