@@ -178,6 +178,15 @@ Mine, not the teacher's. Notes first, then each word of the lesson in set phrase
 - [*Il y a*](../../05_1000_words/avoir/README.md) never changes its form: *il y a un lit, il y a des lits*. The question is *est-ce qu'il y a … ?* or *y a-t-il … ?*, the negative *il n'y a pas de …*, and *il y en a un* says "there is one".
 - *Au premier étage* is the floor above the ground floor, *le rez-de-chaussée*; an American "second floor".
 - *Joli* agrees: *un joli jardin, une jolie chambre*.
+- **The worksheet checked, line by line** (2026-10-15, when the owner sent it again as a PDF and asked for mistakes): the French is right, and so is the Corrigé but for one capital; the rest are flaws of the exercises.
+
+| Point on the worksheet | Verdict | How sure | Why |
+|---|---|---|---|
+| Corrigé of 8, *Il y a* with a capital | a slip | high | every blank is mid-sentence, *Dans ma maison, il y a un salon*: lower case, *il y a* /il j a/ |
+| 5, number 5: *un petit jardin derrière la maison* | not in the text | high | Adam's text says only *un petit jardin* /œ̃ pəti ʒaʁdɛ̃/; *derrière* /dɛʁjɛʁ/ comes from section 9 |
+| 5, number 6: *Adam fait ses devoirs sur son bureau* | understood, not the usual phrase | medium | at a desk is *à son bureau* /a sɔ̃ byʁo/; *sur* /syʁ/ says on top of it |
+| 7: *Il y a + un / une / des + nom* | too narrow | high | its own example has a number, *il y a trois chambres* /il j a tʁwa ʃɑ̃bʁ/, and the negative, *il n'y a pas de* /il nja pa də/, is left out (it is in the notes above) |
+| 8: six blanks, one answer | tests nothing | high | every answer is *il y a*; the AI exercises below make you choose |
 
 | French | English / Polish | IPA |
 |---|---|---|

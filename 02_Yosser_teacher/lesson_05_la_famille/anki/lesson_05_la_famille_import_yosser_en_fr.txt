@@ -1,0 +1,129 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#columns:Front	Back	Tags	Deck
+#tags column:3
+#deck column:4
+Vocabulary · Sentences · Exercises	Vocabulaire · Phrases · Exercices<br>/vɔkabylɛʁ · fʁaz · ɛɡzɛʁsis/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+the mother	la mère<br>/la mɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+the father	le père<br>/lə pɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+the parents	les parents<br>/le paʁɑ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+the sister	la sœur<br>/la sœʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+the brother	le frère<br>/lə fʁɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+the daughter	la fille<br>/la fij/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+the son	le fils<br>/lə fis/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+the children	les enfants<br>/lez‿ɑ̃fɑ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+the grandmother	la grand-mère<br>/la ɡʁɑ̃mɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+the grandfather	le grand-père<br>/lə ɡʁɑ̃pɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+Here is my family.	Voici ma famille.<br>/vwasi ma famij/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+This is my mother.	C’est ma mère.<br>/sɛ ma mɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+This is my brother.	C’est mon frère.<br>/sɛ mɔ̃ fʁɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+I have a sister.	J’ai une sœur.<br>/ʒe yn sœʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+I don’t have children.	Je n’ai pas d’enfants.<br>/ʒə ne pa dɑ̃fɑ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+My family lives in Tunis.	Ma famille habite à Tunis.<br>/ma famij abit a tynis/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+my, before a masculine noun: my father	mon : mon père<br>/mɔ̃ · mɔ̃ pɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+my, before a feminine noun: my sister	ma : ma sœur<br>/ma · ma sœʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+my, before a plural noun: my parents	mes : mes parents<br>/me · me paʁɑ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+my friend (a woman): mon before a feminine noun that begins with a vowel or a silent h	Exception : mon amie<br>/mɔ̃n‿ami/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+Do you have brothers and sisters?	Tu as des frères et des sœurs ?<br>/ty a de fʁɛʁ e de sœʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+Yes, I have a brother and a sister.	Oui, j’ai un frère et une sœur.<br>/wi, ʒe œ̃ fʁɛʁ e yn sœʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+What is your sister’s name?	Comment s’appelle ta sœur ?<br>/kɔmɑ̃ sapɛl ta sœʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+Her name is Lina.	Elle s’appelle Lina.<br>/ɛl sapɛl lina/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+Your turn! Ask a partner these questions.	À vous ! Posez ces questions à un partenaire.<br>/a vu ! poze se kɛstjɔ̃ a œ̃ paʁtənɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+a. brother · b. mother · c. daughter; the answers: 1 b · 2 a · 3 c	1. la mère · 2. le frère · 3. la fille<br>/la mɛʁ · lə fʁɛʁ · la fij/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+1. Do you have brothers and sisters?	1. Tu as des frères et sœurs ?<br>/ty a de fʁɛʁ e sœʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+2. What is your mother’s name?	2. Comment s’appelle ta mère ?<br>/kɔmɑ̃ sapɛl ta mɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+My family is big.	Ma famille est grande.<br>/ma famij ɛ ɡʁɑ̃d/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+My family is small.	Ma famille est petite.<br>/ma famij ɛ pətit/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+I have two brothers.	J’ai deux frères.<br>/ʒe dø fʁɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+My father is kind.	Mon père est gentil.<br>/mɔ̃ pɛʁ ɛ ʒɑ̃ti/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+My mother works at the hospital.	Ma mère travaille à l’hôpital.<br>/ma mɛʁ tʁavaj a lopital/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+big, tall	grand, grande<br>/ɡʁɑ̃, ɡʁɑ̃d/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+small, little	petit, petite<br>/pəti, pətit/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+kind	gentil, gentille<br>/ʒɑ̃ti, ʒɑ̃tij/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+to work	travailler<br>/tʁavaje/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+my father	mon père<br>/mɔ̃ pɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+my mother	ma mère<br>/ma mɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+my parents	mes parents<br>/me paʁɑ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+your brother	ton frère<br>/tɔ̃ fʁɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+your sister	ta sœur<br>/ta sœʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+your children	tes enfants<br>/tez‿ɑ̃fɑ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+my / your, before a masculine noun	mon / ton<br>/mɔ̃, tɔ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+my / your, before a feminine noun	ma / ta<br>/ma, ta/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+my / your, before a plural noun	mes / tes<br>/me, te/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+My name is Nadia.	Je m’appelle Nadia.<br>/ʒə mapɛl nadja/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+I live with my family in Tunis.	J’habite avec ma famille à Tunis.<br>/ʒabit avɛk ma famij a tynis/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+I have one brother, Sami, and one sister, Amel.	J’ai un frère, Sami, et une sœur, Amel.<br>/ʒe œ̃ fʁɛʁ, sami, e yn sœʁ, amɛl/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+My father is a doctor and my mother is a teacher.	Mon père est médecin et ma mère est enseignante.<br>/mɔ̃ pɛʁ ɛ medsɛ̃ e ma mɛʁ ɛ(t)‿ɑ̃sɛɲɑ̃t/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+At the weekend, we eat together.	Le week-end, nous mangeons ensemble.<br>/lə wikɛnd, nu mɑ̃ʒɔ̃ ɑ̃sɑ̃bl/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+1. Where does Nadia live?	1. Où habite Nadia ?<br>/u abit nadja/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+2. How many brothers and sisters does she have?	2. Combien de frères et de sœurs a-t-elle ?<br>/kɔ̃bjɛ̃ də fʁɛʁ e də sœʁ atɛl/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+3. What does her family do at the weekend?	3. Que fait sa famille le week-end ?<br>/kə fɛ sa famij lə wikɛnd/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+1. Write five family words.	1. Écrivez cinq mots de la famille.<br>/ekʁive sɛ̃k mo də la famij/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+3. Ask a partner two questions.	3. Posez deux questions à un partenaire.<br>/poze dø kɛstjɔ̃ a œ̃ paʁtənɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+4. Introduce your family in six sentences.	4. Présentez votre famille en six phrases.<br>/pʁezɑ̃te vɔtʁ famij ɑ̃ si fʁaz/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+My name is …	Je m’appelle …<br>/ʒə mapɛl …/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+In my family there are …	Dans ma famille, il y a …<br>/dɑ̃ ma famij, il j a …/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+I have …	J’ai …<br>/ʒe …/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+My … is called …	Mon …, ma … s’appelle …<br>/mɔ̃ …, ma … sapɛl …/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+We live …	Nous habitons …<br>/nuz‿abitɔ̃ …/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+I love, I like …	J’aime …<br>/ʒɛm …/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+Use the sentence frames to give a short presentation.	Utilisez ces phrases pour préparer une courte présentation.<br>/ytilize se fʁaz puʁ pʁepaʁe yn kuʁt pʁezɑ̃tasjɔ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+my big brother · my little brother · a half-brother	le frère : mon grand frère · mon petit frère · un demi-frère<br>/mɔ̃ ɡʁɑ̃ fʁɛʁ · mɔ̃ pəti fʁɛʁ · œ̃ dəmi fʁɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+my big sister · my little sister · a half-sister	la sœur : ma grande sœur · ma petite sœur · une demi-sœur<br>/ma ɡʁɑ̃d sœʁ · ma pətit sœʁ · yn dəmi sœʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+an only son · the eldest son · from father to son	le fils : un fils unique · le fils aîné · de père en fils<br>/œ̃ fis ynik · lə fis ene · də pɛʁ ɑ̃ fis/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+my daughter · a little girl · an only daughter	la fille : ma fille · une petite fille · une fille unique<br>/ma fij · yn pətit fij · yn fij ynik/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+to have children · an only child · the grandchildren	les enfants : avoir des enfants · un enfant unique · les petits-enfants<br>/avwaʁ dez‿ɑ̃fɑ̃ · œ̃n‿ɑ̃fɑ̃ ynik · le pətiz‿ɑ̃fɑ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+my grandparents · at my grandparents’ · my great-grandfather	le grand-père : mes grands-parents · chez mes grands-parents · mon arrière-grand-père<br>/me ɡʁɑ̃paʁɑ̃ · ʃe me ɡʁɑ̃paʁɑ̃ · mɔ̃n‿aʁjɛʁ ɡʁɑ̃pɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+a big family · a big brother · tall and slim	grand, grande : une grande famille · un grand frère · grand et mince<br>/yn ɡʁɑ̃d famij · œ̃ ɡʁɑ̃ fʁɛʁ · ɡʁɑ̃ e mɛ̃s/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+a little brother · a small house · little by little	petit, petite : un petit frère · une petite maison · petit à petit<br>/œ̃ pəti fʁɛʁ · yn pətit mɛzɔ̃ · pətit‿a pəti/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+that’s kind of you · very kind · kind to children	gentil, gentille : c’est gentil · très gentille · gentil avec les enfants<br>/sɛ ʒɑ̃ti · tʁɛ ʒɑ̃tij · ʒɑ̃ti avɛk lez‿ɑ̃fɑ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+to work at the hospital · to work a lot · to work from home	travailler : travailler à l’hôpital · travailler beaucoup · travailler à la maison<br>/tʁavaje a lopital · tʁavaje boku · tʁavaje a la mɛzɔ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+to live in Tunis · to live with one’s family · to live alone	habiter : habiter à Tunis · habiter avec sa famille · habiter seul<br>/abite a tynis · abite avɛk sa famij · abite sœl/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+what’s your name? · my name is Nadia · what’s his name?	s’appeler : comment tu t’appelles ? · je m’appelle Nadia · il s’appelle comment ?<br>/kɔmɑ̃ ty tapɛl · ʒə mapɛl nadja · il sapɛl kɔmɑ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+the doctor	le médecin<br>/lə medsɛ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+the teacher	l’enseignant, l’enseignante<br>/lɑ̃sɛɲɑ̃, lɑ̃sɛɲɑ̃t/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+the nurse	l’infirmier, l’infirmière<br>/lɛ̃fiʁmje, lɛ̃fiʁmjɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+the engineer	l’ingénieur<br>/lɛ̃ʒenjœʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+the student, at a university	l’étudiant, l’étudiante<br>/letydjɑ̃, letydjɑ̃t/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+to be retired	être à la retraite<br>/ɛtʁ a la ʁətʁɛt/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+to work in an office	travailler dans un bureau<br>/tʁavaje dɑ̃z‿œ̃ byʁo/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+What does he do? — He is a doctor.	Qu’est-ce qu’il fait ? — Il est médecin.<br>/kɛs kil fɛ ? il ɛ medsɛ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+I have children.	J’ai des enfants.<br>/ʒe dez‿ɑ̃fɑ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+I have a brother.	J’ai un frère.<br>/ʒe œ̃ fʁɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+My family has a garden.	Ma famille a un jardin.<br>/ma famij a œ̃ ʒaʁdɛ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+Where does Nadia live?	Où habite Nadia ?<br>/u abit nadja/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+How many brothers and sisters does she have?	Combien de frères et de sœurs a-t-elle ?<br>/kɔ̃bjɛ̃ də fʁɛʁ e də sœʁ atɛl/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+What does her family do at the weekend?	Que fait sa famille le week-end ?<br>/kə fɛ sa famij lə wikɛnd/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+What does Nadia’s father do?	Que fait le père de Nadia ?<br>/kə fɛ lə pɛʁ də nadja/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+Do you have brothers and sisters? (2)	Tu as des frères et sœurs ?<br>/ty a de fʁɛʁ e sœʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+What is your mother’s name?	Comment s’appelle ta mère ?<br>/kɔmɑ̃ sapɛl ta mɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+My brother is twelve.	Mon frère a douze ans.<br>/mɔ̃ fʁɛʁ a duz‿ɑ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+My parents live in Lyon.	Mes parents habitent à Lyon.<br>/me paʁɑ̃ abit a ljɔ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+My mother is a nurse.	Ma mère est infirmière.<br>/ma mɛʁ ɛ(t)‿ɛ̃fiʁmjɛʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+I have two children.	J’ai deux enfants.<br>/ʒe døz‿ɑ̃fɑ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+Look, it’s a photo of my family.	Regarde, c’est une photo de ma famille.<br>/ʁəɡaʁd, sɛ(t)‿yn fɔto də ma famij/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+Who is that, next to you?	Qui est-ce, à côté de toi ?<br>/ki ɛs, a kote də twa/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+That’s my brother, Marc. He is twenty.	C’est mon frère, Marc. Il a vingt ans.<br>/sɛ mɔ̃ fʁɛʁ, maʁk. il a vɛ̃t‿ɑ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+And the lady behind you?	Et la dame derrière vous ?<br>/e la dam dɛʁjɛʁ vu/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+That’s my grandmother. She lives with us.	C’est ma grand-mère. Elle habite avec nous.<br>/sɛ ma ɡʁɑ̃mɛʁ. ɛl abit avɛk nu/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+She looks very kind! And you, do you have children?	Elle a l’air très gentille ! Et toi, tu as des enfants ?<br>/ɛl a lɛʁ tʁɛ ʒɑ̃tij ! e twa, ty a dez‿ɑ̃fɑ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+Yes, I have a daughter. Her name is Léa.	Oui, j’ai une fille. Elle s’appelle Léa.<br>/wi, ʒe yn fij. ɛl sapɛl lea/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+My name is Adam and I am thirteen.	Je m’appelle Adam et j’ai treize ans.<br>/ʒə mapɛl adam e ʒe tʁɛz ɑ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+There are five people in my family.	Dans ma famille, il y a cinq personnes.<br>/dɑ̃ ma famij, il j a sɛ̃k pɛʁsɔn/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+I have a brother and a sister.	J’ai un frère et une sœur.<br>/ʒe œ̃ fʁɛʁ e yn sœʁ/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+My brother’s name is Paul and my sister’s is Emma.	Mon frère s’appelle Paul et ma sœur s’appelle Emma.<br>/mɔ̃ fʁɛʁ sapɛl pɔl e ma sœʁ sapɛl ɛma/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+We live in a big house with a small garden.	Nous habitons dans une grande maison avec un petit jardin.<br>/nuz‿abitɔ̃ dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk œ̃ pəti ʒaʁdɛ̃/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+I love my family very much.	J’aime beaucoup ma famille.<br>/ʒɛm boku ma famij/	french yosser lesson05 en-fr	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+Sami and his mother, Nadia and her mother: which word for his and her?	Sa for both: Sami et sa mère, Nadia et sa mère /sa mɛʁ/. It agrees with mère, not with the owner.	french yosser lesson05 challenge possessives	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA::Challenges
+Say in French: Nadia and her father.	Nadia et son père /nadja e sɔ̃ pɛʁ/ — son, because père is masculine.	french yosser lesson05 challenge possessives	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA::Challenges
+How do you pronounce le fils (the son)?	/lə fis/: the l is silent, the s is said. Les fils, the threads, is /le fil/.	french yosser lesson05 challenge pronunciation	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA::Challenges
+Une petite fille or une petite-fille: which one is your granddaughter?	Une petite-fille /yn pətit fij/, with the hyphen. Une petite fille is a little girl; they sound the same.	french yosser lesson05 challenge vocabulary	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA::Challenges
+Say in French: My father is a doctor.	Mon père est médecin. /mɔ̃ pɛʁ ɛ medsɛ̃/ — no article before a job after être.	french yosser lesson05 challenge grammar	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA::Challenges
+Mon ami or mon amie: can you hear the difference?	No: both are /mɔ̃n‿ami/. Only the spelling shows a woman.	french yosser lesson05 challenge pronunciation	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA::Challenges
+Make it negative: J’ai des enfants.	Je n’ai pas d’enfants. /ʒə ne pa dɑ̃fɑ̃/ — des becomes de, d’ before a vowel.	french yosser lesson05 challenge grammar	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA::Challenges
+Why is “J’ai mes parents” odd?	It says my parents are still alive. Say Voici mes parents /vwasi me paʁɑ̃/ or J’aime mes parents /ʒɛm me paʁɑ̃/.	french yosser lesson05 challenge usage	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA::Challenges
+Gentil, gentille: how do they sound?	Gentil /ʒɑ̃ti/, the l silent; gentille /ʒɑ̃tij/, ill as the y of yes.	french yosser lesson05 challenge pronunciation	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA::Challenges
+Say in French: I am an only child (a boy; a girl).	Je suis fils unique /ʒə sɥi fis ynik/ · Je suis fille unique /ʒə sɥi fij ynik/.	french yosser lesson05 challenge vocabulary	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA::Challenges
+Say in French: My family lives in Tunis, in Tunisia.	Ma famille habite à Tunis, en Tunisie. /ma famij abit a tynis, ɑ̃ tynizi/	french yosser lesson05 challenge places	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA::Challenges
+Say in French: Do you have brothers and sisters?	Tu as des frères et sœurs ? /ty a de fʁɛʁ e sœʁ/	french yosser lesson05 challenge questions	French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA::Challenges

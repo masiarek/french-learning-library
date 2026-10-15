@@ -118,6 +118,7 @@ Conventions: on the [chapter page](../README.md).
 - [venir](../venir/README.md) — *viennent*, and the family *tenir, devenir, revenir*
 - [être](../etre/README.md) — *ma famille est grande*, the singular verb
 - [Lesson 1: La maison](../../02_Yosser_teacher/lesson_01_la_maison/README.md) — *j'habite dans une grande maison avec ma famille*
+- [Lesson 5: La famille](../../02_Yosser_teacher/lesson_05_la_famille/README.md) — slides on the family: *ma famille est grande*, *son, sa, ses*, a dialogue over a family photo
 - [Lesson 4: Chez les Lefèvre](../../03_Szypowska/lecon_04_chez_les_lefevre/README.md) — *les Lefèvre*, the surname without a plural *-s*
 - [Lesson 6: En visite](../../03_Szypowska/lecon_06_en_visite/README.md) — *reste tranquille*, the *-ille* that keeps its /l/
 - [Glossary](../../GLOSSARY.md) — possessive adjective, lettre muette

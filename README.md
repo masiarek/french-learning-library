@@ -36,6 +36,7 @@ The examples are **stdlib-only, on purpose**. If you have `python3`, you can run
 | [Lesson 2: Être et avoir](02_Yosser_teacher/lesson_02_etre_avoir/README.md) | The two verbs in the present, the worksheet's examples and two exercises with the answers, a slip on the sheet corrected; then *ils sont* against *ils ont*, *avoir* where English says *to be*, *ne … pas de*, inversion with *-t-*, all recorded as audio drills |
 | [Lesson 3: Où est … ?](02_Yosser_teacher/lesson_03_ou_est/README.md) | Asking where things are: *où est, où sont, où se trouve*, *qu'est-ce que*, *quel* and its four forms that sound alike; the answers, *à droite, tout droit, en face de*, and a dialogue in the street |
 | [Lesson 4: Bonjour, salut, au revoir](02_Yosser_teacher/lesson_04_salutations/README.md) | Greetings and goodbyes: *bonjour, bonsoir, salut, coucou, au revoir, à plus, bonne journée*; why *bonne soirée* says goodbye, the *s* of *à plus*, what to say when, a dialogue at the café |
+| [Lesson 5: La famille](02_Yosser_teacher/lesson_05_la_famille/README.md) | Illustrated A1 slides on the family: the words, *mon, ma, mes, ton, ta, tes*, a dialogue, Nadia's family; checked, with *son, sa, ses*, *le fils* /fis/, the job without an article, the answers and a dialogue over a family photo |
 
 [**03_Szypowska/**](03_Szypowska/README.md) — *A Polish textbook of French, one page per lesson*
 

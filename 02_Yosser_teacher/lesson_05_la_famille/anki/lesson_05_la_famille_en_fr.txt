@@ -1,0 +1,118 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:French::Yosser (EN-FR)::Lesson 5: La famille — français, anglais, IPA
+#tags:french yosser lesson05 en-fr
+#columns:Front	Back	Tags
+#tags column:3
+Vocabulary · Sentences · Exercises	Vocabulaire · Phrases · Exercices<br>/vɔkabylɛʁ · fʁaz · ɛɡzɛʁsis/	en-fr
+the mother	la mère<br>/la mɛʁ/	en-fr
+the father	le père<br>/lə pɛʁ/	en-fr
+the parents	les parents<br>/le paʁɑ̃/	en-fr
+the sister	la sœur<br>/la sœʁ/	en-fr
+the brother	le frère<br>/lə fʁɛʁ/	en-fr
+the daughter	la fille<br>/la fij/	en-fr
+the son	le fils<br>/lə fis/	en-fr
+the children	les enfants<br>/lez‿ɑ̃fɑ̃/	en-fr
+the grandmother	la grand-mère<br>/la ɡʁɑ̃mɛʁ/	en-fr
+the grandfather	le grand-père<br>/lə ɡʁɑ̃pɛʁ/	en-fr
+Here is my family.	Voici ma famille.<br>/vwasi ma famij/	en-fr
+This is my mother.	C’est ma mère.<br>/sɛ ma mɛʁ/	en-fr
+This is my brother.	C’est mon frère.<br>/sɛ mɔ̃ fʁɛʁ/	en-fr
+I have a sister.	J’ai une sœur.<br>/ʒe yn sœʁ/	en-fr
+I don’t have children.	Je n’ai pas d’enfants.<br>/ʒə ne pa dɑ̃fɑ̃/	en-fr
+My family lives in Tunis.	Ma famille habite à Tunis.<br>/ma famij abit a tynis/	en-fr
+my, before a masculine noun: my father	mon : mon père<br>/mɔ̃ · mɔ̃ pɛʁ/	en-fr
+my, before a feminine noun: my sister	ma : ma sœur<br>/ma · ma sœʁ/	en-fr
+my, before a plural noun: my parents	mes : mes parents<br>/me · me paʁɑ̃/	en-fr
+my friend (a woman): mon before a feminine noun that begins with a vowel or a silent h	Exception : mon amie<br>/mɔ̃n‿ami/	en-fr
+Do you have brothers and sisters?	Tu as des frères et des sœurs ?<br>/ty a de fʁɛʁ e de sœʁ/	en-fr
+Yes, I have a brother and a sister.	Oui, j’ai un frère et une sœur.<br>/wi, ʒe œ̃ fʁɛʁ e yn sœʁ/	en-fr
+What is your sister’s name?	Comment s’appelle ta sœur ?<br>/kɔmɑ̃ sapɛl ta sœʁ/	en-fr
+Her name is Lina.	Elle s’appelle Lina.<br>/ɛl sapɛl lina/	en-fr
+Your turn! Ask a partner these questions.	À vous ! Posez ces questions à un partenaire.<br>/a vu ! poze se kɛstjɔ̃ a œ̃ paʁtənɛʁ/	en-fr
+a. brother · b. mother · c. daughter; the answers: 1 b · 2 a · 3 c	1. la mère · 2. le frère · 3. la fille<br>/la mɛʁ · lə fʁɛʁ · la fij/	en-fr
+1. Do you have brothers and sisters?	1. Tu as des frères et sœurs ?<br>/ty a de fʁɛʁ e sœʁ/	en-fr
+2. What is your mother’s name?	2. Comment s’appelle ta mère ?<br>/kɔmɑ̃ sapɛl ta mɛʁ/	en-fr
+My family is big.	Ma famille est grande.<br>/ma famij ɛ ɡʁɑ̃d/	en-fr
+My family is small.	Ma famille est petite.<br>/ma famij ɛ pətit/	en-fr
+I have two brothers.	J’ai deux frères.<br>/ʒe dø fʁɛʁ/	en-fr
+My father is kind.	Mon père est gentil.<br>/mɔ̃ pɛʁ ɛ ʒɑ̃ti/	en-fr
+My mother works at the hospital.	Ma mère travaille à l’hôpital.<br>/ma mɛʁ tʁavaj a lopital/	en-fr
+big, tall	grand, grande<br>/ɡʁɑ̃, ɡʁɑ̃d/	en-fr
+small, little	petit, petite<br>/pəti, pətit/	en-fr
+kind	gentil, gentille<br>/ʒɑ̃ti, ʒɑ̃tij/	en-fr
+to work	travailler<br>/tʁavaje/	en-fr
+my father	mon père<br>/mɔ̃ pɛʁ/	en-fr
+my mother	ma mère<br>/ma mɛʁ/	en-fr
+my parents	mes parents<br>/me paʁɑ̃/	en-fr
+your brother	ton frère<br>/tɔ̃ fʁɛʁ/	en-fr
+your sister	ta sœur<br>/ta sœʁ/	en-fr
+your children	tes enfants<br>/tez‿ɑ̃fɑ̃/	en-fr
+my / your, before a masculine noun	mon / ton<br>/mɔ̃, tɔ̃/	en-fr
+my / your, before a feminine noun	ma / ta<br>/ma, ta/	en-fr
+my / your, before a plural noun	mes / tes<br>/me, te/	en-fr
+My name is Nadia.	Je m’appelle Nadia.<br>/ʒə mapɛl nadja/	en-fr
+I live with my family in Tunis.	J’habite avec ma famille à Tunis.<br>/ʒabit avɛk ma famij a tynis/	en-fr
+I have one brother, Sami, and one sister, Amel.	J’ai un frère, Sami, et une sœur, Amel.<br>/ʒe œ̃ fʁɛʁ, sami, e yn sœʁ, amɛl/	en-fr
+My father is a doctor and my mother is a teacher.	Mon père est médecin et ma mère est enseignante.<br>/mɔ̃ pɛʁ ɛ medsɛ̃ e ma mɛʁ ɛ(t)‿ɑ̃sɛɲɑ̃t/	en-fr
+At the weekend, we eat together.	Le week-end, nous mangeons ensemble.<br>/lə wikɛnd, nu mɑ̃ʒɔ̃ ɑ̃sɑ̃bl/	en-fr
+1. Where does Nadia live?	1. Où habite Nadia ?<br>/u abit nadja/	en-fr
+2. How many brothers and sisters does she have?	2. Combien de frères et de sœurs a-t-elle ?<br>/kɔ̃bjɛ̃ də fʁɛʁ e də sœʁ atɛl/	en-fr
+3. What does her family do at the weekend?	3. Que fait sa famille le week-end ?<br>/kə fɛ sa famij lə wikɛnd/	en-fr
+1. Write five family words.	1. Écrivez cinq mots de la famille.<br>/ekʁive sɛ̃k mo də la famij/	en-fr
+3. Ask a partner two questions.	3. Posez deux questions à un partenaire.<br>/poze dø kɛstjɔ̃ a œ̃ paʁtənɛʁ/	en-fr
+4. Introduce your family in six sentences.	4. Présentez votre famille en six phrases.<br>/pʁezɑ̃te vɔtʁ famij ɑ̃ si fʁaz/	en-fr
+My name is …	Je m’appelle …<br>/ʒə mapɛl …/	en-fr
+In my family there are …	Dans ma famille, il y a …<br>/dɑ̃ ma famij, il j a …/	en-fr
+I have …	J’ai …<br>/ʒe …/	en-fr
+My … is called …	Mon …, ma … s’appelle …<br>/mɔ̃ …, ma … sapɛl …/	en-fr
+We live …	Nous habitons …<br>/nuz‿abitɔ̃ …/	en-fr
+I love, I like …	J’aime …<br>/ʒɛm …/	en-fr
+Use the sentence frames to give a short presentation.	Utilisez ces phrases pour préparer une courte présentation.<br>/ytilize se fʁaz puʁ pʁepaʁe yn kuʁt pʁezɑ̃tasjɔ̃/	en-fr
+my big brother · my little brother · a half-brother	le frère : mon grand frère · mon petit frère · un demi-frère<br>/mɔ̃ ɡʁɑ̃ fʁɛʁ · mɔ̃ pəti fʁɛʁ · œ̃ dəmi fʁɛʁ/	en-fr
+my big sister · my little sister · a half-sister	la sœur : ma grande sœur · ma petite sœur · une demi-sœur<br>/ma ɡʁɑ̃d sœʁ · ma pətit sœʁ · yn dəmi sœʁ/	en-fr
+an only son · the eldest son · from father to son	le fils : un fils unique · le fils aîné · de père en fils<br>/œ̃ fis ynik · lə fis ene · də pɛʁ ɑ̃ fis/	en-fr
+my daughter · a little girl · an only daughter	la fille : ma fille · une petite fille · une fille unique<br>/ma fij · yn pətit fij · yn fij ynik/	en-fr
+to have children · an only child · the grandchildren	les enfants : avoir des enfants · un enfant unique · les petits-enfants<br>/avwaʁ dez‿ɑ̃fɑ̃ · œ̃n‿ɑ̃fɑ̃ ynik · le pətiz‿ɑ̃fɑ̃/	en-fr
+my grandparents · at my grandparents’ · my great-grandfather	le grand-père : mes grands-parents · chez mes grands-parents · mon arrière-grand-père<br>/me ɡʁɑ̃paʁɑ̃ · ʃe me ɡʁɑ̃paʁɑ̃ · mɔ̃n‿aʁjɛʁ ɡʁɑ̃pɛʁ/	en-fr
+a big family · a big brother · tall and slim	grand, grande : une grande famille · un grand frère · grand et mince<br>/yn ɡʁɑ̃d famij · œ̃ ɡʁɑ̃ fʁɛʁ · ɡʁɑ̃ e mɛ̃s/	en-fr
+a little brother · a small house · little by little	petit, petite : un petit frère · une petite maison · petit à petit<br>/œ̃ pəti fʁɛʁ · yn pətit mɛzɔ̃ · pətit‿a pəti/	en-fr
+that’s kind of you · very kind · kind to children	gentil, gentille : c’est gentil · très gentille · gentil avec les enfants<br>/sɛ ʒɑ̃ti · tʁɛ ʒɑ̃tij · ʒɑ̃ti avɛk lez‿ɑ̃fɑ̃/	en-fr
+to work at the hospital · to work a lot · to work from home	travailler : travailler à l’hôpital · travailler beaucoup · travailler à la maison<br>/tʁavaje a lopital · tʁavaje boku · tʁavaje a la mɛzɔ̃/	en-fr
+to live in Tunis · to live with one’s family · to live alone	habiter : habiter à Tunis · habiter avec sa famille · habiter seul<br>/abite a tynis · abite avɛk sa famij · abite sœl/	en-fr
+what’s your name? · my name is Nadia · what’s his name?	s’appeler : comment tu t’appelles ? · je m’appelle Nadia · il s’appelle comment ?<br>/kɔmɑ̃ ty tapɛl · ʒə mapɛl nadja · il sapɛl kɔmɑ̃/	en-fr
+the doctor	le médecin<br>/lə medsɛ̃/	en-fr
+the teacher	l’enseignant, l’enseignante<br>/lɑ̃sɛɲɑ̃, lɑ̃sɛɲɑ̃t/	en-fr
+the nurse	l’infirmier, l’infirmière<br>/lɛ̃fiʁmje, lɛ̃fiʁmjɛʁ/	en-fr
+the engineer	l’ingénieur<br>/lɛ̃ʒenjœʁ/	en-fr
+the student, at a university	l’étudiant, l’étudiante<br>/letydjɑ̃, letydjɑ̃t/	en-fr
+to be retired	être à la retraite<br>/ɛtʁ a la ʁətʁɛt/	en-fr
+to work in an office	travailler dans un bureau<br>/tʁavaje dɑ̃z‿œ̃ byʁo/	en-fr
+What does he do? — He is a doctor.	Qu’est-ce qu’il fait ? — Il est médecin.<br>/kɛs kil fɛ ? il ɛ medsɛ̃/	en-fr
+I have children.	J’ai des enfants.<br>/ʒe dez‿ɑ̃fɑ̃/	en-fr
+I have a brother.	J’ai un frère.<br>/ʒe œ̃ fʁɛʁ/	en-fr
+My family has a garden.	Ma famille a un jardin.<br>/ma famij a œ̃ ʒaʁdɛ̃/	en-fr
+Where does Nadia live?	Où habite Nadia ?<br>/u abit nadja/	en-fr
+How many brothers and sisters does she have?	Combien de frères et de sœurs a-t-elle ?<br>/kɔ̃bjɛ̃ də fʁɛʁ e də sœʁ atɛl/	en-fr
+What does her family do at the weekend?	Que fait sa famille le week-end ?<br>/kə fɛ sa famij lə wikɛnd/	en-fr
+What does Nadia’s father do?	Que fait le père de Nadia ?<br>/kə fɛ lə pɛʁ də nadja/	en-fr
+Do you have brothers and sisters? (2)	Tu as des frères et sœurs ?<br>/ty a de fʁɛʁ e sœʁ/	en-fr
+What is your mother’s name?	Comment s’appelle ta mère ?<br>/kɔmɑ̃ sapɛl ta mɛʁ/	en-fr
+My brother is twelve.	Mon frère a douze ans.<br>/mɔ̃ fʁɛʁ a duz‿ɑ̃/	en-fr
+My parents live in Lyon.	Mes parents habitent à Lyon.<br>/me paʁɑ̃ abit a ljɔ̃/	en-fr
+My mother is a nurse.	Ma mère est infirmière.<br>/ma mɛʁ ɛ(t)‿ɛ̃fiʁmjɛʁ/	en-fr
+I have two children.	J’ai deux enfants.<br>/ʒe døz‿ɑ̃fɑ̃/	en-fr
+Look, it’s a photo of my family.	Regarde, c’est une photo de ma famille.<br>/ʁəɡaʁd, sɛ(t)‿yn fɔto də ma famij/	en-fr
+Who is that, next to you?	Qui est-ce, à côté de toi ?<br>/ki ɛs, a kote də twa/	en-fr
+That’s my brother, Marc. He is twenty.	C’est mon frère, Marc. Il a vingt ans.<br>/sɛ mɔ̃ fʁɛʁ, maʁk. il a vɛ̃t‿ɑ̃/	en-fr
+And the lady behind you?	Et la dame derrière vous ?<br>/e la dam dɛʁjɛʁ vu/	en-fr
+That’s my grandmother. She lives with us.	C’est ma grand-mère. Elle habite avec nous.<br>/sɛ ma ɡʁɑ̃mɛʁ. ɛl abit avɛk nu/	en-fr
+She looks very kind! And you, do you have children?	Elle a l’air très gentille ! Et toi, tu as des enfants ?<br>/ɛl a lɛʁ tʁɛ ʒɑ̃tij ! e twa, ty a dez‿ɑ̃fɑ̃/	en-fr
+Yes, I have a daughter. Her name is Léa.	Oui, j’ai une fille. Elle s’appelle Léa.<br>/wi, ʒe yn fij. ɛl sapɛl lea/	en-fr
+My name is Adam and I am thirteen.	Je m’appelle Adam et j’ai treize ans.<br>/ʒə mapɛl adam e ʒe tʁɛz ɑ̃/	en-fr
+There are five people in my family.	Dans ma famille, il y a cinq personnes.<br>/dɑ̃ ma famij, il j a sɛ̃k pɛʁsɔn/	en-fr
+I have a brother and a sister.	J’ai un frère et une sœur.<br>/ʒe œ̃ fʁɛʁ e yn sœʁ/	en-fr
+My brother’s name is Paul and my sister’s is Emma.	Mon frère s’appelle Paul et ma sœur s’appelle Emma.<br>/mɔ̃ fʁɛʁ sapɛl pɔl e ma sœʁ sapɛl ɛma/	en-fr
+We live in a big house with a small garden.	Nous habitons dans une grande maison avec un petit jardin.<br>/nuz‿abitɔ̃ dɑ̃z‿yn ɡʁɑ̃d mɛzɔ̃ avɛk œ̃ pəti ʒaʁdɛ̃/	en-fr
+I love my family very much.	J’aime beaucoup ma famille.<br>/ʒɛm boku ma famij/	en-fr
