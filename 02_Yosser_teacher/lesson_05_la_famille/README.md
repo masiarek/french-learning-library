@@ -1,5 +1,7 @@
 # Lesson 5: La famille — français, anglais, IPA
 
+Video: [youtube.com/watch?v=L5-3kpXaEi4 ↗](https://www.youtube.com/watch?v=L5-3kpXaEi4)
+
 ## The table
 
 Conventions: on the [chapter page](../README.md).
