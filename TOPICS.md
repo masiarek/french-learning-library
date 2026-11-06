@@ -32,6 +32,8 @@
         - [Lesson 4: Chez les Lefèvre](03_Szypowska/lecon_04_chez_les_lefevre/README.md) — the rooms of a flat, the letter c, elision, du, de la, de l', des, a translation into French
         - [Lesson 5: Dialogue](03_Szypowska/lecon_05_dialogue/README.md) — avoir in the present, negative and interrogative, ne … pas de, est-ce que against inversion, liaison between pronoun and verb, mute h, school things
         - [Lesson 6: En visite](03_Szypowska/lecon_06_en_visite/README.md) — a Sunday visit, the numbers six to twelve, the dative with au, à la, à l', aux, adjective agreement, plurals in -eaux, messieurs and mesdames, the article for a kind, inversion after direct speech, flowers
+    - **The Lingoda course** · from [Lingoda](07_Lingoda/README.md)
+        - [A1.1 Vocabulaire](07_Lingoda/a1_1_vocabulaire.html) — every word and phrase of the A1.1 lessons' Vocabulaire pages, the Orientation and chapters 1 to 13, with an example sentence under each, the Au quotidien phrases and the end-of-lesson idioms; the owner's HTML page, kept as it is
     - ↪ [English and French in the IPA](01_Sounds/ipa_english_vs_french/README.md) — the inventory the tables' IPA is checked against
 - **Words**
     - **The thousand words, one page each** · from [1000 words](05_1000_words/README.md) — the chapter page is the index, numbered in order of arrival; the sidebar lists the pages A to Z. A few of them belong to other branches as well:

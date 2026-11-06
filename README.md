@@ -69,6 +69,12 @@ The examples are **stdlib-only, on purpose**. If you have `python3`, you can run
 | [The phrase index](06_Expressions/README.md) | Every phrase so far, numbered in the order it arrived |
 | [J'ai appris la leçon par cœur](06_Expressions/par_coeur/README.md) | *I memorized the lesson*: *apprendre, savoir, connaître par cœur*, the trap *j'ai retenu la leçon*, *cœur* and *chœur* |
 
+[**07_Lingoda/**](07_Lingoda/README.md) — *The Lingoda course, one page per level*
+
+| Page | What it holds |
+|---|---|
+| [A1.1 Vocabulaire](07_Lingoda/a1_1_vocabulaire.html) | Every word and phrase of the A1.1 lessons' Vocabulaire pages, chapter by chapter, in French, IPA and English, with an example sentence under each |
+
 ## Other ways in
 
 - [Topic map](TOPICS.md): every page by subject.
